@@ -1,0 +1,542 @@
+{
+    "sources": {
+        "Top stories": "https://www.ft.com/rss/home/international",
+        "Markets": "https://www.ft.com/markets?format=rss",
+        "Global economy": "https://www.ft.com/global-economy?format=rss"
+    },
+    "model": "ProsusAI/finbert",
+    "fetched_at": "2026-09-30T05:50:52.832204+00:00",
+    "headline_count": 53,
+    "headlines": [
+        {
+            "headline": "White House holds crunch talks on diesel export ban as midterms near",
+            "summary": "Trump at centre of lobbying fight between Big Oil and top Republicans warning of voter anger at high fuel prices",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.836,
+            "signed_score": -0.801
+        },
+        {
+            "headline": "The risks of HSBC’s return to its roots",
+            "summary": "Doubling down on Hong Kong offers a way to capitalise on wealth flowing out of China, but increases the risks of confrontation with Beijing",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:06 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.755,
+            "signed_score": 0.64
+        },
+        {
+            "headline": "Is the world really drowning in debt?",
+            "summary": "We may not be on the eve of disaster but room for manoeuvre is shrinking for major economies",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:25 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.361,
+            "signed_score": -0.03
+        },
+        {
+            "headline": "Luxury watches must win back wrist space",
+            "summary": "The rise of health-tracking rings creates an opportunity for Cartier, Rolex and the like",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/838a6480-9888-4f4a-9d2f-8e02cb3889c9?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:05 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.684,
+            "signed_score": 0.671
+        },
+        {
+            "headline": "AI industry moves to thwart data centre backlash ahead of US midterms",
+            "summary": "AI Infrastructure Coalition, whose members include Google, Meta and Microsoft, unveils commitments to cover energy costs and minimise water usage",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9705f5bf-bc06-481d-b2a3-1299463074b8?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:01:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.738,
+            "signed_score": 0.72
+        },
+        {
+            "headline": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
+            "summary": "President says chief executives have signed a ‘morally binding’ accord after lunch with industry leaders",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 23:13:44 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.816,
+            "signed_score": 0.798
+        },
+        {
+            "headline": "AI-supercharged stock market is world’s worst in third quarter",
+            "summary": "Kospi tumbled almost a fifth in three months to September after July sell-off but is still up 60% this year",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7fb7147a-ec36-4de4-b563-a4ca796fc3b2?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 02:45:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.873,
+            "signed_score": -0.76
+        },
+        {
+            "headline": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+            "summary": "Iran war has exacerbated fiscal pressures on Paris as budget battle looms",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.95
+        },
+        {
+            "headline": "Porsche boss rejects EV sceptic label as ‘unfair’ — just don’t expect an electric 911",
+            "summary": "Michael Leiters says carmaker’s focus on new combustion engine models means a more ‘balanced offer’ of electric and petrol cars",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4fcb2abd-4b5d-47b5-9f7d-acf06798717e?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.552,
+            "signed_score": 0.406
+        },
+        {
+            "headline": "The crucial things Anthropic’s jumbo ‘risk factors’ won’t tell you",
+            "summary": "The real question for those considering buying stock is whether it will make money",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ef6c9b07-0a02-4cb2-aa91-e486846e6ce0?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:25 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.93,
+            "signed_score": 0.006
+        },
+        {
+            "headline": "Fintech Zilch taps banks for IPO next year",
+            "summary": "UK consumer credit company has invited advisers to pitch on a planned listing in London",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7f0d7725-b010-4af1-8fc5-56c88fe5ffc4?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.549,
+            "signed_score": 0.536
+        },
+        {
+            "headline": "EU can’t integrate markets if it dilutes supervision, watchdog warns",
+            "summary": "Esma’s outgoing chair says negotiations over which financial services companies come under its oversight should not undo efforts to bolster European markets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9e374fbf-5bed-4452-8fa1-5f91ff4bd7bc?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.466,
+            "signed_score": -0.132
+        },
+        {
+            "headline": "Time for some DIY LDI",
+            "summary": "The spread between equity and bond valuations has narrowed to the point where government-guaranteed real cash flows can finally be bought at reasonable prices",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bba7bdf5-8a91-4587-85ef-5cc9911259d7",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.539,
+            "signed_score": 0.244
+        },
+        {
+            "headline": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+            "summary": "ChatGPT maker launches new AI personal assistant as it faces challenge from Meta’s Muse",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 21:56:49 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.754,
+            "signed_score": -0.612
+        },
+        {
+            "headline": "Shell-led consortium backs $23bn expansion of LNG Canada project",
+            "summary": "Flagship liquefied natural gas project’s production capacity will double",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/364d5454-876d-42ef-8f30-759e1ebdb026?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 20:42:36 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.911,
+            "signed_score": 0.902
+        },
+        {
+            "headline": "US 30-year Treasury yield hits highest since 2002",
+            "summary": "Government debt extends decline as inflation and surging oil prices weigh on market",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 20:13:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.949
+        },
+        {
+            "headline": "An ode to stock picking",
+            "summary": "Can the dying art of active share investment make a comeback?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/97d0b8b3-86b8-4b2b-b603-f322da9343b4?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 20:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.904,
+            "signed_score": 0.047
+        },
+        {
+            "headline": "Middle Eastern oil exports rise to highest level since Iran war began",
+            "summary": "Shuttle services through Strait of Hormuz have brought shipments to more than 80% of prewar daily average",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/26c54c8c-931c-4d84-9cf3-fd3e9b5e215d?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 16:46:57 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.947,
+            "signed_score": 0.93
+        },
+        {
+            "headline": "Average UK diesel price set to reach £2 a litre within days",
+            "summary": "Fuel predicted to breach ‘psychological price point’ for first time owing to US export threat and disruption to Middle East and Russian supplies",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/807daf90-94e6-40a3-b446-20a4395b42d4?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 12:34:12 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.587,
+            "signed_score": 0.2
+        },
+        {
+            "headline": "Dangote’s $16bn oil refinery blocked by Kenyan court",
+            "summary": "Major industrial project aiming to reduce dependence on imported fuel paused over land dispute",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5bb621fa-2c18-4384-80ab-4a72e51b139a?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 12:14:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.844,
+            "signed_score": -0.817
+        },
+        {
+            "headline": "Apollo and Oaktree sue Patrick Drahi over US telco restructuring",
+            "summary": "Bondholders argue billionaire is liable for ‘brazen’ plan to move Optimum Communications’ most valuable cable TV assets out of reach",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/85de7143-a93b-4dbb-b2f3-856d407ba08f?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 11:42:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
+            "signed_score": -0.907
+        },
+        {
+            "headline": "Smart ring start-up Oura delays IPO",
+            "summary": "Finnish-American company had been seeking a valuation of as much as $14bn",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7ffd0cd4-716f-40f3-976a-62a2e737bb3d?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 11:09:41 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.899,
+            "signed_score": 0.08
+        },
+        {
+            "headline": "Why a UK-backed tungsten mine is supplying the US defence stockpile",
+            "summary": "A recent deal exemplifies the complexities of standing up non-Chinese supply chains for metals used in aerospace and military supply chains",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0cd95b53-4b99-42c9-9b3e-b1074ed88e12?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 11:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.768,
+            "signed_score": 0.201
+        },
+        {
+            "headline": "Who is driving the massive surge in repo borrowing?",
+            "summary": "You can probably guess this one",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/df11786e-4b07-45d6-b8ef-8e74f0d189ad",
+            "published": "Tue, 29 Sep 2026 11:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.886,
+            "signed_score": -0.028
+        },
+        {
+            "headline": "Julius Baer shares hit record high after Swiss regulator ends probe",
+            "summary": "Finma had opened enforcement proceedings over bank’s exposure to Austrian property group Signa",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/dfcb291a-d8e7-441d-9d1f-28106a9749e6?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 08:52:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.878,
+            "signed_score": -0.832
+        },
+        {
+            "headline": "Rethinking the dollar",
+            "summary": "Strong and stable, somewhat surprisingly",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3976a165-960a-4f04-98e4-6c39386ef785?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 05:30:10 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.781,
+            "signed_score": 0.757
+        },
+        {
+            "headline": "Private equity wrestles with its own generational wealth gap",
+            "summary": "Joe Baratta of Blackstone will retire a billionaire, but future up-and-comers will struggle to match his record",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8415255e-3828-4b0b-941b-6415cffbcf28?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 04:00:31 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.634,
+            "signed_score": -0.293
+        },
+        {
+            "headline": "Why a £10bn Monzo takeover could be good for the UK",
+            "summary": "Brazil-based Nubank has considered moving its legal domicile to the City",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f8a5e2b8-33f7-4c83-8ef3-ca91c7fa1df7?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 04:00:31 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.867,
+            "signed_score": 0.106
+        },
+        {
+            "headline": "Bond investors become oil traders as Iran war drives yields",
+            "summary": "Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 04:00:23 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.653,
+            "signed_score": -0.622
+        },
+        {
+            "headline": "European banks launch in-house ETFs to challenge BlackRock and Vanguard",
+            "summary": "Groups launch in-house ETFs to capture retail clients as market booms",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1140b9cc-6e2a-4890-99dc-9aad1326e616?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 04:00:12 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.694,
+            "signed_score": 0.682
+        },
+        {
+            "headline": "FirstFT: US holds crunch talks over diesel export ban",
+            "summary": "Also in today’s newsletter: UK social care shake-up and French credit",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/38edf5d4-31df-4250-a6b7-691b844b22e0?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:40:33 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.862,
+            "signed_score": -0.034
+        },
+        {
+            "headline": "Battery groups push to stick with post-Brexit rules on electric cars",
+            "summary": "Warning over U-turn undermining European investments",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/f72004ae-3a17-459f-a14e-01840c90c6da?syn-25a6b1a6=1",
+            "published": "Wed, 30 Sep 2026 04:00:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.9,
+            "signed_score": -0.875
+        },
+        {
+            "headline": "Breaking a central banking taboo",
+            "summary": "It turns out that monetary policy affects supply as well as demand",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a060e1f6-e669-4657-af63-701053709c2d?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 11:30:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.744,
+            "signed_score": -0.179
+        },
+        {
+            "headline": "FirstFT: Anthropic IPO filing warns of ‘existential risks’",
+            "summary": "Also in today’s newsletter: oil bonds link and Rubio says ‘foreign actor’ behind UK terror plot",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/0e851fbb-f148-46e4-906f-390b38b62a15?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 10:14:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.504,
+            "signed_score": -0.375
+        },
+        {
+            "headline": "Australia raises interest rate to highest level in 15 years",
+            "summary": "RBA governor says Iran war has ‘made people poorer’ as central bank seeks to tackle persistent inflation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/5c1dc583-5c88-4e91-a6b8-b62a6b33f74c?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 07:11:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.813,
+            "signed_score": -0.674
+        },
+        {
+            "headline": "Brussels’ protectionist turn spooks bloc’s free-market stalwarts",
+            "summary": "Also in this newsletter: energy ministers brace for winter",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/27fb5d30-1fb6-4f30-937c-ff5c598eaaa5?syn-25a6b1a6=1",
+            "published": "Tue, 29 Sep 2026 05:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.863,
+            "signed_score": -0.072
+        },
+        {
+            "headline": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
+            "summary": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 21:38:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.624,
+            "signed_score": -0.318
+        },
+        {
+            "headline": "Without a resilient economy, central banks have limited choices",
+            "summary": "Responding to geopolitical or climate-related supply shocks after the fact is never as effective as taking preventive action",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4aa021c0-7ffc-4570-b4ba-2f90c2d24653?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 15:30:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.816,
+            "signed_score": -0.099
+        },
+        {
+            "headline": "The UK ‘aircraft carrier’ launching Chinese cars into the EU",
+            "summary": "Brussels is urging UK tariffs on Chinese electric vehicles, but it might take more than that",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6b216fc2-b2f4-42df-9102-c18476eb74de?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 11:31:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.762,
+            "signed_score": 0.153
+        },
+        {
+            "headline": "FirstFT: Oil price rise puts more pressure on government bonds",
+            "summary": "Also in today’s newsletter: Donald Trump hosts Anthropic chief Dario Amodei at White House dinner and inside the House of Bolsonaro",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 10:27:46 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.885,
+            "signed_score": -0.039
+        },
+        {
+            "headline": "Submit a question: What’s next for the global economy?",
+            "summary": "Economics leader writer Tej Parikh and European economics commentator Martin Sandbu will answer reader questions in a live Q&A on Thursday October 1 at 1pm",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 10:18:46 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.941,
+            "signed_score": 0.015
+        },
+        {
+            "headline": "‘Xi got face’: China relishes equal treatment from Trump",
+            "summary": "Chinese state media hail the respect that US president offered their country’s leader",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 05:55:08 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.699,
+            "signed_score": 0.653
+        },
+        {
+            "headline": "Helen Thompson: “I don’t think we’re ever going back.”",
+            "summary": "Geopolitical phase change",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/5ae5d8d0-f387-46ac-b07b-45cd5b4b6c70?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 05:30:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.881,
+            "signed_score": 0.063
+        },
+        {
+            "headline": "Analysts’ views: forecasters see further insurance increases in 2026",
+            "summary": "Professional forecasters expect rates to rise again this year but remain well behind the tightening markets are pricing in",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c3cebf7d-43fd-4962-b4ec-b55bcbce4c2a",
+            "published": "Mon, 28 Sep 2026 04:30:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.933,
+            "signed_score": 0.894
+        },
+        {
+            "headline": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+            "summary": "Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 04:04:40 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.54,
+            "signed_score": 0.37
+        },
+        {
+            "headline": "For once, the Fed has put Main Street before Wall Street",
+            "summary": "Rather than criticising the central bank’s rate increase, Republicans should be praising Warsh for putting American families first",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
+            "published": "Mon, 28 Sep 2026 04:00:18 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.516,
+            "signed_score": 0.406
+        },
+        {
+            "headline": "Why investors think Panama will overcome Trump threats",
+            "summary": "Central American country’s bonds perform better than many investors expected despite crisis that threatened to hamstring its economy",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b782f295-c8d7-4e72-9987-a24ede2b1fd4?syn-25a6b1a6=1",
+            "published": "Mon, 28 Sep 2026 04:00:10 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.947,
+            "signed_score": 0.913
+        },
+        {
+            "headline": "Burnham’s high-stakes speech unlikely to produce a Clause IV moment",
+            "summary": "UK prime minister addresses his party and the nation, Brazilian presidential elections get under way, US-Canada trade war intensifies",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/48b8a95c-ef76-48a5-8449-0c56865c7e01?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 17:15:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.705,
+            "signed_score": -0.052
+        },
+        {
+            "headline": "The India shock: exporting workers to the world",
+            "summary": "Emigration has helped New Delhi manage its labour surplus, but the strategy has limits",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 11:00:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.773,
+            "signed_score": 0.614
+        },
+        {
+            "headline": "Will US jobs data add to pressure on Fed policymakers?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/08fe7323-5a2f-4d46-ad64-132ce469b381?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 11:00:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.818,
+            "signed_score": -0.127
+        },
+        {
+            "headline": "The EU needs a clearer strategy for partners like Canada",
+            "summary": "Bloc should define what it can offer to prosperous fellow democracies",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/762c1f08-a1bf-4118-8296-52ed96d76fa8?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 10:00:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.733,
+            "signed_score": 0.249
+        },
+        {
+            "headline": "Value of old supertankers soars past new builds as market goes ‘bananas’",
+            "summary": "As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 04:00:20 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.888,
+            "signed_score": -0.003
+        },
+        {
+            "headline": "The UK’s IMF bailout has things to teach us 50 years on",
+            "summary": "A different Healey may be chancellor but he faces a set of parallel challenges",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/8cd07ef8-1578-4697-9f8b-d1a6f5b60883?syn-25a6b1a6=1",
+            "published": "Sun, 27 Sep 2026 04:00:20 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.882,
+            "signed_score": 0.038
+        }
+    ]
+}
