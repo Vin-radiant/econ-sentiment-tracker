@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-07T00:44:14.968778+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-07T06:38:58.285735+00:00",
+    "headline_count": 52,
     "headlines": [
         {
             "headline": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
@@ -19,64 +19,44 @@
             "signed_score": 0.836
         },
         {
-            "headline": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-            "summary": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+            "headline": "Robust AI spending sets investors up for another bumper US earnings season",
+            "summary": "S&P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 20:58:07 GMT",
+            "link": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.95,
+            "signed_score": 0.926
+        },
+        {
+            "headline": "The taxman comes for China’s offshore riches",
+            "summary": "The crackdown has rattled the country’s wealthiest people and the businesses in Hong Kong, Singapore and Tokyo that manage their money",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 02:27:55 GMT",
             "sentiment": "Negative",
-            "confidence": 0.473,
-            "signed_score": -0.054
+            "confidence": 0.959,
+            "signed_score": -0.948
         },
         {
-            "headline": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
-            "summary": "Civil rights veteran says Republicans will ‘reap the reaction’ for redistricting moves ahead of midterm elections",
+            "headline": "What comes next with the energy shock?",
+            "summary": "The disruption to oil supply, oil prices and the world economy has been surprisingly manageable so far",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 21:29:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.46,
-            "signed_score": -0.094
-        },
-        {
-            "headline": "California’s oligarch tax would change America",
-            "summary": "The goal of its framers is political rather than budgetary",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9a46af48-9c69-48bd-a648-2e496486c504?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 11:01:53 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.933,
-            "signed_score": 0.017
-        },
-        {
-            "headline": "Sleep has always been a class issue",
-            "summary": "There is still a class divide when it comes to work that tramples over your body clock",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0b4511be-37a8-4de1-bf7d-1718c1f01351?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 04:00:27 GMT",
+            "link": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:12 GMT",
             "sentiment": "Negative",
-            "confidence": 0.641,
-            "signed_score": -0.622
+            "confidence": 0.894,
+            "signed_score": -0.84
         },
         {
-            "headline": "Goldman Sachs and Man Group exposed in EY data breach",
-            "summary": "Disclosures widen the circle of victims of a hacking incident earlier this year",
+            "headline": "Germany’s spies face a fresh scandal",
+            "summary": "The BND intelligence agency had been seeking a return to the top table. Then prosecutors accused its ex-chief of treachery",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 19:24:22 GMT",
+            "link": "https://www.ft.com/content/0a64ce3b-d56a-4829-948c-4abc4978b1c9?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
             "sentiment": "Negative",
-            "confidence": 0.719,
-            "signed_score": -0.649
-        },
-        {
-            "headline": "Trump says he will speak with Putin about pneumonic plague",
-            "summary": "Washington increases pressure on Moscow to share more about the incident in which one person has died",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 23:18:47 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.768,
-            "signed_score": -0.715
+            "confidence": 0.843,
+            "signed_score": -0.821
         },
         {
             "headline": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
@@ -99,14 +79,114 @@
             "signed_score": -0.953
         },
         {
+            "headline": "Brussels looks to capture Big Tech through tax on large corporations",
+            "summary": "European Commission considers a broad levy on all large companies to avoid singling out US digital services groups",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:13 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.853,
+            "signed_score": 0.102
+        },
+        {
+            "headline": "Goldman Sachs and Man Group exposed in EY data breach",
+            "summary": "Disclosures widen the circle of victims of a hacking incident earlier this year",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 19:24:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.719,
+            "signed_score": -0.649
+        },
+        {
+            "headline": "Trump says he will speak with Putin about pneumonic plague",
+            "summary": "Washington increases pressure on Moscow to share more about the incident in which one person has died",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 05:33:39 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.768,
+            "signed_score": -0.715
+        },
+        {
+            "headline": "Neat tricks to help French bonds",
+            "summary": "And why they won’t work",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/16df642e-dc1a-4d17-8f18-b97f32efc5db?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 05:30:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.904,
+            "signed_score": 0.034
+        },
+        {
+            "headline": "Private equity’s future after the boom and bust",
+            "summary": "The mood in the $22tn private capital industry was captured on Tuesday at the FT’s Private Capital Summit",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/99968044-a1f7-4722-b407-2a7310b27ca9?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.866,
+            "signed_score": 0.099
+        },
+        {
+            "headline": "Blue Owl to launch ‘big push’ into insurance",
+            "summary": "Group at centre of recent private credit turmoil says it is ‘not managing enough capital’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/47c82e53-aa63-4b0d-95fd-ecc04d81e6ab?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.945
+        },
+        {
+            "headline": "African governments launch rating agency to challenge global ‘big three’",
+            "summary": "AfCRA aims to end ‘Africa premium’ that policymakers say has been imposed by Moody’s, S&P Global and Fitch Ratings",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7811d98a-7693-4596-a0f8-7329ed293116?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:13 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.596,
+            "signed_score": 0.369
+        },
+        {
+            "headline": "Aramco weighs its options for Saudi Arabia’s growing gas surplus",
+            "summary": "State-owned group explores exports and ways to raise finance as it assesses how to use gas from giant Jafurah field",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7d14f690-e980-4dd2-87ad-1d28658beb00?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.802,
+            "signed_score": 0.793
+        },
+        {
+            "headline": "How the US financed World War I using Charlie Chaplin and Girl Scouts",
+            "summary": "When the US entered the war in 1917, it faced a massive financial challenge: how to pay for its contribution?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8257827b-e6e5-4e07-9592-9047c894bd09?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.691,
+            "signed_score": -0.213
+        },
+        {
             "headline": "‘Most dangerous product in crypto’ vexes Singapore",
             "summary": "City-state averse to risk and scandal tries to distance itself from homegrown Hyperliquid Labs and its popular ‘perps’",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
             "published": "Tue, 06 Oct 2026 21:00:09 GMT",
             "sentiment": "Negative",
             "confidence": 0.825,
             "signed_score": -0.803
+        },
+        {
+            "headline": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+            "summary": "Wall Street’s benchmark index closes at fresh peak but rally is increasingly reliant on handful of tech stocks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 20:58:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.473,
+            "signed_score": -0.054
         },
         {
             "headline": "There is only one trade",
@@ -239,94 +319,14 @@
             "signed_score": 0.069
         },
         {
-            "headline": "Britain has turned digital ID into a growth industry",
-            "summary": "Start-ups such as Yoti and Luciditi are meeting demand for age and identity verification as the government retreats",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b3034c7f-e660-412b-87a4-a212539edba2?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 04:00:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.839,
-            "signed_score": 0.819
-        },
-        {
-            "headline": "Surge in borrowing costs hits corporate America",
-            "summary": "Sharp sell-off in US Treasury market starts to feed through to junk-rated companies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 04:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.924,
-            "signed_score": -0.889
-        },
-        {
-            "headline": "The bond sell-off comes for corporate America",
-            "summary": "Sharp sell-off in US Treasury market starts to feed through to junk-rated companies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/016e204f-d6d0-4e31-a359-fb23bcb9cf3a?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 04:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.568,
-            "signed_score": -0.441
-        },
-        {
-            "headline": "Ride-hailing apps hit the skids over driver fury",
-            "summary": "Asia’s market leaders Grab and GoTo face squeezed margins over push to offer better deal to workers",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b0c52a17-6fb0-4e81-9539-79366e48ed4e?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 01:35:53 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.948,
-            "signed_score": -0.919
-        },
-        {
-            "headline": "Trump eases red diesel limits in attempt to quell fuel inflation",
-            "summary": "US president announces the move during a trip to the agricultural state of Nebraska",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 00:46:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.467,
-            "signed_score": 0.297
-        },
-        {
-            "headline": "FCA to examine how it treated whistleblower who died by suicide",
-            "summary": "Simon Andriesz revealed alleged wrongdoing at Cantor Fitzgerald-controlled brokerage",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4087c789-a7ed-4365-bd35-9127bc58c3ae?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 23:01:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.543,
-            "signed_score": -0.374
-        },
-        {
-            "headline": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
-            "summary": "Syndication of the massive financing package tests lending appetite amid growing concerns over mounting AI debt",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 20:58:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.939,
-            "signed_score": 0.907
-        },
-        {
-            "headline": "Brazil’s markets surge as investors bet on Bolsonaro win",
-            "summary": "Rightwinger seen as more likely than current president Lula to enact quick spending cuts",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 20:22:18 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.902,
-            "signed_score": 0.857
-        },
-        {
-            "headline": "FirstFT: Crypto company known for risky ‘perps’ vexes Singapore",
-            "summary": "Also in today’s newsletter: Indian protesters demand electoral chief resigns and former German spy chief arrested for treason",
+            "headline": "FirstFT: Brussels explores broad levy targeting revenue from US tech",
+            "summary": "Also in today’s newsletter: Man City’s tax probe and ‘danger money’ for ship captains",
             "section": "Global economy",
             "link": "https://www.ft.com/content/29d249eb-ed06-4ab1-8f17-c11c5589cf74?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 21:35:42 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.851,
-            "signed_score": -0.836
+            "published": "Wed, 07 Oct 2026 04:31:29 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.846,
+            "signed_score": 0.131
         },
         {
             "headline": "Tory plan to rip up UK-EU food deal risks ‘huge uncertainty’",
@@ -527,26 +527,6 @@
             "sentiment": "Positive",
             "confidence": 0.889,
             "signed_score": 0.827
-        },
-        {
-            "headline": "The town where 94% voted for Lula — and some now waver",
-            "summary": "Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1",
-            "published": "Sat, 03 Oct 2026 11:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.954,
-            "signed_score": -0.944
-        },
-        {
-            "headline": "China launches anti-dumping probe into European chemical exports",
-            "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
-            "published": "Sat, 03 Oct 2026 10:16:42 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.669,
-            "signed_score": -0.174
         }
     ]
 }
