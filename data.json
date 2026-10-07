@@ -5,48 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-07T12:41:01.647421+00:00",
-    "headline_count": 50,
+    "fetched_at": "2026-10-07T18:38:09.941898+00:00",
+    "headline_count": 51,
     "headlines": [
         {
-            "headline": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
-            "summary": "French, Italian and UK government bonds also come under pressure in volatile trading",
+            "headline": "SpaceX credit risk jumps on worries over its borrowing spree",
+            "summary": "Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 11:42:07 GMT",
+            "link": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 18:05:37 GMT",
             "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.941
+            "confidence": 0.833,
+            "signed_score": -0.698
         },
         {
-            "headline": "French central bank chief says ECB intervention not needed to ease bond rout",
-            "summary": "Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far-left",
+            "headline": "David Ellison built a Hollywood colossus. Now he needs to run it",
+            "summary": "Media mogul faces a steep challenge after closing his $111bn deal to bring together Paramount and Warner Bros",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 12:19:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.843,
-            "signed_score": -0.792
-        },
-        {
-            "headline": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
-            "summary": "One little cog in the bond market’s feedback machine",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
-            "published": "Wed, 07 Oct 2026 10:20:56 GMT",
+            "link": "https://www.ft.com/content/76adb82b-3181-4d05-a383-a8131bdb19af?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 10:28:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.858,
-            "signed_score": -0.049
-        },
-        {
-            "headline": "The taxman comes for China’s offshore riches",
-            "summary": "The crackdown has rattled the country’s wealthiest people and the businesses in Hong Kong, Singapore and Tokyo that manage their money",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 02:27:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.959,
-            "signed_score": -0.948
+            "confidence": 0.662,
+            "signed_score": -0.074
         },
         {
             "headline": "How much longer can the world absorb the Iran shock?",
@@ -59,84 +39,134 @@
             "signed_score": -0.838
         },
         {
-            "headline": "AI agents could cost banks $500bn — by winning savers better rates",
-            "summary": "But banks will gain from AI as well as lose",
+            "headline": "We need a US debt conversation — will the Republicans have one?",
+            "summary": "Borrowing heavily to finance tax cuts for the wealthy leaves us less prepared for emergencies when they come",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 08:51:55 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.703,
-            "signed_score": 0.685
-        },
-        {
-            "headline": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
-            "summary": "Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 20:00:08 GMT",
+            "link": "https://www.ft.com/content/a52c092f-b93b-472b-8e18-83910c3a6260?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 13:00:04 GMT",
             "sentiment": "Negative",
-            "confidence": 0.595,
-            "signed_score": -0.45
+            "confidence": 0.682,
+            "signed_score": -0.624
         },
         {
-            "headline": "Trump says he is considering suspending federal petrol tax",
-            "summary": "Surging fuel prices are heaping pressure on the president and his Republican Party four weeks ahead of midterm elections",
+            "headline": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
+            "summary": "French, Italian and UK government bonds also come under pressure in volatile trading",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 21:09:16 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.953
-        },
-        {
-            "headline": "Brussels looks to capture Big Tech through tax on large corporations",
-            "summary": "European Commission considers a broad levy on all large companies to avoid singling out US digital services groups",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 04:00:13 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.853,
-            "signed_score": 0.102
-        },
-        {
-            "headline": "Google launches platform to create video games from text prompts",
-            "summary": "Big Tech group partners with gaming tools developer Unity as AI disrupts sector",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0cb02773-d207-4920-8c74-d9707d2622a0?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 12:00:04 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.481,
-            "signed_score": 0.316
-        },
-        {
-            "headline": "Blue Owl to launch ‘big push’ into insurance",
-            "summary": "Group at centre of recent private credit turmoil says it is ‘not managing enough capital’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/47c82e53-aa63-4b0d-95fd-ecc04d81e6ab?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 16:25:16 GMT",
             "sentiment": "Negative",
             "confidence": 0.956,
-            "signed_score": -0.945
+            "signed_score": -0.941
         },
         {
-            "headline": "SpaceX looks to raise $40bn to buy Nvidia chips",
-            "summary": "Blockbuster debt deal is the latest sign of the vast spending on chips and other infrastructure underpinning AI",
+            "headline": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
+            "summary": "One little cog in the bond market’s feedback machine",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 22:28:55 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.868,
-            "signed_score": 0.855
+            "link": "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
+            "published": "Wed, 07 Oct 2026 10:20:56 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.858,
+            "signed_score": -0.049
         },
         {
-            "headline": "Robust AI spending sets investors up for another bumper US earnings season",
-            "summary": "S&P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs",
+            "headline": "China slaps down EU request for voluntary curbs on hybrid car exports",
+            "summary": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 16:56:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.941,
+            "signed_score": -0.927
+        },
+        {
+            "headline": "US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz",
+            "summary": "American security push aims to spur Asian refining as diesel shortages stoke inflation",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 15:00:05 GMT",
             "sentiment": "Positive",
-            "confidence": 0.95,
-            "signed_score": 0.926
+            "confidence": 0.896,
+            "signed_score": 0.848
+        },
+        {
+            "headline": "Houthi rebels target Riyadh and Aden in new missile barrage",
+            "summary": "Assault comes days after government forces announced major offensive to reclaim strategic Bab al-Mandab waterway",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6a2dc960-c9fd-4795-b5ea-78f9bb77309d?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 12:46:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.493,
+            "signed_score": -0.233
+        },
+        {
+            "headline": "Kirkland & Ellis to stop disclosing financial performance",
+            "summary": "World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7380c978-9b65-4a07-8ce3-bdf88f2484d1?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 17:30:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.66,
+            "signed_score": 0.226
+        },
+        {
+            "headline": "US government bonds steady after strong 10-year Treasury auction",
+            "summary": "French, Italian and UK government bonds under pressure in volatile trading",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 18:28:10 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.75,
+            "signed_score": -0.549
+        },
+        {
+            "headline": "London hedge fund Arini falls 16 per cent on soured credit bets",
+            "summary": "Flagship strategy raised $1.5bn in recent weeks after suffering three consecutive months of losses",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b52c8acc-7ea5-4bd0-b26a-b9956e19867b?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 17:33:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.959,
+            "signed_score": -0.929
+        },
+        {
+            "headline": "SEC warns asset managers against collaborating on activist campaigns",
+            "summary": "US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/20557850-9cd1-4685-8238-f292023afc1f?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 17:07:33 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.842,
+            "signed_score": -0.802
+        },
+        {
+            "headline": "London gold market body accused of causing deaths of two miners",
+            "summary": "High Court trial began on Wednesday and has implications for centuries-old market and for certification schemes in metals, garments and agriculture sectors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8b9709f4-fc67-488d-ace6-8a5e2bcb775b?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 16:53:14 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.639,
+            "signed_score": -0.255
+        },
+        {
+            "headline": "Australian court ruling on climate impact of coal mining a ‘blow’, says industry",
+            "summary": "Verdict is latest in a series of legal cases to examine the relationship between fossil fuel producers and global warming",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/870ed142-0418-4685-9347-d8c0caacdc58?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 15:59:44 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.753,
+            "signed_score": -0.123
+        },
+        {
+            "headline": "Ex-Barclays traders’ rate-rigging convictions quashed",
+            "summary": "Court of Appeal ruling comes after Tom Hayes’s guilty verdict was overturned last year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9c61d1a4-c982-41d5-a96e-f06df406c7e9?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 13:03:54 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.804,
+            "signed_score": -0.726
         },
         {
             "headline": "Submit a question: What is driving the global bond sell-off?",
@@ -199,6 +229,26 @@
             "signed_score": 0.099
         },
         {
+            "headline": "Robust AI spending sets investors up for another bumper US earnings season",
+            "summary": "S&P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.95,
+            "signed_score": 0.926
+        },
+        {
+            "headline": "Blue Owl to launch ‘big push’ into insurance",
+            "summary": "Group at centre of recent private credit turmoil says it is ‘not managing enough capital’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/47c82e53-aa63-4b0d-95fd-ecc04d81e6ab?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.945
+        },
+        {
             "headline": "African governments launch rating agency to challenge global ‘big three’",
             "summary": "AfCRA aims to end ‘Africa premium’ that policymakers say has been imposed by Moody’s, S&P Global and Fitch Ratings",
             "section": "Markets",
@@ -229,6 +279,16 @@
             "signed_score": -0.213
         },
         {
+            "headline": "Trump says he is considering suspending federal petrol tax",
+            "summary": "Surging fuel prices are heaping pressure on the president and his Republican Party four weeks ahead of midterm elections",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 21:09:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.962,
+            "signed_score": -0.953
+        },
+        {
             "headline": "‘Most dangerous product in crypto’ vexes Singapore",
             "summary": "City-state averse to risk and scandal tries to distance itself from homegrown Hyperliquid Labs and its popular ‘perps’",
             "section": "Markets",
@@ -249,84 +309,24 @@
             "signed_score": -0.054
         },
         {
-            "headline": "There is only one trade",
-            "summary": "Has every market become a bet on the AI boom?",
+            "headline": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+            "summary": "Salaries and bonuses spiral for seafarers willing to risk perilous trip through waterway in face of Iranian attacks",
             "section": "Markets",
-            "link": "https://www.ft.com/content/6d06a6b2-ea2f-4384-959d-682ce78a1693?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.81,
-            "signed_score": -0.131
-        },
-        {
-            "headline": "ExxonMobil looks to offshore projects in Trinidad and Tobago for next boom",
-            "summary": "US oil major aims to replicate its success in Guyana with further Caribbean drilling",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/211b69e4-ae2f-4323-bc31-e07fc1560581?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 17:36:00 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.924,
-            "signed_score": 0.913
-        },
-        {
-            "headline": "Ion tells creditors it won’t play hardball on $11bn debt pile",
-            "summary": "Data group behind Mergermarket and Dealogic that has made billionaire owner one of Italy’s richest men says it aims to pay back lenders in full",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/fba91434-70d3-40e6-adb1-8d0c5d6f4fe6?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 15:48:41 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.754,
-            "signed_score": 0.716
-        },
-        {
-            "headline": "The bond market turns on France",
-            "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 14:00:17 GMT",
+            "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 20:00:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.952
+            "confidence": 0.595,
+            "signed_score": -0.45
         },
         {
-            "headline": "Would you buy a Yankees ETF?",
-            "summary": "Everything is gambling these days",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2387b6dc-2fe9-4699-b076-57ec2ee68117",
-            "published": "Tue, 06 Oct 2026 13:56:00 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.933,
-            "signed_score": 0.013
-        },
-        {
-            "headline": "McKesson and CD&R strike $5.8bn deal to buy infusion services provider",
-            "summary": "Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 13:52:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.693,
-            "signed_score": 0.264
-        },
-        {
-            "headline": "Vitol chief warns of tanker shortage and risk of $200-a-barrel oil",
-            "summary": "Head of world’s largest independent oil trader says shipping squeeze is creating new bottleneck despite increased Gulf flows",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 13:39:08 GMT",
+            "headline": "French central bank chief says ECB intervention not needed to ease bond rout",
+            "summary": "Emmanuel Moulin also hit out at ‘Trump-style’ threats against him from the far left",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 17:03:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.948
-        },
-        {
-            "headline": "Why are bond yields so high?",
-            "summary": "An attempt to shed some light on the big question of 2026",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 11:30:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.865,
-            "signed_score": 0.082
+            "confidence": 0.823,
+            "signed_score": -0.766
         },
         {
             "headline": "Germany blocks Chinese acquisition in its largest seaport",
@@ -379,6 +379,16 @@
             "signed_score": 0.84
         },
         {
+            "headline": "Brussels looks to capture Big Tech through tax on large corporations",
+            "summary": "European Commission considers a broad levy on all large companies to avoid singling out US digital services groups",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b?syn-25a6b1a6=1",
+            "published": "Wed, 07 Oct 2026 04:00:13 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.853,
+            "signed_score": 0.102
+        },
+        {
             "headline": "Tory plan to rip up UK-EU food deal risks ‘huge uncertainty’",
             "summary": "Food and drink industry fears it may be forced to comply with different regulatory regimes every few years",
             "section": "Global economy",
@@ -397,6 +407,26 @@
             "sentiment": "Negative",
             "confidence": 0.962,
             "signed_score": -0.939
+        },
+        {
+            "headline": "The bond market turns on France",
+            "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 14:00:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.952
+        },
+        {
+            "headline": "Why are bond yields so high?",
+            "summary": "An attempt to shed some light on the big question of 2026",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa?syn-25a6b1a6=1",
+            "published": "Tue, 06 Oct 2026 11:30:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.865,
+            "signed_score": 0.082
         },
         {
             "headline": "FirstFT: Le Pen lays out economic plan for France",
@@ -487,26 +517,6 @@
             "sentiment": "Negative",
             "confidence": 0.844,
             "signed_score": -0.826
-        },
-        {
-            "headline": "UK business secretary weighs up tariffs on Chinese EVs",
-            "summary": "Jonathan Reynolds authorises officials to draw up package of potential levies that could be imposed",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/0f48c61b-a490-4bdc-8473-bab6705e5b61?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 10:03:14 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.723,
-            "signed_score": -0.118
-        },
-        {
-            "headline": "A Chinese billionaire reckons with the limits of building AI across borders",
-            "summary": "One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 10:00:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.586,
-            "signed_score": -0.178
         }
     ]
 }
