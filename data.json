@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-08T06:41:12.037064+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-08T12:41:43.286675+00:00",
+    "headline_count": 51,
     "headlines": [
         {
             "headline": "China races to build data centres in bid for AI supremacy",
@@ -49,14 +49,14 @@
             "signed_score": -0.655
         },
         {
-            "headline": "Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off",
+            "headline": "French bond sell-off prompts ‘bottom fishing’ across Europe",
             "summary": "Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say",
             "section": "Top stories",
             "link": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
             "published": "Thu, 08 Oct 2026 04:00:26 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.937
+            "confidence": 0.953,
+            "signed_score": -0.934
         },
         {
             "headline": "Trump considers ‘terminating’ campaign advisers after Balkans trip",
@@ -69,24 +69,64 @@
             "signed_score": -0.917
         },
         {
-            "headline": "Oil majors look beyond Middle East war in pursuit of region’s vast reserves",
-            "summary": "Western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with Iran",
+            "headline": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz",
+            "summary": "Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3534cf93-be7b-49ec-bf58-cea84e73cb28?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.625,
-            "signed_score": 0.609
+            "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 11:20:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.94
         },
         {
-            "headline": "Back me or face crisis, Meloni warns ahead of secret vote over electoral overhaul",
-            "summary": "Italian prime minister has threatened to resign if wary lawmakers reject her fiercely contested redesign of the country’s voting system in a secret ballot",
+            "headline": "Houthi attacks on Saudi airports kill 3 people",
+            "summary": "Strikes are latest escalation in conflict between Riyadh and Iran-backed militants in Yemen",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ba171091-839a-4d78-86af-8e93a7013d6c?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:26 GMT",
+            "link": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 09:44:41 GMT",
             "sentiment": "Negative",
-            "confidence": 0.911,
-            "signed_score": -0.897
+            "confidence": 0.924,
+            "signed_score": -0.911
+        },
+        {
+            "headline": "Germany’s ex-spymaster admits holding files but denies treason",
+            "summary": "August Hanning’s lawyer says his client was ‘in possession’ of confidential documents but never paid for them or passed them on to foreign powers",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/572b899b-0e36-4a90-aadc-776818e339c3?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 08:56:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.622,
+            "signed_score": -0.291
+        },
+        {
+            "headline": "Live Q&A: What is driving the global bond sell-off? Submit a question",
+            "summary": "Alphaville editor Robin Wigglesworth and senior markets correspondent Ian Smith are answering reader questions in a live Q&A now",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d51a78a8-67d8-45bd-b32c-1eafe39a0794?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 12:01:14 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.929,
+            "signed_score": -0.026
+        },
+        {
+            "headline": "Houston start-up aims to loosen China’s grip on critical metal",
+            "summary": "Hertha Metals has developed a way to produce high-purity iron needed for rare earth magnets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 11:00:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.734,
+            "signed_score": 0.724
+        },
+        {
+            "headline": "US critical minerals stockpile risks driving up prices, defence groups warn",
+            "summary": "Industry urges Washington to ‘proceed with caution’ as competition for scarce materials intensifies",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/dbd6e14c-2d47-4f6b-9981-98a42e172097?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 09:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.879,
+            "signed_score": -0.793
         },
         {
             "headline": "Tips and Linkers",
@@ -117,6 +157,16 @@
             "sentiment": "Negative",
             "confidence": 0.901,
             "signed_score": -0.827
+        },
+        {
+            "headline": "Oil majors target Middle East despite war disruption",
+            "summary": "Western groups seek new investment opportunities despite chaos and heightened risks caused by conflict with Iran",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3534cf93-be7b-49ec-bf58-cea84e73cb28?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 04:00:26 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.896,
+            "signed_score": 0.873
         },
         {
             "headline": "What is the real price of oil any more?",
@@ -269,44 +319,44 @@
             "signed_score": -0.726
         },
         {
-            "headline": "Submit a question: What is driving the global bond sell-off?",
-            "summary": "Alphaville editor Robin Wigglesworth and senior markets correspondent Ian Smith will answer reader questions in a live Q&A on Thursday October 8, at 1pm",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d51a78a8-67d8-45bd-b32c-1eafe39a0794?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 11:26:26 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.936,
-            "signed_score": -0.024
+            "headline": "EU envoy lands in China for last-ditch talks over car exports",
+            "summary": "Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 12:08:29 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.972,
+            "signed_score": -0.962
         },
         {
-            "headline": "Ineos arm’s oil and gas earnings offset chemicals downturn",
-            "summary": "Division of Jim Ratcliffe’s conglomerate posts loss of €2.2bn last year",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b4896507-e830-44b4-a402-52a980c912aa?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 10:41:38 GMT",
+            "headline": "Germany heads for fastest growth since 2022",
+            "summary": "Government updates GDP forecast as exports and debt-funded spending spree help end years of stagnation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/e160b16c-6c39-47fd-9e6c-98a8d6b81eed?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 10:15:29 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.85,
+            "signed_score": 0.734
+        },
+        {
+            "headline": "FirstFT: How hedge funds became Wall Street banks’ cash cow",
+            "summary": "Also in today’s newsletter: Trump distances himself from two advisers and why people choose not to have children",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/5539d473-604b-42b3-ba6d-0dbb3353957b?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 10:06:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.922,
+            "signed_score": -0.022
+        },
+        {
+            "headline": "Irate farmers should not limit the EU’s geopolitical ambitions",
+            "summary": "Resistance to Ukraine’s agricultural exports is undermining the bloc’s influence",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4bfd5cc1-b330-42f1-9906-e6932a92932a?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 10:00:02 GMT",
             "sentiment": "Negative",
-            "confidence": 0.923,
+            "confidence": 0.909,
             "signed_score": -0.888
-        },
-        {
-            "headline": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
-            "summary": "One little cog in the bond market’s feedback machine",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
-            "published": "Wed, 07 Oct 2026 10:20:56 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.858,
-            "signed_score": -0.049
-        },
-        {
-            "headline": "Japan to slash hundreds of stocks from Topix index in record revamp",
-            "summary": "Move set to leave benchmark with under 1,000 constituents",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/84d9a203-7231-452d-846b-8e502ca2e2a5?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 08:15:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.952
         },
         {
             "headline": "Šefčovič goes to Beijing with a final plea to avoid an EU-China trade war",
@@ -317,26 +367,6 @@
             "sentiment": "Neutral",
             "confidence": 0.871,
             "signed_score": 0.096
-        },
-        {
-            "headline": "EU envoy lands in China for last-ditch talks over car exports",
-            "summary": "Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:37:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.962
-        },
-        {
-            "headline": "FirstFT: Iran war wipes £12bn from UK public finances",
-            "summary": "Also in today’s newsletter: China-EU trade and UK mortgage rates",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/5539d473-604b-42b3-ba6d-0dbb3353957b?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:31:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.521,
-            "signed_score": -0.441
         },
         {
             "headline": "The race for Britain’s car market is wide open — for now",
@@ -350,13 +380,13 @@
         },
         {
             "headline": "Higher mortgage rates inflict ‘pain’ on UK housing market",
-            "summary": "Slowdown comes as higher borrowing costs and economic uncertainty are damping buyer demand, survey finds",
+            "summary": "Slowdown comes as higher borrowing costs and economic uncertainty damp buyer demand, survey finds",
             "section": "Global economy",
             "link": "https://www.ft.com/content/8d1cb8e2-ed48-4d7c-ac19-2693973894b4?syn-25a6b1a6=1",
             "published": "Wed, 07 Oct 2026 23:01:03 GMT",
             "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.952
+            "confidence": 0.963,
+            "signed_score": -0.945
         },
         {
             "headline": "Fed minutes indicate broad agreement for another rate rise this year",
@@ -487,56 +517,6 @@
             "sentiment": "Negative",
             "confidence": 0.962,
             "signed_score": -0.939
-        },
-        {
-            "headline": "The bond market turns on France",
-            "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 14:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.952
-        },
-        {
-            "headline": "Why are bond yields so high?",
-            "summary": "An attempt to shed some light on the big question of 2026",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/a6161dfd-bfb9-4bf5-866f-1ca0a0c8e6aa?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 11:30:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.865,
-            "signed_score": 0.082
-        },
-        {
-            "headline": "FirstFT: Le Pen lays out economic plan for France",
-            "summary": "Also in today’s newsletter: Brazil’s stock market surges and Trump eases limits on use of red diesel",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/1d152b5b-decb-41c3-a197-8de1d1ca26fc?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 09:55:57 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.491,
-            "signed_score": 0.456
-        },
-        {
-            "headline": "Germany’s pivot on China trade is a long time coming for other EU capitals",
-            "summary": "Also in this newsletter: Moldova’s PM urges Brussels to keep enlargement window ‘open’",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/8a6b5b97-5fed-4013-804b-c631863010db?syn-25a6b1a6=1",
-            "published": "Tue, 06 Oct 2026 05:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.628,
-            "signed_score": 0.298
-        },
-        {
-            "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
-            "summary": "The FT is tracking changes to the cost of living that will affect American voters",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-            "published": "Mon, 05 Oct 2026 21:56:39 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.901,
-            "signed_score": -0.054
         }
     ]
 }
