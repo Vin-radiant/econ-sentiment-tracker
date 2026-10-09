@@ -5,9 +5,19 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-09T00:45:50.650386+00:00",
-    "headline_count": 49,
+    "fetched_at": "2026-10-09T06:40:56.896809+00:00",
+    "headline_count": 50,
     "headlines": [
+        {
+            "headline": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+            "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:30:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.806,
+            "signed_score": 0.797
+        },
         {
             "headline": "OpenAI annualised revenues $20bn less than previously signalled",
             "summary": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported",
@@ -19,84 +29,74 @@
             "signed_score": -0.86
         },
         {
-            "headline": "Is Trump losing the rust belt?",
-            "summary": "Donald Trump’s Republicans try to hold their gains in America’s industrial heartland",
+            "headline": "Manchester City: too big to fail?",
+            "summary": "The sport is still shaped by the club’s acquisition in 2008",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e86d2bf9-100f-4722-b845-c3b46d94866b?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:07 GMT",
+            "link": "https://www.ft.com/content/bae7f43f-8954-45eb-a470-2cd7fb21a94b?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.36,
-            "signed_score": 0.047
+            "confidence": 0.918,
+            "signed_score": 0.028
         },
         {
-            "headline": "Repeated US Treasury interventions risk an erosion of credibility",
-            "summary": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
+            "headline": "Some much-needed American optimism on Europe",
+            "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 14:30:04 GMT",
+            "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.945
+            "confidence": 0.741,
+            "signed_score": -0.621
         },
         {
-            "headline": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
-            "summary": "Banks’ trading businesses are booming, but post-crisis regulation means it is no longer them placing the bets",
+            "headline": "Five ways to tell if market trouble lies ahead",
+            "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:09 GMT",
+            "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.889,
-            "signed_score": -0.022
+            "confidence": 0.615,
+            "signed_score": -0.269
         },
         {
-            "headline": "US justice department orders playbook refresh for frauds on government",
-            "summary": "Prosecutors told to deploy full range of powers to claw back funds and seek stiffer sentences",
+            "headline": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+            "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/dbcc35ba-db23-4be3-b2c0-4a0d8ecb7375?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 20:35:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.782,
-            "signed_score": -0.715
-        },
-        {
-            "headline": "Microsoft banned from sponsoring foreign workers for US residency",
-            "summary": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 19:45:47 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.893,
-            "signed_score": -0.877
-        },
-        {
-            "headline": "Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska",
-            "summary": "Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 15:17:53 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.927,
-            "signed_score": -0.025
-        },
-        {
-            "headline": "Amex fined $350mn for failing to flag suspected money laundering",
-            "summary": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 22:03:23 GMT",
+            "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:31 GMT",
             "sentiment": "Negative",
             "confidence": 0.96,
-            "signed_score": -0.946
+            "signed_score": -0.932
         },
         {
-            "headline": "US to publicly execute former soldier by firing squad",
+            "headline": "Famous Italian winery loses 30,000 bottles worth €5mn in heist",
+            "summary": "Antinori says it hopes to ‘protect the market’ by alerting potential buyers",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1b614d60-a5d3-4b9f-b3e8-63f51bdfd599?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.937,
+            "signed_score": -0.91
+        },
+        {
+            "headline": "Syria funnels assets from Assad cronies into secretive $50bn fund",
+            "summary": "The Syrian Sovereign Fund has taken control of a sprawling web of holdings and is seeking to entice Gulf investors",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7dd72c96-70dc-4d91-ad1c-eff13a54d6c5?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.737,
+            "signed_score": 0.238
+        },
+        {
+            "headline": "Pentagon to livestream execution of former soldier by firing squad",
             "summary": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
             "section": "Top stories",
             "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
             "published": "Thu, 08 Oct 2026 22:28:10 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.798,
-            "signed_score": -0.111
+            "confidence": 0.729,
+            "signed_score": -0.197
         },
         {
             "headline": "Trump says US ‘will not be attacking Iran’ before midterm elections",
@@ -107,6 +107,86 @@
             "sentiment": "Neutral",
             "confidence": 0.507,
             "signed_score": 0.423
+        },
+        {
+            "headline": "The energy crisis is changing what investors want from oil majors",
+            "summary": "Iran conflict has snarled up usually free-flowing energy markets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.587,
+            "signed_score": -0.537
+        },
+        {
+            "headline": "Kremlin-backed money launderer used London fintech to make payments",
+            "summary": "Forged invoice suggested FCA-registered company was supplying A7 network with ‘cashmere sewing fabric’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1273931a-238d-45a9-85b3-5c847e79b5ea?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.914,
+            "signed_score": 0.041
+        },
+        {
+            "headline": "Institutional investors challenge PE fund model with direct deals",
+            "summary": "Investments alongside asset managers rather than through traditional vehicles doubled to a record $198bn in the first half of the year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/2f320dca-b1a0-4451-ab8f-73640edd06c0?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:21 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.846,
+            "signed_score": 0.837
+        },
+        {
+            "headline": "Crypto companies linked to Trump-backed firm in $141mn legal battle",
+            "summary": "DWF’s claim that BitGo breached contract sheds light on controversial private coin deals common in digital assets sector",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e08fbdee-8268-4eb8-99b4-5f7089749d59?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.883,
+            "signed_score": -0.848
+        },
+        {
+            "headline": "Asset management hirers seek personality and skills",
+            "summary": "As roles diversify, employers are casting their nets wider as they assess first-time applicants",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c5a56603-be96-41bc-a00f-562f0407bedd?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.766,
+            "signed_score": 0.096
+        },
+        {
+            "headline": "SoftBank wants Gulf money to expand AI bet",
+            "summary": "Masayoshi Son has held talks with investors in UAE in recent weeks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f9b00f7e-874a-44f5-9344-6fc262fa90bc?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:00 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.772,
+            "signed_score": 0.765
+        },
+        {
+            "headline": "Australian data centre operator pulls $5bn IPO",
+            "summary": "Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent market volatility and prevailing market conditions’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 03:11:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.947,
+            "signed_score": -0.937
+        },
+        {
+            "headline": "Amex fined $350mn for failing to flag suspected money laundering",
+            "summary": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 22:03:23 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.946
         },
         {
             "headline": "Is France too blasé about borrowing costs?",
@@ -147,6 +227,16 @@
             "sentiment": "Negative",
             "confidence": 0.953,
             "signed_score": -0.934
+        },
+        {
+            "headline": "Repeated US Treasury interventions risk an erosion of credibility",
+            "summary": "A key policy tool to stabilise stress in markets could turn into a source of moral hazard and deeper volatility",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 14:30:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.955,
+            "signed_score": -0.945
         },
         {
             "headline": "UK investors face three-month wait to recoup money from property funds",
@@ -229,94 +319,24 @@
             "signed_score": -0.844
         },
         {
-            "headline": "Wise to pay customers’ tax bills after errors",
-            "summary": "Fintech seeks deal with HMRC after software miscalculated about 4,000 users’ investment gains",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/681bea76-370b-4cbe-b1aa-239946ae6e4d?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.901,
-            "signed_score": -0.827
-        },
-        {
-            "headline": "Oil majors target Middle East despite war disruption",
-            "summary": "Western groups seek new investment opportunities despite chaos and heightened risks caused by conflict with Iran",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3534cf93-be7b-49ec-bf58-cea84e73cb28?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.896,
-            "signed_score": 0.873
-        },
-        {
-            "headline": "What is the real price of oil?",
-            "summary": "Crude futures are no longer a reliable guide to the inflationary impact of fuel prices",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5cad1f95-b06d-4ee1-b1c7-0244999337d4?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:16 GMT",
+            "headline": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
+            "summary": "Also in today’s newsletter: Maersk’s shopping spree and UBS’s options",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:34:58 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.637,
-            "signed_score": -0.305
+            "confidence": 0.9,
+            "signed_score": 0.066
         },
         {
-            "headline": "Japan’s small-cap cull is an opportunity for AI funds",
-            "summary": "Finding needles amid haystacks is a task for AI",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/70b7333c-f746-462f-a973-30a999403b15?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:16 GMT",
+            "headline": "The EU vs China: it’s complicated. With Bernd Lange",
+            "summary": "Is it wise for the bloc to be picking a trade fight with Beijing?",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/8e499cac-798b-43ca-a614-08ae5e202372?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:00 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.814,
-            "signed_score": -0.093
-        },
-        {
-            "headline": "World’s worst performing market must be ‘obviously more transparent’, wealth fund admits",
-            "summary": "Danantara’s chief investment officer says domestic institutions will support market that has been the world’s worst performer this year",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2bded9a6-ca6b-48ab-b29b-ee5b522bfe47?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:07 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.747,
-            "signed_score": 0.737
-        },
-        {
-            "headline": "Oil companies are full speed ahead in the Middle East",
-            "summary": "Western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with Iran",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6b7e335c-1ce9-48fa-87b0-d5fb91f00135?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 04:00:00 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.826,
-            "signed_score": 0.812
-        },
-        {
-            "headline": "IMF’s Georgieva urges governments to rein in spending",
-            "summary": "Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7eb5da58-d909-4cec-9a30-1c6ec8ffb0a6?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 00:34:37 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.526,
-            "signed_score": 0.232
-        },
-        {
-            "headline": "AI upends Singapore’s ‘quant Olympics’",
-            "summary": "Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ec8b74b6-0cf7-4ded-abd4-85bde8a80df4?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 21:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.817,
-            "signed_score": 0.157
-        },
-        {
-            "headline": "US government bonds steady after strong 10-year Treasury auction",
-            "summary": "French, Italian and UK government bonds under pressure in volatile trading",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 19:58:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.75,
-            "signed_score": -0.549
+            "confidence": 0.716,
+            "signed_score": -0.165
         },
         {
             "headline": "ECB minutes reflect cooler appetite for additional rate rises in September",
@@ -387,6 +407,16 @@
             "sentiment": "Neutral",
             "confidence": 0.827,
             "signed_score": -0.072
+        },
+        {
+            "headline": "IMF’s Georgieva urges governments to rein in spending",
+            "summary": "Fund’s managing director says officials face ‘very tough political choices’ as they seek to combat soaring bond yields",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7eb5da58-d909-4cec-9a30-1c6ec8ffb0a6?syn-25a6b1a6=1",
+            "published": "Thu, 08 Oct 2026 00:34:37 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.526,
+            "signed_score": 0.232
         },
         {
             "headline": "Higher mortgage rates inflict ‘pain’ on UK housing market",
@@ -477,26 +507,6 @@
             "sentiment": "Positive",
             "confidence": 0.921,
             "signed_score": 0.862
-        },
-        {
-            "headline": "India raises interest rates for first time in 3 years",
-            "summary": "RBI points to higher inflation and energy costs as it shifts to ‘tightening’ outlook",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/713ccee6-855f-48d8-acf1-161265041ad8?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 07:04:34 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.881,
-            "signed_score": 0.84
-        },
-        {
-            "headline": "Neat tricks to help French bonds",
-            "summary": "And why they won’t work",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/16df642e-dc1a-4d17-8f18-b97f32efc5db?syn-25a6b1a6=1",
-            "published": "Wed, 07 Oct 2026 05:30:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.904,
-            "signed_score": 0.034
         }
     ]
 }
