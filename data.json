@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-10T12:37:14.754449+00:00",
+    "fetched_at": "2026-10-10T18:34:43.827821+00:00",
     "headline_count": 58,
     "headlines": [
         {
-            "headline": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-            "summary": "Donald Trump’s administration delivered threat after Volodymyr Zelenskyy criticised diesel deal with Moscow",
+            "headline": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 12:34:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.921,
-            "signed_score": -0.885
+            "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 18:14:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.847,
+            "signed_score": 0.839
         },
         {
-            "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
-            "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
+            "headline": "AI borrowing slows as investors grow wary of debt binge",
+            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 04:00:38 GMT",
+            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.861,
-            "signed_score": -0.833
+            "confidence": 0.826,
+            "signed_score": -0.677
         },
         {
             "headline": "Napa Valley’s hangover",
@@ -49,24 +49,44 @@
             "signed_score": -0.821
         },
         {
-            "headline": "The world of one trade — AI",
-            "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
+            "headline": "Nixonmaxxing: the strange revival of America’s disgraced president",
+            "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 06:36:04 GMT",
+            "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 10:00:07 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.753,
+            "signed_score": -0.118
+        },
+        {
+            "headline": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+            "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 17:42:28 GMT",
             "sentiment": "Negative",
-            "confidence": 0.915,
-            "signed_score": -0.903
+            "confidence": 0.869,
+            "signed_score": -0.855
+        },
+        {
+            "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
+            "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:38 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.861,
+            "signed_score": -0.833
         },
         {
             "headline": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
-            "summary": "Abhijeet Dipke was escorted off a flight as authorities crack down on demonstrations in New Delhi",
+            "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
             "section": "Top stories",
             "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 12:19:18 GMT",
+            "published": "Sat, 10 Oct 2026 16:07:40 GMT",
             "sentiment": "Negative",
-            "confidence": 0.806,
-            "signed_score": -0.77
+            "confidence": 0.797,
+            "signed_score": -0.758
         },
         {
             "headline": "India’s central bank tries to shore up rupee as it nears record lows",
@@ -77,16 +97,6 @@
             "sentiment": "Negative",
             "confidence": 0.966,
             "signed_score": -0.954
-        },
-        {
-            "headline": "AI borrowing slows as investors grow wary of debt binge",
-            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.826,
-            "signed_score": -0.677
         },
         {
             "headline": "Saudi flagship summits under pressure after deadly airport attacks",
@@ -119,24 +129,14 @@
             "signed_score": 0.744
         },
         {
-            "headline": "China and EU avert trade conflict with ‘understanding’ on hybrid cars",
-            "summary": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 15:41:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.793,
-            "signed_score": -0.642
-        },
-        {
-            "headline": "Oil and gas production disrupted and power outages as Hurricane Isaias hits",
-            "summary": "Power outages across as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia",
+            "headline": "Oil and gas production disrupted as Hurricane Isaias hits US",
+            "summary": "More than 800,000 households were left without power as the first major Atlantic storm of the season swept Florida, Alabama and Georgia",
             "section": "Markets",
             "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
             "published": "Sat, 10 Oct 2026 10:58:00 GMT",
             "sentiment": "Negative",
-            "confidence": 0.964,
-            "signed_score": -0.953
+            "confidence": 0.958,
+            "signed_score": -0.951
         },
         {
             "headline": "The US productivity-pay gap",
@@ -147,6 +147,16 @@
             "sentiment": "Negative",
             "confidence": 0.884,
             "signed_score": -0.861
+        },
+        {
+            "headline": "The world of one trade — AI",
+            "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 06:36:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.915,
+            "signed_score": -0.903
         },
         {
             "headline": "Slowing deals are another flashing red sign for equity markets",
@@ -349,26 +359,6 @@
             "signed_score": 0.837
         },
         {
-            "headline": "Crypto companies linked to Trump-backed firm in $141mn legal battle",
-            "summary": "DWF’s claim that BitGo breached contract sheds light on controversial private coin deals common in digital assets sector",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e08fbdee-8268-4eb8-99b4-5f7089749d59?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.883,
-            "signed_score": -0.848
-        },
-        {
-            "headline": "Asset management hirers seek personality and skills",
-            "summary": "As roles diversify, employers are casting their nets wider as they assess first-time applicants",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c5a56603-be96-41bc-a00f-562f0407bedd?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.766,
-            "signed_score": 0.096
-        },
-        {
             "headline": "Bessent to miss IMF annual meetings in Bangkok",
             "summary": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
             "section": "Global economy",
@@ -387,6 +377,16 @@
             "sentiment": "Positive",
             "confidence": 0.781,
             "signed_score": 0.771
+        },
+        {
+            "headline": "China and EU avert trade conflict with ‘understanding’ on hybrid cars",
+            "summary": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 15:41:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.793,
+            "signed_score": -0.642
         },
         {
             "headline": "Submit your questions: who’s doing better in their trade battles with China — the EU or the US?",
