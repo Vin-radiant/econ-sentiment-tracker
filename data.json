@@ -5,118 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-10T00:43:58.893888+00:00",
+    "fetched_at": "2026-10-10T06:37:57.328304+00:00",
     "headline_count": 55,
     "headlines": [
         {
             "headline": "Trump agrees deal with Putin for Russia to release diesel",
-            "summary": "Pact between Washington and Moscow comes just weeks before critical midterm elections in the US",
+            "summary": "Pact between Washington and Moscow comes just weeks before critical US midterm elections",
             "section": "Top stories",
             "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
             "published": "Fri, 09 Oct 2026 22:06:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.519,
-            "signed_score": 0.345
+            "confidence": 0.681,
+            "signed_score": 0.166
         },
         {
             "headline": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
             "summary": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
             "section": "Top stories",
             "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 18:38:06 GMT",
+            "published": "Sat, 10 Oct 2026 03:37:15 GMT",
             "sentiment": "Negative",
             "confidence": 0.964,
             "signed_score": -0.954
-        },
-        {
-            "headline": "EU to explore windfall tax on energy companies",
-            "summary": "Commissioner to consider levies as oil and gas businesses reap big profits from fallout of US-Israeli war on Iran",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 16:05:12 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.639,
-            "signed_score": 0.218
-        },
-        {
-            "headline": "The hazy OpenAI growth metric driving Wall Street",
-            "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 20:57:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.944,
-            "signed_score": -0.901
-        },
-        {
-            "headline": "Why OpenAI’s revenue numbers really matter",
-            "summary": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 21:48:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.638,
-            "signed_score": -0.61
-        },
-        {
-            "headline": "Computer scientist David Silver: ‘Where are we going without AI?’",
-            "summary": "The architect of Google DeepMind’s AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 11:30:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.886,
-            "signed_score": 0.081
-        },
-        {
-            "headline": "Trump launches committee to investigate Fed governor Lisa Cook",
-            "summary": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 17:26:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.765,
-            "signed_score": -0.71
-        },
-        {
-            "headline": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
-            "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.932
-        },
-        {
-            "headline": "Bessent to miss IMF annual meetings in Bangkok",
-            "summary": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 18:22:54 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.921
-        },
-        {
-            "headline": "JD Vance says he will not watch Pentagon’s livestreamed execution",
-            "summary": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 22:18:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.927
-        },
-        {
-            "headline": "Trump and Hegseth’s execution-type deal",
-            "summary": "The decision to livestream the execution of Nidal Malik Hasan is a sign of profound moral decay",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/39764d10-6b87-4103-8e7d-290a72a5ea5a?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 16:18:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.877,
-            "signed_score": -0.862
         },
         {
             "headline": "Trump pressures Mexico for energy deals in crunch trade talks",
@@ -127,6 +37,96 @@
             "sentiment": "Negative",
             "confidence": 0.896,
             "signed_score": -0.872
+        },
+        {
+            "headline": "Napa Valley’s hangover",
+            "summary": "People are drinking less. Vines are being ripped up. Winemakers are going bust. Can the Disneyland of wine survive the downturn?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
+            "published": "Sat, 10 Oct 2026 04:00:26 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.629,
+            "signed_score": -0.599
+        },
+        {
+            "headline": "The danger of pessimism fatigue",
+            "summary": "Too many have cried wolf about too many things and the public is now perilously nonchalant",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.838,
+            "signed_score": -0.821
+        },
+        {
+            "headline": "Inside the ‘robot gyms’ training machines for the real world",
+            "summary": "‘Physical AI’ developers are putting cameras in homes, offices and factories to fill a gap in the training material of robotics",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:07 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.93,
+            "signed_score": 0.011
+        },
+        {
+            "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
+            "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:38 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.861,
+            "signed_score": -0.833
+        },
+        {
+            "headline": "Ukraine strikes Russian tech giant’s data centres",
+            "summary": "Kyiv attacks facilities of Yandex, known as ‘Russia’s Google’, in retaliation for strikes on its digital infrastructure",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b90417e7-4d32-48cc-a508-5d405e7cd2ee?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 11:55:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.904,
+            "signed_score": -0.891
+        },
+        {
+            "headline": "Saudi flagship summits under pressure after deadly airport attacks",
+            "summary": "Executives racing to determine if they can still attend events: the World Petroleum Council’s Energy Congress and Future Investment Initiative conference",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:44 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.648,
+            "signed_score": -0.289
+        },
+        {
+            "headline": "Airlines sound the alarm as bleak winter looms",
+            "summary": "The industry is reeling from the energy shock unleashed by the Iran war",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 20:00:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.935,
+            "signed_score": -0.918
+        },
+        {
+            "headline": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
+            "summary": "Club’s connection with accounting firm is under scrutiny as Premier League findings raise questions over regulatory system",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4d105b07-1922-4ab0-bd1d-26a8c6ad9dbe?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.948,
+            "signed_score": -0.934
+        },
+        {
+            "headline": "Slowing deals are another flashing red sign for equity markets",
+            "summary": "Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a7532546-d9b2-4889-b2a6-ff68658a1782?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 04:00:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.951,
+            "signed_score": -0.924
         },
         {
             "headline": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
@@ -259,6 +259,16 @@
             "signed_score": -0.621
         },
         {
+            "headline": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+            "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 04:00:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.932
+        },
+        {
             "headline": "Kremlin-backed money launderer used London fintech to make payments",
             "summary": "Forged invoice suggested FCA-registered company was supplying A7 network with ‘cashmere sewing fabric’",
             "section": "Markets",
@@ -319,24 +329,14 @@
             "signed_score": -0.934
         },
         {
-            "headline": "Amex fined $350mn for failing to flag suspected money laundering",
-            "summary": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 22:03:23 GMT",
+            "headline": "Bessent to miss IMF annual meetings in Bangkok",
+            "summary": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 18:22:54 GMT",
             "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.946
-        },
-        {
-            "headline": "Trump says US ‘will not be attacking Iran’ before midterm elections",
-            "summary": "President says Washington and Tehran are having ‘productive discussions’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 20:08:27 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.507,
-            "signed_score": 0.423
+            "confidence": 0.931,
+            "signed_score": -0.921
         },
         {
             "headline": "The remarkable resilience of the global economy",
