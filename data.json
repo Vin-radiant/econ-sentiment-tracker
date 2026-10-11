@@ -5,28 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-10T18:34:43.827821+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-10-11T00:42:55.216257+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "headline": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+            "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 18:14:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.847,
-            "signed_score": 0.839
-        },
-        {
-            "headline": "AI borrowing slows as investors grow wary of debt binge",
-            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
+            "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 22:18:05 GMT",
             "sentiment": "Negative",
-            "confidence": 0.826,
-            "signed_score": -0.677
+            "confidence": 0.9,
+            "signed_score": -0.88
         },
         {
             "headline": "Napa Valley’s hangover",
@@ -59,6 +49,26 @@
             "signed_score": -0.118
         },
         {
+            "headline": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 18:14:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.847,
+            "signed_score": 0.839
+        },
+        {
+            "headline": "AI borrowing slows as investors grow wary of debt binge",
+            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.826,
+            "signed_score": -0.677
+        },
+        {
             "headline": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
             "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
             "section": "Top stories",
@@ -83,7 +93,7 @@
             "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
             "section": "Top stories",
             "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 16:07:40 GMT",
+            "published": "Sat, 10 Oct 2026 18:37:00 GMT",
             "sentiment": "Negative",
             "confidence": 0.797,
             "signed_score": -0.758
@@ -99,26 +109,6 @@
             "signed_score": -0.954
         },
         {
-            "headline": "Saudi flagship summits under pressure after deadly airport attacks",
-            "summary": "Executives weigh whether to attend the World Petroleum Council Energy Congress and Future Investment Initiative",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:16:51 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.59,
-            "signed_score": -0.572
-        },
-        {
-            "headline": "Airlines sound the alarm as bleak winter looms",
-            "summary": "The industry is reeling from the energy shock unleashed by the Iran war",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 20:00:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.935,
-            "signed_score": -0.918
-        },
-        {
             "headline": "EU joint budget proposal slashed in race to find end-year agreement",
             "summary": "Proposal would still be a 30 per cent increase on the bloc’s current spending",
             "section": "Top stories",
@@ -129,14 +119,14 @@
             "signed_score": 0.744
         },
         {
-            "headline": "Oil and gas production disrupted as Hurricane Isaias hits US",
-            "summary": "More than 800,000 households were left without power as the first major Atlantic storm of the season swept Florida, Alabama and Georgia",
+            "headline": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
+            "summary": "More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia",
             "section": "Markets",
             "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 10:58:00 GMT",
+            "published": "Sat, 10 Oct 2026 20:26:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.951
+            "confidence": 0.942,
+            "signed_score": -0.932
         },
         {
             "headline": "The US productivity-pay gap",
