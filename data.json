@@ -5,15 +5,15 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-11T06:38:45.276119+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-10-11T12:38:04.677358+00:00",
+    "headline_count": 57,
     "headlines": [
         {
             "headline": "Missile strike on Riyadh airport kills 12 and injures hundreds",
             "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
             "section": "Top stories",
             "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 22:18:05 GMT",
+            "published": "Sun, 11 Oct 2026 09:48:24 GMT",
             "sentiment": "Negative",
             "confidence": 0.9,
             "signed_score": -0.88
@@ -49,14 +49,14 @@
             "signed_score": -0.28
         },
         {
-            "headline": "Why are our children not flourishing at school?",
-            "summary": "AI is detonating the tired system of factory education that has predominated since the last century",
+            "headline": "Europe can fight the ‘China shock’",
+            "summary": "But it requires Brussels to prioritise creative destruction over protectionism",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4",
-            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.815,
-            "signed_score": -0.799
+            "link": "https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 11:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.909,
+            "signed_score": 0.041
         },
         {
             "headline": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
@@ -69,14 +69,14 @@
             "signed_score": -0.134
         },
         {
-            "headline": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-            "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
+            "headline": "India’s ‘Cockroach’ leaders defiant as movement calls for more protests",
+            "summary": "Abhijeet Dipke of the youth-led Cockroach Janta Party was released by a court order as police tightened security in New Delhi",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 17:42:28 GMT",
+            "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 11:11:55 GMT",
             "sentiment": "Negative",
-            "confidence": 0.869,
-            "signed_score": -0.855
+            "confidence": 0.805,
+            "signed_score": -0.766
         },
         {
             "headline": "Trump is failing to arrest decline in popularity, FT poll shows",
@@ -97,26 +97,6 @@
             "sentiment": "Negative",
             "confidence": 0.923,
             "signed_score": -0.913
-        },
-        {
-            "headline": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
-            "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 18:37:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.797,
-            "signed_score": -0.758
-        },
-        {
-            "headline": "India’s central bank tries to shore up rupee as it nears record lows",
-            "summary": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:57:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.954
         },
         {
             "headline": "China’s growing debt burden limits space for economic stimulus",
@@ -167,6 +147,16 @@
             "sentiment": "Negative",
             "confidence": 0.942,
             "signed_score": -0.932
+        },
+        {
+            "headline": "India’s central bank tries to shore up rupee as it nears record lows",
+            "summary": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 11:57:36 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.966,
+            "signed_score": -0.954
         },
         {
             "headline": "AI borrowing slows as investors grow wary of debt binge",
@@ -357,6 +347,16 @@
             "sentiment": "Negative",
             "confidence": 0.587,
             "signed_score": -0.537
+        },
+        {
+            "headline": "Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts",
+            "summary": "Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7553fae9-f65a-4101-be93-cdac921d4c2f?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 10:00:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.973,
+            "signed_score": -0.964
         },
         {
             "headline": "Bessent to miss IMF annual meetings in Bangkok",
@@ -577,16 +577,6 @@
             "sentiment": "Negative",
             "confidence": 0.963,
             "signed_score": -0.945
-        },
-        {
-            "headline": "Fed minutes indicate broad agreement for another rate rise this year",
-            "summary": "Records from the Fed’s September decision showed a clear consensus",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/acca8690-c230-4abc-b2c5-4a1d2f082753",
-            "published": "Wed, 07 Oct 2026 20:18:40 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.677,
-            "signed_score": 0.646
         }
     ]
 }
