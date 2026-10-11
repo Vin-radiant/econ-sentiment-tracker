@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-11T00:42:55.216257+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-10-11T06:38:45.276119+00:00",
+    "headline_count": 58,
     "headlines": [
         {
             "headline": "Missile strike on Riyadh airport kills 12 and injures hundreds",
@@ -19,54 +19,54 @@
             "signed_score": -0.88
         },
         {
-            "headline": "Napa Valley’s hangover",
-            "summary": "People are drinking less. Vines are being ripped up. Winemakers are going bust. Can the Disneyland of wine survive the downturn?",
+            "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
+            "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b",
-            "published": "Sat, 10 Oct 2026 04:00:26 GMT",
+            "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 05:26:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.629,
-            "signed_score": -0.599
+            "confidence": 0.873,
+            "signed_score": -0.82
         },
         {
-            "headline": "The danger of pessimism fatigue",
-            "summary": "Too many have cried wolf about too many things and the public is now perilously nonchalant",
+            "headline": "The fall of Germany’s ex-spymaster",
+            "summary": "August Hanning is accused of having illegally purchased state secrets for over a decade",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 04:00:37 GMT",
+            "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:15 GMT",
             "sentiment": "Negative",
-            "confidence": 0.838,
-            "signed_score": -0.821
+            "confidence": 0.495,
+            "signed_score": -0.458
         },
         {
-            "headline": "Nixonmaxxing: the strange revival of America’s disgraced president",
-            "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
+            "headline": "The problem with your AI therapist",
+            "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 10:00:07 GMT",
+            "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:16 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.753,
-            "signed_score": -0.118
+            "confidence": 0.641,
+            "signed_score": -0.28
         },
         {
-            "headline": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-            "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+            "headline": "Why are our children not flourishing at school?",
+            "summary": "AI is detonating the tired system of factory education that has predominated since the last century",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 18:14:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.847,
-            "signed_score": 0.839
-        },
-        {
-            "headline": "AI borrowing slows as investors grow wary of debt binge",
-            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
+            "link": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4",
+            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.826,
-            "signed_score": -0.677
+            "confidence": 0.815,
+            "signed_score": -0.799
+        },
+        {
+            "headline": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+            "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.499,
+            "signed_score": -0.134
         },
         {
             "headline": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
@@ -79,14 +79,24 @@
             "signed_score": -0.855
         },
         {
-            "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
-            "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
+            "headline": "Trump is failing to arrest decline in popularity, FT poll shows",
+            "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 04:00:38 GMT",
+            "link": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
+            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.861,
-            "signed_score": -0.833
+            "confidence": 0.964,
+            "signed_score": -0.954
+        },
+        {
+            "headline": "US justice department probes TV networks over Trump pool coverage",
+            "summary": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:28:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.923,
+            "signed_score": -0.913
         },
         {
             "headline": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
@@ -109,14 +119,44 @@
             "signed_score": -0.954
         },
         {
-            "headline": "EU joint budget proposal slashed in race to find end-year agreement",
-            "summary": "Proposal would still be a 30 per cent increase on the bloc’s current spending",
+            "headline": "China’s growing debt burden limits space for economic stimulus",
+            "summary": "Mounting interest payments restrict headroom to revive domestic demand, say experts",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 09:28:05 GMT",
+            "link": "https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
+            "signed_score": -0.905
+        },
+        {
+            "headline": "Private equity can cut ‘best’ deals in current climate, says Permira boss",
+            "summary": "Lower valuations and reduced competition should help sector to ‘exceptional returns’, says Dipan Patel",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b42bb760-3eda-430d-adfd-69c359425c1d?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:16 GMT",
             "sentiment": "Positive",
-            "confidence": 0.797,
-            "signed_score": 0.744
+            "confidence": 0.535,
+            "signed_score": 0.103
+        },
+        {
+            "headline": "JPMorgan bets on European asset management growth",
+            "summary": "Patrick Thomson, who heads the bank’s asset management business in Europe, said he was ‘bullish on the UK’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bad44d91-2324-444c-9070-ea5beb406593?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 04:00:15 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.683,
+            "signed_score": 0.611
+        },
+        {
+            "headline": "Global private equity fuels Indian healthcare’s push into smaller cities",
+            "summary": "Hospitals flush with foreign money are expanding rapidly and filling gaps in public infrastructure",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/09cde3c2-26d3-4390-8fc0-f6292561a5bf?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 03:02:49 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.894,
+            "signed_score": 0.88
         },
         {
             "headline": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
@@ -127,6 +167,16 @@
             "sentiment": "Negative",
             "confidence": 0.942,
             "signed_score": -0.932
+        },
+        {
+            "headline": "AI borrowing slows as investors grow wary of debt binge",
+            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.826,
+            "signed_score": -0.677
         },
         {
             "headline": "The US productivity-pay gap",
@@ -307,46 +357,6 @@
             "sentiment": "Negative",
             "confidence": 0.587,
             "signed_score": -0.537
-        },
-        {
-            "headline": "Some much-needed American optimism on Europe",
-            "summary": "Siloed national markets, anti-competitive culture and low investment have stunted growth — but the opportunity is there",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.741,
-            "signed_score": -0.621
-        },
-        {
-            "headline": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
-            "summary": "Bond giant’s investment chief warns that further sharp rise in borrowing costs is ‘feasible’ as market participants are forced to unwind losing bets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.932
-        },
-        {
-            "headline": "Kremlin-backed money launderer used London fintech to make payments",
-            "summary": "Forged invoice suggested FCA-registered company was supplying A7 network with ‘cashmere sewing fabric’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1273931a-238d-45a9-85b3-5c847e79b5ea?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:22 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.914,
-            "signed_score": 0.041
-        },
-        {
-            "headline": "Institutional investors challenge PE fund model with direct deals",
-            "summary": "Investments alongside asset managers rather than through traditional vehicles doubled to a record $198bn in the first half of the year",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2f320dca-b1a0-4451-ab8f-73640edd06c0?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:21 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.846,
-            "signed_score": 0.837
         },
         {
             "headline": "Bessent to miss IMF annual meetings in Bangkok",
