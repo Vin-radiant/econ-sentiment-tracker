@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-12T00:46:01.062515+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-12T06:45:58.480619+00:00",
+    "headline_count": 52,
     "headlines": [
         {
             "headline": "US threatens to block arms for Ukraine over attacks on Russian refineries",
@@ -19,6 +19,16 @@
             "signed_score": -0.652
         },
         {
+            "headline": "Oil prices fall after Trump claims ‘energy ceasefire’ in Ukraine war",
+            "summary": "Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of election",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:43:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.858,
+            "signed_score": -0.794
+        },
+        {
             "headline": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
             "summary": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
             "section": "Top stories",
@@ -29,44 +39,34 @@
             "signed_score": -0.892
         },
         {
-            "headline": "Can Russia meet Trump’s diesel demands?",
-            "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
+            "headline": "Trump battles to save the Senate",
+            "summary": "Losing the Republican majority in the chamber would be bruising for the president. A vote in rural Iowa may determine his fate",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 17:13:56 GMT",
+            "link": "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.888,
-            "signed_score": -0.857
+            "confidence": 0.763,
+            "signed_score": -0.744
         },
         {
-            "headline": "Houthis show military reach with deadly missile strikes on Riyadh",
-            "summary": "Yemen’s Iran-backed militants demonstrate that they are not just ‘guys in flip-flops’",
+            "headline": "There is a smarter way to tax the rich",
+            "summary": "Increasing US corporate tax raises government revenues without harming the tax base",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bd2c7385-184e-425e-997f-0f5a8c54184e?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 13:04:47 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.55,
-            "signed_score": -0.274
+            "link": "https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe",
+            "published": "Mon, 12 Oct 2026 04:00:16 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.844,
+            "signed_score": 0.831
         },
         {
-            "headline": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
-            "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
+            "headline": "The huge lurking leverage of AI hyperscalers",
+            "summary": "While equity investors look to sunny futures, creditors are scrutinising liabilities like leases on data centres",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
+            "link": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.499,
-            "signed_score": -0.134
-        },
-        {
-            "headline": "Democrats need a foreign policy",
-            "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 15:13:30 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.751,
-            "signed_score": -0.156
+            "confidence": 0.669,
+            "signed_score": -0.651
         },
         {
             "headline": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
@@ -79,54 +79,74 @@
             "signed_score": -0.862
         },
         {
-            "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
-            "summary": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month",
+            "headline": "Nato should prepare for deadly Russian ‘hybrid’ attack, says Poland",
+            "summary": "Foreign minister Radosław Sikorski says risk of casualties is rising as Moscow escalates sabotage campaign on European soil",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 19:53:56 GMT",
+            "link": "https://www.ft.com/content/0c5a10f4-5aca-456e-9c3a-4c4dc8132a63?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:16 GMT",
             "sentiment": "Negative",
-            "confidence": 0.866,
-            "signed_score": -0.779
+            "confidence": 0.862,
+            "signed_score": -0.783
         },
         {
-            "headline": "India’s ‘Cockroach’ movement plans more protests after release of leaders",
-            "summary": "Abhijeet Dipke of the youth-led Cockroach Janta Party was freed by a court order as police tightened security in New Delhi",
+            "headline": "‘Worrying omens’ stalk global economy despite resilient growth",
+            "summary": "Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 13:07:40 GMT",
+            "link": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:16 GMT",
             "sentiment": "Negative",
-            "confidence": 0.797,
-            "signed_score": -0.752
+            "confidence": 0.908,
+            "signed_score": -0.863
         },
         {
-            "headline": "Trump is failing to arrest decline in popularity, FT poll shows",
-            "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
+            "headline": "Charles de Gaulle airport owner linked to services for sanctioned airline",
+            "summary": "Subsidiary of Groupe ADP, which is backed by the French government, has not stopped all work for Russia’s Ural Airlines",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
-            "published": "Sun, 11 Oct 2026 04:00:06 GMT",
+            "link": "https://www.ft.com/content/5f0e16b5-15ba-4496-a4c1-15bc0287f7f1?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.964,
-            "signed_score": -0.954
+            "confidence": 0.624,
+            "signed_score": -0.59
         },
         {
-            "headline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
-            "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 20:00:01 GMT",
+            "headline": "Is the US economy as narrow as its stock market?",
+            "summary": "No*",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 05:30:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.545,
+            "signed_score": -0.372
+        },
+        {
+            "headline": "Misery, thy name is pulled IPO",
+            "summary": "A Firmus post-mortem",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/97a2c4ae-79df-4e67-a408-91a07bfc2546",
+            "published": "Mon, 12 Oct 2026 05:00:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.697,
+            "signed_score": -0.256
+        },
+        {
+            "headline": "Wall Street’s great money spinner",
+            "summary": "Plus, JPMorgan’s European ambitions, a surge in US corporate borrowing costs, and painting the French Riviera",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d3a342a9-0b64-4dd3-8f12-54c6750509de?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 05:00:06 GMT",
             "sentiment": "Positive",
-            "confidence": 0.709,
-            "signed_score": 0.449
+            "confidence": 0.876,
+            "signed_score": 0.856
         },
         {
-            "headline": "VW chief calls for France and Germany to co-operate on China car fightback",
-            "summary": "‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 18:09:24 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.894,
-            "signed_score": 0.881
+            "headline": "CVC planned to hush Israel defence deal to avoid controversy",
+            "summary": "Private equity firm made unusual decision not to announce its acquisition of a 40% stake in camouflage maker Fibrotex",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6235bf20-80da-42c0-b9cc-e4d996d6c135?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 04:00:07 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.87,
+            "signed_score": 0.081
         },
         {
             "headline": "City of London hits out at Burnham’s plan to scrap non-compete clauses",
@@ -137,6 +157,26 @@
             "sentiment": "Negative",
             "confidence": 0.929,
             "signed_score": -0.909
+        },
+        {
+            "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
+            "summary": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 19:53:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.866,
+            "signed_score": -0.779
+        },
+        {
+            "headline": "Can Russia meet Trump’s diesel demands?",
+            "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 17:13:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.888,
+            "signed_score": -0.857
         },
         {
             "headline": "Private equity can cut ‘best’ deals in current climate, says Permira boss",
@@ -159,14 +199,14 @@
             "signed_score": 0.611
         },
         {
-            "headline": "Global private equity fuels Indian healthcare’s push into smaller cities",
+            "headline": "Indian healthcare is new private equity hotspot",
             "summary": "Hospitals flush with foreign money are expanding rapidly and filling gaps in public infrastructure",
             "section": "Markets",
             "link": "https://www.ft.com/content/09cde3c2-26d3-4390-8fc0-f6292561a5bf?syn-25a6b1a6=1",
             "published": "Sun, 11 Oct 2026 03:02:49 GMT",
             "sentiment": "Positive",
-            "confidence": 0.894,
-            "signed_score": 0.88
+            "confidence": 0.801,
+            "signed_score": 0.786
         },
         {
             "headline": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
@@ -269,84 +309,44 @@
             "signed_score": 0.015
         },
         {
-            "headline": "The wisdom of prediction markets",
-            "summary": "Trades can contain valuable cues for businesspeople and investors",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/88485f17-cb90-46cc-a302-6c87b29622c1?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 17:00:10 GMT",
+            "headline": "FTAV’s further read",
+            "summary": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e",
+            "published": "Mon, 12 Oct 2026 05:30:05 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.89,
-            "signed_score": 0.083
+            "confidence": 0.935,
+            "signed_score": -0.008
         },
         {
-            "headline": "Iran attacks tankers beyond Strait of Hormuz",
-            "summary": "Escalation comes as Tehran tries to maintain leverage over strait crucial for global energy supplies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/83b817d5-df71-41a6-bef5-3db55a3a89cf?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 15:10:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.924
-        },
-        {
-            "headline": "How to shield your portfolio if AI goes ka-boom",
-            "summary": "If you still wanted to own stocks, it used to be impossible to avoid the fallout. Not any more",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 13:00:34 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.84,
-            "signed_score": -0.098
-        },
-        {
-            "headline": "The ECB will sit on the sidelines during France’s debt sell-off",
-            "summary": "That does not mean it can avoid making contingency plans to activate emergency measures",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/084bf164-ee7b-4744-a869-4dea488459f8",
-            "published": "Fri, 09 Oct 2026 12:39:39 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.811,
-            "signed_score": -0.096
-        },
-        {
-            "headline": "Former Deutsche Bank star trader has rate-rigging conviction quashed",
-            "summary": "Christian Bittar pleaded guilty in 2018 to manipulating the Euribor rate",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d16e8abb-ce63-4ed4-b2f2-3a0805e9cab1?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 11:23:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.812,
-            "signed_score": -0.786
-        },
-        {
-            "headline": "The struggle to fix Africa’s debt crisis",
-            "summary": "Is a growth-focused ‘reset’ the answer?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 11:00:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.869,
-            "signed_score": 0.059
-        },
-        {
-            "headline": "EU countries to overhaul financial market supervision",
-            "summary": "Reforms part of effort by Brussels to bolster bloc’s flagging competitiveness in relation to US",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/77b79f83-9dd1-49b1-be59-b5ca3c2ad5fd?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 09:54:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.831,
-            "signed_score": 0.821
-        },
-        {
-            "headline": "FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders",
-            "summary": "Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine",
+            "headline": "FirstFT: US threatens to cut arms support for Ukraine over Russian refinery strikes",
+            "summary": "Also in today’s newsletter: EU-China ‘understanding’ and bank results fears",
             "section": "Global economy",
             "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 21:22:44 GMT",
+            "published": "Mon, 12 Oct 2026 04:33:10 GMT",
             "sentiment": "Negative",
-            "confidence": 0.698,
-            "signed_score": -0.676
+            "confidence": 0.903,
+            "signed_score": -0.879
+        },
+        {
+            "headline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+            "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 20:00:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.709,
+            "signed_score": 0.449
+        },
+        {
+            "headline": "VW chief calls for France and Germany to co-operate on China car fightback",
+            "summary": "‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 18:09:24 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.894,
+            "signed_score": 0.881
         },
         {
             "headline": "IMF and World Bank to warn central bankers of a gathering storm",
@@ -357,6 +357,16 @@
             "sentiment": "Neutral",
             "confidence": 0.907,
             "signed_score": -0.014
+        },
+        {
+            "headline": "Democrats need a foreign policy",
+            "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 15:13:30 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.751,
+            "signed_score": -0.156
         },
         {
             "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
@@ -449,6 +459,16 @@
             "signed_score": 0.774
         },
         {
+            "headline": "The struggle to fix Africa’s debt crisis",
+            "summary": "Is a growth-focused ‘reset’ the answer?",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
+            "published": "Fri, 09 Oct 2026 11:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.869,
+            "signed_score": 0.059
+        },
+        {
             "headline": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
             "summary": "Also in today’s newsletter: US to publicly execute former army major and SpaceX to launch consumer mobile service",
             "section": "Global economy",
@@ -507,36 +527,6 @@
             "sentiment": "Negative",
             "confidence": 0.837,
             "signed_score": -0.701
-        },
-        {
-            "headline": "This US Senate race is putting Trump’s record with blue-collar voters to the test",
-            "summary": "Also in today’s newsletter, a US oil trader’s extraordinary $2bn gamble",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/467d5151-91bb-4463-8cda-3fd72b5b2627?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 13:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.754,
-            "signed_score": 0.119
-        },
-        {
-            "headline": "EU envoy lands in China for last-ditch talks over car exports",
-            "summary": "Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 12:08:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.962
-        },
-        {
-            "headline": "Houston start-up aims to loosen China’s grip on critical metal",
-            "summary": "Hertha Metals has developed a way to produce high-purity iron needed for rare earth magnets",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 11:00:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.734,
-            "signed_score": 0.724
         }
     ]
 }
