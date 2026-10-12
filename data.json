@@ -5,18 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-11T18:35:32.143688+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-10-12T00:46:01.062515+00:00",
+    "headline_count": 53,
     "headlines": [
         {
             "headline": "US threatens to block arms for Ukraine over attacks on Russian refineries",
             "summary": "Officials lobby European capitals and Kyiv following Trump’s diesel deal with Putin",
             "section": "Top stories",
             "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 17:59:05 GMT",
+            "published": "Sun, 11 Oct 2026 18:40:51 GMT",
             "sentiment": "Negative",
             "confidence": 0.709,
             "signed_score": -0.652
+        },
+        {
+            "headline": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+            "summary": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 21:17:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.912,
+            "signed_score": -0.892
         },
         {
             "headline": "Can Russia meet Trump’s diesel demands?",
@@ -27,16 +37,6 @@
             "sentiment": "Negative",
             "confidence": 0.888,
             "signed_score": -0.857
-        },
-        {
-            "headline": "Russia ‘interfered’ in 2016 Brexit vote, says Burnham",
-            "summary": "UK prime minister calls for European voters to be better informed about Kremlin-backed efforts to disrupt democratic process",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4fcbf57e-c73e-4ced-be4a-5ecc6f4874de?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 18:01:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.675,
-            "signed_score": -0.455
         },
         {
             "headline": "Houthis show military reach with deadly missile strikes on Riyadh",
@@ -80,13 +80,13 @@
         },
         {
             "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
-            "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+            "summary": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month",
             "section": "Top stories",
             "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 05:26:18 GMT",
+            "published": "Sun, 11 Oct 2026 19:53:56 GMT",
             "sentiment": "Negative",
-            "confidence": 0.873,
-            "signed_score": -0.82
+            "confidence": 0.866,
+            "signed_score": -0.779
         },
         {
             "headline": "India’s ‘Cockroach’ movement plans more protests after release of leaders",
@@ -109,14 +109,14 @@
             "signed_score": -0.954
         },
         {
-            "headline": "US justice department probes TV networks over Trump pool coverage",
-            "summary": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban",
+            "headline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+            "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 04:28:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.923,
-            "signed_score": -0.913
+            "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 20:00:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.709,
+            "signed_score": 0.449
         },
         {
             "headline": "VW chief calls for France and Germany to co-operate on China car fightback",
@@ -127,6 +127,16 @@
             "sentiment": "Positive",
             "confidence": 0.894,
             "signed_score": 0.881
+        },
+        {
+            "headline": "City of London hits out at Burnham’s plan to scrap non-compete clauses",
+            "summary": "Prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/47b02f06-cbfc-49cb-afb8-1ae015399c4e?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 23:01:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.929,
+            "signed_score": -0.909
         },
         {
             "headline": "Private equity can cut ‘best’ deals in current climate, says Permira boss",
@@ -329,34 +339,14 @@
             "signed_score": 0.821
         },
         {
-            "headline": "Most countries unprepared for bank failures, watchdog warns",
-            "summary": "Financial Stability Board says only US, UK, Japan and Hong Kong have a ‘credible public sector backstop’ to keep troubled lenders afloat before a sale or wind-down",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ca31d01f-d5a0-4bd4-bcc2-4aaa68f4ca22?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 06:00:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.392,
-            "signed_score": 0.045
-        },
-        {
-            "headline": "Hedge funds as systemic risks",
-            "summary": "And another word on inflation-linked bonds",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c1a8b8f4-7508-49bc-990b-3ecc5a4f20ee?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 05:30:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": -0.057
-        },
-        {
-            "headline": "Five ways to tell if market trouble lies ahead",
-            "summary": "The cost of credit default swaps for AI companies looking to borrow is rising",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 04:00:32 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.615,
-            "signed_score": -0.269
+            "headline": "FirstFT: India’s ‘Cockroach’ movement vows more protests after release of leaders",
+            "summary": "Also in today’s newsletter: deadly Houthi attacks on Riyadh’s airport and the US threatens to block arms for Ukraine",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
+            "published": "Sun, 11 Oct 2026 21:22:44 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.698,
+            "signed_score": -0.676
         },
         {
             "headline": "IMF and World Bank to warn central bankers of a gathering storm",
@@ -547,36 +537,6 @@
             "sentiment": "Positive",
             "confidence": 0.734,
             "signed_score": 0.724
-        },
-        {
-            "headline": "German economy heads for fastest growth since 2022",
-            "summary": "Government updates GDP forecast as exports and debt-funded spending spree help end years of stagnation",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e160b16c-6c39-47fd-9e6c-98a8d6b81eed?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 10:15:29 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.842,
-            "signed_score": 0.72
-        },
-        {
-            "headline": "FirstFT: How hedge funds became Wall Street banks’ cash cow",
-            "summary": "Also in today’s newsletter: Trump distances himself from two advisers and why people choose not to have children",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/5539d473-604b-42b3-ba6d-0dbb3353957b?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 10:06:52 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.922,
-            "signed_score": -0.022
-        },
-        {
-            "headline": "Irate farmers should not limit the EU’s geopolitical ambitions",
-            "summary": "Resistance to Ukraine’s agricultural exports is undermining the bloc’s influence",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/4bfd5cc1-b330-42f1-9906-e6932a92932a?syn-25a6b1a6=1",
-            "published": "Thu, 08 Oct 2026 10:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.909,
-            "signed_score": -0.888
         }
     ]
 }
