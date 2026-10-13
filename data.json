@@ -5,28 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-13T06:44:35.642353+00:00",
+    "fetched_at": "2026-10-13T12:45:19.099848+00:00",
     "headline_count": 53,
     "headlines": [
         {
-            "headline": "Top economies heading for biggest budget deficits since Covid, IMF warns",
-            "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+            "headline": "Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes",
+            "summary": "Performance of stock traders helps Goldman report 30 per cent rise in third-quarter net income",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 03:35:04 GMT",
+            "link": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
+            "published": "Tue, 13 Oct 2026 09:42:00 GMT",
             "sentiment": "Positive",
-            "confidence": 0.751,
-            "signed_score": 0.669
-        },
-        {
-            "headline": "Asia warned over zombie companies",
-            "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 03:19:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.915,
-            "signed_score": -0.851
+            "confidence": 0.944,
+            "signed_score": 0.91
         },
         {
             "headline": "The elections that could remake Europe",
@@ -49,21 +39,21 @@
             "signed_score": -0.76
         },
         {
-            "headline": "Who’s really hiring you — HR or cyber security?",
+            "headline": "HR doesn’t need to be the CIA",
             "summary": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
             "section": "Top stories",
             "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
             "published": "Tue, 13 Oct 2026 04:00:19 GMT",
             "sentiment": "Negative",
-            "confidence": 0.598,
-            "signed_score": -0.575
+            "confidence": 0.589,
+            "signed_score": -0.567
         },
         {
             "headline": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
             "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
             "section": "Top stories",
             "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 05:44:06 GMT",
+            "published": "Tue, 13 Oct 2026 11:50:09 GMT",
             "sentiment": "Negative",
             "confidence": 0.965,
             "signed_score": -0.953
@@ -79,6 +69,26 @@
             "signed_score": 0.873
         },
         {
+            "headline": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices",
+            "summary": "Claude maker suggests models could act as ‘worms’ to spread across smart home appliances such as ovens and TVs in future cyber security threat",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 10:11:23 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.896,
+            "signed_score": 0.0
+        },
+        {
+            "headline": "Cyber attack on French supermarket fridges raises alarm over food security",
+            "summary": "Some stores reported fridge temperatures as high as 80°C, melting equipment and destroying food",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 11:50:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.951
+        },
+        {
             "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
             "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
             "section": "Top stories",
@@ -89,24 +99,84 @@
             "signed_score": 0.906
         },
         {
-            "headline": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
-            "summary": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
+            "headline": "Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack",
+            "summary": "The Ukrainian leader stops short of linking intelligence gap to Trump administration’s threats to withdraw US support",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 18:32:01 GMT",
+            "link": "https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 12:06:15 GMT",
             "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.927
+            "confidence": 0.544,
+            "signed_score": -0.429
         },
         {
-            "headline": "China resorts to Nvidia gaming chips in search for AI firepower",
-            "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+            "headline": "Bulgaria suggests Russia behind ship attack that left 11 sailors missing",
+            "summary": "Strike on cargo ship marks latest escalation in Russia-Ukraine war in the Black Sea",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 00:15:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.757,
-            "signed_score": 0.205
+            "link": "https://www.ft.com/content/c6bd25b8-ef9e-41a3-90d2-29c132e10ec2?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 12:21:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.944,
+            "signed_score": -0.928
+        },
+        {
+            "headline": "European gas hits Iran wartime high",
+            "summary": "Stand-off between Washington and Kyiv over Russian diesel and approach of cold weather boost prices",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/787acc7e-f0d3-4552-a369-4b4c967e4ca5?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 11:38:51 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.699,
+            "signed_score": 0.446
+        },
+        {
+            "headline": "Can energy help Mexico in trade talks with Trump?",
+            "summary": "It is the sector where the US runs its largest surplus with its southern neighbour totalling about $25bn last year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/73257952-844b-4f5f-a1cb-112ae9cb0249?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 11:00:08 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.577,
+            "signed_score": 0.52
+        },
+        {
+            "headline": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+            "summary": "Judge in London rules Chinese victims of massive crypto fraud cannot rely on English law to seek compensation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 10:33:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.789,
+            "signed_score": -0.705
+        },
+        {
+            "headline": "FirstFT: IMF sounds alarm on dire public finances",
+            "summary": "Also in today’s newsletter: tech stocks hit by ‘casino’ talk and CNN plans to expand its streaming service overseas",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 10:28:40 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.537,
+            "signed_score": -0.439
+        },
+        {
+            "headline": "James Packer says Australia ‘tends to tear down’ entrepreneurs after Firmus fiasco",
+            "summary": "Billionaire investor hits out after data centre operator abandoned plans to raise $5bn in Sydney",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fccaa841-ffdb-4e59-b947-8ff1e1b40a7f?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 09:17:43 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.922,
+            "signed_score": -0.899
+        },
+        {
+            "headline": "BP to set out new strategy after windfall year",
+            "summary": "UK oil major will announce plans in December after hitting current debt targets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5d92ea15-6211-43c4-9e41-d1b7f085dd4c?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 07:38:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.532,
+            "signed_score": 0.508
         },
         {
             "headline": "China gets spiky on currencies",
@@ -129,16 +199,6 @@
             "signed_score": -0.951
         },
         {
-            "headline": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
-            "summary": "Judge in London rules that Chinese victims of massive crypto fraud cannot rely on English law to seek compensation",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.822,
-            "signed_score": -0.774
-        },
-        {
             "headline": "Biotech start-ups turn to reverse mergers to fast-track listings",
             "summary": "Life sciences companies take advantage of the leftovers of a pandemic-era IPO frenzy to fast-track listings",
             "section": "Markets",
@@ -149,14 +209,14 @@
             "signed_score": 0.076
         },
         {
-            "headline": "Sulphur scramble poses fresh threat to global food prices",
+            "headline": "Sulphur scramble poses latest threat to global food prices",
             "summary": "Deep-pocketed miners outbid fertiliser makers for scarce supplies of commodity used in production for both sectors",
             "section": "Markets",
             "link": "https://www.ft.com/content/e4ad9ed5-76e0-435c-a46f-6fe53ab1cedf?syn-25a6b1a6=1",
             "published": "Tue, 13 Oct 2026 04:00:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.943
+            "confidence": 0.95,
+            "signed_score": -0.934
         },
         {
             "headline": "France to raise stake in struggling miner Eramet",
@@ -289,54 +349,24 @@
             "signed_score": -0.873
         },
         {
-            "headline": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
-            "summary": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 21:17:58 GMT",
+            "headline": "The world economy is running hotter than expected",
+            "summary": "A statistical history of the IMF’s forecasts reveals a picture of higher growth and worse inflation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/183ace53-2a89-43a9-88c1-9ea1e1b4437d?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 11:30:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.912,
-            "signed_score": -0.892
+            "confidence": 0.675,
+            "signed_score": -0.411
         },
         {
-            "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
-            "summary": "Ship tried to break through American naval blockade of Iranian ports, Central Command says of its first attack in a month",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 19:53:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.866,
-            "signed_score": -0.779
-        },
-        {
-            "headline": "Can Russia meet Trump’s diesel demands?",
-            "summary": "Ukrainian strikes have triggered worst petrol shortages since collapse of the Soviet Union but diesel supplies are stable",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 17:13:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.795,
-            "signed_score": -0.686
-        },
-        {
-            "headline": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
-            "summary": "BP and others skip World Petroleum Council meeting after 12 killed in Houthi attack",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 16:56:50 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.874,
-            "signed_score": -0.862
-        },
-        {
-            "headline": "Private equity can cut ‘best’ deals in current climate, says Permira boss",
-            "summary": "Lower valuations and reduced competition should help sector to ‘exceptional returns’, says Dipan Patel",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b42bb760-3eda-430d-adfd-69c359425c1d?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 04:00:16 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.535,
-            "signed_score": 0.103
+            "headline": "How governments spend money",
+            "summary": "Charting the outline of civilisation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c6a28cf5-cd3c-447b-ad79-dcc247fc6fdf",
+            "published": "Tue, 13 Oct 2026 10:49:35 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.932,
+            "signed_score": 0.018
         },
         {
             "headline": "How Michael Woodford made modern macro relevant to central bankers",
@@ -347,16 +377,6 @@
             "sentiment": "Neutral",
             "confidence": 0.887,
             "signed_score": 0.082
-        },
-        {
-            "headline": "FirstFT: IMF sounds alarm on dire public finances",
-            "summary": "Also in today’s newsletter: US Treasuries and Houthi attacks",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 04:40:36 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.724,
-            "signed_score": -0.199
         },
         {
             "headline": "EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers",
@@ -370,13 +390,33 @@
         },
         {
             "headline": "Unreliable Boyfriend — Chrystia Freeland’s roadmap for dealing with a chaotic superpower",
-            "summary": "Canada’s former deputy prime minister’s memoir chronicles her political ups and downs while offering a strategy to survive the US president’s bullying",
+            "summary": "Canada’s former deputy prime minister chronicles her political ups and downs while offering a strategy to survive the US president’s bullying",
             "section": "Global economy",
             "link": "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
             "published": "Tue, 13 Oct 2026 04:00:10 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.817,
-            "signed_score": 0.116
+            "confidence": 0.763,
+            "signed_score": 0.184
+        },
+        {
+            "headline": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+            "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 03:35:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.751,
+            "signed_score": 0.669
+        },
+        {
+            "headline": "Asia warned over zombie companies",
+            "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 03:19:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.915,
+            "signed_score": -0.851
         },
         {
             "headline": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
@@ -497,46 +537,6 @@
             "sentiment": "Neutral",
             "confidence": 0.909,
             "signed_score": 0.041
-        },
-        {
-            "headline": "Will September inflation cement US interest rate policy for the rest of the year?",
-            "summary": "Market Questions is the FT’s guide to the week ahead",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/eae9d22f-3722-427f-a33b-aebc58fba2c4?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 11:00:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.9,
-            "signed_score": -0.033
-        },
-        {
-            "headline": "Smelly seaweed and strong peso hurt tourism at Mexico’s beach resorts",
-            "summary": "Visits fall in hotspots such as Cancún, Tulum and Puerto Vallarta as US travellers go elsewhere",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/7553fae9-f65a-4101-be93-cdac921d4c2f?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 10:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.973,
-            "signed_score": -0.964
-        },
-        {
-            "headline": "Bessent to miss IMF annual meetings in Bangkok",
-            "summary": "US Treasury secretary’s absence is due to ‘domestic engagements’, say officials",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9496dd1d-fabf-4c58-bbc3-88cb51f2a68d?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 18:22:54 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.921
-        },
-        {
-            "headline": "The remarkable resilience of the global economy",
-            "summary": "The surprising robustness of growth and trade rests on shaky foundations",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/af3454c2-c425-4d4f-bac9-3e073bbfc1a7?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 17:39:56 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.781,
-            "signed_score": 0.771
         }
     ]
 }
