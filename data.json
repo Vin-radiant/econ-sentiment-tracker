@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-12T18:38:56.177754+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-13T00:47:41.117168+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown",
+            "headline": "Zuckerberg says Meta has reached AI ‘frontier’",
             "summary": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
             "section": "Top stories",
             "link": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
             "published": "Mon, 12 Oct 2026 17:00:02 GMT",
             "sentiment": "Positive",
-            "confidence": 0.774,
-            "signed_score": 0.753
+            "confidence": 0.884,
+            "signed_score": 0.873
         },
         {
-            "headline": "Trump’s midterm peril",
-            "summary": "Losing the Republican majority in the chamber would be bruising for the president. A vote in rural Iowa may determine his fate",
+            "headline": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
+            "summary": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 04:00:17 GMT",
+            "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 18:32:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.858,
-            "signed_score": -0.843
+            "confidence": 0.938,
+            "signed_score": -0.927
         },
         {
             "headline": "The diesel crisis is testing the limits of globalisation",
@@ -69,24 +69,34 @@
             "signed_score": 0.393
         },
         {
-            "headline": "Two economists who transformed crisis management win Nobel Prize",
-            "summary": "Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil",
+            "headline": "Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct",
+            "summary": "US president contemplating dismissing Kimberly Guilfoyle after report claiming she accepted improper gifts",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 16:40:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.695,
-            "signed_score": 0.258
+            "link": "https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 00:12:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.931,
+            "signed_score": -0.919
         },
         {
-            "headline": "LVMH’s fashion and leather sales fall in luxury setback",
-            "summary": "Paris-listed group hails ‘buoyant’ US market but said sales were hit by slowdown in demand in China",
+            "headline": "Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts",
+            "summary": "Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/71003e2e-107b-4e87-adef-77e825a3aef4?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 18:03:23 GMT",
+            "link": "https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 19:46:58 GMT",
             "sentiment": "Negative",
-            "confidence": 0.974,
-            "signed_score": -0.966
+            "confidence": 0.94,
+            "signed_score": -0.928
+        },
+        {
+            "headline": "France to raise stake in struggling miner Eramet",
+            "summary": "Paris set to become top shareholder as states race to secure critical mineral supplies",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4d84b98b-bdbe-4e1c-a0b8-4dd0c814927b?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 20:34:37 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.711,
+            "signed_score": 0.253
         },
         {
             "headline": "Trump’s Russian diesel gambit is cynical and won’t work",
@@ -199,14 +209,14 @@
             "signed_score": 0.133
         },
         {
-            "headline": "City of London hits out at Burnham’s plan to scrap non-compete clauses",
+            "headline": "City of London hits out at plan to scrap non-compete clauses",
             "summary": "Prime minister’s pledge is backed by tech groups but hedge funds and banks say it will damage competitiveness",
             "section": "Markets",
             "link": "https://www.ft.com/content/47b02f06-cbfc-49cb-afb8-1ae015399c4e?syn-25a6b1a6=1",
             "published": "Sun, 11 Oct 2026 23:01:03 GMT",
             "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.909
+            "confidence": 0.902,
+            "signed_score": -0.873
         },
         {
             "headline": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
@@ -329,14 +339,24 @@
             "signed_score": -0.903
         },
         {
-            "headline": "Slowing deals are another flashing red sign for equity markets",
-            "summary": "Some deals will still squeak through, but appetite for risk has been hit by rising yields and AI jitters",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a7532546-d9b2-4889-b2a6-ff68658a1782?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 04:00:37 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.951,
-            "signed_score": -0.924
+            "headline": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
+            "summary": "Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 20:38:08 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.939,
+            "signed_score": 0.921
+        },
+        {
+            "headline": "Two economists who transformed crisis management win Nobel Prize",
+            "summary": "Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 16:40:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.695,
+            "signed_score": 0.258
         },
         {
             "headline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
@@ -347,16 +367,6 @@
             "sentiment": "Positive",
             "confidence": 0.709,
             "signed_score": 0.449
-        },
-        {
-            "headline": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
-            "summary": "Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 13:10:52 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.939,
-            "signed_score": 0.921
         },
         {
             "headline": "Europe is finally confronting China",
