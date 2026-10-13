@@ -5,9 +5,69 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-13T00:47:41.117168+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-13T06:44:35.642353+00:00",
+    "headline_count": 53,
     "headlines": [
+        {
+            "headline": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+            "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 03:35:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.751,
+            "signed_score": 0.669
+        },
+        {
+            "headline": "Asia warned over zombie companies",
+            "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 03:19:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.915,
+            "signed_score": -0.851
+        },
+        {
+            "headline": "The elections that could remake Europe",
+            "summary": "In the space of 12 months, four of the five biggest EU member states will go to the ballot box. The bloc may never be the same",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.922,
+            "signed_score": 0.003
+        },
+        {
+            "headline": "Why Trump is going for Zelenskyy’s jugular",
+            "summary": "No matter how much America’s allies urge the president to back Ukraine, he cannot forgive its leader for showing up his dealmaking impotence",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.788,
+            "signed_score": -0.76
+        },
+        {
+            "headline": "Who’s really hiring you — HR or cyber security?",
+            "summary": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.598,
+            "signed_score": -0.575
+        },
+        {
+            "headline": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+            "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 05:44:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.965,
+            "signed_score": -0.953
+        },
         {
             "headline": "Zuckerberg says Meta has reached AI ‘frontier’",
             "summary": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
@@ -17,6 +77,16 @@
             "sentiment": "Positive",
             "confidence": 0.884,
             "signed_score": 0.873
+        },
+        {
+            "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
+            "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.938,
+            "signed_score": 0.906
         },
         {
             "headline": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
@@ -29,64 +99,64 @@
             "signed_score": -0.927
         },
         {
-            "headline": "The diesel crisis is testing the limits of globalisation",
-            "summary": "Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation",
+            "headline": "China resorts to Nvidia gaming chips in search for AI firepower",
+            "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307",
-            "published": "Mon, 12 Oct 2026 17:14:19 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.95,
-            "signed_score": -0.94
-        },
-        {
-            "headline": "Britain, Brexit and the cat-flap option",
-            "summary": "The political, strategic and economic momentum for a reversal of Brexit is growing",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0a66d390-149d-4cdc-83b6-88015da1e835?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 10:59:07 GMT",
+            "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 00:15:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.831,
-            "signed_score": 0.142
+            "confidence": 0.757,
+            "signed_score": 0.205
         },
         {
-            "headline": "US agents raid home of Trump critic Ilhan Omar",
-            "summary": "Homeland Security officials launch criminal investigation into the Minnesota representative",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 16:47:27 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.817,
-            "signed_score": -0.791
-        },
-        {
-            "headline": "Musk injects $275mn into Republicans’ fight to retain Congress",
-            "summary": "Trillionaire Tesla chief has become party’s biggest donor ahead of November’s pivotal midterms",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 18:04:50 GMT",
+            "headline": "China gets spiky on currencies",
+            "summary": "Plus: your ideas, please, on investing ex-AI",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 05:30:09 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.555,
-            "signed_score": 0.393
+            "confidence": 0.932,
+            "signed_score": 0.023
         },
         {
-            "headline": "Trump says he is ‘looking at’ firing envoy to Greece over alleged misconduct",
-            "summary": "US president contemplating dismissing Kimberly Guilfoyle after report claiming she accepted improper gifts",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c97cf26c-04b7-47ce-8290-b0f779c9490b?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 00:12:28 GMT",
+            "headline": "Rising Treasury bill issuance puts pressure on short-term rates",
+            "summary": "Stress at long end of US yield curve appears to be moving towards short-term lending markets, threatening to complicate life for the Fed",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f5ca22c7-8340-4189-8c40-224a1e16c5ef",
+            "published": "Tue, 13 Oct 2026 04:30:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.919
+            "confidence": 0.962,
+            "signed_score": -0.951
         },
         {
-            "headline": "Bosnia warns US of pro-Russia Serb enclave’s lobbying efforts",
-            "summary": "Foreign minister expresses concern about public funds used for ‘political influence in the US’ on behalf of Moscow allies",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 19:46:58 GMT",
+            "headline": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+            "summary": "Judge in London rules that Chinese victims of massive crypto fraud cannot rely on English law to seek compensation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
             "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.928
+            "confidence": 0.822,
+            "signed_score": -0.774
+        },
+        {
+            "headline": "Biotech start-ups turn to reverse mergers to fast-track listings",
+            "summary": "Life sciences companies take advantage of the leftovers of a pandemic-era IPO frenzy to fast-track listings",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/987c9d16-f77c-4307-a9a8-66d67da5f658?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.872,
+            "signed_score": 0.076
+        },
+        {
+            "headline": "Sulphur scramble poses fresh threat to global food prices",
+            "summary": "Deep-pocketed miners outbid fertiliser makers for scarce supplies of commodity used in production for both sectors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e4ad9ed5-76e0-435c-a46f-6fe53ab1cedf?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.957,
+            "signed_score": -0.943
         },
         {
             "headline": "France to raise stake in struggling miner Eramet",
@@ -269,74 +339,44 @@
             "signed_score": 0.103
         },
         {
-            "headline": "JPMorgan bets on European asset management growth",
-            "summary": "Patrick Thomson, who heads the bank’s asset management business in Europe, said he was ‘bullish on the UK’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bad44d91-2324-444c-9070-ea5beb406593?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 04:00:15 GMT",
+            "headline": "How Michael Woodford made modern macro relevant to central bankers",
+            "summary": "Nobel expectations",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/0c821d3e-241f-46a9-a54b-e0d0cf8ee4cf",
+            "published": "Tue, 13 Oct 2026 05:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.887,
+            "signed_score": 0.082
+        },
+        {
+            "headline": "FirstFT: IMF sounds alarm on dire public finances",
+            "summary": "Also in today’s newsletter: US Treasuries and Houthi attacks",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/e03b74a1-6f7f-4f2c-ad39-c70b8e63ae39?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:40:36 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.724,
+            "signed_score": -0.199
+        },
+        {
+            "headline": "EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers",
+            "summary": "European automotive industry welcomes deal as ‘first step’ to create fairer playing field",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
             "sentiment": "Positive",
-            "confidence": 0.683,
-            "signed_score": 0.611
+            "confidence": 0.907,
+            "signed_score": 0.895
         },
         {
-            "headline": "Indian healthcare is new private equity hotspot",
-            "summary": "Hospitals flush with foreign money are expanding rapidly and filling gaps in public infrastructure",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/09cde3c2-26d3-4390-8fc0-f6292561a5bf?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 03:02:49 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.801,
-            "signed_score": 0.786
-        },
-        {
-            "headline": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
-            "summary": "More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 20:26:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.942,
-            "signed_score": -0.932
-        },
-        {
-            "headline": "India’s central bank tries to shore up rupee as it nears record lows",
-            "summary": "Rise in energy costs due to US-Israel war on Iran has put downward pressure on the currency of the world’s fastest-growing major economy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:57:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.954
-        },
-        {
-            "headline": "AI borrowing slows as investors grow wary of debt binge",
-            "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuance",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 11:00:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.826,
-            "signed_score": -0.677
-        },
-        {
-            "headline": "The US productivity-pay gap",
-            "summary": "Workers’ share of output is shrinking",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/abaab361-8714-422f-b2eb-9eb447e4d8c3?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 09:30:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.884,
-            "signed_score": -0.861
-        },
-        {
-            "headline": "The world of one trade — AI",
-            "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technology",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
-            "published": "Sat, 10 Oct 2026 06:36:04 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.915,
-            "signed_score": -0.903
+            "headline": "Unreliable Boyfriend — Chrystia Freeland’s roadmap for dealing with a chaotic superpower",
+            "summary": "Canada’s former deputy prime minister’s memoir chronicles her political ups and downs while offering a strategy to survive the US president’s bullying",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6cfc1469-df2d-4f56-953a-77a15ed26e1f",
+            "published": "Tue, 13 Oct 2026 04:00:10 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.817,
+            "signed_score": 0.116
         },
         {
             "headline": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
@@ -347,6 +387,16 @@
             "sentiment": "Positive",
             "confidence": 0.939,
             "signed_score": 0.921
+        },
+        {
+            "headline": "The diesel crisis is testing the limits of globalisation",
+            "summary": "Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307",
+            "published": "Mon, 12 Oct 2026 17:14:19 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.95,
+            "signed_score": -0.94
         },
         {
             "headline": "Two economists who transformed crisis management win Nobel Prize",
@@ -487,66 +537,6 @@
             "sentiment": "Positive",
             "confidence": 0.781,
             "signed_score": 0.771
-        },
-        {
-            "headline": "Trump pressures Mexico for energy deals in crunch trade talks",
-            "summary": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 17:29:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.896,
-            "signed_score": -0.872
-        },
-        {
-            "headline": "China and EU avert trade conflict with ‘understanding’ on hybrid cars",
-            "summary": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 15:41:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.793,
-            "signed_score": -0.642
-        },
-        {
-            "headline": "Submit your questions: who’s doing better in their trade battles with China — the EU or the US?",
-            "summary": "Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 13:04:53 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.934,
-            "signed_score": 0.018
-        },
-        {
-            "headline": "No peace, no quiet",
-            "summary": "Bond yields continue to push higher alongside tensions in the Middle East",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/eab7e6ea-7391-48cb-a1d8-e34821b9bde5",
-            "published": "Fri, 09 Oct 2026 12:52:15 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.865,
-            "signed_score": 0.774
-        },
-        {
-            "headline": "The struggle to fix Africa’s debt crisis",
-            "summary": "Is a growth-focused ‘reset’ the answer?",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 11:00:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.869,
-            "signed_score": 0.059
-        },
-        {
-            "headline": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
-            "summary": "Also in today’s newsletter: US to publicly execute former army major and SpaceX to launch consumer mobile service",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1",
-            "published": "Fri, 09 Oct 2026 10:02:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.734,
-            "signed_score": 0.242
         }
     ]
 }
