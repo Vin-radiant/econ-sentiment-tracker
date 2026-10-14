@@ -5,18 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-14T12:56:39.862610+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-14T18:56:28.894932+00:00",
+    "headline_count": 55,
     "headlines": [
         {
             "headline": "US inflation jumps to 3.7% as Iran war drives up prices",
             "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
             "section": "Top stories",
             "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 12:37:54 GMT",
+            "published": "Wed, 14 Oct 2026 17:55:30 GMT",
             "sentiment": "Negative",
             "confidence": 0.958,
             "signed_score": -0.935
+        },
+        {
+            "headline": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+            "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 14:14:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.884,
+            "signed_score": -0.822
         },
         {
             "headline": "Marine Le Pen: ‘All the warning signs are flashing red’",
@@ -29,24 +39,24 @@
             "signed_score": -0.028
         },
         {
-            "headline": "The art of living dangerously",
+            "headline": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
+            "summary": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 14:40:47 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.92,
+            "signed_score": -0.904
+        },
+        {
+            "headline": "The global economy and the art of living dangerously",
             "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
             "section": "Top stories",
             "link": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
             "published": "Wed, 14 Oct 2026 04:00:21 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.859,
-            "signed_score": 0.086
-        },
-        {
-            "headline": "How I used AI to become a chess grandmaster at 16",
-            "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
-            "published": "Wed, 14 Oct 2026 04:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.757,
-            "signed_score": 0.22
+            "confidence": 0.812,
+            "signed_score": 0.122
         },
         {
             "headline": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
@@ -59,59 +69,89 @@
             "signed_score": -0.952
         },
         {
-            "headline": "Europe’s defence stocks send a geopolitical distress signal",
-            "summary": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
+            "headline": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
+            "summary": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 11:59:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.901,
-            "signed_score": -0.88
-        },
-        {
-            "headline": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
-            "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 09:58:48 GMT",
+            "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 17:23:04 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.575,
-            "signed_score": 0.396
+            "confidence": 0.679,
+            "signed_score": 0.179
         },
         {
-            "headline": "Crypto exchange Kraken owner to buy European bank",
-            "summary": "Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
+            "headline": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+            "summary": "Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 09:30:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.901,
-            "signed_score": 0.081
-        },
-        {
-            "headline": "General Atlantic plans IPO at up to $10bn valuation",
-            "summary": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 10:00:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.911,
-            "signed_score": 0.9
-        },
-        {
-            "headline": "BofA profits drop 17% after $1.2bn money laundering fine",
-            "summary": "Second-largest US bank reports weaker results in trading than Wall Street rivals",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 12:19:27 GMT",
+            "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 17:58:39 GMT",
             "sentiment": "Negative",
-            "confidence": 0.974,
-            "signed_score": -0.966
+            "confidence": 0.868,
+            "signed_score": -0.78
+        },
+        {
+            "headline": "Netflix to cut 1,000 jobs as growth concerns mount",
+            "summary": "Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 14:57:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.972,
+            "signed_score": -0.957
+        },
+        {
+            "headline": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+            "summary": "Exchange discussed putting legal tech unit into separate entity before valuations fall",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 15:48:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.947,
+            "signed_score": 0.019
+        },
+        {
+            "headline": "UK’s Schillings sets up private investigations business with US law firm Clare Locke",
+            "summary": "Groups known for battling the press set up US intelligence company co-led by a former senior CIA official",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:21 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.931,
+            "signed_score": 0.012
+        },
+        {
+            "headline": "German prosecutors accuse Ukraine of Nord Stream sabotage",
+            "summary": "Ukrainian ex-officer Serhii Kuznietsov goes on trial in Hamburg for allegedly leading group of divers who placed explosives on Russian gas pipelines",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 13:39:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.903,
+            "signed_score": -0.888
+        },
+        {
+            "headline": "Houthis attack Saudi Aramco headquarters",
+            "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 13:25:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.869,
+            "signed_score": -0.849
+        },
+        {
+            "headline": "Global diesel prices set to rise again, warns IEA",
+            "summary": "Global shortage of fuel will last until mid-2027",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b06d00da-9df7-405b-9410-b5485c267397?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 12:25:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.912,
+            "signed_score": -0.882
         },
         {
             "headline": "BlackRock pulls in $205bn to take assets to record high",
             "summary": "World’s largest asset manager has become an increasingly powerful force in private capital after acquisitions of HPS and Global Infrastructure Partners",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
             "published": "Wed, 14 Oct 2026 11:39:33 GMT",
             "sentiment": "Positive",
@@ -119,14 +159,24 @@
             "signed_score": 0.632
         },
         {
-            "headline": "Houthis attack Saudi Aramco headquarters",
-            "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+            "headline": "General Atlantic plans IPO at up to $10bn valuation",
+            "summary": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
             "section": "Markets",
-            "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 09:03:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.869,
-            "signed_score": -0.849
+            "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 10:00:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.911,
+            "signed_score": 0.9
+        },
+        {
+            "headline": "Crypto exchange Kraken owner to buy European bank",
+            "summary": "Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 09:30:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.901,
+            "signed_score": 0.081
         },
         {
             "headline": "European oil refineries’ margins collapse as input costs soar",
@@ -167,16 +217,6 @@
             "sentiment": "Negative",
             "confidence": 0.954,
             "signed_score": -0.937
-        },
-        {
-            "headline": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
-            "summary": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.895,
-            "signed_score": -0.879
         },
         {
             "headline": "Japanese banks and insurers return to domestic bonds as yields surge",
@@ -319,24 +359,24 @@
             "signed_score": 0.508
         },
         {
-            "headline": "China gets spiky on currencies",
-            "summary": "Plus: your ideas, please, on investing ex-AI",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 05:30:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.932,
-            "signed_score": 0.023
+            "headline": "Hot September CPI inflation keeps Fed on course for further tightening",
+            "summary": "Annual headline and core CPI inflation both accelerated and beat market expectations in September",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
+            "published": "Wed, 14 Oct 2026 13:21:31 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.941,
+            "signed_score": 0.908
         },
         {
-            "headline": "Rising Treasury bill issuance puts pressure on short-term rates",
-            "summary": "Stress at long end of US yield curve appears to be moving towards short-term lending markets, threatening to complicate life for the Fed",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f5ca22c7-8340-4189-8c40-224a1e16c5ef",
-            "published": "Tue, 13 Oct 2026 04:30:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.951
+            "headline": "Inflation and interest rates tracker: see how your country compares",
+            "summary": "Explore the latest data through interactive charts",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 13:15:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.928,
+            "signed_score": 0.04
         },
         {
             "headline": "FirstFT: Marine Le Pen gears up for EU fight",
@@ -357,16 +397,6 @@
             "sentiment": "Neutral",
             "confidence": 0.943,
             "signed_score": 0.008
-        },
-        {
-            "headline": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-            "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 04:00:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.884,
-            "signed_score": -0.822
         },
         {
             "headline": "China’s exports surge 36% as AI-related shipments boom",
@@ -407,6 +437,16 @@
             "sentiment": "Neutral",
             "confidence": 0.932,
             "signed_score": 0.018
+        },
+        {
+            "headline": "China gets spiky on currencies",
+            "summary": "Plus: your ideas, please, on investing ex-AI",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 05:30:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.932,
+            "signed_score": 0.023
         },
         {
             "headline": "How Michael Woodford made modern macro relevant to central bankers",
@@ -517,26 +557,6 @@
             "sentiment": "Negative",
             "confidence": 0.894,
             "signed_score": -0.876
-        },
-        {
-            "headline": "FirstFT: Diesel prices slip after Trump announces ‘energy ceasefire’",
-            "summary": "Also in today’s newsletter: EU-China ‘understanding’ and bank results fears",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 10:24:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.918,
-            "signed_score": -0.887
-        },
-        {
-            "headline": "Is the US economy as narrow as its stock market?",
-            "summary": "No*",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 05:30:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.545,
-            "signed_score": -0.372
         }
     ]
 }
