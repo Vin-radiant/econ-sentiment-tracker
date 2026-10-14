@@ -5,93 +5,143 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-14T00:58:39.037300+00:00",
-    "headline_count": 50,
+    "fetched_at": "2026-10-14T06:59:04.576797+00:00",
+    "headline_count": 52,
     "headlines": [
         {
-            "headline": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-            "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+            "headline": "France’s Marine Le Pen gears up for fight with EU",
+            "summary": "Far-right leader promises a ‘trial of strength’ in FT interview even as she tries to reassure voters over her pragmatism",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 20:54:58 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.9,
-            "signed_score": -0.883
+            "link": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:21 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.729,
+            "signed_score": 0.678
         },
         {
-            "headline": "How America’s dying coal industry found a lifeline in Trump’s White House",
-            "summary": "A CEO plays golf with Trump’s son as an industry once shut out of Washington turns access into policy",
+            "headline": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
+            "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 10:00:10 GMT",
+            "link": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.931,
+            "signed_score": -0.906
+        },
+        {
+            "headline": "The global economy and the art of living dangerously",
+            "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:21 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.893,
-            "signed_score": -0.009
+            "confidence": 0.812,
+            "signed_score": 0.122
         },
         {
-            "headline": "Why Trump is going for Zelenskyy’s jugular",
-            "summary": "No matter how much America’s allies urge the president to back Ukraine, he cannot forgive its leader for showing up his dealmaking impotence",
+            "headline": "How I used AI to become a chess grandmaster at 16",
+            "summary": "Ignore the doomsayers, this technology has transformed the game for the better and it can do the same for education",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 04:00:19 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.788,
-            "signed_score": -0.76
-        },
-        {
-            "headline": "How not to revive Europe’s auto industry",
-            "summary": "The electric vehicle market shows how legacy EU companies continue to fail when it comes to countering Chinese competition",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 15:03:49 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.888,
-            "signed_score": -0.848
+            "link": "https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94",
+            "published": "Wed, 14 Oct 2026 04:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.757,
+            "signed_score": 0.22
         },
         {
             "headline": "Saudi Aramco HQ attacked in suspected Houthi strike",
             "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
             "section": "Top stories",
             "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 22:00:20 GMT",
+            "published": "Wed, 14 Oct 2026 02:20:48 GMT",
             "sentiment": "Negative",
             "confidence": 0.902,
             "signed_score": -0.881
         },
         {
-            "headline": "Ships in Hormuz strait hit by worst spate of attacks since start of war",
-            "summary": "Twenty-four tankers and other vessels targeted by Iran in two weeks, including six on Sunday alone",
+            "headline": "China’s exports surge 36% as AI-related shipments boom",
+            "summary": "Imports soar by a third as high oil prices from Middle East conflict push up energy bill",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 12:04:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "Bank of America fined $1.2bn over money laundering failures",
-            "summary": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 20:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.935
-        },
-        {
-            "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
-            "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
+            "link": "https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 03:56:03 GMT",
             "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.906
+            "confidence": 0.915,
+            "signed_score": 0.854
+        },
+        {
+            "headline": "Germany puts Ukrainian ex-officer in the dock over Nord Stream sabotage",
+            "summary": "Serhii Kuznietsov is accused of leading group of divers who placed explosives on the Russian gas pipelines in the Baltic Sea",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8c3c631c-e37f-4209-aefd-112c4c58020c?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.895,
+            "signed_score": -0.879
+        },
+        {
+            "headline": "AI demand to exceed supply for 2 more years, says ASML",
+            "summary": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 06:50:27 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.952,
+            "signed_score": 0.932
+        },
+        {
+            "headline": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+            "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 01:59:24 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.9,
+            "signed_score": -0.883
+        },
+        {
+            "headline": "Gold Fields mounts charm offensive to woo Northern Star investors",
+            "summary": "South African miner’s chief meets Australian shareholders to promote merits of creating global gold ‘powerhouse’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3cad49d9-4c88-46bc-bddd-7b237a399a7b?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 06:38:06 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.696,
+            "signed_score": 0.678
+        },
+        {
+            "headline": "The rollout of 24-hour* trading",
+            "summary": "*It’s actually 23 hours",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/694aa230-fbad-40f2-b2dc-e663f24583d1?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 05:30:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.932,
+            "signed_score": 0.025
+        },
+        {
+            "headline": "Patrick Drahi’s creditors strike back",
+            "summary": "Lenders have sued Altice International in the latest escalation of a long-running battle between the heavily indebted telecoms group and its creditors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cd8b1aaf-abd8-4c75-afb2-11683c675016?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.954,
+            "signed_score": -0.937
+        },
+        {
+            "headline": "Japanese banks and insurers return to domestic bonds as yields surge",
+            "summary": "Investors are closely watching for signs that the country’s institutions may be starting to repatriate capital after decades hunting for returns overseas",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8c7ded63-6232-44df-98ba-25a46422e56f?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.839,
+            "signed_score": 0.772
         },
         {
             "headline": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
             "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
             "published": "Tue, 13 Oct 2026 20:28:15 GMT",
             "sentiment": "Negative",
@@ -99,14 +149,14 @@
             "signed_score": -0.958
         },
         {
-            "headline": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
-            "summary": "Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 16:16:58 GMT",
+            "headline": "Bank of America fined $1.2bn over money laundering failures",
+            "summary": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 20:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.937,
-            "signed_score": -0.928
+            "confidence": 0.955,
+            "signed_score": -0.935
         },
         {
             "headline": "Mortgages, diesel and the US midterms",
@@ -157,6 +207,16 @@
             "sentiment": "Positive",
             "confidence": 0.569,
             "signed_score": 0.162
+        },
+        {
+            "headline": "Ships in Hormuz strait hit by worst spate of attacks since start of war",
+            "summary": "Twenty-four tankers and other vessels targeted by Iran in two weeks, including six on Sunday alone",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 12:04:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.939
         },
         {
             "headline": "Can energy help Mexico in trade talks with Trump?",
@@ -229,6 +289,16 @@
             "signed_score": -0.951
         },
         {
+            "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
+            "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.938,
+            "signed_score": 0.906
+        },
+        {
             "headline": "Biotech start-ups turn to reverse mergers to fast-track listings",
             "summary": "Life sciences companies take advantage of the leftovers of a pandemic-era IPO frenzy to fast-track listings",
             "section": "Markets",
@@ -259,54 +329,34 @@
             "signed_score": 0.253
         },
         {
-            "headline": "Trump’s Russian diesel gambit is cynical and won’t work",
-            "summary": "The US president risks harming Ukraine to curb prices driven up by his own war",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5bc438a0-26b7-4893-9d62-1f45d2963eef?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 16:54:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.879,
-            "signed_score": -0.842
-        },
-        {
-            "headline": "Goldman goes long stocks — and bonds*",
-            "summary": "*Not all bonds",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2af1eb34-f7f4-445f-81a3-42e6fd448971",
-            "published": "Mon, 12 Oct 2026 16:02:19 GMT",
+            "headline": "FirstFT: Marine Le Pen gears up for EU fight",
+            "summary": "Also in today’s newsletter: Healey’s UK Budget and Saudi Aramco HQ attacked",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/25c6e29b-f6e6-40a4-b9df-cd0883e9234f?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:30:59 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.942,
-            "signed_score": -0.003
+            "confidence": 0.927,
+            "signed_score": 0.04
         },
         {
-            "headline": "Oil prices rise as Trump’s ‘energy ceasefire’ frays",
-            "summary": "Announcement followed deal with Putin as US president tries to contain impact of higher fuel costs ahead of midterm elections",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 15:46:25 GMT",
+            "headline": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+            "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 04:00:12 GMT",
             "sentiment": "Negative",
-            "confidence": 0.665,
-            "signed_score": -0.46
+            "confidence": 0.884,
+            "signed_score": -0.822
         },
         {
-            "headline": "Private equity puts string of UK high street names up for sale",
-            "summary": "Owners of PizzaExpress, Morrisons and Itsu seeking exits as buyout groups cool on sector",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/48b8c4ce-b2bf-44e2-badf-8159a9d664e4?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 11:00:02 GMT",
+            "headline": "How not to revive Europe’s auto industry",
+            "summary": "The electric vehicle market shows how legacy EU companies continue to fail when it comes to countering Chinese competition",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 15:03:49 GMT",
             "sentiment": "Negative",
-            "confidence": 0.881,
-            "signed_score": -0.864
-        },
-        {
-            "headline": "FirstFT: Diesel prices slip after Trump announces ‘energy ceasefire’",
-            "summary": "Also in today’s newsletter: EU-China ‘understanding’ and bank results fears",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 10:24:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.918,
-            "signed_score": -0.887
+            "confidence": 0.888,
+            "signed_score": -0.848
         },
         {
             "headline": "Submit your questions: Who’s winning the trade war with China — the EU or US?",
@@ -449,6 +499,16 @@
             "signed_score": -0.876
         },
         {
+            "headline": "FirstFT: Diesel prices slip after Trump announces ‘energy ceasefire’",
+            "summary": "Also in today’s newsletter: EU-China ‘understanding’ and bank results fears",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 10:24:38 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.918,
+            "signed_score": -0.887
+        },
+        {
             "headline": "Is the US economy as narrow as its stock market?",
             "summary": "No*",
             "section": "Global economy",
@@ -467,46 +527,6 @@
             "sentiment": "Neutral",
             "confidence": 0.93,
             "signed_score": -0.011
-        },
-        {
-            "headline": "‘Worrying omens’ stalk global economy despite resilient growth",
-            "summary": "Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 04:00:16 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.908,
-            "signed_score": -0.863
-        },
-        {
-            "headline": "VW chief calls for France and Germany to co-operate on China car fightback",
-            "summary": "‘When it matters, we have found solutions together,’ Oliver Blume says ahead of Paris Motor Show",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/258611cc-d4ec-40f7-9d3e-930991725837?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 18:09:24 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.894,
-            "signed_score": 0.88
-        },
-        {
-            "headline": "IMF and World Bank to warn central bankers of a gathering storm",
-            "summary": "Annual meetings in Bangkok, bumper bank earnings beckon, Dublin hosts AI summit",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/5b90cdd3-b78b-44ee-8045-8a0602ac0ef4?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 17:15:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.907,
-            "signed_score": -0.014
-        },
-        {
-            "headline": "Foreign policy matters — and the Democrats need one",
-            "summary": "Trump’s approach to the world has left Republicans floundering as the midterms approach. Liberals should plan their own strategy now",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/dddba87c-3ed9-4cb5-8fe2-1b1dcc71da6f?syn-25a6b1a6=1",
-            "published": "Sun, 11 Oct 2026 15:13:30 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.613,
-            "signed_score": -0.304
         }
     ]
 }
