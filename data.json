@@ -5,38 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-13T18:43:05.412873+00:00",
-    "headline_count": 52,
+    "fetched_at": "2026-10-14T00:58:39.037300+00:00",
+    "headline_count": 50,
     "headlines": [
         {
-            "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
-            "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+            "headline": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+            "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.906
-        },
-        {
-            "headline": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
-            "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over the scale of AI investment",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 17:47:51 GMT",
+            "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 20:54:58 GMT",
             "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.957
+            "confidence": 0.9,
+            "signed_score": -0.883
         },
         {
-            "headline": "How US coal mined ties to Trump — and got much of its ‘wish list’",
+            "headline": "How America’s dying coal industry found a lifeline in Trump’s White House",
             "summary": "A CEO plays golf with Trump’s son as an industry once shut out of Washington turns access into policy",
             "section": "Top stories",
             "link": "https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1",
             "published": "Tue, 13 Oct 2026 10:00:10 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.897,
-            "signed_score": -0.004
+            "confidence": 0.893,
+            "signed_score": -0.009
         },
         {
             "headline": "Why Trump is going for Zelenskyy’s jugular",
@@ -59,6 +49,56 @@
             "signed_score": -0.848
         },
         {
+            "headline": "Saudi Aramco HQ attacked in suspected Houthi strike",
+            "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 22:00:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.902,
+            "signed_score": -0.881
+        },
+        {
+            "headline": "Ships in Hormuz strait hit by worst spate of attacks since start of war",
+            "summary": "Twenty-four tankers and other vessels targeted by Iran in two weeks, including six on Sunday alone",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 12:04:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.939
+        },
+        {
+            "headline": "Bank of America fined $1.2bn over money laundering failures",
+            "summary": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 20:00:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.955,
+            "signed_score": -0.935
+        },
+        {
+            "headline": "Investors brave US Treasury rout to lock in highest yields in decades",
+            "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 04:00:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.938,
+            "signed_score": 0.906
+        },
+        {
+            "headline": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+            "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 20:28:15 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.967,
+            "signed_score": -0.958
+        },
+        {
             "headline": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
             "summary": "Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts",
             "section": "Top stories",
@@ -69,54 +109,24 @@
             "signed_score": -0.928
         },
         {
-            "headline": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens",
-            "summary": "Claude maker suggests models could act as ‘worms’ to spread across smart home appliances such as lawnmowers and TVs in future cyber security threat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 10:11:23 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.892,
-            "signed_score": 0.016
-        },
-        {
-            "headline": "Cyber attack on French supermarket fridges raises alarm over food security",
-            "summary": "Some stores reported fridge temperatures as high as 80°C, melting equipment and destroying food",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 11:50:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.951
-        },
-        {
-            "headline": "Wall Street plays down investor fears of faltering trading boom",
-            "summary": "JPMorgan Chase and Goldman Sachs earnings boosted by equities businesses in another strong quarter",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/bd1f3385-1985-4a8a-a781-22cbe1292d2d?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 16:10:48 GMT",
+            "headline": "Mortgages, diesel and the US midterms",
+            "summary": "Americans are still spending, despite their complaints about the economy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/68bf1530-801b-4f1b-9673-d430841d2a0f?syn-25a6b1a6=1",
+            "published": "Tue, 13 Oct 2026 20:00:00 GMT",
             "sentiment": "Positive",
-            "confidence": 0.866,
-            "signed_score": 0.77
+            "confidence": 0.891,
+            "signed_score": 0.815
         },
         {
             "headline": "Will bank earnings growth become a thing of the past?",
             "summary": "It would be foolish to think the Wall Street giants can’t outrun the threat of AI",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/9f6ec5b2-4f0b-4ed3-9541-588d49e3ad7e?syn-25a6b1a6=1",
             "published": "Tue, 13 Oct 2026 16:49:43 GMT",
             "sentiment": "Neutral",
             "confidence": 0.56,
             "signed_score": -0.362
-        },
-        {
-            "headline": "CNN launches international streaming push as David Ellison takes control",
-            "summary": "News network targets $1bn in annual digital subscription revenue by 2030 as traditional cable television declines",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1e190204-ebe8-48d7-936e-72835fc49742?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 09:30:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.404,
-            "signed_score": 0.089
         },
         {
             "headline": "London Stock Exchange owner in talks to buy credit specialist Octus",
@@ -147,16 +157,6 @@
             "sentiment": "Positive",
             "confidence": 0.569,
             "signed_score": 0.162
-        },
-        {
-            "headline": "Ships in Hormuz strait hit by worst spate of attacks since start of war",
-            "summary": "Twenty-four tankers and other vessels targeted by Iran in two weeks, including six on Sunday alone",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 12:04:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.939
         },
         {
             "headline": "Can energy help Mexico in trade talks with Trump?",
@@ -309,36 +309,6 @@
             "signed_score": -0.887
         },
         {
-            "headline": "Is the US economy as narrow as its stock market?",
-            "summary": "No*",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 05:30:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.545,
-            "signed_score": -0.372
-        },
-        {
-            "headline": "What a $30bn Aussie data centre IPO debacle actually means",
-            "summary": "Misery, thy name is pulled IPO",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/97a2c4ae-79df-4e67-a408-91a07bfc2546",
-            "published": "Mon, 12 Oct 2026 05:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.655,
-            "signed_score": -0.256
-        },
-        {
-            "headline": "Wall Street’s great money spinner",
-            "summary": "Plus, JPMorgan’s European ambitions, a surge in US corporate borrowing costs, and painting the French Riviera",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d3a342a9-0b64-4dd3-8f12-54c6750509de?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 05:00:06 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.876,
-            "signed_score": 0.856
-        },
-        {
             "headline": "Submit your questions: Who’s winning the trade war with China — the EU or US?",
             "summary": "Senior trade writer Alan Beattie and economics columnist Soumaya Keynes will answer reader questions in a live Q&A on Thursday October 15 at 1pm (BST)",
             "section": "Global economy",
@@ -477,6 +447,16 @@
             "sentiment": "Negative",
             "confidence": 0.894,
             "signed_score": -0.876
+        },
+        {
+            "headline": "Is the US economy as narrow as its stock market?",
+            "summary": "No*",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2aa849df-5670-4577-87dd-2c40f2bac2aa?syn-25a6b1a6=1",
+            "published": "Mon, 12 Oct 2026 05:30:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.545,
+            "signed_score": -0.372
         },
         {
             "headline": "FTAV’s further reading",
