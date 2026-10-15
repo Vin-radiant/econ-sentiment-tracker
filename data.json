@@ -5,38 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-14T18:56:28.894932+00:00",
+    "fetched_at": "2026-10-15T00:56:02.578046+00:00",
     "headline_count": 55,
     "headlines": [
         {
-            "headline": "US inflation jumps to 3.7% as Iran war drives up prices",
-            "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+            "headline": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+            "summary": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 17:55:30 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.935
+            "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 22:47:45 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.943,
+            "signed_score": 0.923
         },
         {
-            "headline": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-            "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+            "headline": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+            "summary": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 14:14:28 GMT",
+            "link": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 20:36:40 GMT",
             "sentiment": "Negative",
-            "confidence": 0.884,
-            "signed_score": -0.822
-        },
-        {
-            "headline": "Marine Le Pen: ‘All the warning signs are flashing red’",
-            "summary": "In a wide-ranging interview with the FT, the far-right leader declares that France is ready to close the chapter on mainstream politics",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/73cfaf41-d3ea-4202-bd9b-f355c9e5b504?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 11:02:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.72,
-            "signed_score": -0.028
+            "confidence": 0.93,
+            "signed_score": -0.91
         },
         {
             "headline": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper",
@@ -59,44 +49,44 @@
             "signed_score": 0.122
         },
         {
+            "headline": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
+            "summary": "European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 23:09:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.962,
+            "signed_score": -0.951
+        },
+        {
             "headline": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
             "summary": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
             "section": "Top stories",
             "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 11:09:54 GMT",
+            "published": "Wed, 14 Oct 2026 21:37:16 GMT",
             "sentiment": "Negative",
             "confidence": 0.961,
             "signed_score": -0.952
         },
         {
-            "headline": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
-            "summary": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
+            "headline": "Perella Weinberg and Piper Sandler abandon merger talks",
+            "summary": "A deal would have created an independent investment bank with an equity value of more than $6bn",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 17:23:04 GMT",
+            "link": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 20:16:29 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.679,
-            "signed_score": 0.179
+            "confidence": 0.771,
+            "signed_score": 0.2
         },
         {
-            "headline": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
-            "summary": "Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back",
+            "headline": "General Atlantic plans IPO at up to $10bn valuation",
+            "summary": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 17:58:39 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.868,
-            "signed_score": -0.78
-        },
-        {
-            "headline": "Netflix to cut 1,000 jobs as growth concerns mount",
-            "summary": "Streaming group faces pressure to boost viewer engagement after shares fall more than 40% in a year",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 14:57:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.957
+            "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 10:00:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.911,
+            "signed_score": 0.9
         },
         {
             "headline": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
@@ -117,6 +107,26 @@
             "sentiment": "Neutral",
             "confidence": 0.931,
             "signed_score": 0.012
+        },
+        {
+            "headline": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
+            "summary": "Newly unsealed court filings say Abdulrahman Alfozan, his wife and a third family member had booked travel for October 12",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 22:19:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.825,
+            "signed_score": -0.808
+        },
+        {
+            "headline": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+            "summary": "Shares of conglomerate that owns AOL and Vimeo jumped more than 40% on news of expanded investment before dropping back",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 20:08:42 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.868,
+            "signed_score": -0.78
         },
         {
             "headline": "German prosecutors accuse Ukraine of Nord Stream sabotage",
@@ -157,16 +167,6 @@
             "sentiment": "Positive",
             "confidence": 0.649,
             "signed_score": 0.632
-        },
-        {
-            "headline": "General Atlantic plans IPO at up to $10bn valuation",
-            "summary": "Private capital group looks to fund ambitious expansion plan to keep pace with rivals Blackstone and Apollo Global",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0f7511ee-efb1-4bf0-8f87-67f572193fd3?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 10:00:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.911,
-            "signed_score": 0.9
         },
         {
             "headline": "Crypto exchange Kraken owner to buy European bank",
@@ -349,14 +349,34 @@
             "signed_score": -0.899
         },
         {
-            "headline": "BP to set out new strategy after windfall year",
-            "summary": "UK oil major will announce plans in December after hitting current debt targets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5d92ea15-6211-43c4-9e41-d1b7f085dd4c?syn-25a6b1a6=1",
-            "published": "Tue, 13 Oct 2026 07:38:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.532,
-            "signed_score": 0.508
+            "headline": "Fed’s October Beige Book points to higher inflation",
+            "summary": "Growth was largely in manufacturing sectors largely connected to AI",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/17eaf860-753a-4b0c-8d3c-8c771d735083",
+            "published": "Wed, 14 Oct 2026 20:51:56 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.615,
+            "signed_score": 0.186
+        },
+        {
+            "headline": "US inflation jumps to 3.7% as Iran war drives up prices",
+            "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 20:06:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.958,
+            "signed_score": -0.935
+        },
+        {
+            "headline": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+            "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+            "published": "Wed, 14 Oct 2026 14:14:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.884,
+            "signed_score": -0.822
         },
         {
             "headline": "Hot September CPI inflation keeps Fed on course for further tightening",
@@ -537,26 +557,6 @@
             "sentiment": "Positive",
             "confidence": 0.709,
             "signed_score": 0.449
-        },
-        {
-            "headline": "Europe is finally confronting China",
-            "summary": "At last, the French and the Germans are getting serious about standing up to Beijing’s mercantilism",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e374bc1a-bd56-40b4-98c9-d1b502ef9d47?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 13:00:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.616,
-            "signed_score": 0.349
-        },
-        {
-            "headline": "The EU has more bark but lacks bite towards China",
-            "summary": "Germany’s apparent shift towards trade belligerence is unfocused and unproven",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/90d5003e-dbec-4db3-88d2-d30d9c2a119d?syn-25a6b1a6=1",
-            "published": "Mon, 12 Oct 2026 11:31:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.894,
-            "signed_score": -0.876
         }
     ]
 }
