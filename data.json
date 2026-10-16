@@ -5,38 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-16T06:59:27.215076+00:00",
-    "headline_count": 51,
+    "fetched_at": "2026-10-16T12:59:12.880554+00:00",
+    "headline_count": 50,
     "headlines": [
         {
-            "headline": "Bets on Fed rate hold in October strengthen after Warsh comments",
-            "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
+            "headline": "Treasuries head for best week since February as AI jitters halt bond rout",
+            "summary": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 06:37:09 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.876,
-            "signed_score": 0.795
-        },
-        {
-            "headline": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
-            "summary": "Lengthy period of higher costs would squeeze corporate margins and spur some companies to raise prices",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 03:12:41 GMT",
+            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 11:45:56 GMT",
             "sentiment": "Negative",
-            "confidence": 0.917,
-            "signed_score": -0.866
+            "confidence": 0.924,
+            "signed_score": -0.865
         },
         {
-            "headline": "How Trump’s America fell in love with UFC",
+            "headline": "Fight night for Trump’s America",
             "summary": "For politicians, celebrities and tycoons, the brutal Ultimate Fighting Championship has become a vote-winner and money-spinner like no other",
             "section": "Top stories",
             "link": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
             "published": "Fri, 16 Oct 2026 04:00:17 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.901,
-            "signed_score": 0.041
+            "confidence": 0.898,
+            "signed_score": 0.031
         },
         {
             "headline": "US business leaders are waking up to the perils of plutopopulism",
@@ -59,6 +49,16 @@
             "signed_score": 0.462
         },
         {
+            "headline": "EU vows to maintain Russia sanctions after US pivot",
+            "summary": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 12:14:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.775,
+            "signed_score": -0.733
+        },
+        {
             "headline": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
             "summary": "A White House desperate to lower fuel costs ahead of US midterm elections could allow such vessels back into global trade",
             "section": "Top stories",
@@ -69,44 +69,74 @@
             "signed_score": 0.711
         },
         {
-            "headline": "World’s worst-performing stock market hit by fresh MSCI warning",
-            "summary": "Warning from global index provider fuels concerns about investability in south-east Asia’s biggest economy",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 03:35:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.935
-        },
-        {
-            "headline": "UK government courted UBS over London HQ move",
-            "summary": "Rachel Reeves pitched the City as alternative home for Swiss bank, which is weighing its options amid new capital proposals",
+            "headline": "UK tried to persuade UBS to move to London",
+            "summary": "Rachel Reeves pitched City as alternative home for Swiss bank, which is weighing its options amid new capital proposals",
             "section": "Top stories",
             "link": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
             "published": "Fri, 16 Oct 2026 04:00:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.544,
-            "signed_score": 0.516
+            "sentiment": "Neutral",
+            "confidence": 0.687,
+            "signed_score": 0.285
         },
         {
-            "headline": "Healey signals tax raid on banks in UK Budget",
+            "headline": "Healey signals tax raid on banks in Budget",
             "summary": "Chancellor points to looming ‘decisions’ as financial services sector braces for higher levies",
             "section": "Top stories",
             "link": "https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 17:53:10 GMT",
+            "published": "Fri, 16 Oct 2026 07:08:49 GMT",
             "sentiment": "Negative",
-            "confidence": 0.897,
-            "signed_score": -0.854
+            "confidence": 0.899,
+            "signed_score": -0.859
         },
         {
-            "headline": "Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters",
-            "summary": "Roadster makes debut after decade in development as EV maker tries to revive image as brash innovator",
+            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 02:41:40 GMT",
+            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.546,
+            "signed_score": -0.464
+        },
+        {
+            "headline": "‘Father of Canary Wharf’ plans City’s second-tallest tower",
+            "summary": "‘The man who built Canary Wharf’ working with insurer AmTrust on plans for 70-storey City office tower",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/dcab1c7f-00aa-4194-bdb1-0a0c6712e4e8?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.519,
-            "signed_score": 0.454
+            "confidence": 0.863,
+            "signed_score": 0.113
+        },
+        {
+            "headline": "Shareholders should have a say on making AI safe",
+            "summary": "SEC decision to rescind key rule on voting could not have come at a worse time",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
+            "published": "Fri, 16 Oct 2026 11:05:46 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.847,
+            "signed_score": -0.031
+        },
+        {
+            "headline": "The once-obscure tech at the heart of the green energy trade war",
+            "summary": "Power inverters are central to the global clean electricity boom but reliance on China is triggering security fears",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bc221890-6718-4792-967c-9828e96f38af?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 11:01:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.579,
+            "signed_score": -0.54
+        },
+        {
+            "headline": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
+            "summary": "Quite big, but still quite far away",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
+            "published": "Fri, 16 Oct 2026 10:24:31 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.872,
+            "signed_score": 0.105
         },
         {
             "headline": "Hiding from the everything trade",
@@ -309,54 +339,44 @@
             "signed_score": -0.027
         },
         {
-            "headline": "General Atlantic’s IPO ambitions",
-            "summary": "The private capital group is planning to go public in the first half of next year as it seeks to keep pace with listed rivals like Blackstone and Apollo Global",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d9353431-e9ba-4b34-a277-ab1510120ef8?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:39 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.752,
-            "signed_score": 0.743
+            "headline": "In Bangkok, central bankers push back on market rate-tightening bets",
+            "summary": "Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef",
+            "published": "Fri, 16 Oct 2026 10:51:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
+            "signed_score": -0.909
         },
         {
-            "headline": "London’s gold market enjoys the Trump effect",
-            "summary": "The City’s dominance of physical trading in the metal is being reinforced by global instability",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:39 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.798,
-            "signed_score": 0.787
-        },
-        {
-            "headline": "Investors predict new record price for gold within two years",
-            "summary": "Central banks in September made their highest monthly purchases of the precious metal for almost two years",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7761de04-7fac-4f7b-bddb-8457e425b642?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:39 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.625,
-            "signed_score": 0.589
-        },
-        {
-            "headline": "FCA plans to embrace AI to automate financial regulation",
-            "summary": "UK watchdog will set out its response to the rise of the latest frontier models",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:39 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.746,
-            "signed_score": 0.235
-        },
-        {
-            "headline": "FirstFT: Healey signals tax raid on banks in UK Budget",
-            "summary": "Also in today’s newsletter: London’s UBS HQ offer and Merz vows to fight on",
+            "headline": "FirstFT: G7 plan simulated AI attacks on banks",
+            "summary": "Also in today’s newsletter: British government courted UBS over London HQ move and why data centre bonds look increasingly stressed",
             "section": "Global economy",
             "link": "https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:33:40 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.831,
-            "signed_score": 0.057
+            "published": "Fri, 16 Oct 2026 10:27:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.768,
+            "signed_score": -0.727
+        },
+        {
+            "headline": "Bets on Fed rate hold in October strengthen after Warsh comments",
+            "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 06:37:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.876,
+            "signed_score": 0.795
+        },
+        {
+            "headline": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
+            "summary": "Lengthy period of higher costs would squeeze corporate margins and spur some companies to raise prices",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 03:12:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.917,
+            "signed_score": -0.866
         },
         {
             "headline": "France and Germany to allow UK to join EU car policy if it aligns on China tariffs",
@@ -487,36 +507,6 @@
             "sentiment": "Negative",
             "confidence": 0.884,
             "signed_score": -0.822
-        },
-        {
-            "headline": "Hot September CPI inflation keeps Fed on course for further tightening",
-            "summary": "Annual headline and core CPI inflation both accelerated and beat market expectations in September",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
-            "published": "Wed, 14 Oct 2026 13:21:31 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.941,
-            "signed_score": 0.908
-        },
-        {
-            "headline": "Inflation and interest rates tracker: see how your country compares",
-            "summary": "Explore the latest data through interactive charts",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 13:15:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.928,
-            "signed_score": 0.04
-        },
-        {
-            "headline": "FirstFT: Marine Le Pen gears up for EU fight",
-            "summary": "Also in today’s newsletter: Saudi Aramco HQ attacked, and China’s exports surge",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/25c6e29b-f6e6-40a4-b9df-cd0883e9234f?syn-25a6b1a6=1",
-            "published": "Wed, 14 Oct 2026 10:02:13 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.722,
-            "signed_score": 0.099
         }
     ]
 }
