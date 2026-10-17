@@ -5,9 +5,19 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-17T12:50:48.367828+00:00",
+    "fetched_at": "2026-10-17T18:44:19.142463+00:00",
     "headline_count": 57,
     "headlines": [
+        {
+            "headline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+            "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 12:53:53 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.928,
+            "signed_score": -0.918
+        },
         {
             "headline": "Trump exempts Russia from further sanctions mandated by new law",
             "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
@@ -17,16 +27,6 @@
             "sentiment": "Negative",
             "confidence": 0.667,
             "signed_score": -0.518
-        },
-        {
-            "headline": "Trump’s press secretary Katie Zacharia fired after five days",
-            "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 01:29:51 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.948
         },
         {
             "headline": "Are we sleepwalking into World War III?",
@@ -99,6 +99,16 @@
             "signed_score": 0.855
         },
         {
+            "headline": "Israeli settlers attack European diplomats in the West Bank",
+            "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+            "published": "Sat, 17 Oct 2026 17:58:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.854,
+            "signed_score": -0.823
+        },
+        {
             "headline": "Houthis encircle new target in conflict with Saudi-backed forces",
             "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
             "section": "Top stories",
@@ -107,16 +117,6 @@
             "sentiment": "Negative",
             "confidence": 0.909,
             "signed_score": -0.892
-        },
-        {
-            "headline": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
-            "summary": "Washington Post journalist among those injured during violence in occupied territory",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 19:42:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.797,
-            "signed_score": -0.779
         },
         {
             "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
@@ -337,6 +337,16 @@
             "sentiment": "Neutral",
             "confidence": 0.546,
             "signed_score": -0.378
+        },
+        {
+            "headline": "Protesters clash with police as demonstrations erupt across France",
+            "summary": "Tens of thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 17:45:49 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.945,
+            "signed_score": -0.934
         },
         {
             "headline": "Trump has failed to listen to voters on inflation",
@@ -567,16 +577,6 @@
             "sentiment": "Negative",
             "confidence": 0.885,
             "signed_score": -0.866
-        },
-        {
-            "headline": "Fed’s October Beige Book points to higher inflation",
-            "summary": "Growth was largely in manufacturing sectors largely connected to AI",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/17eaf860-753a-4b0c-8d3c-8c771d735083",
-            "published": "Wed, 14 Oct 2026 20:51:56 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.615,
-            "signed_score": 0.186
         }
     ]
 }
