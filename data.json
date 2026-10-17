@@ -5,15 +5,15 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-17T06:54:48.184962+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-17T12:50:48.367828+00:00",
+    "headline_count": 57,
     "headlines": [
         {
             "headline": "Trump exempts Russia from further sanctions mandated by new law",
             "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
             "section": "Top stories",
             "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 02:31:59 GMT",
+            "published": "Sat, 17 Oct 2026 09:53:31 GMT",
             "sentiment": "Negative",
             "confidence": 0.667,
             "signed_score": -0.518
@@ -27,16 +27,6 @@
             "sentiment": "Negative",
             "confidence": 0.957,
             "signed_score": -0.948
-        },
-        {
-            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.546,
-            "signed_score": -0.464
         },
         {
             "headline": "Are we sleepwalking into World War III?",
@@ -99,24 +89,54 @@
             "signed_score": -0.941
         },
         {
-            "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-            "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+            "headline": "Rich make millions by flipping private jets",
+            "summary": "Strong demand for private air travel combined with production delays boosts prices",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 20:42:16 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.932
+            "link": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 20:00:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.907,
+            "signed_score": 0.855
         },
         {
-            "headline": "Oil hits five-month high of $110 on new escalation in Middle East",
-            "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
+            "headline": "Houthis encircle new target in conflict with Saudi-backed forces",
+            "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 22:57:43 GMT",
+            "link": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:30 GMT",
             "sentiment": "Negative",
-            "confidence": 0.803,
-            "signed_score": -0.646
+            "confidence": 0.909,
+            "signed_score": -0.892
+        },
+        {
+            "headline": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+            "summary": "Washington Post journalist among those injured during violence in occupied territory",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 19:42:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.797,
+            "signed_score": -0.779
+        },
+        {
+            "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
+            "summary": "Central Bank governor warns rapid development of AI is a major issue for financial stability",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 10:31:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.717,
+            "signed_score": -0.627
+        },
+        {
+            "headline": "Chart of the Week: The chip stock split",
+            "summary": "Losses across semi stocks have been unequal",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 09:30:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.936
         },
         {
             "headline": "UK dividend payments jump 14% in a year",
@@ -147,6 +167,26 @@
             "sentiment": "Positive",
             "confidence": 0.883,
             "signed_score": 0.871
+        },
+        {
+            "headline": "Oil hits five-month high of $110 on new escalation in Middle East",
+            "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 22:57:43 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.803,
+            "signed_score": -0.646
+        },
+        {
+            "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+            "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 20:42:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.932
         },
         {
             "headline": "Apple set for UK legal fight over iPhone tap-to-pay rules",
@@ -299,26 +339,6 @@
             "signed_score": -0.378
         },
         {
-            "headline": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
-            "summary": "Debt issued by AI infrastructure providers and neocloud companies such as CoreWeave has sunk to increasingly stressed levels",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 18:27:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.964
-        },
-        {
-            "headline": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
-            "summary": "Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 17:23:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.696,
-            "signed_score": -0.231
-        },
-        {
             "headline": "Trump has failed to listen to voters on inflation",
             "summary": "People elect presidents to fix problems, not to diagnose their causes",
             "section": "Global economy",
@@ -369,6 +389,16 @@
             "signed_score": -0.727
         },
         {
+            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.546,
+            "signed_score": -0.464
+        },
+        {
             "headline": "Bets on Fed rate hold in October strengthen after Warsh comments",
             "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
             "section": "Global economy",
@@ -407,6 +437,16 @@
             "sentiment": "Negative",
             "confidence": 0.917,
             "signed_score": -0.866
+        },
+        {
+            "headline": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
+            "summary": "Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
+            "published": "Thu, 15 Oct 2026 17:23:18 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.696,
+            "signed_score": -0.231
         },
         {
             "headline": "France and Germany to allow UK to join EU car policy if it aligns on China tariffs",
