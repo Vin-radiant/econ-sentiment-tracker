@@ -5,15 +5,25 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-17T00:57:32.675700+00:00",
-    "headline_count": 52,
+    "fetched_at": "2026-10-17T06:54:48.184962+00:00",
+    "headline_count": 53,
     "headlines": [
+        {
+            "headline": "Trump exempts Russia from further sanctions mandated by new law",
+            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 02:31:59 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.667,
+            "signed_score": -0.518
+        },
         {
             "headline": "Trump’s press secretary Katie Zacharia fired after five days",
             "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
             "section": "Top stories",
             "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 20:14:17 GMT",
+            "published": "Sat, 17 Oct 2026 01:29:51 GMT",
             "sentiment": "Negative",
             "confidence": 0.957,
             "signed_score": -0.948
@@ -29,44 +39,44 @@
             "signed_score": -0.464
         },
         {
-            "headline": "Alexandr Wang, Meta’s AI wunderkind",
-            "summary": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
+            "headline": "Are we sleepwalking into World War III?",
+            "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 16:31:25 GMT",
+            "link": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.886,
+            "signed_score": -0.863
+        },
+        {
+            "headline": "The Man City theory of politics",
+            "summary": "The tribalism of football fans parallels modern politics like nothing else",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
             "sentiment": "Neutral",
             "confidence": 0.919,
-            "signed_score": 0.021
+            "signed_score": 0.002
         },
         {
-            "headline": "US business leaders are waking up to the perils of plutopopulism",
-            "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
+            "headline": "The dress rehearsal for an AI reckoning",
+            "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
+            "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.702,
-            "signed_score": -0.024
+            "confidence": 0.592,
+            "signed_score": -0.365
         },
         {
-            "headline": "The secret fight around financial flows",
-            "summary": "Quicker responses to trade challenges mean companies can free up capital",
+            "headline": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+            "summary": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.507,
-            "signed_score": 0.462
-        },
-        {
-            "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-            "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 20:42:16 GMT",
+            "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 00:47:25 GMT",
             "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.932
+            "confidence": 0.586,
+            "signed_score": -0.446
         },
         {
             "headline": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
@@ -79,24 +89,24 @@
             "signed_score": -0.957
         },
         {
-            "headline": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-            "summary": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+            "headline": "‘Inflation will make people poor’: Airlines brace for years of pain",
+            "summary": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 14:58:54 GMT",
+            "link": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:11 GMT",
             "sentiment": "Negative",
-            "confidence": 0.928,
-            "signed_score": -0.912
+            "confidence": 0.953,
+            "signed_score": -0.941
         },
         {
-            "headline": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-            "summary": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
+            "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+            "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 07:36:24 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.582,
-            "signed_score": -0.281
+            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 20:42:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.932
         },
         {
             "headline": "Oil hits five-month high of $110 on new escalation in Middle East",
@@ -109,24 +119,34 @@
             "signed_score": -0.646
         },
         {
-            "headline": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
-            "summary": "Washington Post journalist among those injured during violence in occupied territory",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 19:42:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.797,
-            "signed_score": -0.779
+            "headline": "UK dividend payments jump 14% in a year",
+            "summary": "Banks and miners lead payouts to investors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.649,
+            "signed_score": 0.234
         },
         {
-            "headline": "India police detain ‘Cockroach’ leader again to head off new protests",
-            "summary": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 14:39:19 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.872,
-            "signed_score": -0.853
+            "headline": "Stocks are risky right now — but so are all the alternatives",
+            "summary": "The value of stocks can fall suddenly in a way that cash can’t. But introduce inflation and it’s a different equation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c0854b2a-9edd-4bd6-9495-526454033f42",
+            "published": "Sat, 17 Oct 2026 04:00:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.702,
+            "signed_score": -0.219
+        },
+        {
+            "headline": "SoftBank in talks to buy US security group Allied Universal",
+            "summary": "Masayoshi Son looks to increase pace of his bets on robotics and AI",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 02:07:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.883,
+            "signed_score": 0.871
         },
         {
             "headline": "Apple set for UK legal fight over iPhone tap-to-pay rules",
@@ -137,6 +157,16 @@
             "sentiment": "Negative",
             "confidence": 0.839,
             "signed_score": -0.823
+        },
+        {
+            "headline": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+            "summary": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 14:58:54 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.928,
+            "signed_score": -0.912
         },
         {
             "headline": "Lufthansa exploring sale of software assets in €1bn deal",
@@ -289,66 +319,6 @@
             "signed_score": -0.231
         },
         {
-            "headline": "Risk of an AI crunch for stock markets is rising",
-            "summary": "The tremor seen this week could be a foretaste of things to come",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 16:53:57 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.671,
-            "signed_score": -0.209
-        },
-        {
-            "headline": "In AI-dominated markets, LatAm debt is a diversifier",
-            "summary": "A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
-            "published": "Thu, 15 Oct 2026 15:51:35 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.947,
-            "signed_score": 0.932
-        },
-        {
-            "headline": "Mercuria adds first copper to US Project Vault stockpile",
-            "summary": "Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 15:43:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.69,
-            "signed_score": 0.668
-        },
-        {
-            "headline": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
-            "summary": "Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 14:19:54 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.769,
-            "signed_score": 0.686
-        },
-        {
-            "headline": "The future energy mix",
-            "summary": "Decades of policy have sought to diversify not only sources of oil and natural gas but the energy mix as a whole.",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d3a07d72-0f99-40b6-a1ad-97ecc91af81f",
-            "published": "Thu, 15 Oct 2026 13:31:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.831,
-            "signed_score": 0.151
-        },
-        {
-            "headline": "Private equity interest endangers London float of former DS Smith business",
-            "summary": "Lone Star and Atlas Holdings consider offers after owner International Paper announced plans to float the division in London",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1ca17b0c-24f3-4c54-94b9-0b0526941efe?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 13:13:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.948,
-            "signed_score": -0.939
-        },
-        {
             "headline": "Trump has failed to listen to voters on inflation",
             "summary": "People elect presidents to fix problems, not to diagnose their causes",
             "section": "Global economy",
@@ -409,6 +379,26 @@
             "signed_score": 0.795
         },
         {
+            "headline": "The secret fight around financial flows",
+            "summary": "Quicker responses to trade challenges mean companies can free up capital",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.507,
+            "signed_score": 0.462
+        },
+        {
+            "headline": "US business leaders are waking up to the perils of plutopopulism",
+            "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
+            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.702,
+            "signed_score": -0.024
+        },
+        {
             "headline": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
             "summary": "Lengthy period of higher costs would squeeze corporate margins and spur some companies to raise prices",
             "section": "Global economy",
@@ -437,6 +427,26 @@
             "sentiment": "Positive",
             "confidence": 0.877,
             "signed_score": 0.802
+        },
+        {
+            "headline": "In AI-dominated markets, LatAm debt is a diversifier",
+            "summary": "A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
+            "published": "Thu, 15 Oct 2026 15:51:35 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.947,
+            "signed_score": 0.932
+        },
+        {
+            "headline": "Mercuria adds first copper to US Project Vault stockpile",
+            "summary": "Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27?syn-25a6b1a6=1",
+            "published": "Thu, 15 Oct 2026 15:43:26 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.69,
+            "signed_score": 0.668
         },
         {
             "headline": "Who’s winning the trade war with China? You asked, we answered",
