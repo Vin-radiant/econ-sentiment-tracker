@@ -5,28 +5,38 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-16T18:52:15.399039+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-17T00:57:32.675700+00:00",
+    "headline_count": 52,
     "headlines": [
         {
             "headline": "Trump’s press secretary Katie Zacharia fired after five days",
             "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
             "section": "Top stories",
             "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 18:23:09 GMT",
+            "published": "Fri, 16 Oct 2026 20:14:17 GMT",
             "sentiment": "Negative",
             "confidence": 0.957,
             "signed_score": -0.948
         },
         {
-            "headline": "Fight night for Trump’s America",
-            "summary": "For politicians, celebrities and tycoons, the brutal Ultimate Fighting Championship has become a vote-winner and money-spinner like no other",
+            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
+            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.546,
+            "signed_score": -0.464
+        },
+        {
+            "headline": "Alexandr Wang, Meta’s AI wunderkind",
+            "summary": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 16:31:25 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.898,
-            "signed_score": 0.031
+            "confidence": 0.919,
+            "signed_score": 0.021
         },
         {
             "headline": "US business leaders are waking up to the perils of plutopopulism",
@@ -49,24 +59,24 @@
             "signed_score": 0.462
         },
         {
-            "headline": "Anthropic assigned highest junk credit rating in June",
-            "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+            "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+            "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:00:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.864,
-            "signed_score": 0.119
+            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 20:42:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.932
         },
         {
-            "headline": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
-            "summary": "CEO Dario Amodei has made bringing in external evaluators one of his main proposals to address safety concerns",
+            "headline": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
+            "summary": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 19:12:29 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.671,
-            "signed_score": 0.308
+            "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 21:03:42 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.968,
+            "signed_score": -0.957
         },
         {
             "headline": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
@@ -89,44 +99,34 @@
             "signed_score": -0.281
         },
         {
-            "headline": "US illegal border crossings from Mexico near 60-year low",
-            "summary": "About 98,708 apprehensions were recorded this year, down from peaks of more than 2mn people under Biden",
+            "headline": "Oil hits five-month high of $110 on new escalation in Middle East",
+            "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e98c5079-0c9a-4747-afa7-7bc9725795cd?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 18:30:55 GMT",
+            "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 22:57:43 GMT",
             "sentiment": "Negative",
-            "confidence": 0.976,
-            "signed_score": -0.969
+            "confidence": 0.803,
+            "signed_score": -0.646
         },
         {
-            "headline": "Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters",
-            "summary": "Roadster makes debut after decade in development as EV maker tries to revive image as brash innovator",
+            "headline": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+            "summary": "Washington Post journalist among those injured during violence in occupied territory",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 02:41:40 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.519,
-            "signed_score": 0.454
+            "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 19:42:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.797,
+            "signed_score": -0.779
         },
         {
-            "headline": "Starlink spectrum deal piles Elon Musk’s plate ever higher",
-            "summary": "Move may be part of a bigger plan but it spells even more capital expenditure at a company already spending beyond its means",
+            "headline": "India police detain ‘Cockroach’ leader again to head off new protests",
+            "summary": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 12:15:35 GMT",
+            "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 14:39:19 GMT",
             "sentiment": "Negative",
-            "confidence": 0.508,
-            "signed_score": -0.055
-        },
-        {
-            "headline": "Treasuries head for big weekly gains as AI jitters halt bond rout",
-            "summary": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 16:55:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.918,
-            "signed_score": -0.854
+            "confidence": 0.872,
+            "signed_score": -0.853
         },
         {
             "headline": "Apple set for UK legal fight over iPhone tap-to-pay rules",
@@ -207,6 +207,16 @@
             "sentiment": "Negative",
             "confidence": 0.955,
             "signed_score": -0.938
+        },
+        {
+            "headline": "Anthropic assigned highest junk credit rating in June",
+            "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+            "published": "Fri, 16 Oct 2026 04:00:18 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.864,
+            "signed_score": 0.119
         },
         {
             "headline": "Why is the fintech boom failing to improve fin-lit?",
@@ -339,16 +349,6 @@
             "signed_score": -0.939
         },
         {
-            "headline": "Second activist pushes for sale of UK self-storage company Big Yellow",
-            "summary": "Irenic Capital takes 4% stake in FTSE 250 real estate group and joins Ancora in lobbying for a sale",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0d33f7c8-91e6-4a65-bf13-6447de9d2097?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 11:43:57 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.898,
-            "signed_score": 0.063
-        },
-        {
             "headline": "Trump has failed to listen to voters on inflation",
             "summary": "People elect presidents to fix problems, not to diagnose their causes",
             "section": "Global economy",
@@ -397,16 +397,6 @@
             "sentiment": "Negative",
             "confidence": 0.768,
             "signed_score": -0.727
-        },
-        {
-            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.546,
-            "signed_score": -0.464
         },
         {
             "headline": "Bets on Fed rate hold in October strengthen after Warsh comments",
