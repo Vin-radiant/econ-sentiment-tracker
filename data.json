@@ -5,58 +5,68 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-18T00:57:41.491956+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-18T06:54:15.798834+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-            "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+            "headline": "America’s $10tn AI infrastructure boom is starting to fray",
+            "summary": "A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 12:53:53 GMT",
+            "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.928,
-            "signed_score": -0.918
+            "confidence": 0.774,
+            "signed_score": -0.752
         },
         {
-            "headline": "Trump exempts Russia from further sanctions mandated by new law",
-            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+            "headline": "Global economy set for AI-driven surge, FT survey suggests",
+            "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 09:53:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.667,
-            "signed_score": -0.518
+            "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.931,
+            "signed_score": 0.914
         },
         {
-            "headline": "Are we sleepwalking into World War III?",
-            "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
+            "headline": "Anthropic turns to lawyers to help AI agents strike deals",
+            "summary": "Tech companies are being forced to confront the rules of negotiation when machines act on humans’ behalf",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:11 GMT",
+            "link": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.886,
-            "signed_score": -0.863
+            "confidence": 0.86,
+            "signed_score": -0.849
         },
         {
-            "headline": "The Man City theory of politics",
-            "summary": "The tribalism of football fans parallels modern politics like nothing else",
+            "headline": "The world’s fastest-growing cities are not where you think",
+            "summary": "The continent’s urban centres are set to expand by 19mn people annually, or by nearly two Londons a year. But urbanisation is not following a familiar path",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "link": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.919,
-            "signed_score": 0.002
+            "confidence": 0.801,
+            "signed_score": 0.161
         },
         {
-            "headline": "Why have screens replaced socialising?",
-            "summary": "The economics of why we increasingly avoid the company of both other humans and books",
+            "headline": "The Trump administration has entered its utter shambles era",
+            "summary": "A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "link": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.955,
+            "signed_score": -0.946
+        },
+        {
+            "headline": "Europe must liberate Belgium from its huge Russian assets risk",
+            "summary": "What happens if the US tries to take control of the hundreds of billions blocked in Euroclear?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.901,
-            "signed_score": -0.035
+            "confidence": 0.517,
+            "signed_score": -0.433
         },
         {
             "headline": "Protests across France spiral into riots and looting",
@@ -69,44 +79,54 @@
             "signed_score": -0.947
         },
         {
-            "headline": "The dress rehearsal for an AI reckoning",
-            "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
+            "headline": "Russian ‘shadow fleet’ fakes locations to appear in two places at once",
+            "summary": "New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.592,
-            "signed_score": -0.365
+            "link": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.568,
+            "signed_score": -0.512
         },
         {
-            "headline": "Israeli settlers attack European diplomats in the West Bank",
-            "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+            "headline": "Latvia calls for visa ban on Russians",
+            "summary": "Prime Minister Andris Kulbergs links travellers to escalating hybrid threats from Moscow",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-            "published": "Sat, 17 Oct 2026 17:58:01 GMT",
+            "link": "https://www.ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.854,
-            "signed_score": -0.823
+            "confidence": 0.932,
+            "signed_score": -0.915
         },
         {
-            "headline": "Houthis encircle new target in conflict with Saudi-backed forces",
-            "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
+            "headline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+            "summary": "Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:30 GMT",
+            "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 02:35:14 GMT",
             "sentiment": "Negative",
-            "confidence": 0.909,
-            "signed_score": -0.892
+            "confidence": 0.948,
+            "signed_score": -0.939
         },
         {
-            "headline": "Corporate donations flood US attorneys-general election races",
-            "summary": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies",
+            "headline": "Listings in south-east Asia gain momentum with $1bn IPO",
+            "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 10:00:02 GMT",
+            "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 01:00:06 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.849,
+            "signed_score": 0.834
+        },
+        {
+            "headline": "‘Cash is making a comeback’ in digital India",
+            "summary": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:11:11 GMT",
             "sentiment": "Negative",
-            "confidence": 0.586,
-            "signed_score": -0.457
+            "confidence": 0.937,
+            "signed_score": -0.915
         },
         {
             "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
@@ -117,6 +137,16 @@
             "sentiment": "Negative",
             "confidence": 0.717,
             "signed_score": -0.627
+        },
+        {
+            "headline": "Trump exempts Russia from further sanctions mandated by new law",
+            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 09:53:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.667,
+            "signed_score": -0.518
         },
         {
             "headline": "Chart of the Week: The chip stock split",
@@ -137,6 +167,16 @@
             "sentiment": "Neutral",
             "confidence": 0.649,
             "signed_score": 0.234
+        },
+        {
+            "headline": "The dress rehearsal for an AI reckoning",
+            "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.592,
+            "signed_score": -0.365
         },
         {
             "headline": "Stocks are risky right now — but so are all the alternatives",
@@ -319,24 +359,14 @@
             "signed_score": -0.916
         },
         {
-            "headline": "Harvard’s endowment returns surge on back of AI and SpaceX investments",
-            "summary": "Ivy League university’s fund gains 27.1%, boosting total assets to $68bn as private capital holdings rebound",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 20:06:22 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.947,
-            "signed_score": 0.921
-        },
-        {
-            "headline": "The AI boom stumbles",
-            "summary": "Should investors prepare for an AI bust? And if so, how?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 20:00:00 GMT",
+            "headline": "Is American democracy safe? Martin Wolf on the US midterms",
+            "summary": "The FT’s chief economics commentator speaks to former Republican adviser Robert Kagan",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/747f16db-17fd-49d0-b109-981274333feb?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.546,
-            "signed_score": -0.378
+            "confidence": 0.928,
+            "signed_score": 0.01
         },
         {
             "headline": "Trump has failed to listen to voters on inflation",
@@ -547,26 +577,6 @@
             "sentiment": "Negative",
             "confidence": 0.95,
             "signed_score": -0.937
-        },
-        {
-            "headline": "Is the K-shaped economy really more of an E?",
-            "summary": "America remains a very unequal place, but on many metrics inequality is not increasing",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:29 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.824,
-            "signed_score": -0.029
-        },
-        {
-            "headline": "Zelenskyy doesn’t mince words about Trump",
-            "summary": "Ukrainian president calls Trump-Putin relationship a ‘mistake’",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/a8b8965d-0e90-4226-89ad-14ba5e6ec10a?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 04:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.885,
-            "signed_score": -0.866
         }
     ]
 }
