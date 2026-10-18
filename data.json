@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-17T18:44:19.142463+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-10-18T00:57:41.491956+00:00",
+    "headline_count": 56,
     "headlines": [
         {
             "headline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -49,6 +49,26 @@
             "signed_score": 0.002
         },
         {
+            "headline": "Why have screens replaced socialising?",
+            "summary": "The economics of why we increasingly avoid the company of both other humans and books",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.901,
+            "signed_score": -0.035
+        },
+        {
+            "headline": "Protests across France spiral into riots and looting",
+            "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 22:49:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.947
+        },
+        {
             "headline": "The dress rehearsal for an AI reckoning",
             "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
             "section": "Top stories",
@@ -57,46 +77,6 @@
             "sentiment": "Neutral",
             "confidence": 0.592,
             "signed_score": -0.365
-        },
-        {
-            "headline": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-            "summary": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 00:47:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.586,
-            "signed_score": -0.446
-        },
-        {
-            "headline": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
-            "summary": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 21:03:42 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.968,
-            "signed_score": -0.957
-        },
-        {
-            "headline": "‘Inflation will make people poor’: Airlines brace for years of pain",
-            "summary": "Carriers fear customers may be unwilling to stomach more price rises if energy costs stoke further inflation",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.953,
-            "signed_score": -0.941
-        },
-        {
-            "headline": "Rich make millions by flipping private jets",
-            "summary": "Strong demand for private air travel combined with production delays boosts prices",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 20:00:07 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.907,
-            "signed_score": 0.855
         },
         {
             "headline": "Israeli settlers attack European diplomats in the West Bank",
@@ -117,6 +97,16 @@
             "sentiment": "Negative",
             "confidence": 0.909,
             "signed_score": -0.892
+        },
+        {
+            "headline": "Corporate donations flood US attorneys-general election races",
+            "summary": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 10:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.586,
+            "signed_score": -0.457
         },
         {
             "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
@@ -167,6 +157,16 @@
             "sentiment": "Positive",
             "confidence": 0.883,
             "signed_score": 0.871
+        },
+        {
+            "headline": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+            "summary": "High borrowing costs complicate AI lab’s goal of achieving investment-grade status",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 00:47:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.586,
+            "signed_score": -0.446
         },
         {
             "headline": "Oil hits five-month high of $110 on new escalation in Middle East",
@@ -337,16 +337,6 @@
             "sentiment": "Neutral",
             "confidence": 0.546,
             "signed_score": -0.378
-        },
-        {
-            "headline": "Protesters clash with police as demonstrations erupt across France",
-            "summary": "Tens of thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 17:45:49 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.945,
-            "signed_score": -0.934
         },
         {
             "headline": "Trump has failed to listen to voters on inflation",
