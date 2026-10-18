@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-18T06:54:15.798834+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-10-18T12:50:42.089050+00:00",
+    "headline_count": 59,
     "headlines": [
         {
             "headline": "America’s $10tn AI infrastructure boom is starting to fray",
@@ -59,64 +59,74 @@
             "signed_score": -0.946
         },
         {
-            "headline": "Europe must liberate Belgium from its huge Russian assets risk",
-            "summary": "What happens if the US tries to take control of the hundreds of billions blocked in Euroclear?",
+            "headline": "Not every billionaire is a policy failure",
+            "summary": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.517,
-            "signed_score": -0.433
-        },
-        {
-            "headline": "Protests across France spiral into riots and looting",
-            "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 22:49:57 GMT",
+            "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 11:00:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.947
+            "confidence": 0.802,
+            "signed_score": -0.787
         },
         {
-            "headline": "Russian ‘shadow fleet’ fakes locations to appear in two places at once",
+            "headline": "France reels after ‘unprecedented’ violent riots",
+            "summary": "Government under pressure after struggle to contain attacks on stores and official buildings",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 11:03:32 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.914,
+            "signed_score": -0.885
+        },
+        {
+            "headline": "Could Republicans prove the pollsters wrong in the midterms?",
+            "summary": "Party insiders say past elections show predictions of a Democratic wave in Congress are overstated",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b2299174-fb78-4edf-a358-8cae837f8d7b?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 10:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.895,
+            "signed_score": -0.877
+        },
+        {
+            "headline": "Trump’s losing battle with green energy",
+            "summary": "The Iran war and AI boom are strengthening the case for clean power, despite the president’s efforts to curb it",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b263bbe1-cd0c-4508-9ec8-07cb8a9c2a02?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 10:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.933,
+            "signed_score": 0.901
+        },
+        {
+            "headline": "St Petersburg endures biggest Ukrainian drone attack",
+            "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 12:30:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.896,
+            "signed_score": -0.874
+        },
+        {
+            "headline": "Russian ships fake locations to appear in two places at once",
             "summary": "New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers",
             "section": "Top stories",
             "link": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
             "published": "Sun, 18 Oct 2026 04:00:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.568,
-            "signed_score": -0.512
+            "confidence": 0.827,
+            "signed_score": -0.789
         },
         {
-            "headline": "Latvia calls for visa ban on Russians",
-            "summary": "Prime Minister Andris Kulbergs links travellers to escalating hybrid threats from Moscow",
+            "headline": "Accenture looks to sell Chinese operations for up to $1.5bn",
+            "summary": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
+            "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 10:00:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.915
-        },
-        {
-            "headline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-            "summary": "Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 02:35:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.948,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "Listings in south-east Asia gain momentum with $1bn IPO",
-            "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 01:00:06 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.849,
-            "signed_score": 0.834
+            "confidence": 0.961,
+            "signed_score": -0.949
         },
         {
             "headline": "‘Cash is making a comeback’ in digital India",
@@ -127,6 +137,16 @@
             "sentiment": "Negative",
             "confidence": 0.937,
             "signed_score": -0.915
+        },
+        {
+            "headline": "Listings in south-east Asia gain momentum with $1bn IPO",
+            "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 01:00:06 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.849,
+            "signed_score": 0.834
         },
         {
             "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
@@ -359,6 +379,16 @@
             "signed_score": -0.916
         },
         {
+            "headline": "Will Meta’s earnings restore confidence in the AI boom?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7c2e889e-2eb5-4c62-821b-1a7f88c13d05?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 11:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.895,
+            "signed_score": 0.072
+        },
+        {
             "headline": "Is American democracy safe? Martin Wolf on the US midterms",
             "summary": "The FT’s chief economics commentator speaks to former Republican adviser Robert Kagan",
             "section": "Global economy",
@@ -367,6 +397,16 @@
             "sentiment": "Neutral",
             "confidence": 0.928,
             "signed_score": 0.01
+        },
+        {
+            "headline": "Protests across France spiral into riots and looting",
+            "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+            "published": "Sat, 17 Oct 2026 22:49:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.947
         },
         {
             "headline": "Trump has failed to listen to voters on inflation",
@@ -557,26 +597,6 @@
             "sentiment": "Positive",
             "confidence": 0.807,
             "signed_score": 0.643
-        },
-        {
-            "headline": "CPI comes in hot, AI goes cold",
-            "summary": "Plus: the EM index is just an AI bet now",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/789307ae-5109-465c-9b79-7ce71308f0d2?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 05:30:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.906,
-            "signed_score": -0.027
-        },
-        {
-            "headline": "US inflation again set to be a crucial factor for the midterms",
-            "summary": "Donald Trump was re-elected on the back of inflation anger, and his party is now in danger of losing control of the House and Senate for the same reason",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/1a125f04-4de5-4840-a580-81ff06dc0c40",
-            "published": "Thu, 15 Oct 2026 04:30:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.95,
-            "signed_score": -0.937
         }
     ]
 }
