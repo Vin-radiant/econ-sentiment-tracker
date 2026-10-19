@@ -5,38 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-19T00:58:52.316370+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-19T07:04:37.180268+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "US threatens Europe over Starlink restrictions",
-            "summary": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+            "headline": "Rising interest rates derail property recovery as buyers recut deals",
+            "summary": "‘Dire’ mood in sector as surging bond yields threaten deals agreed just a few months ago",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 16:00:00 GMT",
+            "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.93,
-            "signed_score": -0.917
-        },
-        {
-            "headline": "St Petersburg endures biggest Ukrainian drone attack",
-            "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 18:30:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.896,
-            "signed_score": -0.874
-        },
-        {
-            "headline": "Russian ships fake locations to appear in two places at once",
-            "summary": "New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.827,
-            "signed_score": -0.789
+            "confidence": 0.96,
+            "signed_score": -0.943
         },
         {
             "headline": "Macron faces political firestorm after riots",
@@ -49,64 +29,114 @@
             "signed_score": -0.908
         },
         {
-            "headline": "Trump’s bid to make America cheap again has failed",
-            "summary": "Voters are increasingly linking rising energy prices to the administration’s policies",
+            "headline": "Hollywood recasts tech tycoons as bad billionaires",
+            "summary": "This new twist may portend a backlash against wealth creation in America",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 15:00:00 GMT",
+            "link": "https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:15 GMT",
             "sentiment": "Negative",
-            "confidence": 0.562,
-            "signed_score": -0.475
+            "confidence": 0.79,
+            "signed_score": -0.75
         },
         {
-            "headline": "Not every billionaire is a policy failure",
-            "summary": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
+            "headline": "Americans are unhappy. How will they vote in the midterms?",
+            "summary": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of the US midterm elections",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 11:00:09 GMT",
+            "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.802,
-            "signed_score": -0.787
+            "confidence": 0.93,
+            "signed_score": -0.915
         },
         {
-            "headline": "France reels after ‘unprecedented’ violence from protesters",
-            "summary": "Government under pressure after struggle to contain attacks on stores and official buildings",
+            "headline": "China’s economy picks up pace at 4.5% growth",
+            "summary": "Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 19:52:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.914,
-            "signed_score": -0.883
-        },
-        {
-            "headline": "Evercore appoints co-presidents for the first time in leadership reshuffle",
-            "summary": "Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 20:01:48 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.938,
-            "signed_score": -0.007
-        },
-        {
-            "headline": "US army chief in Asia calls for show of enhanced military muscle",
-            "summary": "General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 19:00:01 GMT",
+            "link": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 05:03:27 GMT",
             "sentiment": "Positive",
-            "confidence": 0.886,
-            "signed_score": 0.864
+            "confidence": 0.938,
+            "signed_score": 0.908
         },
         {
-            "headline": "Trump to begin transforming historic golf course despite court order",
-            "summary": "Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image",
+            "headline": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
+            "summary": "Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 22:20:17 GMT",
+            "link": "https://www.ft.com/content/f3127b4f-d33a-4431-acff-021829f3aa72?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:15 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.95
+        },
+        {
+            "headline": "US threatens European companies over Starlink restrictions",
+            "summary": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 16:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.929,
+            "signed_score": -0.917
+        },
+        {
+            "headline": "Anthropic commits 5% of shares to ‘public benefit’ fund",
+            "summary": "AI start-up has faced growing public backlash over safety and economic concerns",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 01:31:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.907,
+            "signed_score": -0.867
+        },
+        {
+            "headline": "‘Frenzy’ in Australian deals as investors swoop on cheap assets",
+            "summary": "EQT strikes $6.5bn deal for waste management group and Dai-ichi Life targets wealth manager",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c5bbb2a7-e00e-4e20-9db3-f4d00504857a?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 05:28:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.41,
+            "signed_score": -0.022
+        },
+        {
+            "headline": "Investors turn on data centres",
+            "summary": "Plus, Thames Water creditors near a deal, French stocks trail their peers and Hokusai at Dulwich Picture Gallery",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5970614a-b1f7-4b4e-b1e5-6038e1dde654?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 05:00:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.876,
-            "signed_score": 0.1
+            "confidence": 0.709,
+            "signed_score": 0.141
+        },
+        {
+            "headline": "Private equity group Charlesbank closes one of the biggest law firm deals",
+            "summary": "Stake in Wood Smith Henning & Berman could herald wave of investments in US liability defence firms",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f7b5695c-d326-427c-91a5-18b5a9e4567f?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.767,
+            "signed_score": 0.14
+        },
+        {
+            "headline": "Rise of crypto vaults channels billions of dollars into risky lending",
+            "summary": "New vehicle in which ‘curators’ act like fund managers has attracted the attention of regulators",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:00:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.85,
+            "signed_score": 0.126
+        },
+        {
+            "headline": "Private equity finds next Asian frontier",
+            "summary": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 01:30:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.874,
+            "signed_score": 0.103
         },
         {
             "headline": "US rate rises are being amplified in global markets",
@@ -299,64 +329,24 @@
             "signed_score": -0.54
         },
         {
-            "headline": "Sizing CoreWeave’s ‘unlimited’ insurance capital",
-            "summary": "Quite big, but still quite far away",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6b9b0cb6-2d47-46e4-bc00-febb182a5af7",
-            "published": "Fri, 16 Oct 2026 10:24:31 GMT",
+            "headline": "Has America’s wave of anti-globalisation populism peaked?",
+            "summary": "When voters turn, leaders follow",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ba3b9244-bf94-4c3f-a89b-b761488fd71d",
+            "published": "Mon, 19 Oct 2026 05:00:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": 0.105
+            "confidence": 0.888,
+            "signed_score": -0.033
         },
         {
-            "headline": "Hiding from the everything trade",
-            "summary": "Unhedged readers on how to hedge AI risk",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6533c873-29df-453b-9ac4-7b17e5a3576f?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 05:30:07 GMT",
+            "headline": "FirstFT: Bank of England scrutinises Barclays",
+            "summary": "Also in today’s newsletter: French riots and Europe’s Starlink curbs",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/76117a3b-2cd6-481b-b485-4b743627589d?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 04:32:11 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.931,
-            "signed_score": 0.002
-        },
-        {
-            "headline": "So. About next year’s earnings . . .",
-            "summary": "Beat IT",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d36787c1-f0b0-4445-8237-90eb4d521081",
-            "published": "Fri, 16 Oct 2026 05:00:08 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.876,
-            "signed_score": 0.85
-        },
-        {
-            "headline": "The data centre IPO debacle that sparked a market meltdown",
-            "summary": "Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:54:52 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.938
-        },
-        {
-            "headline": "Anthropic assigned highest junk credit rating in June",
-            "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:00:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.864,
-            "signed_score": 0.119
-        },
-        {
-            "headline": "Why is the fintech boom failing to improve fin-lit?",
-            "summary": "What good is $1tn of investment if financial literacy levels are falling?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4dfcf1ba-0b8e-4198-b0a4-e975ebde9066",
-            "published": "Fri, 16 Oct 2026 04:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.878,
-            "signed_score": -0.855
+            "confidence": 0.901,
+            "signed_score": -0.031
         },
         {
             "headline": "Crunch time for Brazilian politics",
@@ -367,6 +357,26 @@
             "sentiment": "Neutral",
             "confidence": 0.77,
             "signed_score": -0.125
+        },
+        {
+            "headline": "Trump’s bid to make America cheap again has failed",
+            "summary": "Voters are increasingly linking rising energy prices to the administration’s policies",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 15:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.562,
+            "signed_score": -0.475
+        },
+        {
+            "headline": "Not every billionaire is a policy failure",
+            "summary": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 11:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.802,
+            "signed_score": -0.787
         },
         {
             "headline": "Will Meta’s earnings restore confidence in the AI boom?",
@@ -537,36 +547,6 @@
             "sentiment": "Positive",
             "confidence": 0.877,
             "signed_score": 0.802
-        },
-        {
-            "headline": "In AI-dominated markets, LatAm debt is a diversifier",
-            "summary": "A series of ostensibly market-friendly electoral victories across the region has boosted local currency bonds",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/086b7a80-acdd-48d2-bd5c-a04bad812264",
-            "published": "Thu, 15 Oct 2026 15:51:35 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.947,
-            "signed_score": 0.932
-        },
-        {
-            "headline": "Mercuria adds first copper to US Project Vault stockpile",
-            "summary": "Trading house confirms 12,000-tonne delivery to Washington’s new $12bn reserve of strategic metals and minerals",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/37d24217-acd8-4f84-a298-4f1ccc359a27?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 15:43:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.69,
-            "signed_score": 0.668
-        },
-        {
-            "headline": "Who’s winning the trade war with China? You asked, we answered",
-            "summary": "Senior trade writer Alan Beattie and economics columnist Soumaya Keynes replied to reader questions",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/0a39fcdb-860c-4739-8454-21fb429f6336?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 12:00:29 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.898,
-            "signed_score": 0.034
         }
     ]
 }
