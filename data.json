@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-18T18:45:38.355792+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-10-19T00:58:52.316370+00:00",
+    "headline_count": 56,
     "headlines": [
         {
             "headline": "US threatens Europe over Starlink restrictions",
@@ -39,14 +39,14 @@
             "signed_score": -0.789
         },
         {
-            "headline": "The world’s fastest-growing cities are not where you think",
-            "summary": "The continent’s urban centres are set to expand by 19mn people annually, or by nearly two Londons a year. But urbanisation is not following a familiar path",
+            "headline": "Macron faces political firestorm after riots",
+            "summary": "Worst street violence in years comes six months before one of Europe’s most closely watched elections",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.801,
-            "signed_score": 0.161
+            "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 19:55:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.921,
+            "signed_score": -0.908
         },
         {
             "headline": "Trump’s bid to make America cheap again has failed",
@@ -69,64 +69,54 @@
             "signed_score": -0.787
         },
         {
-            "headline": "France reels after ‘unprecedented’ violent riots",
+            "headline": "France reels after ‘unprecedented’ violence from protesters",
             "summary": "Government under pressure after struggle to contain attacks on stores and official buildings",
             "section": "Top stories",
             "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 14:15:40 GMT",
+            "published": "Sun, 18 Oct 2026 19:52:26 GMT",
             "sentiment": "Negative",
             "confidence": 0.914,
-            "signed_score": -0.885
+            "signed_score": -0.883
         },
         {
-            "headline": "America’s $10tn AI infrastructure boom is starting to fray",
-            "summary": "A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+            "headline": "Evercore appoints co-presidents for the first time in leadership reshuffle",
+            "summary": "Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.774,
-            "signed_score": -0.752
+            "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 20:01:48 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.938,
+            "signed_score": -0.007
         },
         {
-            "headline": "Global economy set for AI-driven surge, FT survey suggests",
-            "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
+            "headline": "US army chief in Asia calls for show of enhanced military muscle",
+            "summary": "General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
+            "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 19:00:01 GMT",
             "sentiment": "Positive",
-            "confidence": 0.931,
-            "signed_score": 0.914
+            "confidence": 0.886,
+            "signed_score": 0.864
         },
         {
-            "headline": "Could Republicans prove the pollsters wrong in the midterms?",
-            "summary": "Party insiders say past elections show predictions of a Democratic wave in Congress are overstated",
+            "headline": "Trump to begin transforming historic golf course despite court order",
+            "summary": "Renovation of century-old East Potomac course is part of president’s effort to remodel Washington in his own image",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b2299174-fb78-4edf-a358-8cae837f8d7b?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.895,
-            "signed_score": -0.877
+            "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 22:20:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.876,
+            "signed_score": 0.1
         },
         {
-            "headline": "The Trump administration has entered its utter shambles era",
-            "summary": "A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:00:18 GMT",
+            "headline": "US rate rises are being amplified in global markets",
+            "summary": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
+            "published": "Sun, 18 Oct 2026 23:01:02 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.946
-        },
-        {
-            "headline": "Accenture looks to sell Chinese operations for up to $1.5bn",
-            "summary": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.949
+            "confidence": 0.925,
+            "signed_score": -0.888
         },
         {
             "headline": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
@@ -369,14 +359,14 @@
             "signed_score": -0.855
         },
         {
-            "headline": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
-            "summary": "A White House desperate to lower fuel costs ahead of US midterm elections could allow such vessels back into global trade",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 21:10:51 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.798,
-            "signed_score": 0.711
+            "headline": "Crunch time for Brazilian politics",
+            "summary": "South America’s largest economy holds a presidential run-off, Albertans vote in an unofficial independence referendum, key UK economic data ahead of Budget",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/783dbcdc-fe1e-4539-a740-3d2e4b3d5fc1?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 17:15:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.77,
+            "signed_score": -0.125
         },
         {
             "headline": "Will Meta’s earnings restore confidence in the AI boom?",
@@ -397,6 +387,16 @@
             "sentiment": "Neutral",
             "confidence": 0.928,
             "signed_score": 0.01
+        },
+        {
+            "headline": "Global economy set for AI-driven surge, FT survey suggests",
+            "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+            "published": "Sun, 18 Oct 2026 04:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.931,
+            "signed_score": 0.914
         },
         {
             "headline": "Protests across France spiral into riots and looting",
@@ -567,26 +567,6 @@
             "sentiment": "Neutral",
             "confidence": 0.898,
             "signed_score": 0.034
-        },
-        {
-            "headline": "Macroeconomic policy must now do many things at once",
-            "summary": "Is it possible to contain debt and inflation without damaging the investment needed to restructure the economy?",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/825b0ed4-060e-49dd-8199-b6accc393ff1?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 10:00:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.694,
-            "signed_score": -0.033
-        },
-        {
-            "headline": "FirstFT: Ukraine to resume strikes on Russian refineries, Zelenskyy says",
-            "summary": "Also in today’s newsletter: tech sell-off deepens and Anthropic’s revenues increase more slowly than expected",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c8511d8c-4889-4b38-bcce-f31044ef5b30?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 09:57:52 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.622,
-            "signed_score": 0.276
         }
     ]
 }
