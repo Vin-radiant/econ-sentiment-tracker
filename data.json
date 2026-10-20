@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-20T06:58:46.631205+00:00",
-    "headline_count": 52,
+    "fetched_at": "2026-10-20T12:59:02.131004+00:00",
+    "headline_count": 54,
     "headlines": [
         {
             "headline": "AI debt worries spark surge in default insurance trading",
@@ -19,84 +19,154 @@
             "signed_score": -0.002
         },
         {
-            "headline": "South Korean data centre builder tumbles 33% on trading debut",
+            "headline": "South Korean data centre builder tumbles 32% on trading debut",
             "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
             "section": "Top stories",
             "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 06:32:10 GMT",
+            "published": "Tue, 20 Oct 2026 07:03:21 GMT",
             "sentiment": "Negative",
             "confidence": 0.967,
             "signed_score": -0.955
         },
         {
-            "headline": "Britain’s £100,000 tax trap",
-            "summary": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
+            "headline": "The Dubai firm that promised 30% returns — then stopped paying",
+            "summary": "Prospective clients who flocked to the Burj Khalifa were promised double-digit returns but thousands are now facing losses",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:12 GMT",
+            "link": "https://www.ft.com/content/83be85af-1cc5-4661-954e-f671e8f3aa3b?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:11 GMT",
             "sentiment": "Negative",
-            "confidence": 0.945,
-            "signed_score": -0.935
-        },
-        {
-            "headline": "Can Africa outgrow China?",
-            "summary": "IMF says continent’s GDP to expand faster than China for first time in decades as it beats worst expectations following Iran war",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.952,
-            "signed_score": 0.936
-        },
-        {
-            "headline": "Musk vs the Swedish unions — who won?",
-            "summary": "Sweden has one of the most pro-technology labour movements anywhere in the world",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:30 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.798,
-            "signed_score": 0.106
-        },
-        {
-            "headline": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
-            "summary": "Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 00:14:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.834,
-            "signed_score": -0.071
-        },
-        {
-            "headline": "Alberta voters set to reject separation from Canada, early results show",
-            "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 05:59:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.95,
+            "confidence": 0.942,
             "signed_score": -0.933
         },
         {
-            "headline": "Iran war tilts balance of global oil power towards Americas",
-            "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
+            "headline": "Putin’s American friends",
+            "summary": "‘Realist’ critics of Nato echo Moscow’s talking points on Ukraine",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.91,
-            "signed_score": 0.855
+            "link": "https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:26:19 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.834,
+            "signed_score": 0.018
         },
         {
-            "headline": "Louis Vuitton and Hermès among luxury retailers looted in French riots",
-            "summary": "Authorities are working to stop stolen goods being resold online through platforms such as Vinted, Amazon and eBay",
+            "headline": "The hidden water crisis beneath the American west",
+            "summary": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:30 GMT",
+            "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.515,
+            "signed_score": -0.425
+        },
+        {
+            "headline": "Trump envoys to hold fresh Ukraine talks in Norway",
+            "summary": "Steve Witkoff and Jared Kushner to meet Volodymyr Zelenskyy and other European leaders on Tuesday",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 09:31:28 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.921,
+            "signed_score": 0.003
+        },
+        {
+            "headline": "France considers new curfews as restrictions quell unrest",
+            "summary": "Italy also expected to approve new security measures to combat violent rioters",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 08:40:54 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.453,
+            "signed_score": 0.09
+        },
+        {
+            "headline": "Insurers face losses as riots in France become ‘like natural catastrophes’",
+            "summary": "Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e0b2e8f1-6d3e-4647-9370-e7b7b7e7fd42?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 11:34:45 GMT",
             "sentiment": "Negative",
-            "confidence": 0.909,
-            "signed_score": -0.893
+            "confidence": 0.963,
+            "signed_score": -0.953
+        },
+        {
+            "headline": "Alberta voters reject separation from Canada, early results show",
+            "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:09:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.953,
+            "signed_score": -0.937
+        },
+        {
+            "headline": "UK to deploy jets to defend Saudi Arabia against Houthi attacks",
+            "summary": "Move to defend ally comes as kingdom has been pummelled by strikes from the militant group",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/59a3252c-3ea6-4e1e-bcc7-fef15cce16da?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:45:53 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.779,
+            "signed_score": -0.647
+        },
+        {
+            "headline": "Gilt market catches up with peers as investor worries over Budget ease",
+            "summary": "UK bonds were initially hard hit after onset of Iran war but have since outperformed G7 economies as traders’ concerns shift to France",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 11:54:05 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.778,
+            "signed_score": 0.58
+        },
+        {
+            "headline": "Is CoreWeave the Silicon Valley Bank of 2026?",
+            "summary": "Perhaps, but not in the way you might think",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
+            "published": "Tue, 20 Oct 2026 11:50:27 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.932,
+            "signed_score": 0.005
+        },
+        {
+            "headline": "Do not worry too much about European gas prices",
+            "summary": "Wholesale values have hit new highs this year but the pain should be transitory",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/31df1d21-159c-4c24-be0a-566c00c2d100?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 11:30:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.594,
+            "signed_score": 0.247
+        },
+        {
+            "headline": "How the Hormuz crisis could trigger a global ‘food shock’",
+            "summary": "Report issues stark warning over the combined impact of geopolitical conflicts and one of the strongest ever El Niño events",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/52fab4c1-0561-43ce-bc3c-0d43f6e217c5?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 11:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.777,
+            "signed_score": -0.73
+        },
+        {
+            "headline": "HSBC reviews Palantir holding in $9bn Islamic fund",
+            "summary": "UK workplace pension schemes raise concerns about inclusion of controversial company in fund tracking S&P Shariah index",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f3d80441-2ab4-4ccb-bf8c-e2b6c040f238?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:48:39 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.952,
+            "signed_score": -0.937
+        },
+        {
+            "headline": "Indonesia expels key stocks in bid to fend off MSCI downgrade",
+            "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 08:34:36 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.959,
+            "signed_score": -0.936
         },
         {
             "headline": "It’s time to give individual shareholders direct votes on climate change",
@@ -129,16 +199,6 @@
             "signed_score": -0.805
         },
         {
-            "headline": "Indonesia expels key stocks in bid to fend off MSCI downgrade",
-            "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:24:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.959,
-            "signed_score": -0.936
-        },
-        {
             "headline": "Japan ‘months’ from running out of critical rare earth as China squeezes supply",
             "summary": "Tokyo asks US to help convince Beijing to ease chokehold on yttrium and avert manufacturing shutdown",
             "section": "Markets",
@@ -147,6 +207,16 @@
             "sentiment": "Positive",
             "confidence": 0.843,
             "signed_score": 0.761
+        },
+        {
+            "headline": "Iran war tilts balance of global oil power towards Americas",
+            "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.91,
+            "signed_score": 0.855
         },
         {
             "headline": "Ambani looks to pull off India’s biggest IPO",
@@ -269,64 +339,24 @@
             "signed_score": -0.003
         },
         {
-            "headline": "‘Frenzy’ in Australian deals as investors swoop on cheap assets",
-            "summary": "EQT strikes $6.5bn deal for waste management group and Dai-ichi Life targets wealth manager",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c5bbb2a7-e00e-4e20-9db3-f4d00504857a?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 05:28:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.41,
-            "signed_score": -0.022
-        },
-        {
-            "headline": "Investors turn on data centres",
-            "summary": "Plus, Thames Water creditors near a deal, French stocks trail their peers and Hokusai at Dulwich Picture Gallery",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5970614a-b1f7-4b4e-b1e5-6038e1dde654?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 05:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.709,
-            "signed_score": 0.141
-        },
-        {
-            "headline": "Private equity group Charlesbank closes one of the biggest law firm deals",
-            "summary": "Stake in Wood Smith Henning & Berman could herald wave of investments in US liability defence firms",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f7b5695c-d326-427c-91a5-18b5a9e4567f?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 04:00:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.767,
-            "signed_score": 0.14
-        },
-        {
-            "headline": "Rise of crypto vaults channels billions of dollars into risky lending",
-            "summary": "New vehicle in which ‘curators’ act like fund managers has attracted the attention of regulators",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 04:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.85,
-            "signed_score": 0.126
-        },
-        {
-            "headline": "Private equity finds next Asian frontier",
-            "summary": "Foreign firms make up majority of large buyout deals in continent’s fourth-biggest economy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 01:30:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.869,
-            "signed_score": 0.108
-        },
-        {
             "headline": "FirstFT: AI debt fears spark default insurance trading surge",
-            "summary": "Also in today’s newsletter: UK weighs EU options and luxury retailers looted",
+            "summary": "Also in today’s newsletter: Albertan voters emphatically reject referendum option and energy production in South America soars",
             "section": "Global economy",
             "link": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:32:12 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.681,
-            "signed_score": -0.153
+            "published": "Tue, 20 Oct 2026 10:07:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.39,
+            "signed_score": -0.147
+        },
+        {
+            "headline": "Can Africa outgrow China?",
+            "summary": "IMF says continent’s GDP to expand faster than China for first time in decades as it beats worst expectations following Iran war",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.952,
+            "signed_score": 0.936
         },
         {
             "headline": "South Africa’s president eyes trade with China and India as US ties sour",
@@ -517,16 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.932,
             "signed_score": -0.909
-        },
-        {
-            "headline": "FirstFT: G7 plan simulated AI attacks on banks",
-            "summary": "Also in today’s newsletter: British government courted UBS over London HQ move and why data centre bonds look increasingly stressed",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/246f1614-cd9a-4747-bc58-97e9cb10fb4b?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 10:27:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.768,
-            "signed_score": -0.727
         }
     ]
 }
