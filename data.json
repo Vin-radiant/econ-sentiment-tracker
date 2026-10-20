@@ -5,78 +5,58 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-20T01:00:11.308426+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-20T06:58:46.631205+00:00",
+    "headline_count": 52,
     "headlines": [
         {
-            "headline": "US defence stocks tumble as investors bet on Democratic election sweep",
-            "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+            "headline": "AI debt worries spark surge in default insurance trading",
+            "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 13:04:40 GMT",
+            "link": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
             "sentiment": "Negative",
-            "confidence": 0.947,
-            "signed_score": -0.932
+            "confidence": 0.432,
+            "signed_score": -0.002
         },
         {
-            "headline": "CME plans tungsten futures as demand for weapons rises",
-            "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+            "headline": "South Korean data centre builder tumbles 33% on trading debut",
+            "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 10:30:57 GMT",
+            "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 06:32:10 GMT",
             "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.918
+            "confidence": 0.967,
+            "signed_score": -0.955
         },
         {
-            "headline": "‘I still do support him’: US voters weigh in on Trump and the midterms",
-            "summary": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of November’s elections",
+            "headline": "Britain’s £100,000 tax trap",
+            "summary": "Many of the country’s most skilled workers are withholding their labour from the economy because of crushing marginal rates",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 04:00:06 GMT",
+            "link": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:12 GMT",
             "sentiment": "Negative",
-            "confidence": 0.675,
-            "signed_score": -0.553
+            "confidence": 0.945,
+            "signed_score": -0.935
         },
         {
-            "headline": "China’s villages pay the price for Beijing’s AI ambitions",
-            "summary": "Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them",
+            "headline": "Can Africa outgrow China?",
+            "summary": "IMF says continent’s GDP to expand faster than China for first time in decades as it beats worst expectations following Iran war",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 00:15:07 GMT",
+            "link": "https://www.ft.com/content/4702e72d-ba3c-43c4-92e7-1dffccddcd16?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
             "sentiment": "Positive",
-            "confidence": 0.847,
-            "signed_score": 0.819
+            "confidence": 0.952,
+            "signed_score": 0.936
         },
         {
-            "headline": "France’s riots expose the impotence of its political class",
-            "summary": "Shocking violence highlights deepening social division, fiscal constraints and a crisis of leadership",
+            "headline": "Musk vs the Swedish unions — who won?",
+            "summary": "Sweden has one of the most pro-technology labour movements anywhere in the world",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 17:07:43 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.943,
-            "signed_score": -0.931
-        },
-        {
-            "headline": "French bond sell-off intensifies after riots and looting",
-            "summary": "Authorities introduce curfews and admit police botched oversight of protests",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 18:31:54 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.937
-        },
-        {
-            "headline": "Violent protests multiply across Europe",
-            "summary": "Looting and clashes with police take place in Milan, Brussels, Liège and Tirana",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 13:50:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.898,
-            "signed_score": -0.886
+            "link": "https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:30 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.798,
+            "signed_score": 0.106
         },
         {
             "headline": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
@@ -89,34 +69,104 @@
             "signed_score": -0.071
         },
         {
+            "headline": "Alberta voters set to reject separation from Canada, early results show",
+            "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 05:59:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.95,
+            "signed_score": -0.933
+        },
+        {
+            "headline": "Iran war tilts balance of global oil power towards Americas",
+            "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.91,
+            "signed_score": 0.855
+        },
+        {
+            "headline": "Louis Vuitton and Hermès among luxury retailers looted in French riots",
+            "summary": "Authorities are working to stop stolen goods being resold online through platforms such as Vinted, Amazon and eBay",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.909,
+            "signed_score": -0.893
+        },
+        {
+            "headline": "It’s time to give individual shareholders direct votes on climate change",
+            "summary": "As corporates and fund managers retreat on green commitments, we must use technology to give savers and investors a say on policies affecting the planet",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/dcc245d8-2dca-4892-a9fb-2bddfa69ed35?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 06:28:32 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.882,
+            "signed_score": 0.079
+        },
+        {
+            "headline": "Waiting for good IPO",
+            "summary": "Anthropic’s shrinking window to list",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6c6fb412-5eca-4ed3-8b3d-f1c367712c5c?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 05:30:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.816,
+            "signed_score": 0.083
+        },
+        {
+            "headline": "What has actually battered the bond market?",
+            "summary": "A fixed-income whodunit",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e5585991-c884-4b22-867e-5d70efbb0a87",
+            "published": "Tue, 20 Oct 2026 05:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.822,
+            "signed_score": -0.805
+        },
+        {
+            "headline": "Indonesia expels key stocks in bid to fend off MSCI downgrade",
+            "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:24:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.959,
+            "signed_score": -0.936
+        },
+        {
+            "headline": "Japan ‘months’ from running out of critical rare earth as China squeezes supply",
+            "summary": "Tokyo asks US to help convince Beijing to ease chokehold on yttrium and avert manufacturing shutdown",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:03:25 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.843,
+            "signed_score": 0.761
+        },
+        {
+            "headline": "Ambani looks to pull off India’s biggest IPO",
+            "summary": "Jio Platforms aims to list at $107bn valuation amid stock market downturn, tougher competition and goading from Elon Musk",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/94f983a8-aa6b-4153-8796-f0b46b046ed0?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 00:33:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.866,
+            "signed_score": 0.783
+        },
+        {
             "headline": "New York pensions chief says private equity firm sought to expense jet use",
             "summary": "Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
             "published": "Mon, 19 Oct 2026 21:18:40 GMT",
             "sentiment": "Positive",
             "confidence": 0.504,
             "signed_score": 0.049
-        },
-        {
-            "headline": "Anthropic and Nscale in talks for second multibillion-dollar deal",
-            "summary": "AI start-up looks for more computing power from UK data centre group",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 22:27:32 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.769,
-            "signed_score": 0.759
-        },
-        {
-            "headline": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
-            "summary": "US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 21:27:34 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.665,
-            "signed_score": -0.618
         },
         {
             "headline": "US stocks recover after AI sell-off",
@@ -137,16 +187,6 @@
             "sentiment": "Positive",
             "confidence": 0.494,
             "signed_score": 0.458
-        },
-        {
-            "headline": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
-            "summary": "Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 15:59:35 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.954,
-            "signed_score": -0.933
         },
         {
             "headline": "EU drops push for global ban on Arctic drilling",
@@ -187,6 +227,26 @@
             "sentiment": "Negative",
             "confidence": 0.922,
             "signed_score": -0.911
+        },
+        {
+            "headline": "US defence stocks tumble as investors bet on Democratic election sweep",
+            "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 13:04:40 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.947,
+            "signed_score": -0.932
+        },
+        {
+            "headline": "CME plans tungsten futures as demand for weapons rises",
+            "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 10:30:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.929,
+            "signed_score": -0.918
         },
         {
             "headline": "US grocery giants head to court in $9bn battle over failed merger",
@@ -259,84 +319,14 @@
             "signed_score": 0.108
         },
         {
-            "headline": "US rate rises are being amplified in global markets",
-            "summary": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
-            "published": "Sun, 18 Oct 2026 23:01:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.925,
-            "signed_score": -0.888
-        },
-        {
-            "headline": "‘The Switzerland of North America’: Albertans vote on leaving Canada",
-            "summary": "Monday’s poll on independence for the western province threatens Mark Carney’s effort to unite country against a hostile US",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d48c545b-6b41-41e9-a71c-cb2126c76082?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 12:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.879,
-            "signed_score": -0.849
-        },
-        {
-            "headline": "‘Cash is making a comeback’ in digital India",
-            "summary": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 04:11:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.937,
-            "signed_score": -0.915
-        },
-        {
-            "headline": "Listings in south-east Asia gain momentum with $1bn IPO",
-            "summary": "Owner of digital wallet GCash set to start trading in region’s biggest debut this year",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
-            "published": "Sun, 18 Oct 2026 01:00:06 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.849,
-            "signed_score": 0.834
-        },
-        {
-            "headline": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
-            "summary": "Central Bank governor warns rapid development of AI is a major issue for financial stability",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 10:31:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.717,
-            "signed_score": -0.627
-        },
-        {
-            "headline": "Trump exempts Russia from further sanctions mandated by new law",
-            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 09:53:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.667,
-            "signed_score": -0.518
-        },
-        {
-            "headline": "Chart of the Week: The chip stock split",
-            "summary": "Losses across semi stocks have been unequal",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 09:30:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.936
-        },
-        {
-            "headline": "UK dividend payments jump 14% in a year",
-            "summary": "Banks and miners lead payouts to investors",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/169bbf6e-d0af-4c8d-afd0-2c561a58c855?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
+            "headline": "FirstFT: AI debt fears spark default insurance trading surge",
+            "summary": "Also in today’s newsletter: UK weighs EU options and luxury retailers looted",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:32:12 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.649,
-            "signed_score": 0.234
+            "confidence": 0.681,
+            "signed_score": -0.153
         },
         {
             "headline": "South Africa’s president eyes trade with China and India as US ties sour",
@@ -347,6 +337,16 @@
             "sentiment": "Positive",
             "confidence": 0.907,
             "signed_score": 0.858
+        },
+        {
+            "headline": "Violent protests multiply across Europe",
+            "summary": "Looting and clashes with police take place in Milan, Brussels, Liège and Tirana",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 13:50:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.898,
+            "signed_score": -0.886
         },
         {
             "headline": "The self-destructive wishful thinking about European autos and trade",
@@ -387,6 +387,16 @@
             "sentiment": "Neutral",
             "confidence": 0.888,
             "signed_score": -0.033
+        },
+        {
+            "headline": "US rate rises are being amplified in global markets",
+            "summary": "The Iran war and shifts by China are tightening the supply of dollars in international markets",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/cea20e2a-379c-4ea2-af94-353b1896b748",
+            "published": "Sun, 18 Oct 2026 23:01:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.925,
+            "signed_score": -0.888
         },
         {
             "headline": "Crunch time for Brazilian politics",
@@ -517,56 +527,6 @@
             "sentiment": "Negative",
             "confidence": 0.768,
             "signed_score": -0.727
-        },
-        {
-            "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-            "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.546,
-            "signed_score": -0.464
-        },
-        {
-            "headline": "Bets on Fed rate hold in October strengthen after Warsh comments",
-            "summary": "US central bank chair says economy has ‘broadly conformed with our expectations’ since rate increase in September",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 06:37:09 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.876,
-            "signed_score": 0.795
-        },
-        {
-            "headline": "The secret fight around financial flows",
-            "summary": "Quicker responses to trade challenges mean companies can free up capital",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.507,
-            "signed_score": 0.462
-        },
-        {
-            "headline": "US business leaders are waking up to the perils of plutopopulism",
-            "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
-            "published": "Fri, 16 Oct 2026 04:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.702,
-            "signed_score": -0.024
-        },
-        {
-            "headline": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
-            "summary": "Lengthy period of higher costs would squeeze corporate margins and spur some companies to raise prices",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/b6255adb-3ce5-4463-92cd-de2f8e9a1f74?syn-25a6b1a6=1",
-            "published": "Fri, 16 Oct 2026 03:12:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.917,
-            "signed_score": -0.866
         }
     ]
 }
