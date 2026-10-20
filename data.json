@@ -5,7 +5,7 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-19T18:56:40.084034+00:00",
+    "fetched_at": "2026-10-20T01:00:11.308426+00:00",
     "headline_count": 56,
     "headlines": [
         {
@@ -29,14 +29,24 @@
             "signed_score": -0.918
         },
         {
-            "headline": "‘I suffer with my wallet’: American voters weigh in on the midterms",
+            "headline": "‘I still do support him’: US voters weigh in on Trump and the midterms",
             "summary": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of November’s elections",
             "section": "Top stories",
             "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
             "published": "Mon, 19 Oct 2026 04:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.717,
-            "signed_score": -0.631
+            "confidence": 0.675,
+            "signed_score": -0.553
+        },
+        {
+            "headline": "China’s villages pay the price for Beijing’s AI ambitions",
+            "summary": "Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 00:15:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.847,
+            "signed_score": 0.819
         },
         {
             "headline": "France’s riots expose the impotence of its political class",
@@ -49,34 +59,14 @@
             "signed_score": -0.931
         },
         {
-            "headline": "Zelenskyy, Europe and the end of Trump whispering",
-            "summary": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 11:21:25 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.771,
-            "signed_score": 0.164
-        },
-        {
-            "headline": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks",
-            "summary": "Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 15:40:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.916,
-            "signed_score": -0.018
-        },
-        {
-            "headline": "French bond sell-off intensifies after violent protests",
-            "summary": "Authorities introduce partial curfews and admit that police botched oversight of protests",
+            "headline": "French bond sell-off intensifies after riots and looting",
+            "summary": "Authorities introduce curfews and admit police botched oversight of protests",
             "section": "Top stories",
             "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
             "published": "Mon, 19 Oct 2026 18:31:54 GMT",
             "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.943
+            "confidence": 0.949,
+            "signed_score": -0.937
         },
         {
             "headline": "Violent protests multiply across Europe",
@@ -89,44 +79,64 @@
             "signed_score": -0.886
         },
         {
-            "headline": "Freshfields apologises ‘unreservedly’ over Middle East comments in email leak",
-            "summary": "Partner at firm had said need to approach ‘sophisticated investors’ to back its AI lab ‘probably’ ruled out region’s ‘sovereign wealth money’",
+            "headline": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
+            "summary": "Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6075e0ec-9116-4de4-84e6-d50b5ed1d47a?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 11:09:30 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.456,
-            "signed_score": -0.24
+            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 00:14:19 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.834,
+            "signed_score": -0.071
         },
         {
-            "headline": "US prosecutors allege Saudi royal links in OpenAI bugging case",
-            "summary": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’",
+            "headline": "New York pensions chief says private equity firm sought to expense jet use",
+            "summary": "Head of city’s $326bn Retirement Systems hits out at ‘steady creep’ higher in fees charged by managers",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 21:18:40 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.504,
+            "signed_score": 0.049
+        },
+        {
+            "headline": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+            "summary": "AI start-up looks for more computing power from UK data centre group",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 22:27:32 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.769,
+            "signed_score": 0.759
+        },
+        {
+            "headline": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
+            "summary": "US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’",
             "section": "Top stories",
             "link": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 16:13:28 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.595,
-            "signed_score": -0.041
+            "published": "Mon, 19 Oct 2026 21:27:34 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.665,
+            "signed_score": -0.618
         },
         {
             "headline": "US stocks recover after AI sell-off",
             "summary": "Nasdaq 100 rises following biggest weekly drop since last year’s trade war rout",
             "section": "Markets",
             "link": "https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 18:15:49 GMT",
+            "published": "Mon, 19 Oct 2026 20:08:32 GMT",
             "sentiment": "Negative",
             "confidence": 0.934,
             "signed_score": -0.887
         },
         {
             "headline": "Digital gold market triples to $55bn as younger investors pile in",
-            "summary": "World Gold Council survey puts global ownership of tokenised gold holdings at 370 tonnes",
+            "summary": "World Gold Council survey puts global ownership of tokenised holdings at 370 tonnes",
             "section": "Markets",
             "link": "https://www.ft.com/content/ec362974-2f42-4938-84e6-f8c1e72c256a?syn-25a6b1a6=1",
             "published": "Mon, 19 Oct 2026 17:24:54 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.549,
-            "signed_score": 0.375
+            "sentiment": "Positive",
+            "confidence": 0.494,
+            "signed_score": 0.458
         },
         {
             "headline": "Indonesia expels tightly held companies from Jakarta index in bid to avoid MSCI downgrade",
@@ -240,13 +250,13 @@
         },
         {
             "headline": "Private equity finds next Asian frontier",
-            "summary": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
+            "summary": "Foreign firms make up majority of large buyout deals in continent’s fourth-biggest economy",
             "section": "Markets",
             "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
             "published": "Mon, 19 Oct 2026 01:30:11 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.874,
-            "signed_score": 0.103
+            "confidence": 0.869,
+            "signed_score": 0.108
         },
         {
             "headline": "US rate rises are being amplified in global markets",
@@ -329,14 +339,14 @@
             "signed_score": 0.234
         },
         {
-            "headline": "The dress rehearsal for an AI reckoning",
-            "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-            "published": "Sat, 17 Oct 2026 04:00:21 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.592,
-            "signed_score": -0.365
+            "headline": "South Africa’s president eyes trade with China and India as US ties sour",
+            "summary": "Cyril Ramaphosa says Pretoria wants to take advantage of growing tariff-free access benefits with Beijing",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/617fb017-e08e-4e37-abac-a38731b2de3c?syn-25a6b1a6=1",
+            "published": "Mon, 19 Oct 2026 20:39:47 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.907,
+            "signed_score": 0.858
         },
         {
             "headline": "The self-destructive wishful thinking about European autos and trade",
@@ -557,16 +567,6 @@
             "sentiment": "Negative",
             "confidence": 0.917,
             "signed_score": -0.866
-        },
-        {
-            "headline": "Criminals stole $90mn of crypto by hiding password readers in USB-like devices",
-            "summary": "Ledger said theft from its secure wallets was ‘one of the most sophisticated attacks’ the industry has seen",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/70f69253-6017-4259-95c9-48bf0e088b40?syn-25a6b1a6=1",
-            "published": "Thu, 15 Oct 2026 17:23:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.696,
-            "signed_score": -0.231
         }
     ]
 }
