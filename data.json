@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-20T12:59:02.131004+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-20T18:54:14.275749+00:00",
+    "headline_count": 53,
     "headlines": [
         {
             "headline": "AI debt worries spark surge in default insurance trading",
@@ -29,14 +29,14 @@
             "signed_score": -0.955
         },
         {
-            "headline": "The Dubai firm that promised 30% returns — then stopped paying",
-            "summary": "Prospective clients who flocked to the Burj Khalifa were promised double-digit returns but thousands are now facing losses",
+            "headline": "The hidden water crisis beneath the American west",
+            "summary": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/83be85af-1cc5-4661-954e-f671e8f3aa3b?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.942,
-            "signed_score": -0.933
+            "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.515,
+            "signed_score": -0.425
         },
         {
             "headline": "Putin’s American friends",
@@ -49,74 +49,64 @@
             "signed_score": 0.018
         },
         {
-            "headline": "The hidden water crisis beneath the American west",
-            "summary": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
+            "headline": "Older Americans brace for higher healthcare costs",
+            "summary": "Burden of inflation on seniors is set to worsen as US health insurers raise prices",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.515,
-            "signed_score": -0.425
-        },
-        {
-            "headline": "Trump envoys to hold fresh Ukraine talks in Norway",
-            "summary": "Steve Witkoff and Jared Kushner to meet Volodymyr Zelenskyy and other European leaders on Tuesday",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 09:31:28 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.921,
-            "signed_score": 0.003
-        },
-        {
-            "headline": "France considers new curfews as restrictions quell unrest",
-            "summary": "Italy also expected to approve new security measures to combat violent rioters",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 08:40:54 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.453,
-            "signed_score": 0.09
-        },
-        {
-            "headline": "Insurers face losses as riots in France become ‘like natural catastrophes’",
-            "summary": "Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e0b2e8f1-6d3e-4647-9370-e7b7b7e7fd42?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 11:34:45 GMT",
+            "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 10:10:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.953
+            "confidence": 0.938,
+            "signed_score": -0.9
         },
         {
-            "headline": "Alberta voters reject separation from Canada, early results show",
+            "headline": "Witkoff meets Zelenskyy before travelling to Russia",
+            "summary": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 15:11:57 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.6,
+            "signed_score": -0.18
+        },
+        {
+            "headline": "US pending home sales fall to record low as mortgage rates surge",
+            "summary": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 15:47:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.975,
+            "signed_score": -0.968
+        },
+        {
+            "headline": "Alberta voters reject separation from Canada",
             "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
             "section": "Top stories",
             "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:09:18 GMT",
+            "published": "Tue, 20 Oct 2026 15:51:21 GMT",
             "sentiment": "Negative",
-            "confidence": 0.953,
-            "signed_score": -0.937
+            "confidence": 0.95,
+            "signed_score": -0.933
         },
         {
-            "headline": "UK to deploy jets to defend Saudi Arabia against Houthi attacks",
-            "summary": "Move to defend ally comes as kingdom has been pummelled by strikes from the militant group",
+            "headline": "Trump pledges to spend $400mn on Republican Party midterm campaigns",
+            "summary": "US president’s announcement comes as candidates struggle with poor polls in race for control of Congress",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/59a3252c-3ea6-4e1e-bcc7-fef15cce16da?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:45:53 GMT",
+            "link": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 18:41:23 GMT",
             "sentiment": "Negative",
-            "confidence": 0.779,
-            "signed_score": -0.647
+            "confidence": 0.899,
+            "signed_score": -0.864
         },
         {
             "headline": "Gilt market catches up with peers as investor worries over Budget ease",
-            "summary": "UK bonds were initially hard hit after onset of Iran war but have since outperformed G7 economies as traders’ concerns shift to France",
+            "summary": "UK bonds were initially hard hit after onset of Iran war but have since outperformed as traders’ concerns shift to France",
             "section": "Markets",
             "link": "https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 11:54:05 GMT",
+            "published": "Tue, 20 Oct 2026 16:10:56 GMT",
             "sentiment": "Positive",
-            "confidence": 0.778,
-            "signed_score": 0.58
+            "confidence": 0.543,
+            "signed_score": 0.109
         },
         {
             "headline": "Is CoreWeave the Silicon Valley Bank of 2026?",
@@ -209,14 +199,14 @@
             "signed_score": 0.761
         },
         {
-            "headline": "Iran war tilts balance of global oil power towards Americas",
+            "headline": "The unlikely winners from Trump’s Iran war",
             "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
             "section": "Markets",
             "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
             "published": "Tue, 20 Oct 2026 04:00:19 GMT",
             "sentiment": "Positive",
-            "confidence": 0.91,
-            "signed_score": 0.855
+            "confidence": 0.938,
+            "signed_score": 0.909
         },
         {
             "headline": "Ambani looks to pull off India’s biggest IPO",
@@ -347,6 +337,16 @@
             "sentiment": "Negative",
             "confidence": 0.39,
             "signed_score": -0.147
+        },
+        {
+            "headline": "Trump envoys to hold fresh Ukraine talks in Norway",
+            "summary": "Steve Witkoff and Jared Kushner to meet Volodymyr Zelenskyy and other European leaders on Tuesday",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 09:31:28 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.921,
+            "signed_score": 0.003
         },
         {
             "headline": "Can Africa outgrow China?",
@@ -537,16 +537,6 @@
             "sentiment": "Negative",
             "confidence": 0.579,
             "signed_score": -0.54
-        },
-        {
-            "headline": "In Bangkok, central bankers push back on market rate-tightening bets",
-            "summary": "Federal Reserve and ECB play down likelihood of October rate rises while BoE says data does not currently support substantial further tightening",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/4c83ec2c-cd77-4f9b-94e6-fdf70af706ef",
-            "published": "Fri, 16 Oct 2026 10:51:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.909
         }
     ]
 }
