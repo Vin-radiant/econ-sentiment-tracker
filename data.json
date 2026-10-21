@@ -5,9 +5,19 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-20T18:54:14.275749+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-10-21T01:00:07.835570+00:00",
+    "headline_count": 54,
     "headlines": [
+        {
+            "headline": "SpaceX and Tesla boards explore potential merger",
+            "summary": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 21:56:34 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.541,
+            "signed_score": 0.44
+        },
         {
             "headline": "AI debt worries spark surge in default insurance trading",
             "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
@@ -19,24 +29,14 @@
             "signed_score": -0.002
         },
         {
-            "headline": "South Korean data centre builder tumbles 32% on trading debut",
-            "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+            "headline": "Who are the Black Bloc?",
+            "summary": "French government says agitators from the far left helped transform peaceful protests into riots",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 07:03:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.955
-        },
-        {
-            "headline": "The hidden water crisis beneath the American west",
-            "summary": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:00:03 GMT",
+            "link": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 18:15:43 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.515,
-            "signed_score": -0.425
+            "confidence": 0.583,
+            "signed_score": -0.219
         },
         {
             "headline": "Putin’s American friends",
@@ -49,54 +49,104 @@
             "signed_score": 0.018
         },
         {
-            "headline": "Older Americans brace for higher healthcare costs",
-            "summary": "Burden of inflation on seniors is set to worsen as US health insurers raise prices",
+            "headline": "The unlikely winners from Trump’s Iran war",
+            "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:10:01 GMT",
-            "sentiment": "Negative",
+            "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
+            "sentiment": "Positive",
             "confidence": 0.938,
-            "signed_score": -0.9
+            "signed_score": 0.909
         },
         {
-            "headline": "Witkoff meets Zelenskyy before travelling to Russia",
-            "summary": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage",
+            "headline": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
+            "summary": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy",
             "section": "Top stories",
             "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 15:11:57 GMT",
+            "published": "Tue, 20 Oct 2026 21:30:25 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.6,
-            "signed_score": -0.18
+            "confidence": 0.74,
+            "signed_score": 0.227
         },
         {
-            "headline": "US pending home sales fall to record low as mortgage rates surge",
-            "summary": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
+            "headline": "UAE official emerges as late contender to lead UN",
+            "summary": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 15:47:56 GMT",
+            "link": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 18:32:31 GMT",
             "sentiment": "Negative",
-            "confidence": 0.975,
-            "signed_score": -0.968
+            "confidence": 0.822,
+            "signed_score": -0.774
         },
         {
-            "headline": "Alberta voters reject separation from Canada",
-            "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
+            "headline": "Netflix gives downbeat outlook as streaming hits dry up",
+            "summary": "Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 15:51:21 GMT",
+            "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 20:32:24 GMT",
             "sentiment": "Negative",
-            "confidence": 0.95,
-            "signed_score": -0.933
+            "confidence": 0.966,
+            "signed_score": -0.956
         },
         {
-            "headline": "Trump pledges to spend $400mn on Republican Party midterm campaigns",
-            "summary": "US president’s announcement comes as candidates struggle with poor polls in race for control of Congress",
+            "headline": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
+            "summary": "Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 18:41:23 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.899,
-            "signed_score": -0.864
+            "link": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 20:43:44 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.942,
+            "signed_score": 0.931
+        },
+        {
+            "headline": "Pensions invest £11bn in UK private markets despite challenges",
+            "summary": "Most of the money has been invested in UK real estate",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/98abe089-3c07-4ce3-8ba5-6b6353520c68?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 23:01:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.918,
+            "signed_score": 0.06
+        },
+        {
+            "headline": "UK to approve development of Jackdaw gasfield in North Sea",
+            "summary": "Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 22:31:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.518,
+            "signed_score": 0.453
+        },
+        {
+            "headline": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+            "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 20:57:44 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.932,
+            "signed_score": 0.04
+        },
+        {
+            "headline": "UK bets on a boring budget",
+            "summary": "Priority number one: Don’t spook the bond market",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/50be6960-c609-4849-94bc-7084afc89255?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.836,
+            "signed_score": -0.009
+        },
+        {
+            "headline": "Audit regulator takes control of inquiry into Man City accounts",
+            "summary": "Financial Reporting Council is making ‘preliminary enquiries’ to assess whether there are grounds to open a formal investigation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/eb8c6c38-3362-49cb-bfd6-4e164d82966d?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 17:21:36 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.906,
+            "signed_score": -0.044
         },
         {
             "headline": "Gilt market catches up with peers as investor worries over Budget ease",
@@ -159,6 +209,16 @@
             "signed_score": -0.936
         },
         {
+            "headline": "South Korean data centre builder tumbles 32% on trading debut",
+            "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 07:03:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.967,
+            "signed_score": -0.955
+        },
+        {
             "headline": "It’s time to give individual shareholders direct votes on climate change",
             "summary": "As corporates and fund managers retreat on green commitments, we must use technology to give savers and investors a say on policies affecting the planet",
             "section": "Markets",
@@ -197,16 +257,6 @@
             "sentiment": "Positive",
             "confidence": 0.843,
             "signed_score": 0.761
-        },
-        {
-            "headline": "The unlikely winners from Trump’s Iran war",
-            "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:00:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.909
         },
         {
             "headline": "Ambani looks to pull off India’s biggest IPO",
@@ -259,16 +309,6 @@
             "signed_score": 0.018
         },
         {
-            "headline": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
-            "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 14:10:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.932,
-            "signed_score": 0.04
-        },
-        {
             "headline": "BoE scrutinises Barclays over claim traders misrepresented private credit exposure",
             "summary": "Regulator received complaint that UK lender understated the risk of derivatives it used to finance private credit loans",
             "section": "Markets",
@@ -289,44 +329,14 @@
             "signed_score": -0.911
         },
         {
-            "headline": "US defence stocks tumble as investors bet on Democratic election sweep",
-            "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 13:04:40 GMT",
+            "headline": "US pending home sales fall to record low as mortgage rates surge",
+            "summary": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+            "published": "Tue, 20 Oct 2026 15:47:56 GMT",
             "sentiment": "Negative",
-            "confidence": 0.947,
-            "signed_score": -0.932
-        },
-        {
-            "headline": "CME plans tungsten futures as demand for weapons rises",
-            "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 10:30:57 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.918
-        },
-        {
-            "headline": "US grocery giants head to court in $9bn battle over failed merger",
-            "summary": "Kroger and Albertsons point fingers over who was responsible for collapse of planned tie-up",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/086e66dd-1e1b-4279-ae6b-2ac88757998f?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 10:00:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.859,
-            "signed_score": -0.84
-        },
-        {
-            "headline": "FTSE as hedge",
-            "summary": "Plus, midterms and AI",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cce1d9b5-5f36-4c42-ab7b-1b74fc788773?syn-25a6b1a6=1",
-            "published": "Mon, 19 Oct 2026 05:30:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.949,
-            "signed_score": -0.003
+            "confidence": 0.975,
+            "signed_score": -0.968
         },
         {
             "headline": "FirstFT: AI debt fears spark default insurance trading surge",
