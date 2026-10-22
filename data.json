@@ -5,38 +5,48 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-22T07:01:53.764790+00:00",
-    "headline_count": 59,
+    "fetched_at": "2026-10-22T12:59:01.830551+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "Politico and Telegraph owner pitched deal to buy European arm of TikTok",
-            "summary": "Axel Springer boss Mathias Döpfner raised idea over lunch with US ambassador to France Charles Kushner",
+            "headline": "Global stocks tumble as oil prices rise",
+            "summary": "Crude prices jump 3% while Eurozone bond sell-off deepens",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:12 GMT",
+            "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 12:12:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.944,
+            "signed_score": -0.921
+        },
+        {
+            "headline": "Europe’s bracing reality on US bond yields",
+            "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 10:07:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.811,
+            "signed_score": -0.68
+        },
+        {
+            "headline": "No wars and no inflation: Has Trump delivered on his big promises?",
+            "summary": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 04:00:03 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.787,
-            "signed_score": 0.187
+            "confidence": 0.89,
+            "signed_score": 0.079
         },
         {
-            "headline": "Highland Spring billionaire’s property empire hit by loan defaults and creditor action",
-            "summary": "Family of former UAE ambassador Mahdi Al Tajir looks to sell prized UK property assets as lenders seek to recoup unpaid debts",
+            "headline": "Europe’s moderates must stop treating politics as a spectator sport",
+            "summary": "While centrists have retreated to myriad bubbles, extremists turn up, join up and organise",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.942,
-            "signed_score": -0.931
-        },
-        {
-            "headline": "Which G7 economy is the profligacy poster child?",
-            "summary": "Among the group, France and the US are heading into a wall",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.512,
-            "signed_score": -0.467
+            "link": "https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e",
+            "published": "Thu, 22 Oct 2026 12:22:36 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.618,
+            "signed_score": -0.316
         },
         {
             "headline": "The battle for Israel’s future",
@@ -49,6 +59,16 @@
             "signed_score": 0.106
         },
         {
+            "headline": "Blackstone cuts property valuations as higher rates hit returns",
+            "summary": "Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 11:03:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.939
+        },
+        {
             "headline": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
             "summary": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control",
             "section": "Top stories",
@@ -59,74 +79,64 @@
             "signed_score": 0.168
         },
         {
-            "headline": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-            "summary": "Carmaker reports flat revenue and falling profits as it pivots from electric vehicles to AI",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 23:30:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.976,
-            "signed_score": -0.967
-        },
-        {
-            "headline": "Armies of lawyers prepare to stop interference in US midterms",
-            "summary": "Hundreds of attorneys to work with election integrity groups owing to fears of meddling in next month’s vote",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9cabd687-ea06-41f4-93ac-f5e16a54ccb6?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.875,
-            "signed_score": -0.849
-        },
-        {
-            "headline": "Vivek Ramaswamy’s campaign engulfed by controversy over attack ad",
-            "summary": "Biotech billionaire faces backlash over video featuring opponent’s estranged mother",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 17:09:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.889,
-            "signed_score": -0.872
-        },
-        {
             "headline": "Websites taken offline in race to patch PHP security flaw",
             "summary": "Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities",
             "section": "Top stories",
             "link": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:28:04 GMT",
+            "published": "Thu, 22 Oct 2026 10:13:57 GMT",
             "sentiment": "Negative",
             "confidence": 0.957,
             "signed_score": -0.947
         },
         {
-            "headline": "Russian missiles bombard Kyiv after Witkoff-Putin talks",
-            "summary": "Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push",
+            "headline": "‘I don’t lose’: Rahm Emanuel makes an early pitch for the White House",
+            "summary": "Barack Obama’s famously foul-mouthed former chief of staff thinks he has a message to win over America",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0",
-            "published": "Thu, 22 Oct 2026 06:15:35 GMT",
+            "link": "https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 10:00:03 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.799,
-            "signed_score": -0.028
+            "confidence": 0.865,
+            "signed_score": 0.053
         },
         {
-            "headline": "Ukraine to buy military supplies via Nato agency",
-            "summary": "Agreement could allow Kyiv to speed up delivery of ammunition and weapons at lower cost",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.887,
-            "signed_score": 0.88
-        },
-        {
-            "headline": "China stocks enter bear market as Asia dips",
-            "summary": "CSI 300 index has shed more than 1,000 points since late June",
+            "headline": "A bond is like a party balloon",
+            "summary": "(Bear with us)",
             "section": "Markets",
-            "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 06:35:45 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.973,
-            "signed_score": -0.964
+            "link": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+            "published": "Thu, 22 Oct 2026 12:10:40 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.934,
+            "signed_score": 0.026
+        },
+        {
+            "headline": "Why climate could soon move back up the global agenda",
+            "summary": "IEA chief Fatih Birol told an FT summit that ‘quick’ and ‘cheap’ renewables could drive renewed focus even as energy disruption drags on",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 11:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.897,
+            "signed_score": 0.885
+        },
+        {
+            "headline": "Europe’s underrated digital trailblazing",
+            "summary": "At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 10:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.502,
+            "signed_score": 0.489
+        },
+        {
+            "headline": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+            "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent today at 8am (PDT)/4pm (BST)",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 09:11:28 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.93,
+            "signed_score": 0.043
         },
         {
             "headline": "Hyperscalers and how to rate them",
@@ -137,16 +147,6 @@
             "sentiment": "Neutral",
             "confidence": 0.939,
             "signed_score": 0.015
-        },
-        {
-            "headline": "Guess these gilet prices and we’ll predict which bank you work at",
-            "summary": "Fully vested",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2588749b-272c-48c8-836a-0a6b0ed9090b?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 05:00:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.939,
-            "signed_score": 0.03
         },
         {
             "headline": "‘Eat. Sleep. Securitize. Repeat.’",
@@ -209,16 +209,6 @@
             "signed_score": -0.958
         },
         {
-            "headline": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
-            "summary": "Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 00:19:24 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.93,
-            "signed_score": -0.914
-        },
-        {
             "headline": "Buyout firm EQT acquires German diagnostics group in €10.8bn deal",
             "summary": "Move for Germany’s Qiagen is one of the largest take-private transactions in Europe this year",
             "section": "Markets",
@@ -227,16 +217,6 @@
             "sentiment": "Neutral",
             "confidence": 0.673,
             "signed_score": 0.303
-        },
-        {
-            "headline": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
-            "summary": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 21:21:31 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.932,
-            "signed_score": 0.04
         },
         {
             "headline": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
@@ -349,34 +329,24 @@
             "signed_score": 0.167
         },
         {
-            "headline": "Are index providers overstepping the mark?",
-            "summary": "Action against Indonesia and Turkey is a venture into territory best left to local regulators and governments",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0a892b95-0216-40d9-89a4-e1654b9a3fa2",
-            "published": "Wed, 21 Oct 2026 06:27:42 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.876,
-            "signed_score": 0.026
-        },
-        {
-            "headline": "The Indian mega-refinery drawing Rubio’s interest",
-            "summary": "Trump’s top diplomat visits Mukesh Ambani as White House battles high fuel prices ahead of midterms",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e316142e-c315-47d4-89c9-971bad5a6380?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 06:09:20 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.755,
-            "signed_score": 0.171
-        },
-        {
-            "headline": "FirstFT: Axel Springer boss pitched deal to buy TikTok’s European arm",
-            "summary": "Also in today’s newsletter: UK tuition fees and EQT-Qiagen deal",
+            "headline": "FirstFT: Global equities hit by rise in oil prices",
+            "summary": "Also in today’s newsletter: Barclays axes 5,000 jobs and companies race to protect their websites",
             "section": "Global economy",
             "link": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:30:46 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.934,
-            "signed_score": 0.033
+            "published": "Thu, 22 Oct 2026 10:14:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.874,
+            "signed_score": -0.855
+        },
+        {
+            "headline": "Which G7 economy is the profligacy poster child?",
+            "summary": "Among the group, France and the US are heading into a wall",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.512,
+            "signed_score": -0.467
         },
         {
             "headline": "Chocoholics and meat lovers feel brunt of rising UK food prices",
@@ -389,34 +359,24 @@
             "signed_score": -0.845
         },
         {
-            "headline": "The Chinese factory owners seeking fortunes in Africa",
+            "headline": "The rise of Africa’s Chinese factories",
             "summary": "After years of state-led infrastructure projects, private companies are leading the charge with investing in manufacturing",
             "section": "Global economy",
             "link": "https://www.ft.com/content/87193801-4057-4fad-b667-ac64ba230efa?syn-25a6b1a6=1",
             "published": "Thu, 22 Oct 2026 04:00:11 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.769,
-            "signed_score": 0.211
+            "confidence": 0.537,
+            "signed_score": 0.441
         },
         {
-            "headline": "AI and inflation: how worried should central bankers be?",
+            "headline": "AI’s true effect on inflation",
             "summary": "Relative price shifts can affect the overall price level",
             "section": "Global economy",
             "link": "https://www.ft.com/content/68b04a9b-714e-4a5a-8dde-d9d7b8a65197?syn-25a6b1a6=1",
             "published": "Thu, 22 Oct 2026 04:00:11 GMT",
             "sentiment": "Negative",
-            "confidence": 0.653,
-            "signed_score": -0.631
-        },
-        {
-            "headline": "No wars and no inflation: Has Trump delivered on his big promises?",
-            "summary": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.89,
-            "signed_score": 0.079
+            "confidence": 0.622,
+            "signed_score": -0.599
         },
         {
             "headline": "China’s drugmakers move into the big league",
@@ -587,16 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.822,
             "signed_score": -0.805
-        },
-        {
-            "headline": "Japan ‘months’ from running out of critical rare earth as China squeezes supply",
-            "summary": "Tokyo asks US to help convince Beijing to ease chokehold on yttrium and avert manufacturing shutdown",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 04:03:25 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.843,
-            "signed_score": 0.761
         }
     ]
 }
