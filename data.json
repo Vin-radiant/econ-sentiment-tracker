@@ -5,18 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-23T06:59:35.561014+00:00",
-    "headline_count": 49,
+    "fetched_at": "2026-10-23T12:57:17.633688+00:00",
+    "headline_count": 48,
     "headlines": [
         {
-            "headline": "Global tech sell-off sparks flight to safety",
-            "summary": "Japanese bonds and yen rally as Asian stock markets follow Wall Street lower",
+            "headline": "Oil hits $115 for first time since May as global stocks knocked by AI fears",
+            "summary": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
             "section": "Top stories",
             "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:42:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.398,
-            "signed_score": -0.135
+            "published": "Fri, 23 Oct 2026 12:16:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.946,
+            "signed_score": -0.911
         },
         {
             "headline": "Calpers retreats from Big Tech as AI rally falters",
@@ -69,34 +69,14 @@
             "signed_score": -0.911
         },
         {
-            "headline": "US is prepared for long stand-off with Iran, says Trump envoy",
-            "summary": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme",
+            "headline": "Anthropic strikes deal to launch European consultancy",
+            "summary": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.474,
-            "signed_score": 0.149
-        },
-        {
-            "headline": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
-            "summary": "Vonovia vulnerable to compulsory purchase of 120,000 flats under proposals from winners of state election",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.925
-        },
-        {
-            "headline": "How a transatlantic mega-merger fell apart over a leadership tug of war",
-            "summary": "Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.82,
-            "signed_score": -0.801
+            "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 09:04:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.535,
+            "signed_score": 0.45
         },
         {
             "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
@@ -109,6 +89,76 @@
             "signed_score": 0.042
         },
         {
+            "headline": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
+            "summary": "Vonovia vulnerable to compulsory purchase of 120,000 flats under proposals from winners of state election",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.94,
+            "signed_score": -0.925
+        },
+        {
+            "headline": "Ukraine says Starlink speeds still throttled",
+            "summary": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032",
+            "published": "Fri, 23 Oct 2026 11:05:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.962,
+            "signed_score": -0.952
+        },
+        {
+            "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+            "summary": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.813,
+            "signed_score": -0.792
+        },
+        {
+            "headline": "Austria expels Russian diplomats suspected of espionage",
+            "summary": "Vienna steps up crackdown on Moscow’s spies after years of leniency that frustrated Kyiv and other European capitals",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/df94aaca-71f2-4788-9835-898b1cc79a05?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 10:53:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.879,
+            "signed_score": -0.854
+        },
+        {
+            "headline": "KKR founders back Valencia in deal valuing football club at €1.25bn",
+            "summary": "Family offices of KKR co-founders George Roberts and Henry Kravis are part of consortium that has agreed to take 42% stake in Spanish team",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f75c25c2-4164-4dfc-9d56-fc6a86704c47?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 12:02:13 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.65,
+            "signed_score": 0.332
+        },
+        {
+            "headline": "What the coming copper crunch means for the global economy",
+            "summary": "A looming shortage of the metal will push up costs for AI, defence tech and the green transition",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 11:01:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.821,
+            "signed_score": -0.709
+        },
+        {
+            "headline": "Why the UK should greenlight both Jackdaw and Rosebank",
+            "summary": "The real problem, for those concerned about the climate, isn’t that oil and gas might become too cheap, but that renewables remain too expensive",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/34946f6f-ccd9-4de5-9f57-136e1a0e2064?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 09:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.665,
+            "signed_score": -0.254
+        },
+        {
             "headline": "How nervous are bond markets about France?",
             "summary": "Dusting off our apples-for-apples spreadsheet",
             "section": "Markets",
@@ -117,16 +167,6 @@
             "sentiment": "Neutral",
             "confidence": 0.879,
             "signed_score": 0.039
-        },
-        {
-            "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
-            "summary": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.813,
-            "signed_score": -0.792
         },
         {
             "headline": "Risks to peso as Argentine elections loom",
@@ -269,54 +309,34 @@
             "signed_score": 0.015
         },
         {
-            "headline": "‘Eat. Sleep. Securitize. Repeat.’",
-            "summary": "The corporate debt machine looked unstoppable at this week’s ABS East conference in Miami Beach",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7092a3c3-e62d-47d8-bb2d-757e38fd2346?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.857,
-            "signed_score": 0.109
-        },
-        {
-            "headline": "India mounts costly defence of rupee",
-            "summary": "Central bank has spent about $90bn of money raised from diaspora to shore up currency",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4577cc43-d98b-43fc-8183-72777286ab80?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.687,
-            "signed_score": 0.615
-        },
-        {
-            "headline": "Big private equity backers call for greater scrutiny of sweetheart deals",
-            "summary": "Concern that investors are insufficiently prepared to challenge buyout firms on deals involving potential conflicts",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/531d1ff7-c0b5-427a-87d1-9372c3cf87d3?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.937,
-            "signed_score": -0.921
-        },
-        {
-            "headline": "A dangerous threat to UK company rules must be scrapped",
-            "summary": "Proposal to ditch the regime on capital distributions such as dividends risks lower growth and weaker businesses",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d64695ae-09ab-4fe6-bc68-44085edc2bc2?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.925,
-            "signed_score": -0.898
-        },
-        {
-            "headline": "FirstFT: OpenAI trims valuation target to $1.25tn",
-            "summary": "Also in today’s newsletter: Iran war and Berlin flats plan",
+            "headline": "FirstFT: AI doubts fuel tech sell-off",
+            "summary": "Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand",
             "section": "Global economy",
             "link": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:30:53 GMT",
+            "published": "Fri, 23 Oct 2026 10:32:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.959,
+            "signed_score": -0.949
+        },
+        {
+            "headline": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
+            "summary": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 10:31:45 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.965,
+            "signed_score": -0.956
+        },
+        {
+            "headline": "September inflation keeps BoJ on tightening course",
+            "summary": "The key measures of inflation are rising",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/f968f40c-ecc8-4981-ba60-a826f808505b",
+            "published": "Fri, 23 Oct 2026 08:48:57 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.808,
-            "signed_score": 0.024
+            "confidence": 0.912,
+            "signed_score": 0.015
         },
         {
             "headline": "Argentina in global trading sweet spot",
@@ -347,16 +367,6 @@
             "sentiment": "Neutral",
             "confidence": 0.822,
             "signed_score": -0.022
-        },
-        {
-            "headline": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
-            "summary": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 23:01:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.956
         },
         {
             "headline": "ECB on course for another rate rise in 2026",
@@ -477,26 +487,6 @@
             "sentiment": "Positive",
             "confidence": 0.838,
             "signed_score": 0.761
-        },
-        {
-            "headline": "Middle East oil exports climb back to prewar levels",
-            "summary": "Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 16:24:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.932,
-            "signed_score": 0.889
-        },
-        {
-            "headline": "Andy Burnham plans to cut standing charges from household gas bills",
-            "summary": "Experts say providers would probably recover loss of daily fixed fee via the unit rate",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 13:34:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.493,
-            "signed_score": -0.097
         }
     ]
 }
