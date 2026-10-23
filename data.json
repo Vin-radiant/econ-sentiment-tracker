@@ -5,38 +5,38 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-23T12:57:17.633688+00:00",
-    "headline_count": 48,
+    "fetched_at": "2026-10-23T18:54:50.486634+00:00",
+    "headline_count": 49,
     "headlines": [
         {
-            "headline": "Oil hits $115 for first time since May as global stocks knocked by AI fears",
-            "summary": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
+            "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+            "summary": "Rise in energy prices pushes US inflation expectations higher",
             "section": "Top stories",
             "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 12:16:14 GMT",
+            "published": "Fri, 23 Oct 2026 17:01:00 GMT",
             "sentiment": "Negative",
-            "confidence": 0.946,
-            "signed_score": -0.911
+            "confidence": 0.532,
+            "signed_score": -0.111
         },
         {
-            "headline": "Calpers retreats from Big Tech as AI rally falters",
-            "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
+            "headline": "US is prepared for long stand-off with Iran, says Trump envoy",
+            "summary": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.954
+            "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.474,
+            "signed_score": 0.149
         },
         {
-            "headline": "Winter arrives in markets",
-            "summary": "Bonds and stocks tell the same chilly story",
+            "headline": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+            "summary": "Price has plunged this week even as investors rush to safety of US Treasuries",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 05:30:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.923,
-            "signed_score": 0.003
+            "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 14:37:46 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.947,
+            "signed_score": -0.912
         },
         {
             "headline": "The limits of Trump’s trade war",
@@ -49,24 +49,24 @@
             "signed_score": -0.655
         },
         {
-            "headline": "AI oversight needs a different model to banking",
-            "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+            "headline": "Winter arrives in markets",
+            "summary": "Bonds and stocks tell the same chilly story",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
-            "published": "Fri, 23 Oct 2026 04:00:18 GMT",
+            "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 05:30:08 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.935,
-            "signed_score": 0.022
+            "confidence": 0.923,
+            "signed_score": 0.003
         },
         {
-            "headline": "Beware Bessent’s tilt towards short-term debt",
-            "summary": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+            "headline": "A half-time scorecard for Trump-world",
+            "summary": "Monetising America has pleased tycoons but not citizens",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.933,
-            "signed_score": -0.911
+            "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
+            "published": "Fri, 23 Oct 2026 13:32:54 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.536,
+            "signed_score": 0.429
         },
         {
             "headline": "Anthropic strikes deal to launch European consultancy",
@@ -89,44 +89,54 @@
             "signed_score": 0.042
         },
         {
-            "headline": "Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans",
-            "summary": "Vonovia vulnerable to compulsory purchase of 120,000 flats under proposals from winners of state election",
+            "headline": "US nuclear revival faces scrutiny after incidents at flagship plant",
+            "summary": "Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
+            "link": "https://www.ft.com/content/bcc464cc-9d12-4b15-866d-64642de66ca8?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 10:00:02 GMT",
             "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.925
+            "confidence": 0.923,
+            "signed_score": -0.911
         },
         {
-            "headline": "Ukraine says Starlink speeds still throttled",
-            "summary": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks",
+            "headline": "Trump administration moves to block certification of Alaska Senate election",
+            "summary": "Candidates’ similar names could ‘taint’ the result, argues the US Justice Department",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032",
-            "published": "Fri, 23 Oct 2026 11:05:18 GMT",
+            "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 17:54:39 GMT",
             "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.952
+            "confidence": 0.932,
+            "signed_score": -0.92
         },
         {
-            "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
-            "summary": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks",
+            "headline": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
+            "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
+            "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 18:15:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.813,
-            "signed_score": -0.792
+            "confidence": 0.428,
+            "signed_score": -0.257
         },
         {
-            "headline": "Austria expels Russian diplomats suspected of espionage",
-            "summary": "Vienna steps up crackdown on Moscow’s spies after years of leniency that frustrated Kyiv and other European capitals",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/df94aaca-71f2-4788-9835-898b1cc79a05?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 10:53:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.879,
-            "signed_score": -0.854
+            "headline": "The ledger problem",
+            "summary": "Tokenisation doesn’t suspend the laws of finance",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83",
+            "published": "Fri, 23 Oct 2026 17:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.91,
+            "signed_score": -0.019
+        },
+        {
+            "headline": "Stockpickers: Aberdeen, ITM Power, Tristel",
+            "summary": "Our experts discuss which companies to buy, sell or hold this week",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/2aeaf5c1-1fc2-45ae-a6dd-0634384ae9d7",
+            "published": "Fri, 23 Oct 2026 17:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.95,
+            "signed_score": 0.017
         },
         {
             "headline": "KKR founders back Valencia in deal valuing football club at €1.25bn",
@@ -167,6 +177,36 @@
             "sentiment": "Neutral",
             "confidence": 0.879,
             "signed_score": 0.039
+        },
+        {
+            "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
+            "summary": "Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.813,
+            "signed_score": -0.792
+        },
+        {
+            "headline": "Beware Bessent’s tilt towards short-term debt",
+            "summary": "If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.933,
+            "signed_score": -0.911
+        },
+        {
+            "headline": "Calpers retreats from Big Tech as AI rally falters",
+            "summary": "California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.966,
+            "signed_score": -0.954
         },
         {
             "headline": "Risks to peso as Argentine elections loom",
@@ -279,36 +319,6 @@
             "signed_score": 0.885
         },
         {
-            "headline": "Europe’s bracing reality on US bond yields",
-            "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 10:07:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.811,
-            "signed_score": -0.68
-        },
-        {
-            "headline": "Europe’s underrated digital trailblazing",
-            "summary": "At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 10:00:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.502,
-            "signed_score": 0.489
-        },
-        {
-            "headline": "Hyperscalers and how to rate them",
-            "summary": "In the land of known unknowns",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9b1d9f37-bab2-448a-8a1a-e41c12bf9952?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 05:30:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.939,
-            "signed_score": 0.015
-        },
-        {
             "headline": "FirstFT: AI doubts fuel tech sell-off",
             "summary": "Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand",
             "section": "Global economy",
@@ -387,6 +397,16 @@
             "sentiment": "Negative",
             "confidence": 0.874,
             "signed_score": -0.855
+        },
+        {
+            "headline": "Europe’s bracing reality on US bond yields",
+            "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 10:07:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.811,
+            "signed_score": -0.68
         },
         {
             "headline": "Which G7 economy is the profligacy poster child?",
@@ -477,16 +497,6 @@
             "sentiment": "Negative",
             "confidence": 0.963,
             "signed_score": -0.953
-        },
-        {
-            "headline": "UK inflation and borrowing top forecasts in blow to Healey",
-            "summary": "Figure comes ahead of next week’s Budget and will cement expectations of Bank of England rate rise in November",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 16:31:41 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.838,
-            "signed_score": 0.761
         }
     ]
 }
