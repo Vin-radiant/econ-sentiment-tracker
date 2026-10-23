@@ -5,28 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-22T18:55:41.683937+00:00",
+    "fetched_at": "2026-10-23T01:02:42.737992+00:00",
     "headline_count": 54,
     "headlines": [
         {
-            "headline": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
-            "summary": "US Treasuries rally strongly as traders rush into haven assets",
+            "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+            "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 18:15:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.906,
-            "signed_score": -0.862
-        },
-        {
-            "headline": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
-            "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 18:46:59 GMT",
+            "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 21:50:16 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.711,
-            "signed_score": -0.002
+            "confidence": 0.451,
+            "signed_score": 0.042
         },
         {
             "headline": "Europe’s bracing reality on US bond yields",
@@ -39,14 +29,14 @@
             "signed_score": -0.68
         },
         {
-            "headline": "A report card on Trump’s second term",
-            "summary": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
+            "headline": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+            "summary": "Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.895,
-            "signed_score": 0.076
+            "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 20:05:42 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.97,
+            "signed_score": -0.961
         },
         {
             "headline": "‘Know Your Agent’ will be the new rule of the AI age",
@@ -69,44 +59,64 @@
             "signed_score": -0.316
         },
         {
-            "headline": "Blackstone cuts property valuations as higher rates hit returns",
-            "summary": "Group’s president Jonathan Gray says rising market volatility stalled a quick return of cash to investors through IPOs",
+            "headline": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+            "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/df7c95d7-72d1-4cec-87f6-9f7968ac3e5e?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 11:03:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "US to fund speculative fusion venture backed by investors with ties to Trump",
-            "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 17:20:01 GMT",
+            "link": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 23:13:15 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.775,
-            "signed_score": 0.203
+            "confidence": 0.822,
+            "signed_score": -0.022
         },
         {
-            "headline": "Trump’s tourism push fails to lure visitors",
-            "summary": "Number of tourist arrivals in US continues to drop following football World Cup",
+            "headline": "Moderna shares sink after leaked cancer data missed expectations",
+            "summary": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 13:54:59 GMT",
+            "link": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 21:37:25 GMT",
             "sentiment": "Negative",
-            "confidence": 0.973,
-            "signed_score": -0.965
+            "confidence": 0.915,
+            "signed_score": -0.843
         },
         {
-            "headline": "‘I don’t lose’: Rahm Emanuel makes an early pitch for the White House",
-            "summary": "Barack Obama’s famously foul-mouthed former chief of staff thinks he has a message to win over America",
+            "headline": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+            "summary": "President must appear by December 11 after attending campaign rally on date previously set for his deposition",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 10:00:03 GMT",
+            "link": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 18:36:29 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.865,
-            "signed_score": 0.053
+            "confidence": 0.758,
+            "signed_score": -0.186
+        },
+        {
+            "headline": "Airfares will not return to pre-Iran war levels, American Airlines warns",
+            "summary": "Some industry chiefs say travellers should expect a further rise in ticket prices next year",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 20:08:50 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.932,
+            "signed_score": 0.889
+        },
+        {
+            "headline": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+            "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working canines",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 23:29:39 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.857,
+            "signed_score": 0.123
+        },
+        {
+            "headline": "UK waters down ‘fit and proper’ rules set up to hold bankers to account",
+            "summary": "Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 20:00:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.61,
+            "signed_score": -0.073
         },
         {
             "headline": "Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators",
@@ -269,6 +279,16 @@
             "signed_score": 0.303
         },
         {
+            "headline": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+            "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+            "published": "Wed, 21 Oct 2026 18:46:59 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.711,
+            "signed_score": -0.002
+        },
+        {
             "headline": "CVC explores bid for Verisure just one year after IPO",
             "summary": "Shares in Swedish-listed security group trading 30% below their price at flotation",
             "section": "Markets",
@@ -309,24 +329,24 @@
             "signed_score": 0.889
         },
         {
-            "headline": "Who’s paying for the AI build-out? Probably you",
-            "summary": "Every big pool of capital, in every corner of the developed world, is funding data centres",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 15:00:25 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.91,
-            "signed_score": 0.058
+            "headline": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
+            "summary": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 23:01:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.965,
+            "signed_score": -0.956
         },
         {
-            "headline": "Dangote takes stake in Kenyan pipeline and pledges more ‘aggressive’ energy investment",
-            "summary": "Deal for 25% of Kenya Pipeline comes amid plans for refineries and storage facilities across Africa",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e3282291-be9a-4c97-8fc8-d43f9297e167?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 13:23:37 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.591,
-            "signed_score": 0.58
+            "headline": "FirstFT: Meta rekindles AI spending fears",
+            "summary": "Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 21:46:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.731,
+            "signed_score": -0.532
         },
         {
             "headline": "ECB on course for another rate rise in 2026",
@@ -387,6 +407,16 @@
             "sentiment": "Negative",
             "confidence": 0.622,
             "signed_score": -0.599
+        },
+        {
+            "headline": "No wars and no inflation: Has Trump delivered on his big promises?",
+            "summary": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 04:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.89,
+            "signed_score": 0.079
         },
         {
             "headline": "China’s drugmakers move into the big league",
@@ -517,36 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.975,
             "signed_score": -0.968
-        },
-        {
-            "headline": "How the Hormuz crisis could trigger a global ‘food shock’",
-            "summary": "Report issues stark warning over the combined impact of geopolitical conflicts and one of the strongest ever El Niño events",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/52fab4c1-0561-43ce-bc3c-0d43f6e217c5?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 11:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.777,
-            "signed_score": -0.73
-        },
-        {
-            "headline": "FirstFT: AI debt fears spark default insurance trading surge",
-            "summary": "Also in today’s newsletter: Albertan voters emphatically reject referendum option and energy production in South America soars",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 10:07:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.39,
-            "signed_score": -0.147
-        },
-        {
-            "headline": "Trump envoys to hold fresh Ukraine talks in Norway",
-            "summary": "Steve Witkoff and Jared Kushner to meet Volodymyr Zelenskyy and other European leaders on Tuesday",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-            "published": "Tue, 20 Oct 2026 09:31:28 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.921,
-            "signed_score": 0.003
         }
     ]
 }
