@@ -5,15 +5,25 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-23T18:54:50.486634+00:00",
-    "headline_count": 49,
+    "fetched_at": "2026-10-24T01:04:25.483808+00:00",
+    "headline_count": 47,
     "headlines": [
+        {
+            "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
+            "summary": "Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 00:22:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.929,
+            "signed_score": -0.918
+        },
         {
             "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
             "summary": "Rise in energy prices pushes US inflation expectations higher",
             "section": "Top stories",
             "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 17:01:00 GMT",
+            "published": "Fri, 23 Oct 2026 20:13:21 GMT",
             "sentiment": "Negative",
             "confidence": 0.532,
             "signed_score": -0.111
@@ -29,24 +39,14 @@
             "signed_score": 0.149
         },
         {
-            "headline": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
-            "summary": "Price has plunged this week even as investors rush to safety of US Treasuries",
+            "headline": "Xi gathers China’s top cadres with focus on discipline",
+            "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 14:37:46 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.947,
-            "signed_score": -0.912
-        },
-        {
-            "headline": "The limits of Trump’s trade war",
-            "summary": "Economies like Mexico are being forced to choose sides on trade",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.681,
-            "signed_score": -0.655
+            "link": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 21:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.92,
+            "signed_score": 0.009
         },
         {
             "headline": "Winter arrives in markets",
@@ -79,44 +79,64 @@
             "signed_score": 0.45
         },
         {
-            "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-            "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+            "headline": "Trump to cut Canadian tariffs after pressure from Republicans",
+            "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 21:50:16 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.451,
-            "signed_score": 0.042
+            "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 22:29:30 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.623,
+            "signed_score": 0.304
         },
         {
-            "headline": "US nuclear revival faces scrutiny after incidents at flagship plant",
-            "summary": "Michigan reactor restart is delayed as Trump administration champions nuclear energy to meet booming AI power demand",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/bcc464cc-9d12-4b15-866d-64642de66ca8?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 10:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.923,
-            "signed_score": -0.911
-        },
-        {
-            "headline": "Trump administration moves to block certification of Alaska Senate election",
-            "summary": "Candidates’ similar names could ‘taint’ the result, argues the US Justice Department",
+            "headline": "Trump moves to block certification of Alaska Senate election if Republican loses",
+            "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
             "section": "Top stories",
             "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 17:54:39 GMT",
+            "published": "Fri, 23 Oct 2026 23:06:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.92
+            "confidence": 0.901,
+            "signed_score": -0.888
+        },
+        {
+            "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
+            "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 22:28:52 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.88,
+            "signed_score": 0.832
+        },
+        {
+            "headline": "How nervous are bond markets about France?",
+            "summary": "Dusting off our apples-for-apples spreadsheet",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+            "published": "Fri, 23 Oct 2026 05:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.879,
+            "signed_score": 0.039
         },
         {
             "headline": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
             "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
             "section": "Top stories",
             "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 18:15:17 GMT",
+            "published": "Fri, 23 Oct 2026 18:49:48 GMT",
             "sentiment": "Negative",
             "confidence": 0.428,
             "signed_score": -0.257
+        },
+        {
+            "headline": "Lunch break under threat as Hong Kong looks at longer trading day",
+            "summary": "HKEX discusses scrapping ‘antiquated practice’ as Nasdaq plans move to 23 hours",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bc13b5f1-387e-4fae-927e-d96ac24ea645?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 20:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.629,
+            "signed_score": -0.282
         },
         {
             "headline": "The ledger problem",
@@ -137,6 +157,16 @@
             "sentiment": "Neutral",
             "confidence": 0.95,
             "signed_score": 0.017
+        },
+        {
+            "headline": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+            "summary": "Price has plunged this week even as investors rush to safety of US Treasuries",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 14:37:46 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.947,
+            "signed_score": -0.912
         },
         {
             "headline": "KKR founders back Valencia in deal valuing football club at €1.25bn",
@@ -167,16 +197,6 @@
             "sentiment": "Neutral",
             "confidence": 0.665,
             "signed_score": -0.254
-        },
-        {
-            "headline": "How nervous are bond markets about France?",
-            "summary": "Dusting off our apples-for-apples spreadsheet",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
-            "published": "Fri, 23 Oct 2026 05:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.879,
-            "signed_score": 0.039
         },
         {
             "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
@@ -227,6 +247,16 @@
             "sentiment": "Positive",
             "confidence": 0.938,
             "signed_score": 0.92
+        },
+        {
+            "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+            "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+            "published": "Thu, 22 Oct 2026 21:50:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.451,
+            "signed_score": 0.042
         },
         {
             "headline": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
@@ -287,36 +317,6 @@
             "sentiment": "Negative",
             "confidence": 0.513,
             "signed_score": -0.054
-        },
-        {
-            "headline": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
-            "summary": "Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 13:36:58 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.626,
-            "signed_score": 0.35
-        },
-        {
-            "headline": "A bond is like a party balloon",
-            "summary": "(Bear with us)",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
-            "published": "Thu, 22 Oct 2026 12:10:40 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.934,
-            "signed_score": 0.026
-        },
-        {
-            "headline": "Why climate could soon move back up the global agenda",
-            "summary": "IEA chief Fatih Birol told an FT summit that ‘quick’ and ‘cheap’ renewables could drive renewed focus even as energy disruption drags on",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 11:00:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.897,
-            "signed_score": 0.885
         },
         {
             "headline": "FirstFT: AI doubts fuel tech sell-off",
@@ -477,26 +477,6 @@
             "sentiment": "Positive",
             "confidence": 0.611,
             "signed_score": 0.573
-        },
-        {
-            "headline": "Ghana in talks with European nations for reparations, president says",
-            "summary": "John Mahama says efforts are focused on securing the return of artefacts stolen during the centuries of the slave trade and colonialism",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 17:43:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.764,
-            "signed_score": 0.748
-        },
-        {
-            "headline": "Italy’s buffalo mozzarella production grinds to a halt in truckers’ strike",
-            "summary": "Highway blockades lead to major disruptions in country’s south",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/bef7e107-3922-4312-acd9-3c96af60c309?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 17:37:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.953
         }
     ]
 }
