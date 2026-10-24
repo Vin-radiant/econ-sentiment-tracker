@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-24T06:56:32.689597+00:00",
-    "headline_count": 52,
+    "fetched_at": "2026-10-24T12:54:22.716727+00:00",
+    "headline_count": 51,
     "headlines": [
         {
             "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
@@ -19,34 +19,14 @@
             "signed_score": -0.902
         },
         {
-            "headline": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-            "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 21:11:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.454,
-            "signed_score": 0.156
-        },
-        {
-            "headline": "Ukraine says Starlink speeds still throttled",
-            "summary": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 19:14:52 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.952
-        },
-        {
-            "headline": "France is in revolt. But the real storm is yet to come",
+            "headline": "France is looking ungovernable. And it’s going to get worse",
             "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
             "section": "Top stories",
             "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
             "published": "Sat, 24 Oct 2026 04:00:23 GMT",
             "sentiment": "Negative",
-            "confidence": 0.595,
-            "signed_score": -0.566
+            "confidence": 0.772,
+            "signed_score": -0.745
         },
         {
             "headline": "The young are conformists in denial",
@@ -59,14 +39,34 @@
             "signed_score": -0.086
         },
         {
-            "headline": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?",
+            "headline": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
             "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
             "section": "Top stories",
             "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
             "published": "Sat, 24 Oct 2026 04:00:33 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.651,
-            "signed_score": -0.227
+            "confidence": 0.542,
+            "signed_score": -0.34
+        },
+        {
+            "headline": "Ukraine military says Starlink service restrictions have been removed",
+            "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+            "published": "Sat, 24 Oct 2026 10:20:39 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.97,
+            "signed_score": -0.961
+        },
+        {
+            "headline": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
+            "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 21:11:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.454,
+            "signed_score": 0.156
         },
         {
             "headline": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
@@ -89,34 +89,14 @@
             "signed_score": 0.179
         },
         {
-            "headline": "Anthropic strikes deal to launch European consultancy",
-            "summary": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
+            "headline": "France deploys 70,000 officers to police latest protests",
+            "summary": "Government puts 20% more officers on the streets to boost security following last weekend’s riots",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 09:04:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.535,
-            "signed_score": 0.45
-        },
-        {
-            "headline": "Trump to cut Canadian tariffs after pressure from Republicans",
-            "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 22:29:30 GMT",
+            "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 11:53:03 GMT",
             "sentiment": "Positive",
-            "confidence": 0.623,
-            "signed_score": 0.304
-        },
-        {
-            "headline": "Trump moves to block certification of Alaska Senate election if Republican loses",
-            "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 23:06:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.901,
-            "signed_score": -0.888
+            "confidence": 0.481,
+            "signed_score": 0.253
         },
         {
             "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
@@ -129,14 +109,14 @@
             "signed_score": 0.832
         },
         {
-            "headline": "France prepares for protests with big police deployment",
-            "summary": "Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:42 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.362,
-            "signed_score": 0.012
+            "headline": "French government and corporate bond yields are converging",
+            "summary": "Some companies’ bonds now yield less than government bonds",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/473c0e0b-d4f7-449c-9192-648b82077222?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 09:30:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.861,
+            "signed_score": -0.832
         },
         {
             "headline": "A little bit of luck is lifting UK Budget expectations",
@@ -227,6 +207,16 @@
             "sentiment": "Negative",
             "confidence": 0.821,
             "signed_score": -0.709
+        },
+        {
+            "headline": "Anthropic strikes deal to launch European consultancy",
+            "summary": "New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 09:04:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.535,
+            "signed_score": 0.45
         },
         {
             "headline": "Why the UK should greenlight both Jackdaw and Rosebank",
@@ -349,14 +339,14 @@
             "signed_score": -0.949
         },
         {
-            "headline": "Could Anthropic’s IPO be a turning point for AI? You asked, we answered",
-            "summary": "Tech writer at large Richard Waters and venture capital correspondent George Hammond replied to reader questions",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 15:00:13 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.908,
-            "signed_score": 0.057
+            "headline": "Trump to cut Canadian tariffs after pressure from Republicans",
+            "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 22:29:30 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.623,
+            "signed_score": 0.304
         },
         {
             "headline": "A half-time scorecard for Trump-world",
