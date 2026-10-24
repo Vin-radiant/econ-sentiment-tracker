@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-24T12:54:22.716727+00:00",
-    "headline_count": 51,
+    "fetched_at": "2026-10-24T18:47:38.312523+00:00",
+    "headline_count": 50,
     "headlines": [
         {
             "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
@@ -29,6 +29,16 @@
             "signed_score": -0.745
         },
         {
+            "headline": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
+            "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.538,
+            "signed_score": -0.501
+        },
+        {
             "headline": "The young are conformists in denial",
             "summary": "The reassuringly bourgeois values behind a rebellious generation",
             "section": "Top stories",
@@ -39,64 +49,24 @@
             "signed_score": -0.086
         },
         {
-            "headline": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
-            "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.542,
-            "signed_score": -0.34
-        },
-        {
-            "headline": "Ukraine military says Starlink service restrictions have been removed",
+            "headline": "Ukraine military says Starlink service restrictions have been lifted",
             "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
             "section": "Top stories",
             "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-            "published": "Sat, 24 Oct 2026 10:20:39 GMT",
+            "published": "Sat, 24 Oct 2026 13:16:04 GMT",
             "sentiment": "Negative",
-            "confidence": 0.97,
+            "confidence": 0.971,
             "signed_score": -0.961
         },
         {
-            "headline": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-            "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 21:11:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.454,
-            "signed_score": 0.156
-        },
-        {
-            "headline": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
-            "summary": "Document says plans against US citizens have reached ‘advanced stages’ as tensions rise again in region",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 02:47:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.484,
-            "signed_score": -0.335
-        },
-        {
-            "headline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
-            "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.785,
-            "signed_score": 0.179
-        },
-        {
-            "headline": "France deploys 70,000 officers to police latest protests",
-            "summary": "Government puts 20% more officers on the streets to boost security following last weekend’s riots",
+            "headline": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+            "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
             "section": "Top stories",
             "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 11:53:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.481,
-            "signed_score": 0.253
+            "published": "Sat, 24 Oct 2026 17:13:23 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.826,
+            "signed_score": -0.783
         },
         {
             "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
@@ -107,6 +77,26 @@
             "sentiment": "Positive",
             "confidence": 0.88,
             "signed_score": 0.832
+        },
+        {
+            "headline": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+            "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 15:09:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.521,
+            "signed_score": -0.306
+        },
+        {
+            "headline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+            "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.785,
+            "signed_score": 0.179
         },
         {
             "headline": "French government and corporate bond yields are converging",
@@ -339,6 +329,16 @@
             "signed_score": -0.949
         },
         {
+            "headline": "Kim reaffirms ties with China amid worries over Russian friendship",
+            "summary": "Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 15:44:19 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.49,
+            "signed_score": 0.014
+        },
+        {
             "headline": "Trump to cut Canadian tariffs after pressure from Republicans",
             "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
             "section": "Global economy",
@@ -507,16 +507,6 @@
             "sentiment": "Positive",
             "confidence": 0.669,
             "signed_score": 0.657
-        },
-        {
-            "headline": "EU set to delay push for cheaper UK university fees for bloc’s students",
-            "summary": "Concession could help the two sides finalise a ‘reset’ deal at a summit next month",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/47777033-6a91-42c3-bc9e-249d4bf7a961?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 18:58:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.611,
-            "signed_score": 0.573
         }
     ]
 }
