@@ -5,68 +5,88 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-24T01:04:25.483808+00:00",
-    "headline_count": 47,
+    "fetched_at": "2026-10-24T06:56:32.689597+00:00",
+    "headline_count": 52,
     "headlines": [
         {
             "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
-            "summary": "Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval",
+            "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
             "section": "Top stories",
             "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
             "published": "Sat, 24 Oct 2026 00:22:20 GMT",
             "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.918
+            "confidence": 0.914,
+            "signed_score": -0.902
         },
         {
-            "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-            "summary": "Rise in energy prices pushes US inflation expectations higher",
+            "headline": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
+            "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 20:13:21 GMT",
+            "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 21:11:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.454,
+            "signed_score": 0.156
+        },
+        {
+            "headline": "Ukraine says Starlink speeds still throttled",
+            "summary": "Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 19:14:52 GMT",
             "sentiment": "Negative",
-            "confidence": 0.532,
-            "signed_score": -0.111
+            "confidence": 0.962,
+            "signed_score": -0.952
         },
         {
-            "headline": "US is prepared for long stand-off with Iran, says Trump envoy",
-            "summary": "Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme",
+            "headline": "France is in revolt. But the real storm is yet to come",
+            "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:37 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.474,
-            "signed_score": 0.149
+            "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.595,
+            "signed_score": -0.566
         },
         {
-            "headline": "Xi gathers China’s top cadres with focus on discipline",
-            "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
+            "headline": "The young are conformists in denial",
+            "summary": "The reassuringly bourgeois values behind a rebellious generation",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 21:00:09 GMT",
+            "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.92,
-            "signed_score": 0.009
+            "confidence": 0.815,
+            "signed_score": -0.086
         },
         {
-            "headline": "Winter arrives in markets",
-            "summary": "Bonds and stocks tell the same chilly story",
+            "headline": "Gadi Eisenkot, can Israel’s ex-military chief beat Netanyahu?",
+            "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 05:30:08 GMT",
+            "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:33 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.923,
-            "signed_score": 0.003
+            "confidence": 0.651,
+            "signed_score": -0.227
         },
         {
-            "headline": "A half-time scorecard for Trump-world",
-            "summary": "Monetising America has pleased tycoons but not citizens",
+            "headline": "Intelligence memo warns Iran plotting to kill Americans in Middle East",
+            "summary": "Document says plans against US citizens have reached ‘advanced stages’ as tensions rise again in region",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
-            "published": "Fri, 23 Oct 2026 13:32:54 GMT",
+            "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 02:47:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.484,
+            "signed_score": -0.335
+        },
+        {
+            "headline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+            "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.536,
-            "signed_score": 0.429
+            "confidence": 0.785,
+            "signed_score": 0.179
         },
         {
             "headline": "Anthropic strikes deal to launch European consultancy",
@@ -109,24 +129,44 @@
             "signed_score": 0.832
         },
         {
-            "headline": "How nervous are bond markets about France?",
-            "summary": "Dusting off our apples-for-apples spreadsheet",
+            "headline": "France prepares for protests with big police deployment",
+            "summary": "Government puts 20% more officers on the streets for Saturday to boost security following last weekend’s riots",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
-            "published": "Fri, 23 Oct 2026 05:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.879,
-            "signed_score": 0.039
+            "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:42 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.362,
+            "signed_score": 0.012
         },
         {
-            "headline": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
-            "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 18:49:48 GMT",
+            "headline": "A little bit of luck is lifting UK Budget expectations",
+            "summary": "Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf",
+            "published": "Sat, 24 Oct 2026 04:00:33 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.837,
+            "signed_score": 0.747
+        },
+        {
+            "headline": "‘Disrupter’ exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+            "summary": "Cboe captures nearly half of US listings as intensifying competition reflects rapid growth in derivative-heavy funds",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8dd8e115-c45e-4b66-8390-b5eeea4671d5?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.647,
+            "signed_score": 0.453
+        },
+        {
+            "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+            "summary": "Rise in energy prices pushes US inflation expectations higher",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 20:13:21 GMT",
             "sentiment": "Negative",
-            "confidence": 0.428,
-            "signed_score": -0.257
+            "confidence": 0.532,
+            "signed_score": -0.111
         },
         {
             "headline": "Lunch break under threat as Hong Kong looks at longer trading day",
@@ -197,6 +237,26 @@
             "sentiment": "Neutral",
             "confidence": 0.665,
             "signed_score": -0.254
+        },
+        {
+            "headline": "Winter arrives in markets",
+            "summary": "Bonds and stocks tell the same chilly story",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 05:30:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.923,
+            "signed_score": 0.003
+        },
+        {
+            "headline": "How nervous are bond markets about France?",
+            "summary": "Dusting off our apples-for-apples spreadsheet",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+            "published": "Fri, 23 Oct 2026 05:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.879,
+            "signed_score": 0.039
         },
         {
             "headline": "Ukraine seeks to move customs checks inside EU to avoid Russian drones",
@@ -299,24 +359,14 @@
             "signed_score": 0.057
         },
         {
-            "headline": "Would you take out a mortgage backed by bitcoin?",
-            "summary": "US officials are encouraging the use of crypto holdings as home-loan collateral",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 15:00:03 GMT",
+            "headline": "A half-time scorecard for Trump-world",
+            "summary": "Monetising America has pleased tycoons but not citizens",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
+            "published": "Fri, 23 Oct 2026 13:32:54 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.728,
-            "signed_score": 0.25
-        },
-        {
-            "headline": "Britain secures gas supply from Belgium before winter crunch",
-            "summary": "Last-minute deal comes after years of falling domestic gas production",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 14:26:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.513,
-            "signed_score": -0.054
+            "confidence": 0.536,
+            "signed_score": 0.429
         },
         {
             "headline": "FirstFT: AI doubts fuel tech sell-off",
