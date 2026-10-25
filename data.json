@@ -5,38 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-25T12:53:39.309842+00:00",
-    "headline_count": 49,
+    "fetched_at": "2026-10-25T18:49:11.336538+00:00",
+    "headline_count": 50,
     "headlines": [
         {
-            "headline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
-            "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+            "headline": "Why students in a midterm battleground fear AI will ruin their future",
+            "summary": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
+            "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
             "sentiment": "Negative",
-            "confidence": 0.974,
-            "signed_score": -0.965
-        },
-        {
-            "headline": "The right’s obsession with ‘civil war’ in Britain",
-            "summary": "Many of those stoking fears of bloody unrest don’t actually live in the country",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.572,
-            "signed_score": -0.357
-        },
-        {
-            "headline": "Why 17 is not the magic number in industrial policy",
-            "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 01:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.951
+            "confidence": 0.91,
+            "signed_score": -0.897
         },
         {
             "headline": "US voters worried about corruption under Trump — FT poll",
@@ -49,24 +29,14 @@
             "signed_score": -0.923
         },
         {
-            "headline": "Why students in a Pennsylvania midterm battleground fear AI is about to kill their future",
-            "summary": "Young people are increasingly anxious — and angry — at a Big Tech revolution and what it means for their job prospects",
+            "headline": "Martin Wolf on the US midterms: What’s at stake for the world?",
+            "summary": "The FT’s chief economics commentator speaks to writer and historian Anne Applebaum about why the elections matter beyond America",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.905,
-            "signed_score": -0.891
-        },
-        {
-            "headline": "Audi to build $4bn US plant as it grapples with tariffs",
-            "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 10:33:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.859,
-            "signed_score": 0.827
+            "link": "https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.915,
+            "signed_score": 0.006
         },
         {
             "headline": "London’s most famous shopping street bans cars in bid to revive its fortunes",
@@ -79,14 +49,74 @@
             "signed_score": -0.626
         },
         {
-            "headline": "Andy Burnham stokes Brexit debate ahead of UK-EU summit",
-            "summary": "Prime minister calls for ‘honest discussion’ about free movement of people",
+            "headline": "Marco Rubio still owes Europe answers about America’s intentions",
+            "summary": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 12:01:18 GMT",
+            "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
+            "published": "Sun, 25 Oct 2026 16:00:05 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.829,
-            "signed_score": 0.124
+            "confidence": 0.803,
+            "signed_score": 0.08
+        },
+        {
+            "headline": "France’s Le Pen vows national ‘renewal’ in campaign launch",
+            "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 17:47:48 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.47,
+            "signed_score": 0.402
+        },
+        {
+            "headline": "Venezuelan opposition leader Machado returns from exile",
+            "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+            "published": "Sun, 25 Oct 2026 17:37:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.649,
+            "signed_score": -0.519
+        },
+        {
+            "headline": "Bolsonaro and Lula face off in knife-edge Brazil election",
+            "summary": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.508,
+            "signed_score": 0.311
+        },
+        {
+            "headline": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
+            "summary": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 18:16:23 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.506,
+            "signed_score": 0.465
+        },
+        {
+            "headline": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
+            "summary": "Party leader wants to end emissions limits and replace province’s carbon tax framework",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/397d5d63-1d60-4218-b2bd-8ce6e8f527b1?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 14:25:30 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.519,
+            "signed_score": 0.489
+        },
+        {
+            "headline": "Will the Fed drop any hints on rate rises?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.877,
+            "signed_score": -0.08
         },
         {
             "headline": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
@@ -319,26 +349,6 @@
             "signed_score": 0.92
         },
         {
-            "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-            "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 21:50:16 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.451,
-            "signed_score": 0.042
-        },
-        {
-            "headline": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
-            "summary": "Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 20:05:42 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.97,
-            "signed_score": -0.961
-        },
-        {
             "headline": "Britain needs ‘chainsaw economics’",
             "summary": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
             "section": "Global economy",
@@ -349,14 +359,14 @@
             "signed_score": 0.772
         },
         {
-            "headline": "Will the Fed drop any hints on rate rises?",
-            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "headline": "Audi to build $4bn US plant as it grapples with tariffs",
+            "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
             "section": "Global economy",
-            "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": -0.08
+            "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 10:33:28 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.859,
+            "signed_score": 0.827
         },
         {
             "headline": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
