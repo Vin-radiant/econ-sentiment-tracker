@@ -5,7 +5,7 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-25T06:57:19.098768+00:00",
+    "fetched_at": "2026-10-25T12:53:39.309842+00:00",
     "headline_count": 49,
     "headlines": [
         {
@@ -39,44 +39,54 @@
             "signed_score": -0.951
         },
         {
-            "headline": "Bolsonaro and Lula face off in knife-edge Brazil election",
-            "summary": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump",
+            "headline": "US voters worried about corruption under Trump — FT poll",
+            "summary": "Americans link graft to affordability crisis as midterm elections loom",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
+            "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.938,
+            "signed_score": -0.923
+        },
+        {
+            "headline": "Why students in a Pennsylvania midterm battleground fear AI is about to kill their future",
+            "summary": "Young people are increasingly anxious — and angry — at a Big Tech revolution and what it means for their job prospects",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.905,
+            "signed_score": -0.891
+        },
+        {
+            "headline": "Audi to build $4bn US plant as it grapples with tariffs",
+            "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 10:33:28 GMT",
             "sentiment": "Positive",
-            "confidence": 0.508,
-            "signed_score": 0.311
+            "confidence": 0.859,
+            "signed_score": 0.827
         },
         {
-            "headline": "The Black Sea is now the world’s deadliest shipping route",
-            "summary": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf",
+            "headline": "London’s most famous shopping street bans cars in bid to revive its fortunes",
+            "summary": "Oxford Street’s controversial pedestrianisation comes as big brands invest in flagship stores",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
+            "link": "https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 12:26:15 GMT",
             "sentiment": "Negative",
-            "confidence": 0.939,
-            "signed_score": -0.921
+            "confidence": 0.655,
+            "signed_score": -0.626
         },
         {
-            "headline": "Ukraine military says Starlink service restrictions have been lifted",
-            "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+            "headline": "Andy Burnham stokes Brexit debate ahead of UK-EU summit",
+            "summary": "Prime minister calls for ‘honest discussion’ about free movement of people",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-            "published": "Sat, 24 Oct 2026 21:30:37 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.971,
-            "signed_score": -0.961
-        },
-        {
-            "headline": "More than 1mn antiquities returned to countries of origin",
-            "summary": "First comprehensive database of looted items returned by museums and collectors suggests articles worth at least $2bn have been repatriated since 1950",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
+            "link": "https://www.ft.com/content/ef271c35-6e32-455a-8463-579788530fd3?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 12:01:18 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.869,
-            "signed_score": 0.055
+            "confidence": 0.829,
+            "signed_score": 0.124
         },
         {
             "headline": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
@@ -87,6 +97,16 @@
             "sentiment": "Negative",
             "confidence": 0.752,
             "signed_score": -0.705
+        },
+        {
+            "headline": "The Black Sea is now the world’s deadliest shipping route",
+            "summary": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.939,
+            "signed_score": -0.921
         },
         {
             "headline": "French government and corporate bond yields are converging",
@@ -319,6 +339,26 @@
             "signed_score": -0.961
         },
         {
+            "headline": "Britain needs ‘chainsaw economics’",
+            "summary": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.794,
+            "signed_score": 0.772
+        },
+        {
+            "headline": "Will the Fed drop any hints on rate rises?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.877,
+            "signed_score": -0.08
+        },
+        {
             "headline": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
             "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
             "section": "Global economy",
@@ -457,46 +497,6 @@
             "sentiment": "Negative",
             "confidence": 0.512,
             "signed_score": -0.467
-        },
-        {
-            "headline": "Chocoholics and meat lovers feel brunt of rising UK food prices",
-            "summary": "Poor cocoa harvests and smaller cattle herds push up costs as trade experts call for energy relief for food and drink sector",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/7df9d057-b1b5-4a11-91c7-6504879f4ed6?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.912,
-            "signed_score": -0.845
-        },
-        {
-            "headline": "The rise of Africa’s Chinese factories",
-            "summary": "After years of state-led infrastructure projects, private companies are leading the charge with investing in manufacturing",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/87193801-4057-4fad-b667-ac64ba230efa?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.537,
-            "signed_score": 0.441
-        },
-        {
-            "headline": "AI’s true effect on inflation",
-            "summary": "Relative price shifts can affect the overall price level",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/68b04a9b-714e-4a5a-8dde-d9d7b8a65197?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.622,
-            "signed_score": -0.599
-        },
-        {
-            "headline": "No wars and no inflation: Has Trump delivered on his big promises?",
-            "summary": "The US president swept to victory two years ago pledging to fix the economy and close the border. Here is the FT’s scorecard.",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/fead8c02-877a-4fd4-b940-71045266e2c4?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.89,
-            "signed_score": 0.079
         }
     ]
 }
