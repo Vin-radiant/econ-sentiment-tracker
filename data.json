@@ -5,19 +5,9 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-24T18:47:38.312523+00:00",
-    "headline_count": 50,
+    "fetched_at": "2026-10-25T00:55:22.934700+00:00",
+    "headline_count": 51,
     "headlines": [
-        {
-            "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
-            "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 00:22:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.914,
-            "signed_score": -0.902
-        },
         {
             "headline": "France is looking ungovernable. And it’s going to get worse",
             "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
@@ -50,10 +40,10 @@
         },
         {
             "headline": "Ukraine military says Starlink service restrictions have been lifted",
-            "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+            "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
             "section": "Top stories",
             "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-            "published": "Sat, 24 Oct 2026 13:16:04 GMT",
+            "published": "Sat, 24 Oct 2026 21:30:37 GMT",
             "sentiment": "Negative",
             "confidence": 0.971,
             "signed_score": -0.961
@@ -63,20 +53,10 @@
             "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
             "section": "Top stories",
             "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 17:13:23 GMT",
+            "published": "Sat, 24 Oct 2026 23:23:01 GMT",
             "sentiment": "Negative",
             "confidence": 0.826,
             "signed_score": -0.783
-        },
-        {
-            "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
-            "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 22:28:52 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.88,
-            "signed_score": 0.832
         },
         {
             "headline": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
@@ -89,14 +69,24 @@
             "signed_score": -0.306
         },
         {
-            "headline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
-            "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
+            "headline": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+            "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
+            "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 19:19:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.898,
+            "signed_score": -0.868
+        },
+        {
+            "headline": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
+            "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 04:00:33 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.785,
-            "signed_score": 0.179
+            "confidence": 0.542,
+            "signed_score": -0.34
         },
         {
             "headline": "French government and corporate bond yields are converging",
@@ -127,6 +117,26 @@
             "sentiment": "Positive",
             "confidence": 0.647,
             "signed_score": 0.453
+        },
+        {
+            "headline": "US executives quit $25bn gas venture over claims of secret Russian control",
+            "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
+            "published": "Sat, 24 Oct 2026 00:22:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.914,
+            "signed_score": -0.902
+        },
+        {
+            "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
+            "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 22:28:52 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.88,
+            "signed_score": 0.832
         },
         {
             "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
