@@ -5,38 +5,58 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-25T00:55:22.934700+00:00",
-    "headline_count": 51,
+    "fetched_at": "2026-10-25T06:57:19.098768+00:00",
+    "headline_count": 49,
     "headlines": [
         {
-            "headline": "France is looking ungovernable. And it’s going to get worse",
-            "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+            "headline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+            "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
-            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
+            "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
             "sentiment": "Negative",
-            "confidence": 0.772,
-            "signed_score": -0.745
+            "confidence": 0.974,
+            "signed_score": -0.965
         },
         {
-            "headline": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
-            "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
+            "headline": "The right’s obsession with ‘civil war’ in Britain",
+            "summary": "Many of those stoking fears of bloody unrest don’t actually live in the country",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.538,
-            "signed_score": -0.501
-        },
-        {
-            "headline": "The young are conformists in denial",
-            "summary": "The reassuringly bourgeois values behind a rebellious generation",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:23 GMT",
+            "link": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.815,
-            "signed_score": -0.086
+            "confidence": 0.572,
+            "signed_score": -0.357
+        },
+        {
+            "headline": "Why 17 is not the magic number in industrial policy",
+            "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 01:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.961,
+            "signed_score": -0.951
+        },
+        {
+            "headline": "Bolsonaro and Lula face off in knife-edge Brazil election",
+            "summary": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.508,
+            "signed_score": 0.311
+        },
+        {
+            "headline": "The Black Sea is now the world’s deadliest shipping route",
+            "summary": "Fatalities of commercial sailors caught in battle between Russia and Ukraine are outstripping deaths in the Gulf",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.939,
+            "signed_score": -0.921
         },
         {
             "headline": "Ukraine military says Starlink service restrictions have been lifted",
@@ -49,44 +69,24 @@
             "signed_score": -0.961
         },
         {
-            "headline": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-            "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+            "headline": "More than 1mn antiquities returned to countries of origin",
+            "summary": "First comprehensive database of looted items returned by museums and collectors suggests articles worth at least $2bn have been repatriated since 1950",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 23:23:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.826,
-            "signed_score": -0.783
-        },
-        {
-            "headline": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
-            "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 15:09:52 GMT",
+            "link": "https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:02 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.521,
-            "signed_score": -0.306
+            "confidence": 0.869,
+            "signed_score": 0.055
         },
         {
-            "headline": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-            "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 19:19:48 GMT",
+            "headline": "Mercuria challenging the ‘Dow Jones of shipping’ in court after Hormuz losses",
+            "summary": "Case will test the Baltic Exchange’s decision to keep publishing price estimates for shipping oil through the Strait of Hormuz during the war",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/eedb7159-65df-45de-91f9-fde8de99e61c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
             "sentiment": "Negative",
-            "confidence": 0.898,
-            "signed_score": -0.868
-        },
-        {
-            "headline": "Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu",
-            "summary": "The grizzled 66-year-old who heads the centrist Yashar party is in a knife-edge race to oust the premier",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1",
-            "published": "Sat, 24 Oct 2026 04:00:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.542,
-            "signed_score": -0.34
+            "confidence": 0.752,
+            "signed_score": -0.705
         },
         {
             "headline": "French government and corporate bond yields are converging",
@@ -319,34 +319,24 @@
             "signed_score": -0.961
         },
         {
-            "headline": "UK waters down ‘fit and proper’ rules set up to hold bankers to account",
-            "summary": "Existing regulatory regime was instrumental in actions against former Barclays boss Jes Staley and hedge fund owner Crispin Odey",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0a5c7582-133c-4e24-8e3d-daa30f5dad56?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 20:00:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.61,
-            "signed_score": -0.073
+            "headline": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
+            "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 01:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.926,
+            "signed_score": 0.915
         },
         {
-            "headline": "Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators",
-            "summary": "Collapse into insolvency of historic Welsh steelworks threatens future of 50-year-old plant",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/63ed58ac-f9ef-41b7-a172-dc540337b698?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 15:44:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.949
-        },
-        {
-            "headline": "Kim reaffirms ties with China amid worries over Russian friendship",
+            "headline": "North Korea’s Kim crosses new China border bridge to reaffirm ties",
             "summary": "Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts",
             "section": "Global economy",
             "link": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
             "published": "Sat, 24 Oct 2026 15:44:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.49,
-            "signed_score": 0.014
+            "sentiment": "Negative",
+            "confidence": 0.828,
+            "signed_score": -0.683
         },
         {
             "headline": "Trump to cut Canadian tariffs after pressure from Republicans",
@@ -507,16 +497,6 @@
             "sentiment": "Neutral",
             "confidence": 0.89,
             "signed_score": 0.079
-        },
-        {
-            "headline": "China’s drugmakers move into the big league",
-            "summary": "Foreign pharma groups are now paying to access innovation developed locally",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90?syn-25a6b1a6=1",
-            "published": "Wed, 21 Oct 2026 23:01:08 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.669,
-            "signed_score": 0.657
         }
     ]
 }
