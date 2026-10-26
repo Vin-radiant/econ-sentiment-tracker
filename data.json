@@ -5,38 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-26T07:04:49.071263+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-26T14:56:55.885965+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "Lula is re-elected Brazil’s president in knife-edge vote",
-            "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+            "headline": "Anthropic begins countdown to IPO with prospectus filing",
+            "summary": "240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 04:44:49 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.482,
-            "signed_score": 0.241
+            "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:41:35 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.543,
+            "signed_score": 0.394
         },
         {
-            "headline": "How Lula turned his election fortunes around in three weeks",
-            "summary": "With an energetic online push and social giveaways, Brazil’s president reignited his campaign between the first and second rounds",
+            "headline": "Breaking down Anthropic’s 335-page S-1",
+            "summary": "Anthropic’s planned listing could be the biggest stock market debut in history",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 06:14:35 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.594,
-            "signed_score": 0.564
-        },
-        {
-            "headline": "After stunning victory, Lula will face a deep hangover",
-            "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 01:15:16 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.934,
-            "signed_score": -0.919
+            "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 13:08:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.908,
+            "signed_score": 0.019
         },
         {
             "headline": "The reclusive quant billionaire coming into the light",
@@ -49,6 +39,16 @@
             "signed_score": 0.043
         },
         {
+            "headline": "Trump, Netanyahu and the politics of escalation against Iran",
+            "summary": "Electoral defeat for the leaders of Israel and the US may not stand in the way of plans for a renewed assault",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 11:37:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.634,
+            "signed_score": -0.551
+        },
+        {
             "headline": "A day in Benjamin Netanyahu’s heartland",
             "summary": "Many in Sderot, a city hit by Hamas’s October 7 2023 attack, remain firmly behind the prime minister ahead of the election",
             "section": "Top stories",
@@ -59,24 +59,34 @@
             "signed_score": -0.876
         },
         {
-            "headline": "Oxford Street’s pedestrian revolution is finally here",
-            "summary": "UK’s leading shopping parade embarks on a controversial transformation project",
+            "headline": "Lula is re-elected Brazil’s president in knife-edge vote",
+            "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:21 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.802,
-            "signed_score": 0.14
+            "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 13:52:39 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.482,
+            "signed_score": 0.241
         },
         {
-            "headline": "Venezuelan opposition leader Machado returns from exile",
-            "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+            "headline": "Brazil’s markets tumble as investors bet Lula will add to fiscal pain",
+            "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 04:23:02 GMT",
+            "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:38:26 GMT",
             "sentiment": "Negative",
-            "confidence": 0.649,
-            "signed_score": -0.519
+            "confidence": 0.957,
+            "signed_score": -0.931
+        },
+        {
+            "headline": "Meta plans $95bn stock offering to bankroll AI expansion",
+            "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 12:34:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.789,
+            "signed_score": 0.195
         },
         {
             "headline": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
@@ -89,44 +99,64 @@
             "signed_score": -0.908
         },
         {
-            "headline": "Guernsey, Jersey and other havens rake in revenues from global minimum tax",
-            "summary": "Offshore hubs expect windfall after raising rates to comply with OECD rules for large multinationals",
+            "headline": "Who are the students set to govern Serbia?",
+            "summary": "Amorphous Student List movement has yet to nominate a prime minister candidate after Aleksandar Vučić’s election defeat",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4c3bf863-b21b-4626-83dd-26c6da3f0d8d?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:12 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.916
+            "link": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:06:44 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.505,
+            "signed_score": -0.472
         },
         {
-            "headline": "Germany to tap Ukrainian tech with missile purchase",
-            "summary": "Bars strike system would be first offensive weapon developed in Ukraine to be purchased by the Bundeswehr",
+            "headline": "Serbia’s ex-president Vučić concedes defeat to Student List",
+            "summary": "Parliamentary election loss marks a dramatic fall from power for strongman as near-record turnout favours grassroots party",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:30 GMT",
+            "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 11:14:38 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.952
+        },
+        {
+            "headline": "Apollo takes minority stake in Abu Dhabi’s Mubadala Capital",
+            "summary": "Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/306b6168-e8be-4781-82e3-d5dea8bc4de2?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:50:43 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.714,
-            "signed_score": 0.27
+            "confidence": 0.872,
+            "signed_score": 0.103
         },
         {
-            "headline": "Singapore to store Saudi oil in rock caverns",
+            "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
+            "summary": "US hospital chain is the latest not-for-profit healthcare provider to strike a large deal",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:08:26 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.819,
+            "signed_score": 0.805
+        },
+        {
+            "headline": "French bonds rally after Moody’s rating reprieve",
+            "summary": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade and oil price falls",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 07:28:34 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.966,
+            "signed_score": -0.953
+        },
+        {
+            "headline": "Singapore to store Saudi oil in underground caverns",
             "summary": "Agreement with Saudi Aramco aims to secure energy supplies for south-east Asia amid Middle East war disruption",
             "section": "Markets",
             "link": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
             "published": "Mon, 26 Oct 2026 06:57:54 GMT",
             "sentiment": "Positive",
-            "confidence": 0.939,
-            "signed_score": 0.922
-        },
-        {
-            "headline": "Oil price falls on Qatari mediation push",
-            "summary": "Brent tumbles more than $2 a barrel after hitting $117 on Friday amid fears of escalation in Middle East conflict",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 06:16:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.954
+            "confidence": 0.937,
+            "signed_score": 0.921
         },
         {
             "headline": "The rise and fall of the £150bn ‘diversified growth fund’ phenomenon",
@@ -187,16 +217,6 @@
             "sentiment": "Negative",
             "confidence": 0.917,
             "signed_score": -0.879
-        },
-        {
-            "headline": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
-            "summary": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 18:56:37 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.506,
-            "signed_score": 0.465
         },
         {
             "headline": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
@@ -319,54 +339,24 @@
             "signed_score": -0.019
         },
         {
-            "headline": "Stockpickers: Aberdeen, ITM Power, Tristel",
-            "summary": "Our experts discuss which companies to buy, sell or hold this week",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2aeaf5c1-1fc2-45ae-a6dd-0634384ae9d7",
-            "published": "Fri, 23 Oct 2026 17:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.95,
-            "signed_score": 0.017
-        },
-        {
-            "headline": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
-            "summary": "Price has plunged this week even as investors rush to safety of US Treasuries",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5a6e15e9-249d-4d59-a140-c51302930a9f?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 14:37:46 GMT",
+            "headline": "Relieving Starlink’s chokehold takes more than good intentions",
+            "summary": "The EU is making slow progress in building alternative satellite systems",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/cf0ec693-fd48-483d-b309-e8b7b48e8f05?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 12:31:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.947,
-            "signed_score": -0.912
+            "confidence": 0.91,
+            "signed_score": -0.895
         },
         {
-            "headline": "KKR founders back Valencia in deal valuing football club at €1.25bn",
-            "summary": "Family offices of KKR co-founders George Roberts and Henry Kravis are part of consortium that has agreed to take 42% stake in Spanish team",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f75c25c2-4164-4dfc-9d56-fc6a86704c47?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 12:02:13 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.65,
-            "signed_score": 0.332
-        },
-        {
-            "headline": "What the coming copper crunch means for the global economy",
-            "summary": "A looming shortage of the metal will push up costs for AI, defence tech and the green transition",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 11:01:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.821,
-            "signed_score": -0.709
-        },
-        {
-            "headline": "FirstFT: Brazil re-elects Lula as president",
-            "summary": "Also in today’s newsletter: Serbia’s strongman bows out and France’s Le Pen launches campaign",
+            "headline": "FirstFT: How Lula pulled off a stunning victory",
+            "summary": "Also in today’s newsletter: partner chosen to lead Weil, Gotshal & Manges changes her mind, and Venezuelan opposition leader returns to Caracas",
             "section": "Global economy",
             "link": "https://www.ft.com/content/7d8f8969-7bef-4776-8e32-54249f8d3d61?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:31:46 GMT",
+            "published": "Mon, 26 Oct 2026 10:08:55 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.904,
-            "signed_score": 0.04
+            "confidence": 0.916,
+            "signed_score": -0.008
         },
         {
             "headline": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
@@ -469,6 +459,16 @@
             "signed_score": 0.429
         },
         {
+            "headline": "What the coming copper crunch means for the global economy",
+            "summary": "A looming shortage of the metal will push up costs for AI, defence tech and the green transition",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 11:01:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.821,
+            "signed_score": -0.709
+        },
+        {
             "headline": "FirstFT: AI doubts fuel tech sell-off",
             "summary": "Also in today’s newsletter: Oil price surges and luxury goods group Kerring hit by falling demand",
             "section": "Global economy",
@@ -547,26 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.967,
             "signed_score": -0.958
-        },
-        {
-            "headline": "Argentina’s resources boom gathers pace",
-            "summary": "Investment is surging in the oil and gas and mining sectors, helped by new government policies",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:10 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.92
-        },
-        {
-            "headline": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
-            "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 23:13:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.822,
-            "signed_score": -0.022
         }
     ]
 }
