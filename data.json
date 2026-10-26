@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-26T14:56:55.885965+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-26T19:02:00.236033+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Anthropic begins countdown to IPO with prospectus filing",
-            "summary": "240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors",
+            "headline": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+            "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:41:35 GMT",
+            "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:45:49 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.543,
-            "signed_score": 0.394
+            "confidence": 0.771,
+            "signed_score": 0.211
         },
         {
-            "headline": "Breaking down Anthropic’s 335-page S-1",
-            "summary": "Anthropic’s planned listing could be the biggest stock market debut in history",
+            "headline": "Why you shouldn’t bother reading the Anthropic IPO filing",
+            "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 13:08:09 GMT",
+            "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:29:42 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.908,
-            "signed_score": 0.019
+            "confidence": 0.816,
+            "signed_score": -0.108
         },
         {
             "headline": "The reclusive quant billionaire coming into the light",
@@ -69,24 +69,24 @@
             "signed_score": 0.241
         },
         {
-            "headline": "Brazil’s markets tumble as investors bet Lula will add to fiscal pain",
+            "headline": "Lula’s surprise victory triggers worst rout in decades for Brazilian markets",
             "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
             "section": "Top stories",
             "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:38:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.931
+            "published": "Mon, 26 Oct 2026 17:32:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.873,
+            "signed_score": 0.776
         },
         {
-            "headline": "Meta plans $95bn stock offering to bankroll AI expansion",
-            "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+            "headline": "Trump administration illegally fired Maurene Comey, judge rules",
+            "summary": "Ruling deals a blow to the US government’s claims of sweeping presidential power to sack officials",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 12:34:22 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.789,
-            "signed_score": 0.195
+            "link": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 18:05:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.939,
+            "signed_score": -0.92
         },
         {
             "headline": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
@@ -97,6 +97,26 @@
             "sentiment": "Negative",
             "confidence": 0.916,
             "signed_score": -0.908
+        },
+        {
+            "headline": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+            "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:22:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.799,
+            "signed_score": -0.772
+        },
+        {
+            "headline": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
+            "summary": "Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 16:01:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.765,
+            "signed_score": -0.66
         },
         {
             "headline": "Who are the students set to govern Serbia?",
@@ -119,6 +139,16 @@
             "signed_score": -0.952
         },
         {
+            "headline": "French bonds rally after Moody’s rating reprieve",
+            "summary": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:14:34 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.943
+        },
+        {
             "headline": "Apollo takes minority stake in Abu Dhabi’s Mubadala Capital",
             "summary": "Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed",
             "section": "Markets",
@@ -127,6 +157,16 @@
             "sentiment": "Neutral",
             "confidence": 0.872,
             "signed_score": 0.103
+        },
+        {
+            "headline": "Anthropic begins countdown to IPO with prospectus filing",
+            "summary": "240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:41:35 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.543,
+            "signed_score": 0.394
         },
         {
             "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
@@ -139,17 +179,17 @@
             "signed_score": 0.805
         },
         {
-            "headline": "French bonds rally after Moody’s rating reprieve",
-            "summary": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade and oil price falls",
+            "headline": "Anthropic S-1 as it happened: Inside the Claude maker’s 335-page IPO plan",
+            "summary": "Start-up’s planned listing could be the biggest stock market debut in history",
             "section": "Markets",
-            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 07:28:34 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.953
+            "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 13:08:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.872,
+            "signed_score": 0.104
         },
         {
-            "headline": "Singapore to store Saudi oil in underground caverns",
+            "headline": "Singapore to store Saudi Arabian oil in caverns",
             "summary": "Agreement with Saudi Aramco aims to secure energy supplies for south-east Asia amid Middle East war disruption",
             "section": "Markets",
             "link": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
@@ -317,26 +357,6 @@
             "sentiment": "Negative",
             "confidence": 0.532,
             "signed_score": -0.111
-        },
-        {
-            "headline": "Lunch break under threat as Hong Kong looks at longer trading day",
-            "summary": "HKEX discusses scrapping ‘antiquated practice’ as Nasdaq plans move to 23 hours",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bc13b5f1-387e-4fae-927e-d96ac24ea645?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 20:00:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.629,
-            "signed_score": -0.282
-        },
-        {
-            "headline": "The ledger problem",
-            "summary": "Tokenisation doesn’t suspend the laws of finance",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e3bd8426-defb-41d0-8680-81ce72948e83",
-            "published": "Fri, 23 Oct 2026 17:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.91,
-            "signed_score": -0.019
         },
         {
             "headline": "Relieving Starlink’s chokehold takes more than good intentions",
