@@ -5,38 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-25T18:49:11.336538+00:00",
-    "headline_count": 50,
+    "fetched_at": "2026-10-26T01:10:06.185050+00:00",
+    "headline_count": 52,
     "headlines": [
         {
-            "headline": "Why students in a midterm battleground fear AI will ruin their future",
-            "summary": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
+            "headline": "Lula re-elected Brazil’s president in knife-edge election",
+            "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.91,
-            "signed_score": -0.897
+            "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 00:56:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.455,
+            "signed_score": 0.219
         },
         {
-            "headline": "US voters worried about corruption under Trump — FT poll",
-            "summary": "Americans link graft to affordability crisis as midterm elections loom",
+            "headline": "Venezuelan opposition leader Machado returns from exile",
+            "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
+            "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 21:55:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.923
-        },
-        {
-            "headline": "Martin Wolf on the US midterms: What’s at stake for the world?",
-            "summary": "The FT’s chief economics commentator speaks to writer and historian Anne Applebaum about why the elections matter beyond America",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/01119d92-0d23-4d91-8a66-44ebd94c2356?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.915,
-            "signed_score": 0.006
+            "confidence": 0.649,
+            "signed_score": -0.519
         },
         {
             "headline": "London’s most famous shopping street bans cars in bid to revive its fortunes",
@@ -59,41 +49,61 @@
             "signed_score": 0.08
         },
         {
+            "headline": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
+            "summary": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 23:19:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.916,
+            "signed_score": -0.908
+        },
+        {
+            "headline": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+            "summary": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout favours grassroots party",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 00:38:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.949
+        },
+        {
+            "headline": "After Hungary, Serbia takes its turn to show the power of the people",
+            "summary": "Anger at corruption and an unaccountable government turned Serbs decisively against their autocratic leader Aleksandar Vučić",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 23:54:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.551,
+            "signed_score": -0.259
+        },
+        {
+            "headline": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
+            "summary": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 17:56:50 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.565,
+            "signed_score": 0.406
+        },
+        {
             "headline": "France’s Le Pen vows national ‘renewal’ in campaign launch",
             "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
             "section": "Top stories",
             "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 17:47:48 GMT",
+            "published": "Sun, 25 Oct 2026 18:37:17 GMT",
             "sentiment": "Positive",
             "confidence": 0.47,
             "signed_score": 0.402
         },
         {
-            "headline": "Venezuelan opposition leader Machado returns from exile",
-            "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
-            "published": "Sun, 25 Oct 2026 17:37:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.649,
-            "signed_score": -0.519
-        },
-        {
-            "headline": "Bolsonaro and Lula face off in knife-edge Brazil election",
-            "summary": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 05:00:10 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.508,
-            "signed_score": 0.311
-        },
-        {
             "headline": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
             "summary": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 18:16:23 GMT",
+            "published": "Sun, 25 Oct 2026 18:56:37 GMT",
             "sentiment": "Neutral",
             "confidence": 0.506,
             "signed_score": 0.465
@@ -339,14 +349,14 @@
             "signed_score": -0.707
         },
         {
-            "headline": "Argentina’s resources boom gathers pace",
-            "summary": "Investment is surging in the oil and gas and mining sectors, helped by new government policies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:10 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.938,
-            "signed_score": 0.92
+            "headline": "A knife-edge election in Israel and other potential pivot points",
+            "summary": "A key Knesset election, a (hopefully) boring British Budget, Big Oil and Big Tech reports",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/49873329-05f1-4137-bf94-d4ed3f63e897?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 18:15:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.777,
+            "signed_score": -0.749
         },
         {
             "headline": "Britain needs ‘chainsaw economics’",
@@ -357,6 +367,16 @@
             "sentiment": "Positive",
             "confidence": 0.794,
             "signed_score": 0.772
+        },
+        {
+            "headline": "US voters worried about corruption under Trump — FT poll",
+            "summary": "Americans link graft to affordability crisis as midterm elections loom",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
+            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.938,
+            "signed_score": -0.923
         },
         {
             "headline": "Audi to build $4bn US plant as it grapples with tariffs",
@@ -459,6 +479,16 @@
             "signed_score": -0.958
         },
         {
+            "headline": "Argentina’s resources boom gathers pace",
+            "summary": "Investment is surging in the oil and gas and mining sectors, helped by new government policies",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 04:00:10 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.938,
+            "signed_score": 0.92
+        },
+        {
             "headline": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
             "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
             "section": "Global economy",
@@ -497,16 +527,6 @@
             "sentiment": "Negative",
             "confidence": 0.811,
             "signed_score": -0.68
-        },
-        {
-            "headline": "Which G7 economy is the profligacy poster child?",
-            "summary": "Among the group, France and the US are heading into a wall",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
-            "published": "Thu, 22 Oct 2026 04:00:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.512,
-            "signed_score": -0.467
         }
     ]
 }
