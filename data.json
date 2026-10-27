@@ -5,38 +5,38 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-27T13:01:32.277112+00:00",
+    "fetched_at": "2026-10-27T18:57:26.370153+00:00",
     "headline_count": 56,
     "headlines": [
         {
-            "headline": "Lula faces a fiscal reckoning after Brazil’s market rout",
-            "summary": "Concerns about management of economy trigger worst day for currency in more than 25 years",
+            "headline": "Israel election turnout highest since 1973",
+            "summary": "First vote since October 7 2023 attack pits Benjamin Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:28 GMT",
+            "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 15:48:46 GMT",
             "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.951
+            "confidence": 0.655,
+            "signed_score": -0.54
         },
         {
-            "headline": "Bolsonaro says he was forced to surrender passport as his party concedes election",
-            "summary": "Hard-right Brazilian candidate is under criminal investigation related to an alleged money laundering scheme",
+            "headline": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
+            "summary": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 12:47:39 GMT",
+            "link": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 11:00:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.858,
-            "signed_score": -0.841
+            "confidence": 0.47,
+            "signed_score": -0.362
         },
         {
-            "headline": "Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked businessman",
-            "summary": "Remote August rendezvous highlights remarkable ties between the US president’s son and a Russian close to Vladimir Putin",
+            "headline": "The limits of hedging the AI boom",
+            "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:10 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.778,
-            "signed_score": 0.766
+            "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:07:56 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.87,
+            "signed_score": -0.014
         },
         {
             "headline": "US voters and Trump’s overflowing swamp",
@@ -49,51 +49,21 @@
             "signed_score": -0.142
         },
         {
-            "headline": "The winners and losers of the weight-loss economy",
-            "summary": "People on GLP-1s are spending their money differently. Some sectors will benefit, others must adapt or die",
+            "headline": "Law firm Weil prepares for possible wind-down as crisis deepens",
+            "summary": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2f1667a8-ef1b-46a0-bc95-6061ec85fb8e?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:18 GMT",
+            "link": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 18:06:33 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.894,
-            "signed_score": -0.008
-        },
-        {
-            "headline": "Israelis go to the polls in historic election",
-            "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 12:11:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.419,
-            "signed_score": -0.239
-        },
-        {
-            "headline": "Tech stocks rally as AI trade revives",
-            "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 10:23:40 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.599,
-            "signed_score": 0.387
-        },
-        {
-            "headline": "France must ‘cure ourselves’ without more spending, says finance minister",
-            "summary": "Roland Lescure says government can come up with creative solutions without widening budget deficit",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/167fd08f-2f01-46ee-a419-074e22ffd1a8?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.92,
-            "signed_score": 0.889
+            "confidence": 0.647,
+            "signed_score": -0.207
         },
         {
             "headline": "Putin speaks with Norwegian and Finnish leaders",
             "summary": "Call is first contact at this level in more than a year as Russia and Ukraine prepare for US-brokered peace talks",
             "section": "Top stories",
             "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 12:13:49 GMT",
+            "published": "Tue, 27 Oct 2026 14:45:35 GMT",
             "sentiment": "Neutral",
             "confidence": 0.769,
             "signed_score": 0.2
@@ -107,6 +77,96 @@
             "sentiment": "Negative",
             "confidence": 0.923,
             "signed_score": -0.889
+        },
+        {
+            "headline": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
+            "summary": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:55:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.967,
+            "signed_score": -0.956
+        },
+        {
+            "headline": "Flávio Bolsonaro’s passport cancelled as reports say he has fled Brazil",
+            "summary": "Defeated rightwing presidential candidate is under investigation by federal police over alleged corruption and money laundering",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:52:23 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.941,
+            "signed_score": -0.93
+        },
+        {
+            "headline": "Lula faces a fiscal reckoning after Brazil’s market rout",
+            "summary": "Concerns about management of economy trigger worst day for currency in more than 25 years",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 13:15:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.965,
+            "signed_score": -0.951
+        },
+        {
+            "headline": "Tech stocks gain as AI trade revives",
+            "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:29:24 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.664,
+            "signed_score": 0.51
+        },
+        {
+            "headline": "Anthropic, Meta and the K-shaped company",
+            "summary": "The gap is widening between shareholders with clout and those with none",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:02:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.837,
+            "signed_score": -0.803
+        },
+        {
+            "headline": "We don’t understand the gold price",
+            "summary": "Maybe we never did",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f0d7a819-7bdf-486d-9fd1-b8cf2eeee15a",
+            "published": "Tue, 27 Oct 2026 16:55:48 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.827,
+            "signed_score": -0.097
+        },
+        {
+            "headline": "Iran threatens South Korean shipping group over Hormuz transits",
+            "summary": "Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/171ffdaa-e3e7-41b9-a4c6-09c9ace3f719?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 15:01:24 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.943,
+            "signed_score": -0.925
+        },
+        {
+            "headline": "Anthropic and the AI cluster effect in fundraising",
+            "summary": "$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
+            "published": "Tue, 27 Oct 2026 14:02:23 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.627,
+            "signed_score": -0.051
+        },
+        {
+            "headline": "GM to switch listing from NYSE to Nasdaq as it accelerates AI push",
+            "summary": "Move marks another blow for Big Board as tech-focused rival attracts some of world’s most valuable companies",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 14:02:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.505,
+            "signed_score": -0.06
         },
         {
             "headline": "Anthropic’s constitutional order",
@@ -269,64 +329,14 @@
             "signed_score": 0.921
         },
         {
-            "headline": "The rise and fall of the £150bn ‘diversified growth fund’ phenomenon",
-            "summary": "What the investment experiment taught us about the asset management industry",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cec7ecab-27fa-41ce-93f8-e6a6061599d1",
-            "published": "Mon, 26 Oct 2026 06:00:01 GMT",
+            "headline": "Should monetarism stage a comeback?",
+            "summary": "Kevin Warsh wants to revive Milton Friedman’s ideas, but monetary signals are often vague and noisy",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a7de51d1-f4bc-4e52-af3b-3d52459126bf?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 12:30:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.895,
-            "signed_score": 0.074
-        },
-        {
-            "headline": "Alexandra Wilson-Elizondo: ‘People are asking the wrong question’",
-            "summary": "Plus, top-heavy earnings growth in the S&P 500",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c16a902b-4d6e-45bc-9012-351ed8fe9723?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:30:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.823,
-            "signed_score": 0.73
-        },
-        {
-            "headline": "EU weighs mirroring Trump in securing critical minerals",
-            "summary": "Lawmakers propose Brussels take equity stakes in raw material projects modelled on US and Japan",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cfb2e934-0000-42e6-93a4-4dffa56f11a8?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:30 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.741,
-            "signed_score": 0.239
-        },
-        {
-            "headline": "UK financial ombudsman hits phones to cut through AI hallucinations",
-            "summary": "Public sector bodies and courts are being weighed down by tech-assisted complaints that are lengthy and inaccurate",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5f56b300-f8a6-4834-a2e6-75902880ef87?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:30 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.949
-        },
-        {
-            "headline": "‘Do no harm’ — what gilt investors want from Healey in the Budget",
-            "summary": "Big bond investors hope for ‘reassurance’ from new chancellor and warn against tweaking key fiscal rules",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/244ae9ad-0778-4afe-8b6a-c2b1b9f81771?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:20 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.511,
-            "signed_score": 0.138
-        },
-        {
-            "headline": "Junk borrowers are stuck between a $2tn rock and a hard place",
-            "summary": "Huge supply means investors can afford to be picky, driving costs even higher for the most risky borrowers",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/053a8758-2814-45a5-87ca-0c71ce5f7816?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.917,
-            "signed_score": -0.879
+            "confidence": 0.73,
+            "signed_score": -0.174
         },
         {
             "headline": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
@@ -557,16 +567,6 @@
             "sentiment": "Positive",
             "confidence": 0.893,
             "signed_score": 0.819
-        },
-        {
-            "headline": "A half-time scorecard for Trump-world",
-            "summary": "Monetising America has pleased tycoons but not citizens",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
-            "published": "Fri, 23 Oct 2026 13:32:54 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.536,
-            "signed_score": 0.429
         }
     ]
 }
