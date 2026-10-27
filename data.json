@@ -5,9 +5,29 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-26T19:02:00.236033+00:00",
+    "fetched_at": "2026-10-27T01:03:16.173893+00:00",
     "headline_count": 56,
     "headlines": [
+        {
+            "headline": "Brazil’s currency plunges most since 1999 after Lula’s surprise victory",
+            "summary": "São Paulo stock bourse also sustains heavy sell-off after leftwing politician’s win against Flávio Bolsonaro",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 21:08:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.947
+        },
+        {
+            "headline": "Lula’s stunning comeback meets fiscal reality",
+            "summary": "Brazil’s president must now rein in spending and build a broad coalition",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/79785581-88c2-49a9-a109-9d5ccafc3c7d?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 18:14:43 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.776,
+            "signed_score": 0.754
+        },
         {
             "headline": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
             "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
@@ -17,26 +37,6 @@
             "sentiment": "Neutral",
             "confidence": 0.771,
             "signed_score": 0.211
-        },
-        {
-            "headline": "Why you shouldn’t bother reading the Anthropic IPO filing",
-            "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:29:42 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.816,
-            "signed_score": -0.108
-        },
-        {
-            "headline": "The reclusive quant billionaire coming into the light",
-            "summary": "Peter de Putron has spent decades maintaining a low profile. But the scale of his interests is commanding new attention",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:12 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.912,
-            "signed_score": 0.043
         },
         {
             "headline": "Trump, Netanyahu and the politics of escalation against Iran",
@@ -49,34 +49,54 @@
             "signed_score": -0.551
         },
         {
-            "headline": "A day in Benjamin Netanyahu’s heartland",
-            "summary": "Many in Sderot, a city hit by Hamas’s October 7 2023 attack, remain firmly behind the prime minister ahead of the election",
+            "headline": "Who are the students set to govern Serbia?",
+            "summary": "Amorphous Student List movement has yet to nominate a prime minister candidate after Aleksandar Vučić’s election defeat",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173",
-            "published": "Mon, 26 Oct 2026 05:00:20 GMT",
+            "link": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 14:06:44 GMT",
             "sentiment": "Negative",
-            "confidence": 0.893,
-            "signed_score": -0.876
+            "confidence": 0.505,
+            "signed_score": -0.472
         },
         {
-            "headline": "Lula is re-elected Brazil’s president in knife-edge vote",
-            "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+            "headline": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+            "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 13:52:39 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.482,
-            "signed_score": 0.241
+            "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 21:13:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.799,
+            "signed_score": -0.772
         },
         {
-            "headline": "Lula’s surprise victory triggers worst rout in decades for Brazilian markets",
-            "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
+            "headline": "Microsoft offers buyouts to 60,000 staff",
+            "summary": "Tech giant moves to control costs and it spends up to $175bn on AI infrastructure this year",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:32:09 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.873,
-            "signed_score": 0.776
+            "link": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 20:22:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.527,
+            "signed_score": 0.408
+        },
+        {
+            "headline": "Meta plans $95bn stock offering to bankroll AI expansion",
+            "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 20:49:27 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.789,
+            "signed_score": 0.195
+        },
+        {
+            "headline": "US charges ex-FBI chief James Comey for third time",
+            "summary": "Former official is charged with disclosing national defence information in latest case brought by the Trump administration",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 22:56:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.766,
+            "signed_score": -0.739
         },
         {
             "headline": "Trump administration illegally fired Maurene Comey, judge rules",
@@ -89,54 +109,34 @@
             "signed_score": -0.92
         },
         {
-            "headline": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
-            "summary": "Ramona Nee had been due to take the helm in January but has declined position amid an exodus from the Wall Street law firm",
+            "headline": "Trump offers $1mn reward for tips leading to election fraud conviction",
+            "summary": "US president offers payout days before midterm vote that will shape balance of power in Congress",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 23:19:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.916,
-            "signed_score": -0.908
+            "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 21:50:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.574,
+            "signed_score": 0.214
         },
         {
-            "headline": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
-            "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:22:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.799,
-            "signed_score": -0.772
+            "headline": "DWS to honour just 10% of redemption requests at flagship property fund",
+            "summary": "Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogether",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8868926c-3ee2-45e8-9705-0cb195fcc493?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 18:16:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.616,
+            "signed_score": -0.029
         },
         {
-            "headline": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
-            "summary": "Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 16:01:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.765,
-            "signed_score": -0.66
-        },
-        {
-            "headline": "Who are the students set to govern Serbia?",
-            "summary": "Amorphous Student List movement has yet to nominate a prime minister candidate after Aleksandar Vučić’s election defeat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:06:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.505,
-            "signed_score": -0.472
-        },
-        {
-            "headline": "Serbia’s ex-president Vučić concedes defeat to Student List",
-            "summary": "Parliamentary election loss marks a dramatic fall from power for strongman as near-record turnout favours grassroots party",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 11:14:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.964,
-            "signed_score": -0.952
+            "headline": "Why you shouldn’t bother reading the Anthropic IPO filing",
+            "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:29:42 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.816,
+            "signed_score": -0.108
         },
         {
             "headline": "French bonds rally after Moody’s rating reprieve",
@@ -259,6 +259,16 @@
             "signed_score": -0.879
         },
         {
+            "headline": "Kone tries to limit asset sales as it seeks Brussels’ approval for €29bn megadeal",
+            "summary": "Liftmaker seeks to retain TK Elevator’s Spain and Portugal business in test to Brussels’ appetite for regional champions",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/133c0f88-419e-4c6a-ada2-a911ffd90754?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 05:00:12 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.619,
+            "signed_score": 0.33
+        },
+        {
             "headline": "Carney’s energy ambitions boosted by Conservative victory in British Columbia",
             "summary": "Party leader wants to end emissions limits and replace province’s carbon tax framework",
             "section": "Markets",
@@ -339,24 +349,24 @@
             "signed_score": -0.902
         },
         {
-            "headline": "France avoids downgrade from Moody’s in boost for Macron’s government",
-            "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 22:28:52 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.88,
-            "signed_score": 0.832
+            "headline": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+            "summary": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 22:44:47 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
+            "signed_score": -0.902
         },
         {
-            "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-            "summary": "Rise in energy prices pushes US inflation expectations higher",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 20:13:21 GMT",
+            "headline": "FirstFT: Anthropic unveils long-awaited IPO prospectus",
+            "summary": "Also in today’s newsletter: Brazil’s currency plunges and Singapore to store Saudi Arabian oil in caverns",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 21:41:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.532,
-            "signed_score": -0.111
+            "confidence": 0.773,
+            "signed_score": -0.745
         },
         {
             "headline": "Relieving Starlink’s chokehold takes more than good intentions",
@@ -469,6 +479,16 @@
             "signed_score": 0.304
         },
         {
+            "headline": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+            "summary": "Rise in energy prices pushes US inflation expectations higher",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+            "published": "Fri, 23 Oct 2026 20:13:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.532,
+            "signed_score": -0.111
+        },
+        {
             "headline": "A half-time scorecard for Trump-world",
             "summary": "Monetising America has pleased tycoons but not citizens",
             "section": "Global economy",
@@ -547,26 +567,6 @@
             "sentiment": "Negative",
             "confidence": 0.857,
             "signed_score": -0.736
-        },
-        {
-            "headline": "Risks to peso as Argentine elections loom",
-            "summary": "With polls suggesting a close race, some analysts expect the currency to come under pressure",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c97986bf-6d3a-47a9-834c-173228454c3d?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.828,
-            "signed_score": -0.707
-        },
-        {
-            "headline": "Milei’s economic reforms under pressure",
-            "summary": "Argentine president’s radical plan to transform the country is proving painful as the economy stagnates, weighed down by austerity and tight monetary policy",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9?syn-25a6b1a6=1",
-            "published": "Fri, 23 Oct 2026 04:00:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.958
         }
     ]
 }
