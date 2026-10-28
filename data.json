@@ -5,28 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-28T13:11:30.378882+00:00",
-    "headline_count": 59,
+    "fetched_at": "2026-10-28T19:02:55.977839+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Netanyahu ahead but no clear winner in Israeli election",
-            "summary": "Prime minister urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority",
+            "headline": "Federal Reserve holds rates steady despite worsening US inflation",
+            "summary": "Central bank to vote on monetary policy seven times next year in shift from longstanding practice of eight such meetings",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 09:48:35 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.563,
-            "signed_score": -0.491
-        },
-        {
-            "headline": "Israel’s election: what happens next?",
-            "summary": "Partial results suggest neither Prime Minister Benjamin Netanyahu nor his rivals have a simple path to form a government",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15",
-            "published": "Wed, 28 Oct 2026 11:32:37 GMT",
+            "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 16:51:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.479,
-            "signed_score": -0.419
+            "confidence": 0.523,
+            "signed_score": 0.316
         },
         {
             "headline": "The globetrotting Trump brothers",
@@ -49,74 +39,104 @@
             "signed_score": -0.925
         },
         {
-            "headline": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
-            "summary": "From a rebellion at OpenAI to building the Claude-maker, the new billionaires are betting their future on staying united",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.801,
-            "signed_score": 0.169
-        },
-        {
-            "headline": "Bolsonaro boards private jet from Argentina after fleeing Brazil",
-            "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro flew to Ecuador on Tuesday night, said Argentine authorities",
+            "headline": "Bolsonaro lands in US after fleeing Brazil",
+            "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro left Brazil after being ordered to hand over his passports",
             "section": "Top stories",
             "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 12:33:43 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.502,
-            "signed_score": -0.362
+            "published": "Wed, 28 Oct 2026 14:47:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.649,
+            "signed_score": -0.616
         },
         {
-            "headline": "Zelenskyy opens door to security guarantees for Russia",
-            "summary": "Ukrainian president acknowledges Moscow could also receive security guarantees as part of peace deal",
+            "headline": "How Israel’s opposition fell short against Netanyahu",
+            "summary": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 09:58:33 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.883,
-            "signed_score": 0.872
+            "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
+            "published": "Wed, 28 Oct 2026 17:45:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.923,
+            "signed_score": -0.905
         },
         {
-            "headline": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
-            "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
+            "headline": "Israel’s Arabs seek a slice of power",
+            "summary": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 19:06:02 GMT",
+            "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 17:40:19 GMT",
             "sentiment": "Positive",
-            "confidence": 0.801,
-            "signed_score": 0.782
+            "confidence": 0.82,
+            "signed_score": 0.801
         },
         {
-            "headline": "At least 30 killed in collision of high-speed trains in Spain",
+            "headline": "At least 68 killed in collision of high-speed trains in Spain",
             "summary": "Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January",
             "section": "Top stories",
             "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 11:45:20 GMT",
+            "published": "Wed, 28 Oct 2026 16:27:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.913,
-            "signed_score": -0.902
+            "confidence": 0.911,
+            "signed_score": -0.9
         },
         {
-            "headline": "Polymarket’s top trader is sports gambler ‘Swiss Tony’",
-            "summary": "FT analysis shows biggest winners on prediction platform are a mixture of long-shot bettors and high-frequency traders",
+            "headline": "Law firm Sidley Austin hires banker to lead practice group in Wall Street rarity",
+            "summary": "Restructuring expert William Evarts represents rare move by a banker switching from finance to lead a law firm speciality",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:14 GMT",
+            "link": "https://www.ft.com/content/84da55e7-f544-4c80-81fc-02fa166454fa?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 17:26:25 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.871,
-            "signed_score": 0.09
+            "confidence": 0.889,
+            "signed_score": 0.079
         },
         {
-            "headline": "Prediction markets are turning Washington into a casino",
-            "summary": "In a city where almost everyone is privy to some kind of inside information, betting on politics has jumped ahead of midterm elections",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5d481ab6-af20-4da2-a1c8-e53f69877676?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 12:22:23 GMT",
+            "headline": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
+            "summary": "Gilts hold on to pre-Budget gains following modest package of tax and spending changes",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d7788234-ffaf-49a5-9528-cff0a1685fe9?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 17:16:15 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.88,
+            "signed_score": 0.789
+        },
+        {
+            "headline": "European gas prices jump above €100 on fears of Iran war escalation",
+            "summary": "Traders are also concerned by forecasts of cold winter at a time when gas storage levels are low",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/afe6e244-8433-4371-a26f-7aacbc9b8dcd?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 17:00:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.961,
+            "signed_score": -0.946
+        },
+        {
+            "headline": "Bank of England able to take UK Budget in its stride despite slippage in deficit reduction",
+            "summary": "Higher energy prices and interest costs take their toll on borrowing outlook",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4fe7b495-a682-4f69-a385-a02c892db0d7",
+            "published": "Wed, 28 Oct 2026 16:39:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.943,
+            "signed_score": -0.9
+        },
+        {
+            "headline": "Mubadala Capital dealmaker to launch his own venture fund",
+            "summary": "Ibrahim Ajami, a senior executive at the private capital arm of Abu Dhabi’s sovereign wealth fund, is set to leave next year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 15:44:48 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.698,
-            "signed_score": -0.043
+            "confidence": 0.77,
+            "signed_score": -0.19
+        },
+        {
+            "headline": "JetBlue tries to sweet-talk an unforgiving bond market",
+            "summary": "Despite bond market sweet talk not usually being a very productive strategy, it’s hard to fault chief Joanna Geraghty for trying",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0713e1f0-770d-438e-b330-b5279f2f98af?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 15:22:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.702,
+            "signed_score": -0.024
         },
         {
             "headline": "We read Liz Truss’s book so you don’t have to",
@@ -259,6 +279,16 @@
             "signed_score": 0.274
         },
         {
+            "headline": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+            "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 19:06:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.801,
+            "signed_score": 0.782
+        },
+        {
             "headline": "The limits of hedging the AI boom",
             "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
             "section": "Markets",
@@ -309,54 +339,34 @@
             "signed_score": -0.06
         },
         {
-            "headline": "Lula faces a fiscal reckoning after Brazil’s market rout",
-            "summary": "Concerns about management of economy trigger worst day for currency in more than 25 years",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 13:15:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.951
-        },
-        {
-            "headline": "Three Russian diesel tankers steam for US — including two under sanctions",
-            "summary": "Trump deal with Putin to ease fuel prices exposes companies to legal threats from Congress",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d847744f-cfa5-4dc5-bdd2-faeee0b584f7?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 12:05:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.923,
-            "signed_score": -0.889
-        },
-        {
-            "headline": "Anthropic’s constitutional order",
-            "summary": "Plus, Lula’s victory",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:30:08 GMT",
+            "headline": "Fed holds rates as expected and upgrades view on economy",
+            "summary": "The decision to hold rates at the October meeting was less contested than we expected",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
+            "published": "Wed, 28 Oct 2026 18:20:15 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.832,
-            "signed_score": 0.14
+            "confidence": 0.838,
+            "signed_score": -0.016
         },
         {
-            "headline": "Anthropic’s big financial reveal",
-            "summary": "Here are the big takeaways from the start-up’s IPO prospectus",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:29 GMT",
-            "sentiment": "Neutral",
+            "headline": "Airbus profits drop as plane deliveries slow",
+            "summary": "The world’s biggest maker of aircraft has held on to its full-year target of 870 deliveries despite production challenges",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 18:17:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.975,
+            "signed_score": -0.966
+        },
+        {
+            "headline": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
+            "summary": "Fiscal drag is set to hit taxpayers harder than previously thought",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2b5adffc-90e9-4355-bd07-037a2144a6a3?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 16:04:57 GMT",
+            "sentiment": "Negative",
             "confidence": 0.93,
-            "signed_score": 0.029
-        },
-        {
-            "headline": "Bank of England orders probe into Revolut’s internal controls",
-            "summary": "Section 166 order came earlier this year and is focused on risks around rapid launches of new financial products",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ea6d6d50-57c0-4b21-a05f-df5efe020c24?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:28 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.925,
-            "signed_score": 0.01
+            "signed_score": -0.913
         },
         {
             "headline": "The great American investment boom",
@@ -557,46 +567,6 @@
             "sentiment": "Negative",
             "confidence": 0.777,
             "signed_score": -0.749
-        },
-        {
-            "headline": "Britain needs ‘chainsaw economics’",
-            "summary": "Shock therapy can liberate the country from a cycle of low growth, rising debt and an expanding state",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/46955baa-a3c0-487c-bf3e-d89430a84516?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.794,
-            "signed_score": 0.772
-        },
-        {
-            "headline": "Will the Fed drop any hints on rate rises?",
-            "summary": "Market Questions is the FT’s guide to the week ahead",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/181316cc-0f4c-4328-b990-ad0d43ce424c?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 12:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": -0.08
-        },
-        {
-            "headline": "US voters worried about corruption under Trump — FT poll",
-            "summary": "Americans link graft to affordability crisis as midterm elections loom",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2770ef24-198c-49bc-8cb8-b9d40108d797?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 11:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.923
-        },
-        {
-            "headline": "Audi to build $4bn US plant as it grapples with tariffs",
-            "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 10:33:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.859,
-            "signed_score": 0.827
         }
     ]
 }
