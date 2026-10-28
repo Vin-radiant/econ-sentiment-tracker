@@ -5,108 +5,158 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-28T01:14:10.528219+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-10-28T07:12:00.902587+00:00",
+    "headline_count": 59,
     "headlines": [
         {
-            "headline": "No clear winner in Israeli parliamentary election, exit polls suggest",
-            "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
+            "headline": "No clear winner in Israeli election, exit polls suggest",
+            "summary": "Benjamin Netanyahu urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority",
             "section": "Top stories",
             "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 23:50:27 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.85,
-            "signed_score": 0.782
-        },
-        {
-            "headline": "Washington to issue Flávio Bolsonaro US visa after election loss",
-            "summary": "Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 21:41:13 GMT",
+            "published": "Wed, 28 Oct 2026 06:10:23 GMT",
             "sentiment": "Negative",
-            "confidence": 0.91,
-            "signed_score": -0.899
+            "confidence": 0.505,
+            "signed_score": -0.445
         },
         {
-            "headline": "The limits of hedging the AI boom",
-            "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
+            "headline": "Israel’s election: what happens next?",
+            "summary": "Exit polls suggest neither Prime Minister Benjamin Netanyahu nor his rivals have a simple path to form a government",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 17:07:56 GMT",
+            "link": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15",
+            "published": "Wed, 28 Oct 2026 05:17:20 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.87,
-            "signed_score": -0.014
+            "confidence": 0.561,
+            "signed_score": -0.34
         },
         {
-            "headline": "US voters and Trump’s overflowing swamp",
-            "summary": "America’s affordability crisis and corruption are now treated as two sides of the same coin",
+            "headline": "The globetrotting Trump brothers",
+            "summary": "The president’s sons Donald Jr and Eric have met world leaders and foreign officials while building a lucrative web of financial interests",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 10:00:04 GMT",
+            "link": "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:07 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.789,
-            "signed_score": -0.142
+            "confidence": 0.877,
+            "signed_score": 0.093
         },
         {
-            "headline": "Law firm Weil prepares for possible wind-down as crisis deepens",
-            "summary": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
+            "headline": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
+            "summary": "From a rebellion at OpenAI to building the Claude-maker, the new billionaires are betting their future on staying united",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 18:06:33 GMT",
+            "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.647,
-            "signed_score": -0.207
-        },
-        {
-            "headline": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
-            "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 19:06:02 GMT",
-            "sentiment": "Positive",
             "confidence": 0.801,
-            "signed_score": 0.782
+            "signed_score": 0.169
         },
         {
-            "headline": "Putin lectures Nordic leaders on Russian history",
-            "summary": "Russia’s leader goes on extended tangent in call with western European leaders as they seek to revive Ukraine peace talks",
+            "headline": "Britain needs a coherent economic strategy — can Healey deliver one?",
+            "summary": "The chancellor’s first priority in the Budget is to make the UK look prudent again",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 18:50:30 GMT",
+            "link": "https://www.ft.com/content/95dabc01-47da-4f9f-ad0b-19cdc966fed6?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:23 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.893,
-            "signed_score": 0.063
+            "confidence": 0.741,
+            "signed_score": 0.233
         },
         {
-            "headline": "Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems",
-            "summary": "Claims of flaws in Big Tech company’s first foldable smartphone are a setback for new chief executive John Ternus",
+            "headline": "Bolsonaro lands in US after fleeing Brazil following election defeat",
+            "summary": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 17:55:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.956
-        },
-        {
-            "headline": "Healey to reverse cuts to cash Isa allowance",
-            "summary": "Chancellor will use Wednesday’s Budget to maintain tax-free limit at £20,000 a year, reversing plan by predecessor Rachel Reeves",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/619978f5-4400-4bf0-8b1f-4cf62bee9774?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 22:39:52 GMT",
+            "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 02:58:30 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.565,
-            "signed_score": 0.32
+            "confidence": 0.831,
+            "signed_score": 0.046
         },
         {
-            "headline": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
-            "summary": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
+            "headline": "European bank profits beat expectations in third quarter",
+            "summary": "Major lenders reporting on Wednesday include Deutsche Bank, BNP Paribas, Santander and Standard Chartered",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 23:35:42 GMT",
+            "link": "https://www.ft.com/content/b12e4896-5c72-460c-b1c4-df433e5e8ca9?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 06:48:17 GMT",
             "sentiment": "Positive",
-            "confidence": 0.539,
-            "signed_score": 0.512
+            "confidence": 0.537,
+            "signed_score": 0.479
+        },
+        {
+            "headline": "China rushes to shore up struggling markets",
+            "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 03:54:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.576,
+            "signed_score": -0.48
+        },
+        {
+            "headline": "The AI bubble already popped — in China",
+            "summary": "Plus, two cheers for CGBs",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 06:30:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.864,
+            "signed_score": 0.845
+        },
+        {
+            "headline": "Polymarket’s top trader is sports gambler ‘Swiss Tony’",
+            "summary": "FT analysis shows biggest winners on prediction platform are a mixture of long-shot bettors and high-frequency traders",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:14 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.871,
+            "signed_score": 0.09
+        },
+        {
+            "headline": "The stateless quant titan",
+            "summary": "Peter de Putron is one of the most influential and enigmatic figures in the world of trading",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/29ab9e0a-47a0-4789-b32e-86308a47eb53?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:24 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.911,
+            "signed_score": -0.02
+        },
+        {
+            "headline": "Glencore boss flags bumper year on asset sales and trading boom",
+            "summary": "Gary Nagle’s comments at private event come as miner is looking to sell stakes in DR Congo and Kazakhstan operations",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d300d22b-09ec-4ab4-9aa2-e9d18d683766?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:23 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.686,
+            "signed_score": 0.229
+        },
+        {
+            "headline": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI",
+            "summary": "Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.768,
+            "signed_score": 0.217
+        },
+        {
+            "headline": "What a local ceasefire means for the Russia-Ukraine war",
+            "summary": "Washington and Moscow are discussing a potential return by American companies to the…",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/77d0bba5-264d-4c2e-bdbc-d8493b1b4a25?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 05:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.622,
+            "signed_score": 0.332
+        },
+        {
+            "headline": "Shares of Ambani’s Jio rise 21% in India’s biggest IPO",
+            "summary": "Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 04:42:17 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.913,
+            "signed_score": 0.861
         },
         {
             "headline": "Tech stocks gain as AI trade revives",
@@ -127,6 +177,26 @@
             "sentiment": "Neutral",
             "confidence": 0.7,
             "signed_score": 0.274
+        },
+        {
+            "headline": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+            "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 19:06:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.801,
+            "signed_score": 0.782
+        },
+        {
+            "headline": "The limits of hedging the AI boom",
+            "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+            "published": "Tue, 27 Oct 2026 17:07:56 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.87,
+            "signed_score": -0.014
         },
         {
             "headline": "Anthropic, Meta and the K-shaped company",
@@ -279,74 +349,14 @@
             "signed_score": -0.029
         },
         {
-            "headline": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
-            "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:45:49 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.771,
-            "signed_score": 0.211
-        },
-        {
-            "headline": "Why you shouldn’t bother reading the Anthropic IPO filing",
-            "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:29:42 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.816,
-            "signed_score": -0.108
-        },
-        {
-            "headline": "French bonds rally after Moody’s rating reprieve",
-            "summary": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 17:14:34 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.943
-        },
-        {
-            "headline": "Apollo takes minority stake in Abu Dhabi’s Mubadala Capital",
-            "summary": "Investment comes 18 months after Mark Walter’s holding company TWG announced deal for equity stake, which was never completed",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/306b6168-e8be-4781-82e3-d5dea8bc4de2?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:50:43 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": 0.103
-        },
-        {
-            "headline": "Anthropic begins countdown to IPO with prospectus filing",
-            "summary": "240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:41:35 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.543,
-            "signed_score": 0.394
-        },
-        {
-            "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
-            "summary": "US hospital chain is the latest not-for-profit healthcare provider to strike a large deal",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 14:08:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.819,
-            "signed_score": 0.805
-        },
-        {
-            "headline": "FirstFT: Israeli exit polls show no clear winner in parliamentary election",
-            "summary": "Also in today’s newsletter: US and Russia discuss potential oil deals and law firm Weil prepares for possible wind-down",
+            "headline": "FirstFT: Israel’s election deadlock",
+            "summary": "Also in today’s newsletter: UK Budget day and Russia-US energy deals",
             "section": "Global economy",
             "link": "https://www.ft.com/content/fadbee3f-16cd-4892-a41f-7d6682b77e4d?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 22:11:08 GMT",
+            "published": "Wed, 28 Oct 2026 05:33:00 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.884,
-            "signed_score": -0.051
+            "confidence": 0.942,
+            "signed_score": 0.009
         },
         {
             "headline": "Should monetarism stage a comeback?",
@@ -437,6 +447,16 @@
             "sentiment": "Neutral",
             "confidence": 0.785,
             "signed_score": 0.015
+        },
+        {
+            "headline": "French bonds rally after Moody’s rating reprieve",
+            "summary": "France’s 10-year yield drops more than 0.1 percentage points after Paris dodges credit downgrade",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
+            "published": "Mon, 26 Oct 2026 17:14:34 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.943
         },
         {
             "headline": "Relieving Starlink’s chokehold takes more than good intentions",
