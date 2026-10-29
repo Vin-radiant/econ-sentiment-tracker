@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-29T01:15:16.334062+00:00",
-    "headline_count": 60,
+    "fetched_at": "2026-10-29T07:13:17.105760+00:00",
+    "headline_count": 58,
     "headlines": [
         {
             "headline": "Weil leadership tells partners firm should be dissolved",
@@ -19,34 +19,34 @@
             "signed_score": -0.643
         },
         {
-            "headline": "Fed holds fire on interest rates despite intensifying inflation",
-            "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
+            "headline": "How Flávio Bolsonaro fled Brazil",
+            "summary": "Facing a money laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 21:32:08 GMT",
+            "link": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.715,
-            "signed_score": 0.05
+            "confidence": 0.533,
+            "signed_score": -0.413
         },
         {
-            "headline": "The globetrotting Trump brothers",
-            "summary": "The president’s sons Donald Jr and Eric have met world leaders and foreign officials while building a lucrative web of financial interests",
+            "headline": "Israel vote leaves door open to Iran attack",
+            "summary": "Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": 0.093
-        },
-        {
-            "headline": "Why even America’s ‘haves’ are feeling the squeeze",
-            "summary": "Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 10:00:04 GMT",
+            "link": "https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
             "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.925
+            "confidence": 0.498,
+            "signed_score": -0.422
+        },
+        {
+            "headline": "Private equity grows up",
+            "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.76,
+            "signed_score": 0.202
         },
         {
             "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
@@ -69,26 +69,6 @@
             "signed_score": 0.936
         },
         {
-            "headline": "How Israel’s opposition fell short against Netanyahu",
-            "summary": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
-            "published": "Wed, 28 Oct 2026 17:45:48 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.923,
-            "signed_score": -0.905
-        },
-        {
-            "headline": "Israel’s Arabs seek a slice of power",
-            "summary": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 17:40:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.82,
-            "signed_score": 0.801
-        },
-        {
             "headline": "Republicans seek to deflect Epstein anger on to Democrats",
             "summary": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign",
             "section": "Top stories",
@@ -109,24 +89,74 @@
             "signed_score": -0.885
         },
         {
-            "headline": "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
-            "summary": "But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations",
+            "headline": "Fed holds fire on interest rates despite intensifying inflation",
+            "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 00:21:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.904,
-            "signed_score": -0.885
+            "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 21:32:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.715,
+            "signed_score": 0.05
         },
         {
-            "headline": "Bolsonaro lands in US after fleeing Brazil",
-            "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro left Brazil after being ordered to hand over his passports",
+            "headline": "Debt woes throttle European commercial property market",
+            "summary": "Office transactions slide to lowest level since 2009 in third quarter",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 14:47:14 GMT",
+            "link": "https://www.ft.com/content/b63e7df7-b135-42ed-98ce-417802cd935f?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 00:01:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.649,
-            "signed_score": -0.616
+            "confidence": 0.968,
+            "signed_score": -0.961
+        },
+        {
+            "headline": "US tech stocks set to fall after earnings fuel AI spending concerns",
+            "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 06:32:40 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.968,
+            "signed_score": -0.958
+        },
+        {
+            "headline": "The Fed plays for time (but doesn’t have much)",
+            "summary": "Plus, tech results and UK bank taxes",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/65d84258-7b04-4064-ab76-6610bd522d65?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 06:30:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.876,
+            "signed_score": 0.047
+        },
+        {
+            "headline": "Copper’s AI-fuelled boom gets a reality check",
+            "summary": "Tariff threats from the US may have driven up the price but the industry has shifted spending on the basis of long-term demand",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:20 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.764,
+            "signed_score": 0.66
+        },
+        {
+            "headline": "Traditional crops offer a taste of tomorrow",
+            "summary": "The human diet of the future can draw on traditions from regions that share similar climate conditions — but farmers need more security to experiment",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a7d82893-4f09-47af-ac30-417c73de8aab?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.859,
+            "signed_score": 0.116
+        },
+        {
+            "headline": "Venezuela’s oil revival threatened by worker shortage",
+            "summary": "Thousands of skilled engineers fled country during administrations of Nicolás Maduro and Hugo Chávez",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/971f0314-d554-4dd5-8af9-ba042fe19662",
+            "published": "Thu, 29 Oct 2026 05:00:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.964,
+            "signed_score": -0.956
         },
         {
             "headline": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
@@ -319,74 +349,24 @@
             "signed_score": 0.274
         },
         {
-            "headline": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
-            "summary": "White House proposes renewed postwar business ties in an effort to bring President Vladimir Putin to the negotiating table",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 19:06:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.801,
-            "signed_score": 0.782
-        },
-        {
-            "headline": "The limits of hedging the AI boom",
-            "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 17:07:56 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.87,
-            "signed_score": -0.014
-        },
-        {
-            "headline": "Anthropic, Meta and the K-shaped company",
-            "summary": "The gap is widening between shareholders with clout and those with none",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 17:02:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.837,
-            "signed_score": -0.803
-        },
-        {
-            "headline": "We don’t understand the gold price",
-            "summary": "Maybe we never did",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f0d7a819-7bdf-486d-9fd1-b8cf2eeee15a",
-            "published": "Tue, 27 Oct 2026 16:55:48 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.827,
-            "signed_score": -0.097
-        },
-        {
-            "headline": "Anthropic and the AI cluster effect in fundraising",
-            "summary": "$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
-            "published": "Tue, 27 Oct 2026 14:02:23 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.627,
-            "signed_score": -0.051
-        },
-        {
-            "headline": "GM to switch listing from NYSE to Nasdaq as it accelerates AI push",
-            "summary": "Move marks another blow for Big Board as tech-focused rival attracts some of world’s most valuable companies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 14:02:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.505,
-            "signed_score": -0.06
-        },
-        {
-            "headline": "FirstFT: Weil leadership tells partners firm should wind down",
-            "summary": "Also in today’s newsletter: Google shares tumble as cash burn deepens and dozens killed in Spain high-speed train crash",
+            "headline": "FirstFT: What’s next for Burnham after the Budget?",
+            "summary": "Also in today’s newsletter: US holds rates and Google shares tumble",
             "section": "Global economy",
             "link": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 22:02:51 GMT",
+            "published": "Thu, 29 Oct 2026 05:31:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.943,
+            "signed_score": 0.001
+        },
+        {
+            "headline": "It is too soon to hold a funeral for US tariffs",
+            "summary": "Import duties are a far bigger deal in next week’s midterms due to their association with an unpopular president",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a62349a6-6d66-4191-9080-93ae631f402c?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:20 GMT",
             "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.948
+            "confidence": 0.958,
+            "signed_score": -0.945
         },
         {
             "headline": "Fed holds interest rates as expected and upgrades view on economy",
@@ -447,6 +427,16 @@
             "sentiment": "Neutral",
             "confidence": 0.919,
             "signed_score": 0.035
+        },
+        {
+            "headline": "Why even America’s ‘haves’ are feeling the squeeze",
+            "summary": "Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 10:00:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.94,
+            "signed_score": -0.925
         },
         {
             "headline": "The ECB needs a smooth transmission and a smooth transition",
@@ -597,16 +587,6 @@
             "sentiment": "Neutral",
             "confidence": 0.916,
             "signed_score": -0.008
-        },
-        {
-            "headline": "Fed to stick with quarterly rate rises as it removes 2025 insurance cuts",
-            "summary": "Read the Monetary Policy Radar team’s October scenario for the Federal Reserve",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/572bc401-9f82-4e49-9282-3e896562f339",
-            "published": "Mon, 26 Oct 2026 05:30:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.899,
-            "signed_score": -0.007
         }
     ]
 }
