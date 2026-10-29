@@ -5,18 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-28T19:02:55.977839+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-29T01:15:16.334062+00:00",
+    "headline_count": 60,
     "headlines": [
         {
-            "headline": "Federal Reserve holds rates steady despite worsening US inflation",
-            "summary": "Central bank to vote on monetary policy seven times next year in shift from longstanding practice of eight such meetings",
+            "headline": "Weil leadership tells partners firm should be dissolved",
+            "summary": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 16:51:06 GMT",
+            "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 20:28:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.698,
+            "signed_score": -0.643
+        },
+        {
+            "headline": "Fed holds fire on interest rates despite intensifying inflation",
+            "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 21:32:08 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.523,
-            "signed_score": 0.316
+            "confidence": 0.715,
+            "signed_score": 0.05
         },
         {
             "headline": "The globetrotting Trump brothers",
@@ -39,14 +49,24 @@
             "signed_score": -0.925
         },
         {
-            "headline": "Bolsonaro lands in US after fleeing Brazil",
-            "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro left Brazil after being ordered to hand over his passports",
+            "headline": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+            "summary": "Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 14:47:14 GMT",
+            "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 23:27:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.649,
-            "signed_score": -0.616
+            "confidence": 0.972,
+            "signed_score": -0.962
+        },
+        {
+            "headline": "Microsoft blames data centre delays for lower capital expenditure",
+            "summary": "Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 23:20:51 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.959,
+            "signed_score": 0.936
         },
         {
             "headline": "How Israel’s opposition fell short against Netanyahu",
@@ -69,24 +89,44 @@
             "signed_score": 0.801
         },
         {
-            "headline": "At least 68 killed in collision of high-speed trains in Spain",
-            "summary": "Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January",
+            "headline": "Republicans seek to deflect Epstein anger on to Democrats",
+            "summary": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 16:27:17 GMT",
+            "link": "https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 20:20:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.911,
-            "signed_score": -0.9
+            "confidence": 0.917,
+            "signed_score": -0.897
         },
         {
-            "headline": "Law firm Sidley Austin hires banker to lead practice group in Wall Street rarity",
-            "summary": "Restructuring expert William Evarts represents rare move by a banker switching from finance to lead a law firm speciality",
+            "headline": "Trump calls for Alaska Democratic candidate to be banned from Senate race",
+            "summary": "Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/84da55e7-f544-4c80-81fc-02fa166454fa?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 17:26:25 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.889,
-            "signed_score": 0.079
+            "link": "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 22:28:24 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.897,
+            "signed_score": -0.885
+        },
+        {
+            "headline": "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
+            "summary": "But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 00:21:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.904,
+            "signed_score": -0.885
+        },
+        {
+            "headline": "Bolsonaro lands in US after fleeing Brazil",
+            "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro left Brazil after being ordered to hand over his passports",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 14:47:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.649,
+            "signed_score": -0.616
         },
         {
             "headline": "Healey avoids bond market wobble with ‘uneventful’ first Budget",
@@ -339,14 +379,24 @@
             "signed_score": -0.06
         },
         {
-            "headline": "Fed holds rates as expected and upgrades view on economy",
-            "summary": "The decision to hold rates at the October meeting was less contested than we expected",
+            "headline": "FirstFT: Weil leadership tells partners firm should wind down",
+            "summary": "Also in today’s newsletter: Google shares tumble as cash burn deepens and dozens killed in Spain high-speed train crash",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 22:02:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.948
+        },
+        {
+            "headline": "Fed holds interest rates as expected and upgrades view on economy",
+            "summary": "US central bank also going to move to fewer policy meetings every year from 2027",
             "section": "Global economy",
             "link": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
             "published": "Wed, 28 Oct 2026 18:20:15 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.838,
-            "signed_score": -0.016
+            "confidence": 0.596,
+            "signed_score": -0.164
         },
         {
             "headline": "Airbus profits drop as plane deliveries slow",
@@ -357,6 +407,16 @@
             "sentiment": "Negative",
             "confidence": 0.975,
             "signed_score": -0.966
+        },
+        {
+            "headline": "Federal Reserve decision as it happened: Central bank holds rates steady despite worsening US inflation",
+            "summary": "Central bank to vote on monetary policy seven times next year in shift from longstanding practice of eight such meetings",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+            "published": "Wed, 28 Oct 2026 16:51:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.599,
+            "signed_score": 0.257
         },
         {
             "headline": "Budget calculator: how will Healey’s forecasts affect the tax you pay?",
@@ -547,26 +607,6 @@
             "sentiment": "Neutral",
             "confidence": 0.899,
             "signed_score": -0.007
-        },
-        {
-            "headline": "Can Pakistan’s military government make the economy grow?",
-            "summary": "Islamabad has stopped tailspin but faces deeper reforms to break boom-and-bust cycle and lure investment",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/14242b5e-0975-4c7d-92fd-e7c04e87238a?syn-25a6b1a6=1",
-            "published": "Mon, 26 Oct 2026 05:00:12 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.909,
-            "signed_score": 0.893
-        },
-        {
-            "headline": "A knife-edge election in Israel and other potential pivot points",
-            "summary": "A key Knesset election, a (hopefully) boring British Budget, Big Oil and Big Tech reports",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/49873329-05f1-4137-bf94-d4ed3f63e897?syn-25a6b1a6=1",
-            "published": "Sun, 25 Oct 2026 18:15:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.777,
-            "signed_score": -0.749
         }
     ]
 }
