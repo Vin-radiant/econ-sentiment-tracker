@@ -5,18 +5,38 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-29T13:12:40.307598+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-10-29T19:05:23.775264+00:00",
+    "headline_count": 56,
     "headlines": [
         {
+            "headline": "Alphabet shares tumble in $500bn rout",
+            "summary": "Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 17:23:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.972,
+            "signed_score": -0.963
+        },
+        {
+            "headline": "US tech stocks fall after earnings fuel AI spending concerns",
+            "summary": "Nasdaq 100 drops 1.5% after Google parent Alphabet and Microsoft report lower than expected capex",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 17:28:47 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.965,
+            "signed_score": -0.954
+        },
+        {
             "headline": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-            "summary": "AI spending boom continues to fuel growth in world’s largest economy",
+            "summary": "AI investment boom and solid consumer spending continue to fuel growth in world’s largest economy",
             "section": "Top stories",
             "link": "https://www.ft.com/content/f2de9f3c-3290-4e87-bbc2-55430025f2ab?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 12:48:01 GMT",
+            "published": "Thu, 29 Oct 2026 14:40:39 GMT",
             "sentiment": "Positive",
-            "confidence": 0.939,
-            "signed_score": 0.919
+            "confidence": 0.945,
+            "signed_score": 0.928
         },
         {
             "headline": "How Flávio Bolsonaro fled Brazil",
@@ -29,6 +49,46 @@
             "signed_score": -0.413
         },
         {
+            "headline": "Two fears will decide the fate of Anthropic’s giant IPO",
+            "summary": "Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include “existential” risks to humanity",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 14:41:41 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.696,
+            "signed_score": -0.154
+        },
+        {
+            "headline": "Christine Lagarde to step down as ECB president in February",
+            "summary": "Departure announced just hours before central bank holds interest rates at 2.5%",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 16:02:43 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.631,
+            "signed_score": -0.614
+        },
+        {
+            "headline": "The two pragmatists leading the race to run the ECB",
+            "summary": "Pablo Hernández de Cos and Klaas Knot are currently frontrunners to become the fifth president of Europe’s top monetary institution",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 14:04:42 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.851,
+            "signed_score": 0.121
+        },
+        {
+            "headline": "Netanyahu’s party claims election ‘stolen’ by ‘foreign entities’",
+            "summary": "Security service probes allegations of interference after high turnout by Palestinian citizens of Israel prevented outright victory for premier",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 17:36:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.911,
+            "signed_score": -0.882
+        },
+        {
             "headline": "Israel’s ‘Houdini’ and his latest escape",
             "summary": "Ever the political survivor, Benjamin Netanyahu retains a chance at a fresh term even after the failures of October 7",
             "section": "Top stories",
@@ -39,74 +99,94 @@
             "signed_score": 0.216
         },
         {
-            "headline": "Private equity’s growing pains",
-            "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
+            "headline": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
+            "summary": "Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
+            "link": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 17:58:14 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.939
+        },
+        {
+            "headline": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
+            "summary": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 14:54:48 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.737,
-            "signed_score": 0.174
+            "confidence": 0.83,
+            "signed_score": 0.086
         },
         {
-            "headline": "Christine Lagarde to step down as ECB president in February",
-            "summary": "Her eight-year term at the helm of the powerful monetary authority was set to end in October 2027",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 11:36:38 GMT",
+            "headline": "Investors double withdrawal requests at Partners’ flagship US private equity fund",
+            "summary": "Wealthy individuals sought to pull 15% of the fund’s net assets during the third quarter",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 16:59:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.954,
+            "signed_score": -0.943
+        },
+        {
+            "headline": "NYSE owner’s tokenised stock plan hits hurdle as big companies object",
+            "summary": "Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 16:42:40 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.869,
+            "signed_score": -0.855
+        },
+        {
+            "headline": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
+            "summary": "Private capital group backed by OpenAI expects ADT to ‘form the foundation’ of its home security business",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 16:06:14 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.685,
+            "signed_score": 0.678
+        },
+        {
+            "headline": "Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+            "summary": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 14:54:48 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.518,
-            "signed_score": -0.449
+            "confidence": 0.821,
+            "signed_score": 0.032
         },
         {
-            "headline": "Israel vote leaves door open to Iran attack",
-            "summary": "Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
+            "headline": "Palantir shareholders want to know when they’ll get their money back",
+            "summary": "Vibesourcing the Pili",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fbca8eb0-76ef-4e0e-bcc9-c45c8f7d1311",
+            "published": "Thu, 29 Oct 2026 14:19:10 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.916,
+            "signed_score": 0.055
+        },
+        {
+            "headline": "Crypto exchange HTX agrees to exit UK after being sued by watchdog",
+            "summary": "Venture linked to billionaire Trump backer Justin Sun sued by FCA for ‘unlawfully promoting crypto asset services’",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 12:12:38 GMT",
             "sentiment": "Negative",
-            "confidence": 0.498,
-            "signed_score": -0.422
+            "confidence": 0.922,
+            "signed_score": -0.906
         },
         {
-            "headline": "Israel’s Arabs seek a slice of power",
-            "summary": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 17:40:19 GMT",
+            "headline": "Can Democrats flip Texas with ‘all of the above’ energy pivot?",
+            "summary": "The party is betting an embrace of energy from a variety of sources can help end three-decade-long opposition in Lone Star State",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1407fb94-ceee-4c7f-bd1d-268f4aa61b20?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 12:00:10 GMT",
             "sentiment": "Positive",
-            "confidence": 0.82,
-            "signed_score": 0.801
-        },
-        {
-            "headline": "DoorDash to acquire Instacart for $17bn",
-            "summary": "Deal further consolidates the fiercely competitive US food delivery market",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 11:57:23 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.946,
-            "signed_score": 0.93
-        },
-        {
-            "headline": "Republicans seek to deflect Epstein anger on to Democrats",
-            "summary": "Donald Trump’s party targets opponents over mega-donor Reid Hoffman’s support for midterms campaign",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 20:20:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.917,
-            "signed_score": -0.897
-        },
-        {
-            "headline": "Trump calls for Alaska Democratic candidate to be banned from Senate race",
-            "summary": "Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 09:51:40 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.897,
-            "signed_score": -0.885
+            "confidence": 0.901,
+            "signed_score": 0.886
         },
         {
             "headline": "European oil majors lift buybacks as Iran war drives bumper profits",
@@ -149,16 +229,6 @@
             "signed_score": 0.912
         },
         {
-            "headline": "US tech stocks set to fall after earnings fuel AI spending concerns",
-            "summary": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 08:37:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.957
-        },
-        {
             "headline": "The Fed plays for time (but doesn’t have much)",
             "summary": "Plus, tech results and UK bank taxes",
             "section": "Markets",
@@ -167,6 +237,16 @@
             "sentiment": "Neutral",
             "confidence": 0.876,
             "signed_score": 0.047
+        },
+        {
+            "headline": "Private equity’s growing pains",
+            "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 05:00:30 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.737,
+            "signed_score": 0.174
         },
         {
             "headline": "Copper’s AI-fuelled boom gets a reality check",
@@ -259,94 +339,44 @@
             "signed_score": -0.05
         },
         {
-            "headline": "Iran threatens South Korean shipping group over Hormuz transits",
-            "summary": "Sinokor accused of repeated ‘crossing violations’ by regime that has only enforced its rules through military action",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/171ffdaa-e3e7-41b9-a4c6-09c9ace3f719?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 11:51:33 GMT",
+            "headline": "ECB holds rates as Lagarde announces early departure",
+            "summary": "Lagarde’s successor will probably have to contend with further French bond market turbulence",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c7c8c7b4-eab7-4ffc-a6bf-f4f79358aa00",
+            "published": "Thu, 29 Oct 2026 15:06:47 GMT",
             "sentiment": "Negative",
-            "confidence": 0.943,
-            "signed_score": -0.925
+            "confidence": 0.926,
+            "signed_score": -0.916
         },
         {
-            "headline": "Iranians face energy squeeze from war as natural gas runs short",
-            "summary": "Tehran tells citizens to curb consumption and urges civil servants to work from home to avert crisis",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/77e4e4a5-a041-4d59-9d8c-0a7af9ef6d25",
-            "published": "Wed, 28 Oct 2026 11:00:06 GMT",
+            "headline": "‘Associate member’ spat set to overshadow Canada-EU summit",
+            "summary": "Ursula von der Leyen insists on concept Berlin and other capitals say must be left out of joint statement",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/86a413ed-7303-40b3-a7c1-a01c92b1f738?syn-25a6b1a6=1",
+            "published": "Thu, 29 Oct 2026 14:28:33 GMT",
             "sentiment": "Negative",
-            "confidence": 0.745,
-            "signed_score": -0.715
+            "confidence": 0.564,
+            "signed_score": -0.541
         },
         {
-            "headline": "Ambani’s $130bn Jio soars in India’s biggest listing",
-            "summary": "Telecoms business raises $3.2bn at $108bn valuation in relief to stock market hit by war in Iran",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/32f2864d-c122-4d83-b0c5-8d2f1fcc63bd?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 10:07:33 GMT",
+            "headline": "Strong US inflation and growth will keep Fed on a tightening path",
+            "summary": "Third-quarter growth figures and September’s PCE inflation data confirm the US economy is running hot",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/2afe7f73-4717-4e26-8257-317f637738b4",
+            "published": "Thu, 29 Oct 2026 14:00:18 GMT",
             "sentiment": "Positive",
-            "confidence": 0.904,
-            "signed_score": 0.85
+            "confidence": 0.917,
+            "signed_score": 0.871
         },
         {
-            "headline": "The AI bubble already popped — in China",
-            "summary": "Plus, two cheers for CGBs",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 06:30:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.864,
-            "signed_score": 0.845
-        },
-        {
-            "headline": "This is a very interesting time for trashy credit (and all those who love it)",
-            "summary": "C-C-Crunch time for credit hedge funds that went hard into junk bonds",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/856aa6be-5543-493c-8d2e-a78c6b772f61",
-            "published": "Wed, 28 Oct 2026 06:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.9,
-            "signed_score": -0.033
-        },
-        {
-            "headline": "The secretive quant titan",
-            "summary": "Peter de Putron is one of the most influential and enigmatic figures in the world of trading",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/29ab9e0a-47a0-4789-b32e-86308a47eb53?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:24 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.915,
-            "signed_score": -0.015
-        },
-        {
-            "headline": "Glencore boss flags bumper year on asset sales and trading boom",
-            "summary": "Gary Nagle’s comments at private event come as miner is looking to sell stakes in DR Congo and Kazakhstan operations",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d300d22b-09ec-4ab4-9aa2-e9d18d683766?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:23 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.686,
-            "signed_score": 0.229
-        },
-        {
-            "headline": "Can an investor be too big to care about ethics?",
-            "summary": "Norway prepares proposals for how its $2.3tn sovereign wealth fund should invest",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b0e32e1b-20f2-46f1-a931-6b1acfeb242e?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.921,
-            "signed_score": 0.049
-        },
-        {
-            "headline": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI",
-            "summary": "Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 05:00:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.768,
-            "signed_score": 0.217
+            "headline": "Housebuilding is the best way to address the UK’s cost of living crisis",
+            "summary": "The Budget showed again that Burnham and Healey are ignoring the laws of supply and demand",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/00308644-7de4-4a22-bd27-cbeb3ddd11ca",
+            "published": "Thu, 29 Oct 2026 13:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.581,
+            "signed_score": -0.524
         },
         {
             "headline": "BYD’s export surge helps offset sales weakness in China",
@@ -537,56 +567,6 @@
             "sentiment": "Neutral",
             "confidence": 0.493,
             "signed_score": 0.204
-        },
-        {
-            "headline": "Inflation and interest rates tracker: see how your country compares",
-            "summary": "Explore the latest data through interactive charts",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 10:52:14 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.928,
-            "signed_score": 0.04
-        },
-        {
-            "headline": "Analysts’ views: forecasters have grown more hawkish in October",
-            "summary": "Consensus for 2027 shifted higher for the Bank of England and Bank of Japan; it has also grown at the margins for the Federal Reserve and ECB",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/4be50b70-7d2d-40cb-895e-68ed0b038397",
-            "published": "Tue, 27 Oct 2026 10:20:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.826,
-            "signed_score": 0.679
-        },
-        {
-            "headline": "FirstFT: AI trade regains steam",
-            "summary": "Also in today’s newsletter: Donald Trump’s top trade adviser has fresh warning for the EU and HSBC results disappoint",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 10:12:58 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.503,
-            "signed_score": 0.075
-        },
-        {
-            "headline": "Bank of Japan to remain on quarterly tightening path",
-            "summary": "Read the BoJ’s October forecast from the FT’s Monetary Policy Radar team",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e69d8ce2-2a47-4cdd-a03d-8e87de6b1d76",
-            "published": "Tue, 27 Oct 2026 05:30:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.906,
-            "signed_score": -0.005
-        },
-        {
-            "headline": "Caterpillar mounts landmark legal test of UK’s post-Brexit tariffs",
-            "summary": "World’s largest maker of construction equipment fights to overturn anti-dumping duty imposed by Trade Remedies Authority",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/71e415ce-87e9-4c29-bce2-b7f3803ac6b9?syn-25a6b1a6=1",
-            "published": "Tue, 27 Oct 2026 05:00:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.678,
-            "signed_score": -0.456
         }
     ]
 }
