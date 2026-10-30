@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-30T18:02:47.220872+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-10-30T22:24:54.548518+00:00",
+    "headline_count": 54,
     "headlines": [
+        {
+            "headline": "US tech stocks tumble as concerns over AI spending intensify",
+            "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 21:13:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.948
+        },
         {
             "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
             "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
             "section": "Top stories",
             "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 17:25:34 GMT",
+            "published": "Fri, 30 Oct 2026 18:19:08 GMT",
             "sentiment": "Positive",
             "confidence": 0.937,
             "signed_score": 0.912
-        },
-        {
-            "headline": "US tech stocks tumble as earnings stoke AI spending fears",
-            "summary": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 17:30:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.945
         },
         {
             "headline": "Did Anthropic value itself at $1.2tn in August?",
@@ -39,6 +39,16 @@
             "signed_score": 0.019
         },
         {
+            "headline": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+            "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 18:44:53 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.51,
+            "signed_score": -0.402
+        },
+        {
             "headline": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
             "summary": "Voters want lower prices. Trump has other things on his mind, like backsides and the Nobel Peace Prize",
             "section": "Top stories",
@@ -49,24 +59,14 @@
             "signed_score": -0.187
         },
         {
-            "headline": "The trouble with small nuclear reactors",
-            "summary": "Proponents believe the technology is central to the AI data centre boom. Others think it is a waste of time and money",
+            "headline": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
+            "summary": "Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:03 GMT",
+            "link": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 16:37:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.718,
-            "signed_score": -0.702
-        },
-        {
-            "headline": "The effects of a midterm ‘blue wave’ will be felt for years",
-            "summary": "Senate arithmetic in this electoral cycle could spell disaster for the Republicans",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/594747ef-2ccf-4b78-bfb3-b45742e6974f",
-            "published": "Fri, 30 Oct 2026 17:00:04 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.908,
-            "signed_score": -0.89
+            "confidence": 0.845,
+            "signed_score": -0.827
         },
         {
             "headline": "Binance rushes to recover customer money after $6.3bn heist",
@@ -99,6 +99,26 @@
             "signed_score": 0.571
         },
         {
+            "headline": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
+            "summary": "Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as relations deteriorated between the countries",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 21:28:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.91,
+            "signed_score": -0.892
+        },
+        {
+            "headline": "Russia observes rare Ukraine ceasefire to allow evacuations",
+            "summary": "Hundreds of residents from Russian-occupied Oleshky to be repatriated to Ukraine via Russia and Belarus",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
+            "published": "Fri, 30 Oct 2026 16:13:29 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.815,
+            "signed_score": -0.791
+        },
+        {
             "headline": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
             "summary": "Co-managing partner decided in August not to take over as law firm’s chair",
             "section": "Top stories",
@@ -109,34 +129,14 @@
             "signed_score": -0.071
         },
         {
-            "headline": "What killed Weil Gotshal?",
-            "summary": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 21:17:34 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.964,
-            "signed_score": -0.953
-        },
-        {
-            "headline": "Qatari negotiators return to Tehran in last-ditch mediation effort",
-            "summary": "Talks ahead of next week’s US midterm elections aimed at preventing an intense new round of war",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 12:14:52 GMT",
+            "headline": "How AI might be deployed for better bank supervision",
+            "summary": "The technology could help tackle some of the cultural issues that contributed to the collapse of SVB",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 18:00:05 GMT",
             "sentiment": "Positive",
-            "confidence": 0.801,
-            "signed_score": 0.738
-        },
-        {
-            "headline": "Iran hits Hormuz tanker with limpet mines in apparent tactical shift",
-            "summary": "Ship damaged on Thursday by attackers in speedboat in first such incident since 2019",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/66ba3e98-26f5-46f1-9af3-5854364b4e9f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 12:01:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.944
+            "confidence": 0.665,
+            "signed_score": 0.655
         },
         {
             "headline": "Apollo and Thrive capitalise on private equity’s generational shift",
@@ -309,24 +309,34 @@
             "signed_score": -0.939
         },
         {
-            "headline": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
-            "summary": "Private capital group backed by OpenAI expects ADT to ‘form the foundation’ of its home security business",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 20:28:20 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.685,
-            "signed_score": 0.678
+            "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
+            "summary": "The FT is tracking changes to the cost of living that will affect American voters",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 20:16:47 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.901,
+            "signed_score": -0.054
         },
         {
-            "headline": "Why the slowdown in Wall Street deals?",
-            "summary": "Are mergers a casualty of a slowing market?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 20:16:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.837,
-            "signed_score": -0.813
+            "headline": "Stick or treat",
+            "summary": "Central banks stuck to the script and kept rates on hold at their October meetings while laying the groundwork for further rate rises to come",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/db8bd441-431c-4f2f-8b98-0876b234c7bf",
+            "published": "Fri, 30 Oct 2026 17:30:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.698,
+            "signed_score": -0.126
+        },
+        {
+            "headline": "The US midterms: the verdict on Donald Trump?",
+            "summary": "Join FT journalists and guests for a subscriber webinar on November 10",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4a419040-0f8c-4078-bdf9-7c4a5fcd52f4",
+            "published": "Fri, 30 Oct 2026 16:21:07 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.939,
+            "signed_score": 0.009
         },
         {
             "headline": "Inflation and interest rates tracker: see how your country compares",
@@ -537,36 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.958,
             "signed_score": -0.945
-        },
-        {
-            "headline": "Fed holds fire on interest rates despite intensifying inflation",
-            "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 21:32:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.715,
-            "signed_score": 0.05
-        },
-        {
-            "headline": "Fed holds interest rates as expected and upgrades view on economy",
-            "summary": "US central bank also going to move to fewer policy meetings every year from 2027",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/b6900d10-6b9c-4d9b-984b-14284eef2f20",
-            "published": "Wed, 28 Oct 2026 18:20:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.596,
-            "signed_score": -0.164
-        },
-        {
-            "headline": "Airbus profits drop as plane deliveries slow",
-            "summary": "The world’s biggest maker of aircraft has held on to its full-year target of 870 deliveries despite production challenges",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9aaeaa0c-3846-4eef-9356-6261f6543075?syn-25a6b1a6=1",
-            "published": "Wed, 28 Oct 2026 18:17:14 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.975,
-            "signed_score": -0.966
         }
     ]
 }
