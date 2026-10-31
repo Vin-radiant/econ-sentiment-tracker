@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-31T05:46:36.633400+00:00",
-    "headline_count": 55,
+    "fetched_at": "2026-10-31T12:37:15.034681+00:00",
+    "headline_count": 54,
     "headlines": [
         {
             "headline": "OpenAI slashes funding target by $10bn as tech anxieties mount",
@@ -39,14 +39,14 @@
             "signed_score": -0.077
         },
         {
-            "headline": "Is this the first clear evidence of AI’s impact on the labour market?",
-            "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+            "headline": "US midterms loom over jittery investors",
+            "summary": "Caution certainly seems warranted for the coming weeks",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.938
+            "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:39 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.704,
+            "signed_score": 0.031
         },
         {
             "headline": "The right to be apolitical",
@@ -59,64 +59,64 @@
             "signed_score": -0.656
         },
         {
-            "headline": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-            "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+            "headline": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+            "summary": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 22:17:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.51,
-            "signed_score": -0.402
-        },
-        {
-            "headline": "CD&R pursues buyout of $40bn card processor Global Payments",
-            "summary": "Deal for US company would rank among largest buyouts in history",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 17:10:22 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.582,
-            "signed_score": 0.571
-        },
-        {
-            "headline": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
-            "summary": "Volodymyr Zelenskyy had accused Trump administration of delaying the weapons as relations deteriorated between the countries",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 21:28:58 GMT",
+            "link": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 12:00:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.91,
-            "signed_score": -0.892
+            "confidence": 0.675,
+            "signed_score": -0.642
         },
         {
-            "headline": "Russia observes rare Ukraine ceasefire to allow evacuations",
-            "summary": "Hundreds of residents from Russian-occupied Oleshky to be repatriated to Ukraine via Russia and Belarus",
+            "headline": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+            "summary": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
-            "published": "Fri, 30 Oct 2026 16:13:29 GMT",
+            "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 10:38:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.815,
-            "signed_score": -0.791
+            "confidence": 0.933,
+            "signed_score": -0.923
         },
         {
-            "headline": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
-            "summary": "Co-managing partner decided in August not to take over as law firm’s chair",
+            "headline": "Rating agency Fitch hits France with unscheduled outlook downgrade",
+            "summary": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 12:42:57 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.89,
-            "signed_score": -0.071
+            "link": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 09:36:34 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.963,
+            "signed_score": -0.948
         },
         {
-            "headline": "US midterms loom over jittery investors",
-            "summary": "Caution certainly seems warranted for the coming weeks",
+            "headline": "French banks’ rising profits fail to reverse sell-off as political fears bite",
+            "summary": "BNP Paribas, SocGen and Crédit Agricole reported strong third-quarter earnings but have been hit by investor nerves over political and economic uncertainty",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:40 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.97,
+            "signed_score": -0.959
+        },
+        {
+            "headline": "Poland suspends top judges as battle over rule of law escalates",
+            "summary": "President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 11:57:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.938,
+            "signed_score": -0.928
+        },
+        {
+            "headline": "Chart of the Week: Bond investors may cheer gridlock",
+            "summary": "Midterms will have higher stakes for the bond market",
             "section": "Markets",
-            "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 05:00:39 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.704,
-            "signed_score": 0.031
+            "link": "https://www.ft.com/content/9570b122-5418-41e6-b91b-b95af96ec881?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 10:30:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.339,
+            "signed_score": -0.002
         },
         {
             "headline": "Bank of England explores easing key limit on riskier mortgage lending",
@@ -137,6 +137,16 @@
             "sentiment": "Negative",
             "confidence": 0.962,
             "signed_score": -0.935
+        },
+        {
+            "headline": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+            "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 22:17:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.51,
+            "signed_score": -0.402
         },
         {
             "headline": "Binance rushes to recover customer money after $6.3bn heist",
@@ -177,6 +187,16 @@
             "sentiment": "Positive",
             "confidence": 0.783,
             "signed_score": 0.775
+        },
+        {
+            "headline": "CD&R pursues buyout of $40bn card processor Global Payments",
+            "summary": "Deal for US company would rank among largest buyouts in history",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 17:10:22 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.582,
+            "signed_score": 0.571
         },
         {
             "headline": "What we know about the $6.3bn Binance hack",
@@ -287,36 +307,6 @@
             "sentiment": "Positive",
             "confidence": 0.853,
             "signed_score": 0.748
-        },
-        {
-            "headline": "A half-dozen Halloween charts to haunt and horrify investors",
-            "summary": "Warning: may contain graph(ic) content",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8d03cff5-3ed0-44c7-840b-b8414b1248bc",
-            "published": "Fri, 30 Oct 2026 06:00:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.741,
-            "signed_score": -0.727
-        },
-        {
-            "headline": "What moves hyperscaler stocks?",
-            "summary": "Plus the ECB",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:30:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.934,
-            "signed_score": 0.017
-        },
-        {
-            "headline": "The story of Anthropic in three numbers",
-            "summary": "IPO filing leaves open questions about the state of the company’s business and the wider sector",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:31 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.512,
-            "signed_score": -0.437
         },
         {
             "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
