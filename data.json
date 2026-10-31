@@ -5,18 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-30T22:24:54.548518+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-31T05:46:36.633400+00:00",
+    "headline_count": 55,
     "headlines": [
         {
-            "headline": "US tech stocks tumble as concerns over AI spending intensify",
-            "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
+            "headline": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+            "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 21:13:50 GMT",
+            "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 00:05:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.948
+            "confidence": 0.964,
+            "signed_score": -0.954
         },
         {
             "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -29,64 +29,44 @@
             "signed_score": 0.912
         },
         {
-            "headline": "Did Anthropic value itself at $1.2tn in August?",
-            "summary": "Not quite Navier-Stokes",
+            "headline": "Donald Trump’s endgame",
+            "summary": "What will the US president’s last two years in Washington look like?",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
-            "published": "Fri, 30 Oct 2026 12:36:54 GMT",
+            "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:20 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.936,
-            "signed_score": 0.019
+            "confidence": 0.88,
+            "signed_score": -0.077
+        },
+        {
+            "headline": "Is this the first clear evidence of AI’s impact on the labour market?",
+            "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.938
+        },
+        {
+            "headline": "The right to be apolitical",
+            "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:01:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.687,
+            "signed_score": -0.656
         },
         {
             "headline": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
             "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
             "section": "Top stories",
             "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 18:44:53 GMT",
+            "published": "Fri, 30 Oct 2026 22:17:15 GMT",
             "sentiment": "Neutral",
             "confidence": 0.51,
             "signed_score": -0.402
-        },
-        {
-            "headline": "‘A pile of muscle’: Trump closes midterm pitch with surreal messaging",
-            "summary": "Voters want lower prices. Trump has other things on his mind, like backsides and the Nobel Peace Prize",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:13 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.687,
-            "signed_score": -0.187
-        },
-        {
-            "headline": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
-            "summary": "Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 16:37:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.845,
-            "signed_score": -0.827
-        },
-        {
-            "headline": "Binance rushes to recover customer money after $6.3bn heist",
-            "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 16:59:33 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.913
-        },
-        {
-            "headline": "How North Korea became a hacking superpower",
-            "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 11:20:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.571,
-            "signed_score": 0.301
         },
         {
             "headline": "CD&R pursues buyout of $40bn card processor Global Payments",
@@ -129,6 +109,56 @@
             "signed_score": -0.071
         },
         {
+            "headline": "US midterms loom over jittery investors",
+            "summary": "Caution certainly seems warranted for the coming weeks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:39 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.704,
+            "signed_score": 0.031
+        },
+        {
+            "headline": "Bank of England explores easing key limit on riskier mortgage lending",
+            "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.881,
+            "signed_score": 0.854
+        },
+        {
+            "headline": "Lula’s surprise election victory sends agri-commodities tumbling",
+            "summary": "Steep fall in Brazilian real has made the country’s exports more competitive, undermining pricing power for farmers in other countries",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.962,
+            "signed_score": -0.935
+        },
+        {
+            "headline": "Binance rushes to recover customer money after $6.3bn heist",
+            "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 22:12:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
+            "signed_score": -0.913
+        },
+        {
+            "headline": "US tech stocks tumble as concerns over AI spending intensify",
+            "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 21:13:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.948
+        },
+        {
             "headline": "How AI might be deployed for better bank supervision",
             "summary": "The technology could help tackle some of the cultural issues that contributed to the collapse of SVB",
             "section": "Markets",
@@ -169,6 +199,16 @@
             "signed_score": -0.956
         },
         {
+            "headline": "Did Anthropic value itself at $1.2tn in August?",
+            "summary": "Not quite Navier-Stokes",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
+            "published": "Fri, 30 Oct 2026 12:36:54 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.936,
+            "signed_score": 0.019
+        },
+        {
             "headline": "Europe’s EV transition accelerates",
             "summary": "Carmakers are producing more attractive and affordable models to compete with Chinese rivals",
             "section": "Markets",
@@ -177,6 +217,16 @@
             "sentiment": "Positive",
             "confidence": 0.909,
             "signed_score": 0.897
+        },
+        {
+            "headline": "How North Korea became a hacking superpower",
+            "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 11:20:19 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.571,
+            "signed_score": 0.301
         },
         {
             "headline": "Binance’s $6.3bn heist is the biggest . . . but not the first",
@@ -267,46 +317,6 @@
             "sentiment": "Neutral",
             "confidence": 0.512,
             "signed_score": -0.437
-        },
-        {
-            "headline": "Oil spills from Iran’s tanker attacks wash up on UAE beaches",
-            "summary": "Tehran has stepped up strikes on vessels in Strait of Hormuz in the past month, leading to a trail of pollution",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2ae8d419-e495-4aa9-9b00-361770a32242?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.944,
-            "signed_score": -0.927
-        },
-        {
-            "headline": "Gates-backed miner says China is frustrating DR Congo exploration efforts",
-            "summary": "KoBold Metals has asked the US state department for help as it waits on UN Security Council clearance to run aerial surveys",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d35c065f-0aef-44fa-a0d8-be1e0e5281c8?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.892
-        },
-        {
-            "headline": "Alphabet shares tumble in $500bn rout",
-            "summary": "Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 21:53:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.963
-        },
-        {
-            "headline": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
-            "summary": "Mikie Sherrill calls Trump’s deal with Putin ‘corrupt and illegal’ as she weighs moves to stop shipment to east coast port",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 20:34:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.939
         },
         {
             "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
