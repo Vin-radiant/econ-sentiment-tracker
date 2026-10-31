@@ -5,9 +5,19 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-10-31T12:37:15.034681+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-10-31T21:39:08.252056+00:00",
+    "headline_count": 55,
     "headlines": [
+        {
+            "headline": "Investors trim growth bets over fears of US economy’s AI exposure",
+            "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 14:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.636,
+            "signed_score": -0.33
+        },
         {
             "headline": "OpenAI slashes funding target by $10bn as tech anxieties mount",
             "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
@@ -17,16 +27,6 @@
             "sentiment": "Negative",
             "confidence": 0.964,
             "signed_score": -0.954
-        },
-        {
-            "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-            "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 18:19:08 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.937,
-            "signed_score": 0.912
         },
         {
             "headline": "Donald Trump’s endgame",
@@ -39,14 +39,14 @@
             "signed_score": -0.077
         },
         {
-            "headline": "US midterms loom over jittery investors",
-            "summary": "Caution certainly seems warranted for the coming weeks",
+            "headline": "Is this the first clear evidence of AI’s impact on the labour market?",
+            "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 05:00:39 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.704,
-            "signed_score": 0.031
+            "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.938
         },
         {
             "headline": "The right to be apolitical",
@@ -69,14 +69,34 @@
             "signed_score": -0.642
         },
         {
-            "headline": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
-            "summary": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
+            "headline": "US midterms loom over jittery investors",
+            "summary": "Caution certainly seems warranted for the coming weeks",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 10:38:18 GMT",
+            "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 05:00:39 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.704,
+            "signed_score": 0.031
+        },
+        {
+            "headline": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
+            "summary": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 13:38:29 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.47,
+            "signed_score": 0.214
+        },
+        {
+            "headline": "Evacuees from Russian-occupied city arrive in Ukraine",
+            "summary": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
+            "published": "Sat, 31 Oct 2026 15:17:34 GMT",
             "sentiment": "Negative",
-            "confidence": 0.933,
-            "signed_score": -0.923
+            "confidence": 0.79,
+            "signed_score": -0.692
         },
         {
             "headline": "Rating agency Fitch hits France with unscheduled outlook downgrade",
@@ -99,14 +119,14 @@
             "signed_score": -0.959
         },
         {
-            "headline": "Poland suspends top judges as battle over rule of law escalates",
-            "summary": "President and prime minister are embroiled in a bitter dispute over appointments to country’s constitutional court",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 11:57:56 GMT",
+            "headline": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
+            "summary": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+            "published": "Sat, 31 Oct 2026 10:38:18 GMT",
             "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.928
+            "confidence": 0.933,
+            "signed_score": -0.923
         },
         {
             "headline": "Chart of the Week: Bond investors may cheer gridlock",
@@ -167,6 +187,16 @@
             "sentiment": "Negative",
             "confidence": 0.96,
             "signed_score": -0.948
+        },
+        {
+            "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+            "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 18:19:08 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.937,
+            "signed_score": 0.912
         },
         {
             "headline": "How AI might be deployed for better bank supervision",
@@ -297,16 +327,6 @@
             "sentiment": "Negative",
             "confidence": 0.96,
             "signed_score": -0.95
-        },
-        {
-            "headline": "BP’s profits surge to record on high fuel prices",
-            "summary": "Oil and gas major paying off debt with windfall while competitors hand more cash back to shareholders",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 07:20:07 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.853,
-            "signed_score": 0.748
         },
         {
             "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
@@ -537,16 +557,6 @@
             "sentiment": "Neutral",
             "confidence": 0.482,
             "signed_score": -0.443
-        },
-        {
-            "headline": "It is too soon to hold a funeral for US tariffs",
-            "summary": "Import duties are a far bigger deal in next week’s midterms due to their association with an unpopular president",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/a62349a6-6d66-4191-9080-93ae631f402c?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 05:00:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.945
         }
     ]
 }
