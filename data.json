@@ -5,38 +5,48 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-01T13:29:05.968733+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-11-01T22:04:53.903183+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Russia forced to ship grain via Arctic as Black Sea battles rage",
-            "summary": "Farmers are exporting agricultural goods from ports thousands of miles away, driving up costs for overseas buyers",
+            "headline": "Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed",
+            "summary": "Unity between Democratic progressives and moderates collapses in key Senate race after war of words over Israel",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
+            "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 21:44:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.951
+            "confidence": 0.923,
+            "signed_score": -0.903
         },
         {
-            "headline": "Evacuees from Russian-occupied city arrive in Ukraine",
-            "summary": "Complex humanitarian mission extracted hundreds of people from Oleshky during rare local ceasefire between Moscow and Kyiv",
+            "headline": "Trump makes final pitch to restive voters in midterms campaign",
+            "summary": "Republican Party is defending its control of Congress against signs of a backlash to the president",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
-            "published": "Sat, 31 Oct 2026 15:17:34 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.79,
-            "signed_score": -0.692
+            "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 16:54:05 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.635,
+            "signed_score": 0.428
         },
         {
-            "headline": "Military briefing: what would another US-Iran conflict look like?",
-            "summary": "US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation",
+            "headline": "Trump loses Latino support",
+            "summary": "Latino voters are shifting back to the Democrats ahead of the US midterm elections",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
+            "link": "https://www.ft.com/video/fbc0f62e-50ea-4509-9fa7-32f00c98c424?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.458,
+            "signed_score": -0.313
+        },
+        {
+            "headline": "Inside the leaderless movement set to govern Serbia",
+            "summary": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 16:12:16 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.58,
-            "signed_score": -0.291
+            "confidence": 0.52,
+            "signed_score": -0.422
         },
         {
             "headline": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
@@ -49,6 +59,16 @@
             "signed_score": -0.919
         },
         {
+            "headline": "France and the UK require a new entente",
+            "summary": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+            "published": "Sun, 01 Nov 2026 16:00:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.543,
+            "signed_score": 0.432
+        },
+        {
             "headline": "Bond investors sit out ‘most consequential’ US midterm elections in years",
             "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
             "section": "Top stories",
@@ -59,44 +79,54 @@
             "signed_score": -0.88
         },
         {
-            "headline": "Michigan feud threatens Democratic unity in key Senate race",
-            "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+            "headline": "Junk debt rout sparks ‘bloodbath’ for credit investors",
+            "summary": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 23:57:07 GMT",
+            "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 14:54:55 GMT",
             "sentiment": "Negative",
-            "confidence": 0.92,
-            "signed_score": -0.904
+            "confidence": 0.947,
+            "signed_score": -0.928
         },
         {
-            "headline": "Gen Z protests turn violent in Germany",
-            "summary": "Young demonstrators clash with police in Berlin and shops are looted in Frankfurt in echo of last month’s French riots",
+            "headline": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+            "summary": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 11:36:55 GMT",
+            "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 18:02:52 GMT",
             "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.948
+            "confidence": 0.947,
+            "signed_score": -0.928
         },
         {
-            "headline": "New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant",
-            "summary": "Fiji-born Qiulae Wong backs ‘land tax’ to fund universal basic income and push down housing prices",
+            "headline": "Military briefing: what would another US-Iran conflict look like?",
+            "summary": "US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/217e8187-7b57-40dc-9439-03266e6c900f?syn-25a6b1a6=1",
+            "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1",
             "published": "Sun, 01 Nov 2026 05:00:09 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.573,
-            "signed_score": -0.075
+            "confidence": 0.58,
+            "signed_score": -0.291
         },
         {
-            "headline": "Binance restarts customer withdrawals after $6.3bn heist",
-            "summary": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+            "headline": "Blue Lagoon owner plans to float as Icelandic tourism booms",
+            "summary": "Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat",
             "section": "Top stories",
+            "link": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 18:00:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.637,
+            "signed_score": 0.627
+        },
+        {
+            "headline": "Binance users pull $3.6bn as crypto exchange restarts services after heist",
+            "summary": "Group pledges to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+            "section": "Markets",
             "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 12:16:57 GMT",
+            "published": "Sun, 01 Nov 2026 18:15:33 GMT",
             "sentiment": "Negative",
-            "confidence": 0.94,
-            "signed_score": -0.918
+            "confidence": 0.965,
+            "signed_score": -0.95
         },
         {
             "headline": "US critical minerals push delivers a gold rush — for Washington lobbyists",
@@ -137,6 +167,16 @@
             "sentiment": "Negative",
             "confidence": 0.911,
             "signed_score": -0.838
+        },
+        {
+            "headline": "Russia forced to ship grain via Arctic as Black Sea battles rage",
+            "summary": "Farmers are exporting agricultural goods from ports thousands of miles away, driving up costs for overseas buyers",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.963,
+            "signed_score": -0.951
         },
         {
             "headline": "FBI blames North Korean group for $6.3bn Binance cyber heist",
@@ -309,14 +349,14 @@
             "signed_score": -0.956
         },
         {
-            "headline": "Did Anthropic value itself at $1.2tn in August?",
-            "summary": "Not quite Navier-Stokes",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
-            "published": "Fri, 30 Oct 2026 12:36:54 GMT",
+            "headline": "Trump faces the voters",
+            "summary": "US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 18:15:05 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.936,
-            "signed_score": 0.019
+            "confidence": 0.861,
+            "signed_score": 0.074
         },
         {
             "headline": "Britain’s welfare ratchet",
@@ -527,16 +567,6 @@
             "sentiment": "Positive",
             "confidence": 0.917,
             "signed_score": 0.871
-        },
-        {
-            "headline": "Housebuilding is the best way to address the UK’s cost of living crisis",
-            "summary": "The Budget showed again that Burnham and Healey are ignoring the laws of supply and demand",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/00308644-7de4-4a22-bd27-cbeb3ddd11ca",
-            "published": "Thu, 29 Oct 2026 13:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.581,
-            "signed_score": -0.524
         }
     ]
 }
