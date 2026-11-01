@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-01T06:11:22.228928+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-11-01T13:29:05.968733+00:00",
+    "headline_count": 53,
     "headlines": [
         {
             "headline": "Russia forced to ship grain via Arctic as Black Sea battles rage",
@@ -39,34 +39,14 @@
             "signed_score": -0.291
         },
         {
-            "headline": "EU leaders risk breaking their promise to help European start-ups",
-            "summary": "The bloc is addressing the funding gap for innovators but going the wrong way on harmonising rules to help them stay in Europe",
+            "headline": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
+            "summary": "The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ce1e852d-c699-4cf6-b8a0-78fd283556f3?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
+            "link": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 12:00:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.864,
-            "signed_score": -0.817
-        },
-        {
-            "headline": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising",
-            "summary": "Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.948,
-            "signed_score": -0.917
-        },
-        {
-            "headline": "Germany fails to meet Winter gas storage target",
-            "summary": "Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.911,
-            "signed_score": -0.838
+            "confidence": 0.927,
+            "signed_score": -0.919
         },
         {
             "headline": "Bond investors sit out ‘most consequential’ US midterm elections in years",
@@ -89,14 +69,14 @@
             "signed_score": -0.904
         },
         {
-            "headline": "Quant hedge fund to spin out of Tudor in record $9bn launch",
-            "summary": "Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year",
+            "headline": "Gen Z protests turn violent in Germany",
+            "summary": "Young demonstrators clash with police in Berlin and shops are looted in Frankfurt in echo of last month’s French riots",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.943,
-            "signed_score": -0.01
+            "link": "https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 11:36:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.957,
+            "signed_score": -0.948
         },
         {
             "headline": "New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant",
@@ -107,6 +87,56 @@
             "sentiment": "Neutral",
             "confidence": 0.573,
             "signed_score": -0.075
+        },
+        {
+            "headline": "Binance restarts customer withdrawals after $6.3bn heist",
+            "summary": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 12:16:57 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.94,
+            "signed_score": -0.918
+        },
+        {
+            "headline": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+            "summary": "Billions in government backing have produced a flurry of deals but little increase in domestic production",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 12:00:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.865,
+            "signed_score": 0.796
+        },
+        {
+            "headline": "Quant hedge fund to spin out of Tudor in record $9bn launch",
+            "summary": "Xantium to separate from company controlled by billionaire Paul Tudor Jones II next year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:18 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.943,
+            "signed_score": -0.01
+        },
+        {
+            "headline": "Oil majors resist pressure to invest in new refineries as fuel prices keep rising",
+            "summary": "Conflicts in the Middle East and Ukraine have slashed fuel production capacity and sent margins way up",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:18 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.948,
+            "signed_score": -0.917
+        },
+        {
+            "headline": "Germany fails to meet winter gas storage target",
+            "summary": "Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.911,
+            "signed_score": -0.838
         },
         {
             "headline": "FBI blames North Korean group for $6.3bn Binance cyber heist",
@@ -289,74 +319,34 @@
             "signed_score": 0.019
         },
         {
-            "headline": "Europe’s EV transition accelerates",
-            "summary": "Carmakers are producing more attractive and affordable models to compete with Chinese rivals",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a6629e05-5afc-403a-b305-67966854c7e3?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 12:01:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.909,
-            "signed_score": 0.897
-        },
-        {
-            "headline": "How North Korea became a hacking superpower",
-            "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 11:20:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.571,
-            "signed_score": 0.301
-        },
-        {
-            "headline": "Binance’s $6.3bn heist is the biggest . . . but not the first",
-            "summary": "Security breach at world’s largest cryptocurrency exchange is latest in wave of digital thefts",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 10:50:37 GMT",
+            "headline": "Britain’s welfare ratchet",
+            "summary": "Political incentives, rising expectations of state support and deeper economic failures make the benefits system hard to rein in",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/873aed2b-48e7-4928-b651-b7039a8e3dd3?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 12:00:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.895,
-            "signed_score": -0.882
+            "confidence": 0.937,
+            "signed_score": -0.924
         },
         {
-            "headline": "If you think Triple-C bonds are having a rough time . . .",
-            "summary": "Is someone going to need a bigger boat?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/caf2d108-bb04-47ff-bcfa-53cca632c63d",
-            "published": "Fri, 30 Oct 2026 10:44:18 GMT",
+            "headline": "Will US jobs growth remain subdued?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b62877b9-4260-4b4a-9f0f-a5dee7571b7c?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 12:00:01 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.604,
-            "signed_score": -0.283
+            "confidence": 0.86,
+            "signed_score": -0.081
         },
         {
-            "headline": "ExxonMobil and Chevron post bumper profits and warn on diesel supplies",
-            "summary": "US oil groups are profiting from soaring refining margins because of Donald Trump’s war in Iran",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 10:37:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.664,
-            "signed_score": 0.353
-        },
-        {
-            "headline": "French economy shrinks 0.1% in third quarter",
-            "summary": "Despite weakness in the Eurozone’s second-largest economy, growth in the 21-country bloc was better than expected",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 10:07:11 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.533,
-            "signed_score": 0.084
-        },
-        {
-            "headline": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
-            "summary": "Cash burn at Google, Amazon and Meta leads Wall Street to question price of AI boom",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 10:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.95
+            "headline": "No amount of money can make a war zone safe for seafarers",
+            "summary": "The international community and shipping industry must act together to protect the people who keep world trade moving",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/650ac00d-1bb0-439e-aaee-1d43061b27a0",
+            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.828,
+            "signed_score": 0.123
         },
         {
             "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
@@ -417,6 +407,16 @@
             "sentiment": "Neutral",
             "confidence": 0.437,
             "signed_score": -0.262
+        },
+        {
+            "headline": "French economy shrinks 0.1% in third quarter",
+            "summary": "Despite weakness in the Eurozone’s second-largest economy, growth in the 21-country bloc was better than expected",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1",
+            "published": "Fri, 30 Oct 2026 10:07:11 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.533,
+            "signed_score": 0.084
         },
         {
             "headline": "FirstFT: Binance falls victim to record crypto heist",
@@ -537,56 +537,6 @@
             "sentiment": "Negative",
             "confidence": 0.581,
             "signed_score": -0.524
-        },
-        {
-            "headline": "BYD’s export surge helps offset sales weakness in China",
-            "summary": "Electric vehicle maker’s foreign expansion takes on rising importance amid roadblocks in domestic market",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 12:01:42 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.949,
-            "signed_score": 0.919
-        },
-        {
-            "headline": "The ECB needs a smooth transmission and a smooth transition",
-            "summary": "Central bank at a critical juncture as it prepares leadership changes at time of strains in bond markets",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 10:17:20 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.557,
-            "signed_score": 0.399
-        },
-        {
-            "headline": "FirstFT: End of the road for Weil",
-            "summary": "Also in today’s newsletter: Google shares tumble, and Federal Reserve holds rates",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 10:02:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.921,
-            "signed_score": -0.912
-        },
-        {
-            "headline": "Hello Kitty gets caught up in Japan-China spat",
-            "summary": "Sanrio apologises for collaboration with wartime spy thriller that drew outrage over depiction of torture",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 06:04:40 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.924,
-            "signed_score": -0.907
-        },
-        {
-            "headline": "What has caused the bad economic vibes, and does it actually matter?",
-            "summary": "Level-headed consumers",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/a3d8efb2-6553-46d6-af48-7886b1a14fa3",
-            "published": "Thu, 29 Oct 2026 06:00:10 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.482,
-            "signed_score": -0.443
         }
     ]
 }
