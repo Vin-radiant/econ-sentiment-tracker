@@ -5,118 +5,128 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-01T22:04:53.903183+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-02T06:10:46.236402+00:00",
+    "headline_count": 52,
     "headlines": [
         {
-            "headline": "Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed",
-            "summary": "Unity between Democratic progressives and moderates collapses in key Senate race after war of words over Israel",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 21:44:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.923,
-            "signed_score": -0.903
-        },
-        {
             "headline": "Trump makes final pitch to restive voters in midterms campaign",
-            "summary": "Republican Party is defending its control of Congress against signs of a backlash to the president",
+            "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
             "section": "Top stories",
             "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 16:54:05 GMT",
+            "published": "Mon, 02 Nov 2026 01:47:26 GMT",
             "sentiment": "Positive",
-            "confidence": 0.635,
-            "signed_score": 0.428
+            "confidence": 0.613,
+            "signed_score": 0.457
         },
         {
-            "headline": "Trump loses Latino support",
-            "summary": "Latino voters are shifting back to the Democrats ahead of the US midterm elections",
+            "headline": "Petrol prices set to hit record high under Trump on eve of US elections",
+            "summary": "Average fuel costs during president’s second term pass Biden-era levels as affordability issues dominate Tuesday’s midterm polls",
             "section": "Top stories",
-            "link": "https://www.ft.com/video/fbc0f62e-50ea-4509-9fa7-32f00c98c424?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:00 GMT",
+            "link": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:26 GMT",
             "sentiment": "Negative",
-            "confidence": 0.458,
-            "signed_score": -0.313
+            "confidence": 0.716,
+            "signed_score": -0.463
         },
         {
-            "headline": "Inside the leaderless movement set to govern Serbia",
-            "summary": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+            "headline": "The meaning of the midterms",
+            "summary": "This week will tell us many important things about the future of American politics",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 16:12:16 GMT",
+            "link": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.52,
-            "signed_score": -0.422
+            "confidence": 0.896,
+            "signed_score": 0.072
         },
         {
-            "headline": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
-            "summary": "The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent",
+            "headline": "The race to keep AI under control",
+            "summary": "Safety breaches are raising doubts about the ability of leading labs to keep increasingly powerful systems in check",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 12:00:01 GMT",
+            "link": "https://ig.ft.com/ai-safety/?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.927,
-            "signed_score": -0.919
+            "confidence": 0.924,
+            "signed_score": -0.89
         },
         {
-            "headline": "France and the UK require a new entente",
-            "summary": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+            "headline": "AI mania can’t survive higher interest rates",
+            "summary": "The price of money is the pin that deflates market bubbles",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
-            "published": "Sun, 01 Nov 2026 16:00:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.543,
-            "signed_score": 0.432
-        },
-        {
-            "headline": "Bond investors sit out ‘most consequential’ US midterm elections in years",
-            "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:17 GMT",
+            "link": "https://www.ft.com/content/6e99dc59-8bd0-4c5c-8186-f6ceed04233a?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.894,
-            "signed_score": -0.88
+            "confidence": 0.77,
+            "signed_score": -0.754
         },
         {
-            "headline": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-            "summary": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
+            "headline": "How De Beers lost its sparkle",
+            "summary": "After years of decline, the jewellery industry has pinned its hopes on a new advertising push to restore the lustre of natural diamonds",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 14:54:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.947,
-            "signed_score": -0.928
+            "link": "https://www.ft.com/content/507e885e-2f61-43ab-a263-4e19850520d4?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.736,
+            "signed_score": 0.711
+        },
+        {
+            "headline": "Global AI sell-off eases after Nasdaq’s worst month in over a year",
+            "summary": "US tech stocks set to start week higher following bruising rout",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:18:53 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.57,
+            "signed_score": 0.217
         },
         {
             "headline": "Gulf braced for escalation of war between US-Israel alliance and Iran",
             "summary": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
             "section": "Top stories",
             "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 18:02:52 GMT",
+            "published": "Mon, 02 Nov 2026 01:36:43 GMT",
             "sentiment": "Negative",
             "confidence": 0.947,
             "signed_score": -0.928
         },
         {
-            "headline": "Military briefing: what would another US-Iran conflict look like?",
-            "summary": "US and Israeli options to escalate range from maritime campaigns to attempting regime change but risk provoking retaliation",
+            "headline": "Nine killed as business jet crashes in Florida",
+            "summary": "Aviation authorities to investigate after Learjet plunges into street eight miles from Donald Trump’s Mar-a-Lago resort",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.58,
-            "signed_score": -0.291
+            "link": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 23:25:46 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.901,
+            "signed_score": -0.887
         },
         {
-            "headline": "Blue Lagoon owner plans to float as Icelandic tourism booms",
-            "summary": "Owner of famed geothermal baths wants to raise money for its growth plans including a mountain retreat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6a3c6f12-cada-4368-8aad-4deb4db13fcb?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 18:00:03 GMT",
+            "headline": "A lasting injustice from the Libor affair",
+            "summary": "Whistleblower is the only one of 19 jailed bankers not to have had his conviction overturned yet",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/dc022816-63ec-4d15-82c8-9a2b485c52db?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.677,
+            "signed_score": -0.62
+        },
+        {
+            "headline": "S&P 500’s perfect midterm record faces a test in 2026",
+            "summary": "Wall Street’s blue-chip index has risen in the six months following every midterm Congressional election since 1950",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/56b565f9-8627-4400-baae-e0a604533b3d?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:10 GMT",
             "sentiment": "Positive",
-            "confidence": 0.637,
-            "signed_score": 0.627
+            "confidence": 0.921,
+            "signed_score": 0.896
+        },
+        {
+            "headline": "Japanese groups stage $21bn deal spree to secure gas supplies",
+            "summary": "World’s second-biggest buyer of LNG targets shale resources on US Gulf Coast amid market upheavals",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9652cb30-c8b1-4f36-993f-54f7827d2174?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 01:56:22 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.689,
+            "signed_score": 0.481
         },
         {
             "headline": "Binance users pull $3.6bn as crypto exchange restarts services after heist",
@@ -127,6 +137,16 @@
             "sentiment": "Negative",
             "confidence": 0.965,
             "signed_score": -0.95
+        },
+        {
+            "headline": "Junk debt rout sparks ‘bloodbath’ for credit investors",
+            "summary": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 14:54:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.947,
+            "signed_score": -0.928
         },
         {
             "headline": "US critical minerals push delivers a gold rush — for Washington lobbyists",
@@ -157,6 +177,16 @@
             "sentiment": "Negative",
             "confidence": 0.948,
             "signed_score": -0.917
+        },
+        {
+            "headline": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+            "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+            "published": "Sun, 01 Nov 2026 05:00:17 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.894,
+            "signed_score": -0.88
         },
         {
             "headline": "Germany fails to meet winter gas storage target",
@@ -289,64 +319,24 @@
             "signed_score": -0.948
         },
         {
-            "headline": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-            "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 18:19:08 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.937,
-            "signed_score": 0.912
-        },
-        {
-            "headline": "How AI might be deployed for better bank supervision",
-            "summary": "The technology could help tackle some of the cultural issues that contributed to the collapse of SVB",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/be6723d6-ab63-41ab-ac46-dc870c449da0?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 18:00:05 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.665,
-            "signed_score": 0.655
-        },
-        {
-            "headline": "Apollo and Thrive capitalise on private equity’s generational shift",
-            "summary": "By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 17:24:07 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.783,
-            "signed_score": 0.775
-        },
-        {
-            "headline": "CD&R pursues buyout of $40bn card processor Global Payments",
-            "summary": "Deal for US company would rank among largest buyouts in history",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 17:10:22 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.582,
-            "signed_score": 0.571
-        },
-        {
-            "headline": "What we know about the $6.3bn Binance hack",
-            "summary": "Analysis suggests hackers bypassed standard methods used in crypto thefts",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 13:23:45 GMT",
+            "headline": "FirstFT: Trump’s petrol price problem",
+            "summary": "Also in today’s newsletter: Iran conflict warning and Glencore CEO pay",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:34:18 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.618,
-            "signed_score": -0.298
+            "confidence": 0.865,
+            "signed_score": -0.089
         },
         {
-            "headline": "Partners plans to halve withdrawal limits on strained private equity fund",
-            "summary": "Swiss firm is under pressure as clients pull their money from its largest US and European funds",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e42fabdb-2fa1-47ef-a014-9873639c40ae?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 12:38:38 GMT",
+            "headline": "BoE set to raise rates to 4% in fight against inflation",
+            "summary": "Governor Andrew Bailey has warned against rushing to judgment about risks but latest OBR figures point to tough outlook",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/30405694-3487-4c41-b720-613bde9d2de1?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.956
+            "confidence": 0.645,
+            "signed_score": -0.371
         },
         {
             "headline": "Trump faces the voters",
@@ -537,36 +527,6 @@
             "sentiment": "Negative",
             "confidence": 0.926,
             "signed_score": -0.916
-        },
-        {
-            "headline": "‘Associate member’ spat set to overshadow Canada-EU summit",
-            "summary": "Ursula von der Leyen insists on concept Berlin and other capitals say must be left out of joint statement",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/86a413ed-7303-40b3-a7c1-a01c92b1f738?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 14:28:33 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.564,
-            "signed_score": -0.541
-        },
-        {
-            "headline": "The two pragmatists leading the race to run the ECB",
-            "summary": "Pablo Hernández de Cos and Klaas Knot are currently frontrunners to become the fifth president of Europe’s top monetary institution",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/281690fe-ac0c-43f1-9a36-a3e6b5ee175d?syn-25a6b1a6=1",
-            "published": "Thu, 29 Oct 2026 14:04:42 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.851,
-            "signed_score": 0.121
-        },
-        {
-            "headline": "Strong US inflation and growth will keep Fed on a tightening path",
-            "summary": "Third-quarter growth figures and September’s PCE inflation data confirm the US economy is running hot",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2afe7f73-4717-4e26-8257-317f637738b4",
-            "published": "Thu, 29 Oct 2026 14:00:18 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.917,
-            "signed_score": 0.871
         }
     ]
 }
