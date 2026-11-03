@@ -5,48 +5,48 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-02T15:59:47.002845+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-03T01:00:42.093957+00:00",
+    "headline_count": 55,
     "headlines": [
         {
-            "headline": "Petrol prices set to hit record high under Trump on eve of US elections",
-            "summary": "Average fuel costs during president’s second term pass Biden-era levels as affordability issues dominate Tuesday’s midterm polls",
+            "headline": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+            "summary": "On the eve of the midterm elections, Americans say they want politicians who can better handle the economy",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 05:00:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.716,
-            "signed_score": -0.463
-        },
-        {
-            "headline": "Donald Trump’s imperial presidency faces a popular uprising",
-            "summary": "Voters have grown weary of the president’s monument building at a time of high living costs",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7ee57da7-9687-4ceb-8057-d5afab78d728?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 13:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.882,
-            "signed_score": -0.868
-        },
-        {
-            "headline": "The meaning of the midterms",
-            "summary": "This week will tell us many important things about the future of American politics",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
+            "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 20:38:05 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.896,
-            "signed_score": 0.072
+            "confidence": 0.659,
+            "signed_score": -0.046
         },
         {
-            "headline": "The race to keep AI under control",
-            "summary": "Safety breaches are raising doubts about the ability of leading labs to keep increasingly powerful systems in check",
+            "headline": "Democrats close ranks after shock Michigan defection",
+            "summary": "Haley Stevens’ support for Republican candidate instead of Abdul El-Sayed provokes a swift backlash",
             "section": "Top stories",
-            "link": "https://ig.ft.com/ai-safety/?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 05:00:08 GMT",
+            "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 21:35:58 GMT",
             "sentiment": "Negative",
-            "confidence": 0.924,
-            "signed_score": -0.89
+            "confidence": 0.718,
+            "signed_score": -0.632
+        },
+        {
+            "headline": "Key races that will decide the US midterm elections",
+            "summary": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 20:12:26 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.718,
+            "signed_score": -0.156
+        },
+        {
+            "headline": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+            "summary": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 22:45:26 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.787,
+            "signed_score": 0.183
         },
         {
             "headline": "How Putin has split the west",
@@ -69,84 +69,94 @@
             "signed_score": -0.819
         },
         {
-            "headline": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
-            "summary": "Silicon Valley companies said all-stock deal would create a ‘leader in AI connectivity’",
+            "headline": "Apple warns on rising costs from memory chip shortage",
+            "summary": "Hardware giant predicted robust sales in the holiday season after solid performance in the third quarter",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 14:07:40 GMT",
+            "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 22:58:51 GMT",
             "sentiment": "Positive",
-            "confidence": 0.805,
-            "signed_score": 0.797
+            "confidence": 0.826,
+            "signed_score": 0.672
         },
         {
-            "headline": "Oil tumbles on hopes for US-Iran talks",
-            "summary": "Prices extend decline after Iranian President Masoud Pezeshkian said the country’s supreme leader had given officials certain authority over talks",
+            "headline": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+            "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 14:42:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.925,
-            "signed_score": -0.884
-        },
-        {
-            "headline": "Netanyahu presses Trump for renewed strikes against Iran",
-            "summary": "Israeli leader and US president talk on phone as mediation efforts led by Qatar seek to broker interim deal between Washington and Tehran",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 11:52:50 GMT",
+            "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 22:58:27 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.622,
-            "signed_score": -0.02
+            "confidence": 0.858,
+            "signed_score": 0.12
         },
         {
-            "headline": "Life in Tehran under Trump’s blockade",
-            "summary": "The city has recaptured its prewar energy even as residents are gripped by trepidation over what is next",
+            "headline": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+            "summary": "Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6242529a-9233-4f99-ac90-72bee1099abf?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.495,
-            "signed_score": -0.31
+            "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 16:31:21 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.751,
+            "signed_score": 0.557
         },
         {
             "headline": "European supermarket freezers overheat in fresh cyber attack",
             "summary": "Freezer temperatures surge to as high as 55C in dozens of stores across Sweden, Belgium, Ireland and Estonia",
             "section": "Top stories",
             "link": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 09:49:26 GMT",
+            "published": "Mon, 02 Nov 2026 16:20:35 GMT",
             "sentiment": "Negative",
             "confidence": 0.962,
             "signed_score": -0.95
         },
         {
-            "headline": "Fox News suffers sharp drop in ratings as US elections approach",
-            "summary": "Lachlan Murdoch blames ‘viewer fatigue’ as CNN and MS NOW expand viewership",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f1d46023-f199-4822-bd76-293afde613b3?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 14:55:01 GMT",
+            "headline": "Oil tumbles on hopes for US-Iran talks",
+            "summary": "Prices extend decline after Iran’s president says supreme leader has given officials certain authority over talks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 21:13:04 GMT",
             "sentiment": "Negative",
-            "confidence": 0.969,
-            "signed_score": -0.96
+            "confidence": 0.928,
+            "signed_score": -0.892
         },
         {
-            "headline": "The $6.3bn Binance hack shows how centralised crypto has become",
+            "headline": "Petrol prices set to hit record high under Trump on eve of US elections",
+            "summary": "Average fuel costs during president’s second term pass Biden-era levels as affordability issues top Tuesday’s midterm polls",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 17:46:33 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.622,
+            "signed_score": -0.277
+        },
+        {
+            "headline": "The inconvenient truths of Nixon’s legacy",
+            "summary": "Maga supporters would do well to ponder his economic shadow, which continues to do damage today",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 17:06:19 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.673,
+            "signed_score": -0.645
+        },
+        {
+            "headline": "Alstom shares tumble 26% after train maker cuts profit forecast",
+            "summary": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 16:55:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.951,
+            "signed_score": -0.926
+        },
+        {
+            "headline": "What caused the $6.3bn Binance hack?",
             "summary": "Blockchains are not the problem; it is the ecosystem around them that has introduced technological vulnerabilities",
             "section": "Markets",
             "link": "https://www.ft.com/content/aee842a2-2949-4746-8742-03c0397f0391",
             "published": "Mon, 02 Nov 2026 15:02:52 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.714,
-            "signed_score": -0.19
-        },
-        {
-            "headline": "Alstom shares tumble 28% after train maker cuts profit forecast",
-            "summary": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 12:49:24 GMT",
             "sentiment": "Negative",
-            "confidence": 0.95,
-            "signed_score": -0.925
+            "confidence": 0.624,
+            "signed_score": -0.602
         },
         {
             "headline": "Binance users pull $5bn as crypto exchange restarts services after heist",
@@ -349,14 +359,24 @@
             "signed_score": 0.031
         },
         {
-            "headline": "Bank of England explores easing key limit on riskier mortgage lending",
-            "summary": "Central bank considers lifting threshold on higher-risk mortgages in response to calls from government and industry to boost home-ownership",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/78363dc1-90fa-4a10-b84a-69be3d749f42?syn-25a6b1a6=1",
-            "published": "Sat, 31 Oct 2026 05:00:31 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.881,
-            "signed_score": 0.854
+            "headline": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
+            "summary": "Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 21:40:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.92,
+            "signed_score": -0.899
+        },
+        {
+            "headline": "US moves to strip South Africa and Rwanda of duty-free trade access",
+            "summary": "Washington cites trade barriers and national security concerns as relations with Pretoria and Kigali deteriorate",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fae48a2f-7fb1-4b49-a261-0449fc335427?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 20:34:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.967,
+            "signed_score": -0.957
         },
         {
             "headline": "The midterms and the world",
@@ -407,6 +427,16 @@
             "sentiment": "Negative",
             "confidence": 0.645,
             "signed_score": -0.371
+        },
+        {
+            "headline": "The meaning of the midterms",
+            "summary": "This week will tell us many important things about the future of American politics",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1",
+            "published": "Mon, 02 Nov 2026 05:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.896,
+            "signed_score": 0.072
         },
         {
             "headline": "Trump faces the voters",
@@ -527,46 +557,6 @@
             "sentiment": "Negative",
             "confidence": 0.798,
             "signed_score": -0.783
-        },
-        {
-            "headline": "Bank of Japan holds rates and guides to further tightening",
-            "summary": "Central bank says that inflationary dynamics have finally taken root in the Japanese economy",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/0c1f7cbb-c893-4563-b3b4-f63df47ea5e5",
-            "published": "Fri, 30 Oct 2026 08:34:32 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.475,
-            "signed_score": 0.263
-        },
-        {
-            "headline": "Lagarde’s early departure triggers race to solve three-way ECB puzzle",
-            "summary": "Also in this newsletter: the cyber threat from North Korea",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9c46421e-d23c-4674-80ad-4cf63897d22e?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 06:00:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.697,
-            "signed_score": -0.239
-        },
-        {
-            "headline": "Why Trump’s tech dreams are quietly crumbling",
-            "summary": "Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.953,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "Christine Lagarde: the unlikely central banker who steered Europe through multiple crises",
-            "summary": "The ECB president will depart before her eight-year term expires in October 2027",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/423419b6-a39e-4870-adf5-c59cf9cec8c8?syn-25a6b1a6=1",
-            "published": "Fri, 30 Oct 2026 05:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.643,
-            "signed_score": -0.317
         }
     ]
 }
