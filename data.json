@@ -5,128 +5,198 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-03T14:20:36.055253+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-11-03T23:26:14.442037+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "US voters prepare to deliver verdict on Trump",
-            "summary": "Races across nation will decide whether Republicans keep their majorities in Congress",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 10:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.908,
-            "signed_score": 0.001
-        },
-        {
-            "headline": "Americans begin voting in elections to decide control of Congress",
-            "summary": "",
+            "headline": "Polls begin to close in US midterms that double as referendum on Trump’s presidency",
+            "summary": "Republicans battle to retain majorities in the lower and upper congressional chambers",
             "section": "Top stories",
             "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 10:52:57 GMT",
+            "published": "Tue, 03 Nov 2026 23:04:29 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.937,
-            "signed_score": 0.022
+            "confidence": 0.522,
+            "signed_score": -0.255
         },
         {
-            "headline": "Your guide to election night",
-            "summary": "From key races to the money and issues at stake, here’s everything you need to know ahead of tonight’s results",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 14:00:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.938,
-            "signed_score": 0.011
-        },
-        {
-            "headline": "What 21 months of Trump have done to America",
-            "summary": "From ‘liberation day’ and bond market turmoil to Maduro’s capture, the goading of Zelenskyy and war in Iran, it has been a head-spinning period in US politics",
+            "headline": "The head-spinning turbulence of Trump’s second term",
+            "summary": "From ‘liberation day’ and bond market turmoil to Maduro’s capture, the goading of Zelenskyy and war in Iran, US politics has seen little like it",
             "section": "Top stories",
             "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
             "published": "Tue, 03 Nov 2026 11:40:58 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.663,
-            "signed_score": -0.249
+            "confidence": 0.678,
+            "signed_score": -0.166
         },
         {
-            "headline": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
-            "summary": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
+            "headline": "Live US midterm elections results — in charts and maps",
+            "summary": "The latest updates on the races that will shape the balance of power in Washington",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 22:45:26 GMT",
+            "link": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 06:29:13 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.787,
-            "signed_score": 0.183
+            "confidence": 0.94,
+            "signed_score": 0.013
         },
         {
-            "headline": "Wall Street braces as voters head to high-stakes polls",
-            "summary": "Vote will set the trajectory for everything from AI to public spending",
+            "headline": "Investors watch US state races for signs of backlash against AI boom",
+            "summary": "Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America",
             "section": "Top stories",
             "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 10:27:49 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": 0.106
+            "published": "Tue, 03 Nov 2026 20:25:23 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.44,
+            "signed_score": 0.26
         },
         {
-            "headline": "Italy’s ‘exit tax’ plan spooks rich expats",
-            "summary": "Giorgia Meloni’s government has proposed a special levy for people leaving the country as part of its budget for 2027",
+            "headline": "How Pennsylvania’s bellwether city could decide the US midterms",
+            "summary": "Democrats eye victory in seat that could tip the balance of power in Washington",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 05:00:13 GMT",
+            "link": "https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 18:53:53 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.365,
+            "signed_score": 0.048
+        },
+        {
+            "headline": "Trump says US will end military aid to Israel by end of the year",
+            "summary": "President makes surprise announcement to halt $4bn annual funding, which has featured prominently in midterm campaigning",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 15:32:31 GMT",
             "sentiment": "Negative",
-            "confidence": 0.941,
-            "signed_score": -0.924
-        },
-        {
-            "headline": "US, Russia and China discuss meeting between Trump, Putin and Xi",
-            "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 08:10:41 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": 0.073
-        },
-        {
-            "headline": "Marshall Wace hit as hedge funds suffer in October’s AI rout",
-            "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 11:37:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.938,
-            "signed_score": -0.906
+            "confidence": 0.948,
+            "signed_score": -0.938
         },
         {
             "headline": "US strikes Iran’s Qeshm Island on eve of election",
             "summary": "Oil price steady as Washington says attacks were defensive measure against Tehran’s potential use of surface-to-air missiles",
             "section": "Top stories",
             "link": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 06:44:35 GMT",
+            "published": "Tue, 03 Nov 2026 14:46:20 GMT",
             "sentiment": "Negative",
             "confidence": 0.791,
             "signed_score": -0.688
         },
         {
-            "headline": "Oil price edges back above $106 after sharp declines",
-            "summary": "Crude prices stabilise on Tuesday as traders await developments in the Middle East",
+            "headline": "CVS Health moves to dismantle $117bn healthcare empire",
+            "summary": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
             "section": "Top stories",
+            "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 22:33:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.898,
+            "signed_score": -0.878
+        },
+        {
+            "headline": "Former Weil partners lawyer up over firm’s wind-down",
+            "summary": "Ex-partners are attempting to learn if their equity in firm will be worth anything",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 18:30:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.553,
+            "signed_score": -0.531
+        },
+        {
+            "headline": "What Weil Gotshal teaches us about how law firms die",
+            "summary": "When partners start leaving to earn more money elsewhere, collapse becomes inevitable",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73",
+            "published": "Tue, 03 Nov 2026 11:00:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.725,
+            "signed_score": -0.705
+        },
+        {
+            "headline": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
+            "summary": "Crypto exchange’s internal investigation reveals the role of human error in the biggest theft in history",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 17:00:20 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.611,
+            "signed_score": -0.321
+        },
+        {
+            "headline": "First polls close in high-stakes vote for control of US Congress",
+            "summary": "Republicans and Democrats in battle for Senate and House of Representatives",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 23:16:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.777,
+            "signed_score": 0.023
+        },
+        {
+            "headline": "What the historic heist of Binance means for crypto",
+            "summary": "It was the largest heist ever.",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/567d7280-2bcb-4802-8caa-01853b3278dc?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 21:22:50 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.911,
+            "signed_score": -0.002
+        },
+        {
+            "headline": "A chill wind in the AI credit market",
+            "summary": "Investors are demanding more to finance the data centre boom",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5f08f1fb-4948-4420-8fe4-3c8c8cc492ef?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 18:18:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.929,
+            "signed_score": -0.912
+        },
+        {
+            "headline": "The hidden power of electricity",
+            "summary": "The energy transition is not as impossible as we’ve been led to think",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1a40a3af-933b-4c12-aa9b-2cf89f2ed139?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 17:17:42 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.905,
+            "signed_score": 0.068
+        },
+        {
+            "headline": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
+            "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 15:21:33 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.959,
+            "signed_score": -0.944
+        },
+        {
+            "headline": "‘The new frontier of finance is built in the United States of America’",
+            "summary": "Perp talk",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f8629d69-9890-4da1-a378-a6041b398b21",
+            "published": "Tue, 03 Nov 2026 14:53:32 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.795,
+            "signed_score": 0.187
+        },
+        {
+            "headline": "Oil price extends decline to $103",
+            "summary": "Crude prices weaken on Tuesday following unconfirmed report of diplomatic progress in the Middle East",
+            "section": "Markets",
             "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 12:19:25 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.692,
-            "signed_score": 0.43
+            "published": "Tue, 03 Nov 2026 14:25:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.972,
+            "signed_score": -0.955
         },
         {
             "headline": "In the shadow of war, Silicon Valley sprinkles stardust",
-            "summary": "While the US energy sector stayed away from the Adipec conference in Abu Dhabi, the tech sector worked its magic",
+            "summary": "While the US energy sector had a diminished presence at the Adipec conference in Abu Dhabi, the tech sector worked its magic",
             "section": "Markets",
             "link": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c?syn-25a6b1a6=1",
             "published": "Tue, 03 Nov 2026 12:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.653,
-            "signed_score": 0.204
+            "sentiment": "Negative",
+            "confidence": 0.457,
+            "signed_score": -0.317
         },
         {
             "headline": "Apollo lends record $114bn as it piles into AI financing boom",
@@ -279,54 +349,24 @@
             "signed_score": -0.645
         },
         {
-            "headline": "Alstom shares tumble 26% after train maker cuts profit forecast",
-            "summary": "French group also sets out plan to cut €2bn in debt in second major profit warning under new chief Martin Sion",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 16:55:48 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.951,
-            "signed_score": -0.926
-        },
-        {
-            "headline": "What caused the $6.3bn Binance hack?",
-            "summary": "Blockchains are not the problem; it is the ecosystem around them that has introduced technological vulnerabilities",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/aee842a2-2949-4746-8742-03c0397f0391",
-            "published": "Mon, 02 Nov 2026 15:02:52 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.624,
-            "signed_score": -0.602
-        },
-        {
-            "headline": "Binance users pull $5bn as crypto exchange restarts services after heist",
-            "summary": "Group pledges to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 10:01:58 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.952
-        },
-        {
-            "headline": "Unpicking Microsoft’s free cash flow",
-            "summary": "Plus: stock-bond correlations (again)",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f16babea-fd38-440b-8278-5871d3a47b17?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 06:30:07 GMT",
+            "headline": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+            "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+            "published": "Tue, 03 Nov 2026 17:46:32 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.86,
-            "signed_score": 0.088
+            "confidence": 0.872,
+            "signed_score": 0.073
         },
         {
-            "headline": "What the increasingly awkward data centre construction delays mean for investors",
-            "summary": "Boom?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/824fcec4-bded-44f3-9e42-565ba0d2cfa8",
-            "published": "Mon, 02 Nov 2026 06:00:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.514,
-            "signed_score": -0.487
+            "headline": "Heat returns to US labour market in latest official turnover figures",
+            "summary": "Job opening and quits rates both rose in September and support the Fed’s narrative of a resilient labour market",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/44e578ac-e2e5-43b4-946d-06ebb82d27e6",
+            "published": "Tue, 03 Nov 2026 16:40:12 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.875,
+            "signed_score": 0.776
         },
         {
             "headline": "Our current AI moment has darker historical echoes",
@@ -537,16 +577,6 @@
             "sentiment": "Neutral",
             "confidence": 0.828,
             "signed_score": 0.123
-        },
-        {
-            "headline": "Russia forced to ship grain via Arctic as Black Sea battles rage",
-            "summary": "Farmers are exporting agricultural goods from ports thousands of miles away, driving up costs for overseas buyers",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1",
-            "published": "Sun, 01 Nov 2026 05:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.951
         }
     ]
 }
