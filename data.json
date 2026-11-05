@@ -5,48 +5,108 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-04T19:48:57.181564+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-11-05T06:52:18.668490+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "Vance blames Iran war for crushing Republican midterms defeat",
-            "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
+            "headline": "Democrats look to reshape America after historic midterm victories",
+            "summary": "Party promises dramatic change in the wake of its ‘blue wave’",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 16:27:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.838,
-            "signed_score": -0.786
-        },
-        {
-            "headline": "Democrats debate how far to take their fight against Trump",
-            "summary": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 15:43:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.855,
-            "signed_score": -0.831
-        },
-        {
-            "headline": "Five takeaways from the midterm results",
-            "summary": "Democrats record broad gains from almost all demographic groups",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 18:47:36 GMT",
+            "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:00:25 GMT",
             "sentiment": "Positive",
-            "confidence": 0.936,
-            "signed_score": 0.91
+            "confidence": 0.606,
+            "signed_score": 0.585
         },
         {
-            "headline": "The party’s over for the Trumpsterz",
-            "summary": "Dancing gives way to dejection at Florida festivities",
+            "headline": "Asian tech stocks slide on post-midterm AI fears",
+            "summary": "Concerns mount that Democratic control of Congress will slow data centre build-out",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7a7f5d4f-8e82-48c2-be31-024f8b5a32d7?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 17:57:04 GMT",
+            "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:12:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.968,
+            "signed_score": -0.958
+        },
+        {
+            "headline": "The next US presidential race has begun",
+            "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:00:07 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.857,
-            "signed_score": -0.073
+            "confidence": 0.884,
+            "signed_score": 0.075
+        },
+        {
+            "headline": "Morning in America, twilight in the markets",
+            "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+            "published": "Thu, 05 Nov 2026 05:00:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.682,
+            "signed_score": -0.237
+        },
+        {
+            "headline": "Republicans paid the price for Trump’s failed policies",
+            "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+            "published": "Thu, 05 Nov 2026 05:00:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.588,
+            "signed_score": -0.292
+        },
+        {
+            "headline": "US midterm results herald upheaval in Middle East policy",
+            "summary": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 01:33:29 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.571,
+            "signed_score": -0.434
+        },
+        {
+            "headline": "Oil tumbles below $100 on post-election peace hopes",
+            "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 03:01:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.943,
+            "signed_score": -0.926
+        },
+        {
+            "headline": "Democratic wave keeps US wealth taxes alive despite California loss",
+            "summary": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 00:52:16 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.807,
+            "signed_score": 0.759
+        },
+        {
+            "headline": "How Democrats pulled off the blue wave in maps and charts",
+            "summary": "Party on track for largest swing in their favour in House elections in more than 75 years",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
+            "published": "Wed, 04 Nov 2026 19:12:33 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.589,
+            "signed_score": 0.494
+        },
+        {
+            "headline": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
+            "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
+            "published": "Wed, 04 Nov 2026 20:58:24 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.791,
+            "signed_score": -0.012
         },
         {
             "headline": "The beginning of the end of the age of Trump",
@@ -59,74 +119,14 @@
             "signed_score": 0.587
         },
         {
-            "headline": "Oil tumbles below $100 on post-election peace hopes",
-            "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+            "headline": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+            "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 17:47:07 GMT",
+            "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+            "published": "Wed, 04 Nov 2026 22:38:45 GMT",
             "sentiment": "Negative",
-            "confidence": 0.943,
-            "signed_score": -0.926
-        },
-        {
-            "headline": "Stocks climb after Democrats’ sweep",
-            "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected Democrat backlash against AI boom",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 17:09:03 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.941,
-            "signed_score": -0.926
-        },
-        {
-            "headline": "Republicans turn on each other after disastrous midterms",
-            "summary": "Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 18:29:39 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.95,
-            "signed_score": -0.941
-        },
-        {
-            "headline": "Canadians welcome Democratic sweep in US midterm elections",
-            "summary": "Voters’ repudiation of Donald Trump’s agenda seen as a ‘victory’ for neighbour",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 18:34:21 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.45,
-            "signed_score": 0.005
-        },
-        {
-            "headline": "‘A deep sense of deceit’: Young Republicans reckon with US midterms rout",
-            "summary": "President’s foreign policy and scandals blamed for crushing defeat by New York Young Republican Club members",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 10:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.711,
-            "signed_score": -0.681
-        },
-        {
-            "headline": "Analysis: The great humbling of Donald Trump",
-            "summary": "Midterm elections defeat marked a savage rejection from across the country of the president, his allies and his second-term agenda",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 07:23:18 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.913,
-            "signed_score": -0.894
-        },
-        {
-            "headline": "The midterms have already cost Musk close to $30bn",
-            "summary": "🎻",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
-            "published": "Wed, 04 Nov 2026 13:23:30 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.839,
-            "signed_score": -0.806
+            "confidence": 0.956,
+            "signed_score": -0.939
         },
         {
             "headline": "Voters have put a helpful chill on the US data centre boom",
@@ -137,6 +137,46 @@
             "sentiment": "Negative",
             "confidence": 0.706,
             "signed_score": -0.509
+        },
+        {
+            "headline": "How will the Democrats’ sweep shape policy and markets?",
+            "summary": "Their win may usher in more regulation, but investors seem unfazed",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d0f7a709-3c57-4cd4-8467-4516a58d9749?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.661,
+            "signed_score": 0.011
+        },
+        {
+            "headline": "US stocks post best day since August after Democrats sweep midterms",
+            "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 03:11:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.934,
+            "signed_score": -0.911
+        },
+        {
+            "headline": "Copper is booming but not everyone is striking gold",
+            "summary": "As selling prices soar, the red metal frenzy favours miners over smelters",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 00:01:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.787,
+            "signed_score": 0.018
+        },
+        {
+            "headline": "China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn",
+            "summary": "Committee chair Liam Byrne says failure to diversify supplies continues to pose significant risks to Britain’s future security",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 00:01:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.957,
+            "signed_score": -0.944
         },
         {
             "headline": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
@@ -189,14 +229,14 @@
             "signed_score": 0.017
         },
         {
-            "headline": "US midterms results night as it happened: Democrats rout Republicans to win Senate and House",
-            "summary": "President’s party defeated in battleground races from Kansas to South Carolina",
+            "headline": "US midterms as it happened: Democrats rout Republicans to win Senate and House",
+            "summary": "Donald Trump’s party defeated in battleground races from Kansas to South Carolina",
             "section": "Markets",
             "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
             "published": "Wed, 04 Nov 2026 11:18:44 GMT",
             "sentiment": "Negative",
-            "confidence": 0.868,
-            "signed_score": -0.841
+            "confidence": 0.754,
+            "signed_score": -0.695
         },
         {
             "headline": "Copper and conflict trigger profit surge for Buffett-backed Japanese commodity traders",
@@ -319,54 +359,34 @@
             "signed_score": 0.068
         },
         {
-            "headline": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
-            "summary": "Crypto exchange’s internal investigation reveals the role of human error in the biggest theft in history",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 17:00:20 GMT",
+            "headline": "FirstFT: Democrats look to reshape America",
+            "summary": "Also in today’s newsletter: Russia-Iran ties and UK inflation",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:31:18 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.611,
-            "signed_score": -0.321
+            "confidence": 0.891,
+            "signed_score": 0.083
         },
         {
-            "headline": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
-            "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 15:21:33 GMT",
+            "headline": "UK inflation to peak at 4.4% in 2027, according to FT survey of economists",
+            "summary": "Energy bills set to jump by nearly £470 in January to about £2,200 a year for a typical household",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/aa340415-ef92-45f3-a145-6b05f6aac9cb?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 05:00:16 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.896,
+            "signed_score": 0.85
+        },
+        {
+            "headline": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
+            "summary": "Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
+            "published": "Wed, 04 Nov 2026 18:34:21 GMT",
             "sentiment": "Negative",
-            "confidence": 0.959,
-            "signed_score": -0.944
-        },
-        {
-            "headline": "‘The new frontier of finance is built in the United States of America’",
-            "summary": "Perp talk",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f8629d69-9890-4da1-a378-a6041b398b21",
-            "published": "Tue, 03 Nov 2026 14:53:32 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.795,
-            "signed_score": 0.187
-        },
-        {
-            "headline": "Oil price extends decline to $103",
-            "summary": "Crude prices weaken on Tuesday following unconfirmed report of diplomatic progress in the Middle East",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 14:25:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.972,
-            "signed_score": -0.955
-        },
-        {
-            "headline": "In the shadow of war, Silicon Valley sprinkles stardust",
-            "summary": "While the US energy sector had a diminished presence at the Adipec conference in Abu Dhabi, the tech sector worked its magic",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/050d5ed2-83e7-4ebb-a781-0daa3874797c?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 12:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.457,
-            "signed_score": -0.317
+            "confidence": 0.803,
+            "signed_score": -0.685
         },
         {
             "headline": "October inflation in the Eurozone keeps ECB on course for another tightening",
@@ -557,36 +577,6 @@
             "sentiment": "Negative",
             "confidence": 0.967,
             "signed_score": -0.957
-        },
-        {
-            "headline": "The inconvenient truths of Nixon’s legacy",
-            "summary": "Maga supporters would do well to ponder his economic shadow, which continues to do damage today",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/8df5f8b2-b08e-4b1b-9842-a95e55b2f93a?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 17:06:19 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.673,
-            "signed_score": -0.645
-        },
-        {
-            "headline": "The midterms and the world",
-            "summary": "A Democratic sweep of both houses of Congress would see big changes on energy and trade in particular",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 14:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.884,
-            "signed_score": 0.084
-        },
-        {
-            "headline": "EU and Canada seek to be friends with association benefits",
-            "summary": "Brussels and Ottawa have big ambitions for alignment but not much substance yet",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/3e5ff393-ff2e-482d-ae8a-48444dc00458?syn-25a6b1a6=1",
-            "published": "Mon, 02 Nov 2026 12:31:09 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.899,
-            "signed_score": 0.061
         }
     ]
 }
