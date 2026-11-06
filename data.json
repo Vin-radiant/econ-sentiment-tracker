@@ -5,68 +5,128 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-05T20:00:02.010552+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-06T06:51:42.132253+00:00",
+    "headline_count": 58,
     "headlines": [
         {
-            "headline": "Nasdaq plunges in chaotic trading as Democratic ‘blue wave’ upends AI bets",
-            "summary": "Investors fear newly elected politicians up and down the US will seek to slow data centre development in blow to tech stocks",
+            "headline": "Global stocks tumble as Democratic midterm sweep sparks AI rout",
+            "summary": "Investors fear US will now seek to slow data centre buildout in potential blow to tech companies",
             "section": "Top stories",
             "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
             "published": "Thu, 05 Nov 2026 16:59:34 GMT",
             "sentiment": "Negative",
-            "confidence": 0.953,
+            "confidence": 0.947,
+            "signed_score": -0.933
+        },
+        {
+            "headline": "The sell-off gets deep",
+            "summary": "But not broad, yet",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 06:30:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.773,
+            "signed_score": -0.1
+        },
+        {
+            "headline": "Asian tech stocks sink",
+            "summary": "‘Complete carnage’ as Nikkei 225 falls below 60,000 points for first time since May with Seoul’s Kospi under 5,000 points",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:07:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
             "signed_score": -0.944
         },
         {
-            "headline": "Tech leaders need an urgent rethink of their political strategy",
-            "summary": "America’s data centre backlash is emblematic of AI anxiety and a scepticism of the industry’s power and wealth",
+            "headline": "America turns on Trump’s tech cheerleaders",
+            "summary": "Silicon Valley elites and AI executives plot new political strategy after alliance with US president backfires in midterms",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 19:04:55 GMT",
+            "link": "https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
             "sentiment": "Negative",
-            "confidence": 0.86,
-            "signed_score": -0.839
+            "confidence": 0.482,
+            "signed_score": -0.433
         },
         {
-            "headline": "So, about that Anthropic IPO . . .",
-            "summary": "A dispatch from the trenches of daily market commentary",
+            "headline": "‘Blue wave’ hopes for US economic change are likely to be disappointed",
+            "summary": "A shift in the composition of Congress will have little impact on policymaking in the remainder of Trump’s term",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 17:01:56 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.92,
-            "signed_score": 0.006
-        },
-        {
-            "headline": "Follow live: US chip stocks plummet",
-            "summary": "",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 17:22:07 GMT",
+            "link": "https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
             "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.952
+            "confidence": 0.487,
+            "signed_score": -0.428
         },
         {
-            "headline": "Morning in America, twilight in the markets",
-            "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+            "headline": "Who is in the line of fire after the midterm drubbing?",
+            "summary": "The Trump administration reckons with the Democratic Party’s emphatic victory in the US midterms",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
-            "published": "Thu, 05 Nov 2026 05:00:16 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.682,
-            "signed_score": -0.237
+            "link": "https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.458,
+            "signed_score": 0.33
         },
         {
-            "headline": "The next US presidential race has begun",
-            "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+            "headline": "Los Angeles elects democratic socialist Nithya Raman as mayor",
+            "summary": "Win follows Zohran Mamdani’s rise in New York and resounding victories by other progressives in Washington and Providence",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 05:00:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.884,
-            "signed_score": 0.075
+            "link": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 21:15:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.665,
+            "signed_score": 0.624
+        },
+        {
+            "headline": "Will Democrats stall the AI boom?",
+            "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 20:28:44 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.861,
+            "signed_score": -0.792
+        },
+        {
+            "headline": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
+            "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 22:41:52 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.966,
+            "signed_score": -0.957
+        },
+        {
+            "headline": "Why pollsters underestimated size of the ‘blue wave’",
+            "summary": "Unpredictable electorates can lead to overcorrecting after presidential elections",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 21:57:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.919,
+            "signed_score": -0.906
+        },
+        {
+            "headline": "Iran celebrates Trump’s election defeat as mediators push for deal to end war",
+            "summary": "Regional negotiators, led by Qatar, have stepped up efforts to broker an interim agreement between Washington and Tehran",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.849,
+            "signed_score": 0.793
+        },
+        {
+            "headline": "Wall Street mega-donors clobbered by Democratic sweep",
+            "summary": "Top hedge fund managers and private equity executives spent more than $300mn on Republican campaigns to little or no effect",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 19:48:28 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.725,
+            "signed_score": -0.703
         },
         {
             "headline": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
@@ -79,54 +139,64 @@
             "signed_score": -0.881
         },
         {
-            "headline": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
-            "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 22:38:45 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.956,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "Democratic wave keeps US wealth taxes alive despite California loss",
-            "summary": "Proposition 40 billionaire tax set to be defeated in a rare victory for mega-donors in the US midterms",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 00:52:16 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.807,
-            "signed_score": 0.759
-        },
-        {
-            "headline": "US midterm results herald upheaval in Middle East policy",
-            "summary": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 01:33:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.571,
-            "signed_score": -0.434
-        },
-        {
-            "headline": "European stocks overtake Wall Street following Democratic sweep",
-            "summary": "Stoxx Europe 600 index ahead of S&P 500 for this year as US stocks tumble",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 17:41:41 GMT",
+            "headline": "Ark Invest wants to bring some ‘disruptive innovation’ to interval funds",
+            "summary": "Tokenised, exchange-traded interval funds with venture capital exposure and hedge fund-level fees. What could go wrong?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
+            "published": "Fri, 06 Nov 2026 06:00:04 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.488,
-            "signed_score": 0.35
+            "confidence": 0.564,
+            "signed_score": -0.387
         },
         {
-            "headline": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
-            "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 20:58:24 GMT",
+            "headline": "The AI gamble strains for more cash",
+            "summary": "But true believers in the technology are still angling to spend tens or hundreds of billions of dollars",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.791,
-            "signed_score": -0.012
+            "confidence": 0.884,
+            "signed_score": 0.08
+        },
+        {
+            "headline": "Why investors soured on the Democrats",
+            "summary": "Nasdaq plunges in chaotic trading as Democratic ‘blue wave’ upends AI bets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f49c25d4-d77c-415d-b25b-5aaf7aaaac4a?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.921,
+            "signed_score": -0.906
+        },
+        {
+            "headline": "Blackstone doubles lock-up periods for some Asian investors",
+            "summary": "BXPE to impose penalty on clients in Singapore and Hong Kong for withdrawals within first four years",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 00:01:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.912,
+            "signed_score": -0.901
+        },
+        {
+            "headline": "Taking stock of tumbling stocks",
+            "summary": "Stocks fall as the post-midterm bubble pops",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/77afb479-14ce-4ede-80a6-cc10eb5d9ef4?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 21:40:47 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.938,
+            "signed_score": -0.925
+        },
+        {
+            "headline": "Hedge fund Walleye hands back capital as it slims down equity business",
+            "summary": "Multi-strategy fund with $17bn in assets tells clients move comes after it endured worst month since coronavirus crisis",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fb02c333-a439-4acd-b0b6-e50633ce863e?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 19:15:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.922,
+            "signed_score": -0.874
         },
         {
             "headline": "Monzo explores fundraising at £7.5bn valuation as private equity talks stall",
@@ -139,6 +209,16 @@
             "signed_score": 0.163
         },
         {
+            "headline": "European stocks overtake Wall Street following Democratic sweep",
+            "summary": "Stoxx Europe 600 index ahead of S&P 500 for this year as US stocks tumble",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 17:41:41 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.488,
+            "signed_score": 0.35
+        },
+        {
             "headline": "German government close to buying half of tank maker KNDS",
             "summary": "The agreement likely to be finalised this week does not preclude a future flotation of Franco-German group",
             "section": "Markets",
@@ -147,6 +227,16 @@
             "sentiment": "Neutral",
             "confidence": 0.894,
             "signed_score": -0.001
+        },
+        {
+            "headline": "So, about that Anthropic IPO . . .",
+            "summary": "A dispatch from the trenches of daily market commentary",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 17:01:56 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.92,
+            "signed_score": 0.006
         },
         {
             "headline": "Top private equity dealmaker to quit UK for Greece",
@@ -259,84 +349,24 @@
             "signed_score": -0.958
         },
         {
-            "headline": "How will the Democrats’ sweep shape policy and markets?",
-            "summary": "Their win may usher in more regulation, but investors seem unfazed",
+            "headline": "Morning in America, twilight in the markets",
+            "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
             "section": "Markets",
-            "link": "https://www.ft.com/content/d0f7a709-3c57-4cd4-8467-4516a58d9749?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 05:00:00 GMT",
+            "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+            "published": "Thu, 05 Nov 2026 05:00:16 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.661,
-            "signed_score": 0.011
+            "confidence": 0.682,
+            "signed_score": -0.237
         },
         {
-            "headline": "US stocks post best day since August after Democrats sweep midterms",
-            "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 03:11:55 GMT",
+            "headline": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
+            "summary": "Also in today’s newsletter: US tech barons and Jaguar Land Rover recall",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 05:33:31 GMT",
             "sentiment": "Negative",
-            "confidence": 0.934,
-            "signed_score": -0.911
-        },
-        {
-            "headline": "Copper is booming but not everyone is striking gold",
-            "summary": "As selling prices soar, the red metal frenzy favours miners over smelters",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 00:01:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.787,
-            "signed_score": 0.018
-        },
-        {
-            "headline": "China’s critical minerals dominance leaves UK ‘dangerously exposed’, MPs warn",
-            "summary": "Committee chair Liam Byrne says failure to diversify supplies continues to pose significant risks to Britain’s future security",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9d1f6829-6385-491e-8561-2afd02489190?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 00:01:03 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.944
-        },
-        {
-            "headline": "Trump diesel deal with Russia falters as US fuel supplies hit 20-year low",
-            "summary": "Two tankers change course in setback to White House gambit to lower fuel prices and shore up political support",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f66ebf48-6d09-4a91-9af5-8bf7adca65ba?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 18:54:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.915,
-            "signed_score": -0.852
-        },
-        {
-            "headline": "Blue wave sweeps markets back towards normality",
-            "summary": "US midterm results may point to more restraints on the Trump administration",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 14:03:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.54,
-            "signed_score": -0.135
-        },
-        {
-            "headline": "China steps up defence of stock market in bid to revive AI boom",
-            "summary": "ETFs commonly used by Beijing to support market see second-highest net inflows on record",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 13:14:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.912,
-            "signed_score": 0.879
-        },
-        {
-            "headline": "Solvay strikes rare earths deal that will reduce global dependence on China",
-            "summary": "Supply from Brazilian mine will bolster high-tech magnet production in Europe and US",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 13:05:30 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.952,
-            "signed_score": 0.938
+            "confidence": 0.727,
+            "signed_score": -0.709
         },
         {
             "headline": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
@@ -449,6 +479,16 @@
             "signed_score": -0.685
         },
         {
+            "headline": "Solvay strikes rare earths deal that will reduce global dependence on China",
+            "summary": "Supply from Brazilian mine will bolster high-tech magnet production in Europe and US",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/7479802b-7071-4ab7-a7a0-bbebc20010e3?syn-25a6b1a6=1",
+            "published": "Wed, 04 Nov 2026 13:05:30 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.952,
+            "signed_score": 0.938
+        },
+        {
             "headline": "October inflation in the Eurozone keeps ECB on course for another tightening",
             "summary": "Headline price pressures accelerate and core inflation remains well above the ECB’s 2% target",
             "section": "Global economy",
@@ -547,26 +587,6 @@
             "sentiment": "Neutral",
             "confidence": 0.767,
             "signed_score": 0.207
-        },
-        {
-            "headline": "Brussels sets tight deadline for ECB president nominations",
-            "summary": "Eurozone leaders need to submit nominees to succeed Christine Lagarde by Friday as contest for top central banking job heats up",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c5c430f5-e9b7-434b-851a-565cc43ccb94?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 10:14:00 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.535,
-            "signed_score": -0.408
-        },
-        {
-            "headline": "German car parts giant Schaeffler axes 3,500 jobs",
-            "summary": "Automotive supplier to close four sites in Germany as crisis engulfing country’s flagship industry deepens",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/25ce0d50-e7b6-4b14-93bb-ee5da6f747c0?syn-25a6b1a6=1",
-            "published": "Tue, 03 Nov 2026 09:37:42 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.963,
-            "signed_score": -0.952
         }
     ]
 }
