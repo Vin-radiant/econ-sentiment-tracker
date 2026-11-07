@@ -5,88 +5,78 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-06T19:27:29.330757+00:00",
-    "headline_count": 53,
+    "fetched_at": "2026-11-07T06:02:24.372747+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Trump to replace Susie Wiles with Stephen Miller as chief of staff",
-            "summary": "Dramatic move comes three days after president’s Republican Party suffered bruising defeat in midterm elections",
+            "headline": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+            "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 18:59:24 GMT",
+            "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 02:33:26 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.554,
-            "signed_score": -0.246
+            "confidence": 0.664,
+            "signed_score": -0.263
         },
         {
             "headline": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
             "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
             "section": "Top stories",
             "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 17:20:21 GMT",
+            "published": "Fri, 06 Nov 2026 22:53:51 GMT",
             "sentiment": "Negative",
             "confidence": 0.768,
             "signed_score": -0.634
         },
         {
-            "headline": "James Talarico: the Democrats’ rising star who turned Texas blue",
-            "summary": "The 37-year-old senator-elect combined Christian faith and anti-corruption messaging to give the left its first statewide win in decades",
+            "headline": "Trump’s defeat heralds a US retreat",
+            "summary": "American retrenchment could change Middle East balance of power and signify opportunities for China",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 17:23:03 GMT",
+            "link": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:34 GMT",
             "sentiment": "Positive",
-            "confidence": 0.678,
-            "signed_score": 0.656
+            "confidence": 0.781,
+            "signed_score": 0.741
         },
         {
-            "headline": "My portfolio returns went from hero to zero (actually I’d take zero)",
-            "summary": "One stock in my Asia fund made me look clever for months. Not so much now",
+            "headline": "The mother of all American course corrections",
+            "summary": "US midterms are the latest confirmation that reports of the death of liberal democracy have been much exaggerated",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 13:34:06 GMT",
+            "link": "https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:33 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.634,
+            "signed_score": -0.593
+        },
+        {
+            "headline": "A bittersweet year for liberals",
+            "summary": "The lesson of 2026 is that people can forgive election subversion, Kremlin support — but not high prices",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.853,
-            "signed_score": 0.048
+            "confidence": 0.729,
+            "signed_score": 0.091
         },
         {
-            "headline": "Trump has taught the world that tariffs are useless",
-            "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
+            "headline": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+            "summary": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 11:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.658,
-            "signed_score": -0.62
+            "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:09:58 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.563,
+            "signed_score": -0.342
         },
         {
-            "headline": "US stocks rebound after tech rout",
-            "summary": "Tech-heavy Nasdaq 100 up more than 1 per cent in afternoon trading following day of turmoil",
+            "headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+            "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 17:59:54 GMT",
+            "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 21:00:09 GMT",
             "sentiment": "Positive",
-            "confidence": 0.94,
-            "signed_score": 0.907
-        },
-        {
-            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
-            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 18:45:36 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.936,
-            "signed_score": -0.884
-        },
-        {
-            "headline": "Bomb threats target media and flights as email warns ‘this is only the beginning’",
-            "summary": "Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 18:56:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.798,
-            "signed_score": -0.775
+            "confidence": 0.697,
+            "signed_score": 0.682
         },
         {
             "headline": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
@@ -99,14 +89,54 @@
             "signed_score": 0.44
         },
         {
-            "headline": "Alas, poor Elon",
-            "summary": "Victorious Democrats in effect ran against Musk in Texas",
+            "headline": "European security agencies probe whether bomb hoaxes started in Russia",
+            "summary": "A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a0de0506-d647-4a8c-a94a-751f56925ed0?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 14:00:05 GMT",
+            "link": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:33 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.811,
-            "signed_score": 0.032
+            "confidence": 0.51,
+            "signed_score": -0.445
+        },
+        {
+            "headline": "Russia ships metal via the Arctic to evade Ukrainian strikes",
+            "summary": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.501,
+            "signed_score": 0.418
+        },
+        {
+            "headline": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+            "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:00:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.933,
+            "signed_score": -0.88
+        },
+        {
+            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
+            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:16:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.936,
+            "signed_score": -0.884
+        },
+        {
+            "headline": "US stocks recover after tech rout",
+            "summary": "Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:22:05 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.862,
+            "signed_score": 0.769
         },
         {
             "headline": "A new phase in the tech market correction",
@@ -187,6 +217,16 @@
             "sentiment": "Neutral",
             "confidence": 0.49,
             "signed_score": 0.245
+        },
+        {
+            "headline": "My portfolio returns went from hero to zero (actually I’d take zero)",
+            "summary": "One stock in my Asia fund made me look clever for months. Not so much now",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 13:34:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.853,
+            "signed_score": 0.048
         },
         {
             "headline": "Taking stock of the flight-to-quality",
@@ -299,26 +339,6 @@
             "signed_score": -0.906
         },
         {
-            "headline": "Blackstone doubles lock-up periods for some Asian investors",
-            "summary": "BXPE to impose penalty on clients in Singapore and Hong Kong for withdrawals within first four years",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/97215edc-736f-45f3-84ee-c1ae0c89493a?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 00:01:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.912,
-            "signed_score": -0.901
-        },
-        {
-            "headline": "Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges",
-            "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 22:41:52 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.957
-        },
-        {
             "headline": "Strong wage growth supports Bank of Japan’s December move higher",
             "summary": "Nominal wage growth in September moved to a three-decade high",
             "section": "Global economy",
@@ -337,6 +357,16 @@
             "sentiment": "Negative",
             "confidence": 0.639,
             "signed_score": -0.596
+        },
+        {
+            "headline": "Trump has taught the world that tariffs are useless",
+            "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 11:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.658,
+            "signed_score": -0.62
         },
         {
             "headline": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
