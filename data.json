@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-07T13:06:45.086375+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-07T21:54:39.960943+00:00",
+    "headline_count": 54,
     "headlines": [
         {
             "headline": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
             "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
             "section": "Top stories",
             "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 02:33:26 GMT",
+            "published": "Sat, 07 Nov 2026 21:41:05 GMT",
             "sentiment": "Neutral",
             "confidence": 0.664,
             "signed_score": -0.263
         },
         {
-            "headline": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
-            "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
+            "headline": "Trump asks UFC boss Dana White to be new press secretary",
+            "summary": "US president signals combative approach in wake of midterms drubbing of his party",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:53:51 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.768,
-            "signed_score": -0.634
+            "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 20:33:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.467,
+            "signed_score": -0.279
         },
         {
             "headline": "Trump’s defeat heralds a US retreat",
@@ -49,14 +49,34 @@
             "signed_score": -0.593
         },
         {
-            "headline": "A bittersweet year for liberals",
-            "summary": "The lesson of 2026 is that people can forgive election subversion, Kremlin support — but not high prices",
+            "headline": "Gillian Tett: Why does America hate AI?",
+            "summary": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
+            "link": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:13 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.729,
-            "signed_score": 0.091
+            "confidence": 0.622,
+            "signed_score": 0.185
+        },
+        {
+            "headline": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+            "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 21:03:47 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.857,
+            "signed_score": 0.005
+        },
+        {
+            "headline": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+            "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 16:43:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.976,
+            "signed_score": -0.967
         },
         {
             "headline": "How Wall Street’s all-in bet on AI blew up",
@@ -69,64 +89,14 @@
             "signed_score": -0.893
         },
         {
-            "headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-            "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
+            "headline": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
+            "summary": "Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 21:00:09 GMT",
+            "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 17:42:41 GMT",
             "sentiment": "Positive",
-            "confidence": 0.697,
-            "signed_score": 0.682
-        },
-        {
-            "headline": "Mississippi election marks political earthquake in the Deep South",
-            "summary": "Democrat Scott Colom could become the first Black man from the state to reach the US Senate in 150 years",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.728,
-            "signed_score": 0.197
-        },
-        {
-            "headline": "James Talarico: the Democrats’ rising star who turned Texas blue",
-            "summary": "The 37-year-old senator-elect combined Christian faith and anti-corruption messaging to give the left its first statewide win in decades",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 17:23:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.678,
-            "signed_score": 0.656
-        },
-        {
-            "headline": "What will a Democratic Congress mean for Ukraine?",
-            "summary": "With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 12:00:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.636,
-            "signed_score": 0.333
-        },
-        {
-            "headline": "Trump taps immigration hardliner Stephen Miller as chief of staff",
-            "summary": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:09:58 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.563,
-            "signed_score": -0.342
-        },
-        {
-            "headline": "European security agencies probe whether bomb hoaxes started in Russia",
-            "summary": "A working hypothesis is that the co-ordinated threats were produced by pro-Kremlin activists or hacking groups",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 05:00:33 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.51,
-            "signed_score": -0.445
+            "confidence": 0.596,
+            "signed_score": 0.542
         },
         {
             "headline": "Data centres rebuked",
@@ -147,6 +117,16 @@
             "sentiment": "Neutral",
             "confidence": 0.501,
             "signed_score": 0.418
+        },
+        {
+            "headline": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+            "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:53:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.768,
+            "signed_score": -0.634
         },
         {
             "headline": "US stocks recover after tech rout",
@@ -177,6 +157,16 @@
             "sentiment": "Negative",
             "confidence": 0.933,
             "signed_score": -0.88
+        },
+        {
+            "headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+            "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 21:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.697,
+            "signed_score": 0.682
         },
         {
             "headline": "A new phase in the tech market correction",
@@ -337,16 +327,6 @@
             "sentiment": "Positive",
             "confidence": 0.415,
             "signed_score": 0.163
-        },
-        {
-            "headline": "The sell-off gets deep",
-            "summary": "But not broad, yet",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 06:30:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.773,
-            "signed_score": -0.1
         },
         {
             "headline": "Strong wage growth supports Bank of Japan’s December move higher",
