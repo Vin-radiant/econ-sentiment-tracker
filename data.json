@@ -5,7 +5,7 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-07T06:02:24.372747+00:00",
+    "fetched_at": "2026-11-07T13:06:45.086375+00:00",
     "headline_count": 56,
     "headlines": [
         {
@@ -59,14 +59,14 @@
             "signed_score": 0.091
         },
         {
-            "headline": "Trump taps immigration hardliner Stephen Miller as chief of staff",
-            "summary": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
+            "headline": "How Wall Street’s all-in bet on AI blew up",
+            "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:09:58 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.563,
-            "signed_score": -0.342
+            "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:31 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.913,
+            "signed_score": -0.893
         },
         {
             "headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
@@ -79,14 +79,44 @@
             "signed_score": 0.682
         },
         {
-            "headline": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-            "summary": "XN amassed $5.3bn stake in AI lab through private-round investments",
+            "headline": "Mississippi election marks political earthquake in the Deep South",
+            "summary": "Democrat Scott Colom could become the first Black man from the state to reach the US Senate in 150 years",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 14:01:19 GMT",
+            "link": "https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.535,
-            "signed_score": 0.44
+            "confidence": 0.728,
+            "signed_score": 0.197
+        },
+        {
+            "headline": "James Talarico: the Democrats’ rising star who turned Texas blue",
+            "summary": "The 37-year-old senator-elect combined Christian faith and anti-corruption messaging to give the left its first statewide win in decades",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 17:23:03 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.678,
+            "signed_score": 0.656
+        },
+        {
+            "headline": "What will a Democratic Congress mean for Ukraine?",
+            "summary": "With Donald Trump retaining control of foreign policy, lawmakers will use legislative tools to try to support Kyiv",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 12:00:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.636,
+            "signed_score": 0.333
+        },
+        {
+            "headline": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+            "summary": "Decision to replace Susie Wiles comes days after Republican Party’s resounding midterm election defeat",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:09:58 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.563,
+            "signed_score": -0.342
         },
         {
             "headline": "European security agencies probe whether bomb hoaxes started in Russia",
@@ -99,34 +129,24 @@
             "signed_score": -0.445
         },
         {
+            "headline": "Data centres rebuked",
+            "summary": "Capex, meet the electorate",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
+            "published": "Sat, 07 Nov 2026 10:30:03 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.862,
+            "signed_score": -0.049
+        },
+        {
             "headline": "Russia ships metal via the Arctic to evade Ukrainian strikes",
             "summary": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
             "published": "Sat, 07 Nov 2026 05:00:22 GMT",
             "sentiment": "Neutral",
             "confidence": 0.501,
             "signed_score": 0.418
-        },
-        {
-            "headline": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-            "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:00:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.933,
-            "signed_score": -0.88
-        },
-        {
-            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
-            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:16:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.936,
-            "signed_score": -0.884
         },
         {
             "headline": "US stocks recover after tech rout",
@@ -137,6 +157,26 @@
             "sentiment": "Positive",
             "confidence": 0.862,
             "signed_score": 0.769
+        },
+        {
+            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
+            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:16:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.936,
+            "signed_score": -0.884
+        },
+        {
+            "headline": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
+            "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:00:56 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.933,
+            "signed_score": -0.88
         },
         {
             "headline": "A new phase in the tech market correction",
@@ -307,36 +347,6 @@
             "sentiment": "Neutral",
             "confidence": 0.773,
             "signed_score": -0.1
-        },
-        {
-            "headline": "Ark Invest wants to bring some ‘disruptive innovation’ to interval funds",
-            "summary": "Tokenised, exchange-traded interval funds with venture capital exposure and hedge fund-level fees. What could go wrong?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
-            "published": "Fri, 06 Nov 2026 06:00:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.564,
-            "signed_score": -0.387
-        },
-        {
-            "headline": "The AI gamble strains for more cash",
-            "summary": "But true believers in the technology are still angling to spend tens or hundreds of billions of dollars",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4e0dbca4-5917-483f-b524-8b8a2b4c54b2?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 05:00:14 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.884,
-            "signed_score": 0.08
-        },
-        {
-            "headline": "Why investors soured on the Democrats",
-            "summary": "Nasdaq plunges in chaotic trading as Democratic ‘blue wave’ upends AI bets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f49c25d4-d77c-415d-b25b-5aaf7aaaac4a?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 05:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.921,
-            "signed_score": -0.906
         },
         {
             "headline": "Strong wage growth supports Bank of Japan’s December move higher",
@@ -557,16 +567,6 @@
             "sentiment": "Positive",
             "confidence": 0.691,
             "signed_score": 0.683
-        },
-        {
-            "headline": "US, Russia and China discuss meeting between Trump, Putin and Xi",
-            "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 03:44:52 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": 0.073
         }
     ]
 }
