@@ -5,9 +5,19 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-08T06:06:16.523837+00:00",
-    "headline_count": 55,
+    "fetched_at": "2026-11-08T13:29:00.544972+00:00",
+    "headline_count": 58,
     "headlines": [
+        {
+            "headline": "Republican infighting mounts over corruption claims after midterms wipeout",
+            "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 12:51:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.891,
+            "signed_score": -0.867
+        },
         {
             "headline": "Crypto industry braces for reckoning over Trump ties",
             "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
@@ -49,16 +59,6 @@
             "signed_score": 0.032
         },
         {
-            "headline": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
-            "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 21:03:47 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.855,
-            "signed_score": 0.035
-        },
-        {
             "headline": "Apple saves $2.7bn in taxes by booking profits in Singapore",
             "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
             "section": "Top stories",
@@ -69,14 +69,64 @@
             "signed_score": 0.164
         },
         {
-            "headline": "Gunman kills six in Kraków shooting",
-            "summary": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident",
+            "headline": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+            "summary": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 22:00:14 GMT",
+            "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 11:00:09 GMT",
             "sentiment": "Negative",
-            "confidence": 0.871,
-            "signed_score": -0.849
+            "confidence": 0.648,
+            "signed_score": -0.437
+        },
+        {
+            "headline": "Argentina’s Milei dreams of data centres on the Patagonian steppe",
+            "summary": "Libertarian seeks to turn vast land and energy resources into the foundation of his ‘unregulated’ AI hub",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 05:00:10 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.882,
+            "signed_score": 0.094
+        },
+        {
+            "headline": "Russia races to build rival to Elon Musk’s Starlink",
+            "summary": "Moscow’s flagship space project would enable more deadly drone strikes deep inside Ukraine",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 05:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.552,
+            "signed_score": 0.424
+        },
+        {
+            "headline": "UK must ‘catch up’ with Europe in opposing Russian threat, says military chief",
+            "summary": "Sir Richard Knighton promises further action to counter Moscow’s submarines in the north Atlantic",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9d49deb8-33f6-4375-9216-a95dbb915576?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 05:00:19 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.909,
+            "signed_score": 0.884
+        },
+        {
+            "headline": "Trump asks UFC boss Dana White to be new press secretary",
+            "summary": "US president signals combative approach in wake of midterms drubbing of his party",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 01:23:57 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.467,
+            "signed_score": -0.279
+        },
+        {
+            "headline": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
+            "summary": "Tower hosting Saudi Arabia’s state-owned oil major hit by shrapnel in King Abdullah Financial District on Sunday",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 12:16:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.918,
+            "signed_score": -0.9
         },
         {
             "headline": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
@@ -309,24 +359,14 @@
             "signed_score": -0.96
         },
         {
-            "headline": "Japanese stocks post biggest one-day fall since ‘liberation day’ chaos",
-            "summary": "‘Complete carnage’ as Nikkei 225 and Topix indices drop nearly 6% in flight from AI trade",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 08:00:24 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.952
-        },
-        {
-            "headline": "Monzo explores fundraising at £7.5bn valuation as private equity talks stall",
-            "summary": "Lender had shifted focus to talks with buyout groups after failing to clinch a £10bn takeover by Brazilian fintech Nubank",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 07:44:30 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.415,
-            "signed_score": 0.163
+            "headline": "Data says the unsaid about British welfare politics",
+            "summary": "Both Labour and the Conservatives owe their majorities to claimants, just different kinds",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/62bc1938-d7ea-4be0-a5de-ec9735343009?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 12:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.901,
+            "signed_score": -0.014
         },
         {
             "headline": "‘Terrible backdrop’ looms over UN climate summit in Turkey",
@@ -547,16 +587,6 @@
             "sentiment": "Neutral",
             "confidence": 0.911,
             "signed_score": 0.014
-        },
-        {
-            "headline": "The views of the frontrunners to succeed Lagarde at the ECB",
-            "summary": "Monetary Policy Radar looks at the leading candidates’ voting history and views on the central bank’s broader toolkit",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/cd2c9cef-1ad6-4aa5-ab3f-bffdf7175593",
-            "published": "Wed, 04 Nov 2026 05:30:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.936,
-            "signed_score": 0.03
         }
     ]
 }
