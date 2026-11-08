@@ -5,28 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-08T13:29:00.544972+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-11-08T22:09:44.335200+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Republican infighting mounts over corruption claims after midterms wipeout",
-            "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+            "headline": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+            "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 12:51:25 GMT",
+            "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 21:08:33 GMT",
             "sentiment": "Negative",
-            "confidence": 0.891,
-            "signed_score": -0.867
-        },
-        {
-            "headline": "Crypto industry braces for reckoning over Trump ties",
-            "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 05:00:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.597,
-            "signed_score": -0.148
+            "confidence": 0.749,
+            "signed_score": -0.717
         },
         {
             "headline": "‘Radical left’ get the headlines but centrists dominate new US Congress",
@@ -39,14 +29,14 @@
             "signed_score": -0.059
         },
         {
-            "headline": "Is Europe getting serious about ending tech dependence?",
-            "summary": "Brussels is moving in the right direction but could push national governments further",
+            "headline": "A new economic agenda for America",
+            "summary": "Pro-growth policies on their own won’t address the concerns of voters worried about the cost of living",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 05:00:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.844,
-            "signed_score": 0.814
+            "link": "https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c",
+            "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.742,
+            "signed_score": -0.082
         },
         {
             "headline": "America is craving a return to community",
@@ -59,6 +49,26 @@
             "signed_score": 0.032
         },
         {
+            "headline": "Democrats vow to impeach Trump officials and investigate Republican donors",
+            "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 18:10:24 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.513,
+            "signed_score": -0.462
+        },
+        {
+            "headline": "Republican infighting mounts over corruption claims after midterms wipeout",
+            "summary": "Former health official’s allegations of corporate influence over Trump administration policy spark war of words",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 12:51:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.891,
+            "signed_score": -0.867
+        },
+        {
             "headline": "Apple saves $2.7bn in taxes by booking profits in Singapore",
             "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
             "section": "Top stories",
@@ -69,54 +79,34 @@
             "signed_score": 0.164
         },
         {
-            "headline": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
-            "summary": "AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges",
+            "headline": "Crypto industry braces for reckoning over Trump ties",
+            "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 11:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.648,
-            "signed_score": -0.437
-        },
-        {
-            "headline": "Argentina’s Milei dreams of data centres on the Patagonian steppe",
-            "summary": "Libertarian seeks to turn vast land and energy resources into the foundation of his ‘unregulated’ AI hub",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 05:00:10 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.882,
-            "signed_score": 0.094
-        },
-        {
-            "headline": "Russia races to build rival to Elon Musk’s Starlink",
-            "summary": "Moscow’s flagship space project would enable more deadly drone strikes deep inside Ukraine",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 05:00:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.552,
-            "signed_score": 0.424
-        },
-        {
-            "headline": "UK must ‘catch up’ with Europe in opposing Russian threat, says military chief",
-            "summary": "Sir Richard Knighton promises further action to counter Moscow’s submarines in the north Atlantic",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9d49deb8-33f6-4375-9216-a95dbb915576?syn-25a6b1a6=1",
+            "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
             "published": "Sun, 08 Nov 2026 05:00:19 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.909,
-            "signed_score": 0.884
+            "sentiment": "Neutral",
+            "confidence": 0.597,
+            "signed_score": -0.148
         },
         {
-            "headline": "Trump asks UFC boss Dana White to be new press secretary",
-            "summary": "US president signals combative approach in wake of midterms drubbing of his party",
+            "headline": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+            "summary": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 01:23:57 GMT",
+            "link": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.918,
+            "signed_score": -0.908
+        },
+        {
+            "headline": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
+            "summary": "BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 14:32:40 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.467,
-            "signed_score": -0.279
+            "confidence": 0.877,
+            "signed_score": 0.091
         },
         {
             "headline": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
@@ -349,14 +339,24 @@
             "signed_score": -0.919
         },
         {
-            "headline": "DraftKings slashes earnings guidance as it bets on new prediction-market business",
-            "summary": "Sports-betting company spends big while trying to catch up with Kalshi and Polymarket",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5640c74d-24e5-465b-8119-a2595dac7748?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 10:46:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.968,
-            "signed_score": -0.96
+            "headline": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
+            "summary": "Trilateral peace talks in Abu Dhabi, new Knesset in Jerusalem, COP31 opens in Turkey",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4e97fc54-3886-4300-a824-0a592beca5f6?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 18:15:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.776,
+            "signed_score": 0.157
+        },
+        {
+            "headline": "Will US inflation data ease affordability concerns?",
+            "summary": "Market Questions is the FT’s guide to the week ahead",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/3d46dfb4-eef8-4ea0-9264-282bd269647e?syn-25a6b1a6=1",
+            "published": "Sun, 08 Nov 2026 16:20:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.917,
+            "signed_score": 0.035
         },
         {
             "headline": "Data says the unsaid about British welfare politics",
@@ -567,26 +567,6 @@
             "sentiment": "Neutral",
             "confidence": 0.932,
             "signed_score": 0.016
-        },
-        {
-            "headline": "Eurozone inflation rises to 4% in October",
-            "summary": "Consumer prices accelerate at fastest pace in three years",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/23cedd6f-e550-4869-aee1-e0ec10ae7e51?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 10:25:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.927,
-            "signed_score": 0.892
-        },
-        {
-            "headline": "How demographics can distort economic narratives — redux",
-            "summary": "Per capita perspectives",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/6cf35b70-480b-4316-b7fd-22cdabeb5a05?syn-25a6b1a6=1",
-            "published": "Wed, 04 Nov 2026 06:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.911,
-            "signed_score": 0.014
         }
     ]
 }
