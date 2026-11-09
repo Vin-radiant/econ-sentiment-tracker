@@ -5,98 +5,258 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-09T06:36:55.313120+00:00",
-    "headline_count": 52,
+    "fetched_at": "2026-11-09T22:25:07.729198+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-            "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees",
+            "headline": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+            "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 01:08:15 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.788,
-            "signed_score": -0.759
-        },
-        {
-            "headline": "Russian military turns to deepfake videos to claim battlefield success",
-            "summary": "Army units and pro-war military bloggers are posting videos researchers say have been manipulated",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7f36031b-ea90-4a3a-a570-a6c6ff96e45a?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:25 GMT",
+            "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 15:35:45 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.824,
-            "signed_score": -0.114
+            "confidence": 0.826,
+            "signed_score": -0.039
         },
         {
-            "headline": "What Democrats must do now",
-            "summary": "To keep power and make real change, they need to tell the American people painful truths",
+            "headline": "How the world became too reliant on Jensen Huang",
+            "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:25 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": -0.026
-        },
-        {
-            "headline": "Tech’s teetering towers",
-            "summary": "The AI race is defined by vertical integration. Will it withstand a storm?",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:25 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.912,
-            "signed_score": 0.034
-        },
-        {
-            "headline": "Democrat triumph offers China ‘window to catch up’ on AI",
-            "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:48 GMT",
+            "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 17:52:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.89,
-            "signed_score": -0.848
+            "confidence": 0.88,
+            "signed_score": -0.863
         },
         {
-            "headline": "China’s producer prices hit four-year high",
-            "summary": "Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs",
+            "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+            "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:09:46 GMT",
+            "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 21:24:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.937
+            "confidence": 0.916,
+            "signed_score": -0.899
         },
         {
-            "headline": "Asian stocks rebound after AI rout",
-            "summary": "Declines last week had pushed many indices into bear market territory",
+            "headline": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
+            "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 04:54:20 GMT",
+            "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 17:02:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.88,
+            "signed_score": -0.052
+        },
+        {
+            "headline": "Trump, Putin and the short war illusion",
+            "summary": "The American and Russian leaders have both launched failed wars. Will Xi Jinping learn the right lesson?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 12:24:59 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.826,
+            "signed_score": 0.125
+        },
+        {
+            "headline": "Democrats need to use the power of the purse",
+            "summary": "Through using their strengths on spending, they can stymie and reverse much of Trump’s agenda",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
+            "published": "Mon, 09 Nov 2026 16:17:07 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.783,
+            "signed_score": 0.019
+        },
+        {
+            "headline": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
+            "summary": "Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 19:43:53 GMT",
             "sentiment": "Negative",
             "confidence": 0.96,
-            "signed_score": -0.933
+            "signed_score": -0.948
         },
         {
-            "headline": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
-            "summary": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+            "headline": "Russia rations petrol after new Ukrainian strikes on refineries",
+            "summary": "State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 02:54:00 GMT",
+            "link": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 16:37:52 GMT",
             "sentiment": "Negative",
-            "confidence": 0.891,
-            "signed_score": -0.847
+            "confidence": 0.658,
+            "signed_score": -0.641
+        },
+        {
+            "headline": "France accuses Iran of cyber attacks on supermarket refrigerators",
+            "summary": "Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 18:31:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.916,
+            "signed_score": -0.904
+        },
+        {
+            "headline": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
+            "summary": "Trump critic Thomas Massie cites abuse of power and flouting of US constitution",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 20:39:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.922,
+            "signed_score": -0.91
+        },
+        {
+            "headline": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
+            "summary": "Efforts to defuse tensions come amid fears that US president will resume hostilities",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 20:56:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.447,
+            "signed_score": -0.237
+        },
+        {
+            "headline": "US stocks rebound after AI rout",
+            "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 21:20:00 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.481,
+            "signed_score": -0.012
+        },
+        {
+            "headline": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
+            "summary": "Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 19:56:37 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.894,
+            "signed_score": -0.81
+        },
+        {
+            "headline": "Saudi Arabia’s vital East-West pipeline struck in attack",
+            "summary": "Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 18:19:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.895,
+            "signed_score": -0.874
+        },
+        {
+            "headline": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
+            "summary": "Stockpicker hopes his investment strategy is past its ‘nadir’ after bruising few years",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 16:21:23 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.885,
+            "signed_score": 0.842
+        },
+        {
+            "headline": "The UK Treasury needs to keep consumers front and centre",
+            "summary": "The Financial Services and Markets Bill sees the pendulum swinging purposefully towards deregulation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a27d67b9-7da0-438a-a9e7-c8567f123095?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 15:18:37 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.872,
+            "signed_score": 0.041
+        },
+        {
+            "headline": "Equity volatility is maybe a bit sort-of back",
+            "summary": "Sweat Vix and chill",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5c5926e2-bd32-47d8-954c-a0f02ca7b113",
+            "published": "Mon, 09 Nov 2026 15:07:46 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.852,
+            "signed_score": 0.018
+        },
+        {
+            "headline": "Are you into weird, esoteric financial history memorabilia?",
+            "summary": "Then you’re in luck",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5c0d0477-39cb-4d7b-80c7-f536ae7d90ee",
+            "published": "Mon, 09 Nov 2026 12:00:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.911,
+            "signed_score": -0.005
+        },
+        {
+            "headline": "Tech sell-off raises risks for SoftBank’s massive AI bet",
+            "summary": "Founder Masayoshi Son grapples with falling values of holdings ahead of earnings report",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 10:00:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.968,
+            "signed_score": -0.957
+        },
+        {
+            "headline": "Mark Blyth: ‘I call it the barbell from hell’",
+            "summary": "The political economist on AI",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/92bcf6f9-619c-4f24-82ea-425984d3ecaf?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 06:30:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.897,
+            "signed_score": -0.022
+        },
+        {
+            "headline": "Charting the rise and fall of currencies through the ages",
+            "summary": "Currencies are like human beings. Currencies have a life also.",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e5179ed6-6d2a-4eeb-a6e6-268964341763",
+            "published": "Mon, 09 Nov 2026 06:00:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.916,
+            "signed_score": -0.014
         },
         {
             "headline": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis",
             "summary": "Candidate says he would be ready to invent new crisis-fighting tools if required",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a?syn-25a6b1a6=1",
             "published": "Mon, 09 Nov 2026 05:00:34 GMT",
             "sentiment": "Positive",
             "confidence": 0.698,
             "signed_score": 0.682
+        },
+        {
+            "headline": "How the UK could borrow more without spooking gilt markets",
+            "summary": "Bringing Britain in line with peers would allow development corporations to do more without imperilling the government’s fiscal targets",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/87a7c28c-deed-457e-b247-cf9bb83d5947?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 05:00:25 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.888,
+            "signed_score": 0.876
+        },
+        {
+            "headline": "The great British sell-off",
+            "summary": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 05:00:08 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.677,
+            "signed_score": -0.649
+        },
+        {
+            "headline": "How BP and Shell fell out of love with the forecourt",
+            "summary": "Activist investors and upstream needs force oil majors to rethink portfolios",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 05:00:07 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.909,
+            "signed_score": -0.895
         },
         {
             "headline": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
@@ -189,174 +349,34 @@
             "signed_score": 0.769
         },
         {
-            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
-            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:16:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.936,
-            "signed_score": -0.884
-        },
-        {
-            "headline": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-            "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:00:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.933,
-            "signed_score": -0.88
-        },
-        {
-            "headline": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-            "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 21:00:09 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.697,
-            "signed_score": 0.682
-        },
-        {
-            "headline": "A new phase in the tech market correction",
-            "summary": "Investors are no longer pricing in accelerating AI growth",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 18:24:44 GMT",
+            "headline": "The Democrats’ partial return to tariff sanity",
+            "summary": "The new masters of Congress may be content with reversing Donald Trump’s duties on Canada",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a86de4ff-f3de-4156-8ffa-bde10783d8b1?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 12:31:02 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.753,
-            "signed_score": 0.023
+            "confidence": 0.866,
+            "signed_score": -0.004
         },
         {
-            "headline": "Anthropic lines up UK retail offer as AI stocks wobble",
-            "summary": "Analysts warn demand may be dented by the SpaceX slide",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 16:50:16 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.97,
-            "signed_score": -0.957
-        },
-        {
-            "headline": "‘De-extinction’ start-up Colossal accuses ex-staffer of stealing secrets",
-            "summary": "Lawsuit alleges scientist who worked on reviving dodo bird has taken confidential research to rival biotech ventures",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3a70a224-6d6c-4480-bd14-241fe3f6a987?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 16:47:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.841,
-            "signed_score": -0.826
-        },
-        {
-            "headline": "Copper prices fall on fears of AI backlash",
-            "summary": "Red metal has soared this year on forecasts of surging demand from AI data centres, now seen at risk after Democrat sweep in US midterms",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0a4e2a58-f83f-4445-8f32-892657cf8c27?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 16:31:51 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.586,
-            "signed_score": -0.193
-        },
-        {
-            "headline": "Is the AI stock bubble finally bursting?",
-            "summary": "Any reasonable person can see the hallmarks of an unsustainable party in markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 16:30:27 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.62,
-            "signed_score": -0.291
-        },
-        {
-            "headline": "UK retail investors buy the dip after bruising tech sell-off",
-            "summary": "Platforms report high demand for Nvidia, SpaceX, Micron, AMD and Alphabet stocks",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/64c72979-1f97-4d25-8dc9-7c47c6089191?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 14:28:49 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.937,
-            "signed_score": 0.905
-        },
-        {
-            "headline": "Arini’s credit troubles suggest roach-hunting season is back",
-            "summary": "The London-based fund ploughed billions into the riskiest parts of the junk bond market — and these have now soured",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/59a3bb17-5b09-4223-9077-413140b8a05b?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 14:23:53 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.953
-        },
-        {
-            "headline": "Interpath executive in talks over Grant Thornton switch after tensions",
-            "summary": "Will Wright, UK head of the former KPMG restructuring arm, has won work on several high-profile company insolvencies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/eecbeefc-930c-4492-962b-4b9ec6cebfe3?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 14:16:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.49,
-            "signed_score": 0.245
-        },
-        {
-            "headline": "My portfolio returns went from hero to zero (actually I’d take zero)",
-            "summary": "One stock in my Asia fund made me look clever for months. Not so much now",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 13:34:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.853,
-            "signed_score": 0.048
-        },
-        {
-            "headline": "Taking stock of the flight-to-quality",
-            "summary": "Safe assets?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/11ea58b9-008e-4e09-b384-44b3b7bf5d46",
-            "published": "Fri, 06 Nov 2026 13:01:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.911,
-            "signed_score": 0.039
-        },
-        {
-            "headline": "Spanish farmers told to keep olive oil off the market after bumper harvest",
-            "summary": "Growers instructed by authorities to keep 12% of produce from the market",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7dbff765-cf48-4f78-87dc-09a56aee27fe?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 12:46:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.731,
-            "signed_score": -0.712
-        },
-        {
-            "headline": "Swinging oil prices highlight majors’ high-quality problem",
-            "summary": "There are signs big groups have started investing in early stages of next growth cycle",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0f3065ce-239e-4afb-a865-a45ef3e48c42?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 12:42:33 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.785,
-            "signed_score": 0.738
-        },
-        {
-            "headline": "Telecoms entrepreneur behind ‘breathtaking fraud’ hit with freezing orders",
-            "summary": "Indian and Singaporean courts freeze assets of businessman who allegedly orchestrated private credit fraud before fleeing US",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/aa99a49b-d6fa-473e-9e8a-7d7906ab4f79?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 12:23:58 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.919
-        },
-        {
-            "headline": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy",
-            "summary": "Also in today’s newsletter: China’s AI opening and aviation green fees warning",
+            "headline": "FirstFT: Nvidia shares fall as it probes alleged Chinese spy scandal",
+            "summary": "Also in today’s newsletter: Trump concedes he was ‘too tough’ on immigration and costs rise for Chinese factory owners",
             "section": "Global economy",
             "link": "https://www.ft.com/content/494e9731-d195-40e0-9ad4-cf7811037c05?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:31:35 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.821,
-            "signed_score": -0.106
+            "published": "Mon, 09 Nov 2026 10:51:20 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.96,
+            "signed_score": -0.95
+        },
+        {
+            "headline": "Democrat triumph offers China ‘window to catch up’ on AI",
+            "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 05:00:48 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.89,
+            "signed_score": -0.848
         },
         {
             "headline": "Transcript of an interview with Klaas Knot",
@@ -369,14 +389,14 @@
             "signed_score": 0.016
         },
         {
-            "headline": "UK faces China expertise crunch after exodus of senior diplomats",
+            "headline": "UK diplomacy suffers exodus of China experts",
             "summary": "Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval",
             "section": "Global economy",
             "link": "https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1",
             "published": "Mon, 09 Nov 2026 05:00:34 GMT",
             "sentiment": "Negative",
-            "confidence": 0.971,
-            "signed_score": -0.962
+            "confidence": 0.97,
+            "signed_score": -0.961
         },
         {
             "headline": "What markets want from the Democrats",
@@ -387,6 +407,16 @@
             "sentiment": "Neutral",
             "confidence": 0.772,
             "signed_score": 0.207
+        },
+        {
+            "headline": "What Democrats must do now",
+            "summary": "To keep power and make real change, they need to tell the American people painful truths",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 05:00:25 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.877,
+            "signed_score": -0.026
         },
         {
             "headline": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
@@ -437,6 +467,16 @@
             "sentiment": "Positive",
             "confidence": 0.781,
             "signed_score": 0.741
+        },
+        {
+            "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
+            "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:16:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.936,
+            "signed_score": -0.884
         },
         {
             "headline": "Strong wage growth supports Bank of Japan’s December move higher",
@@ -527,6 +567,16 @@
             "sentiment": "Negative",
             "confidence": 0.838,
             "signed_score": -0.815
+        },
+        {
+            "headline": "How to think about wealth taxation",
+            "summary": "Regardless of California’s Proposition 40, calls for better taxation of capital will not go away. Answer these questions first",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
+            "published": "Thu, 05 Nov 2026 11:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.902,
+            "signed_score": 0.026
         }
     ]
 }
