@@ -5,118 +5,158 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-10T07:23:10.187062+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-11-10T19:46:41.461606+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
-            "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+            "headline": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
+            "summary": "Two-year government bond yields soar most since 2024 as October consumer price growth tops forecasts",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 00:35:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.943
-        },
-        {
-            "headline": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
-            "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 17:02:52 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.88,
-            "signed_score": -0.052
-        },
-        {
-            "headline": "How the world became too reliant on Jensen Huang",
-            "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 17:52:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.88,
-            "signed_score": -0.863
-        },
-        {
-            "headline": "The last of the Botíns",
-            "summary": "The Santander chief says she will be the last in her family to run the bank",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:00:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.917,
-            "signed_score": -0.044
-        },
-        {
-            "headline": "Japan can tell the world what really matters when prepping",
-            "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 00:47:30 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.898,
-            "signed_score": 0.066
-        },
-        {
-            "headline": "No, Brits have not fallen out of love with work",
-            "summary": "There is a more straightforward reason for employees’ decreased willingness to go above and beyond — not enough money and control",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9be099de-58b1-471c-aa05-92622585ffac?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:00:29 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.862,
-            "signed_score": -0.839
-        },
-        {
-            "headline": "Investors pile into defensive stocks amid fears AI bull market may be over",
-            "summary": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:00:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.689,
-            "signed_score": -0.413
-        },
-        {
-            "headline": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
-            "summary": "Trump critic Thomas Massie cites abuse of power and flouting of the US constitution",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 22:15:51 GMT",
+            "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 18:53:50 GMT",
             "sentiment": "Negative",
             "confidence": 0.916,
-            "signed_score": -0.904
+            "signed_score": -0.856
         },
         {
-            "headline": "Trump hails ‘positive momentum’ towards ending Iran war",
-            "summary": "Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister",
+            "headline": "Top Fed official considers largest rate rise since 2022",
+            "summary": "Governor Christopher Waller says policymakers should weigh a 50bp move if US inflation fails to slow",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 22:42:58 GMT",
+            "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 16:03:45 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.495,
+            "signed_score": -0.129
+        },
+        {
+            "headline": "Alice Huang’s tangled web of connections",
+            "summary": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 16:17:20 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.715,
+            "signed_score": -0.207
+        },
+        {
+            "headline": "Trump is taking the Alamo route",
+            "summary": "Accepting defeat with grace would go against a lifetime of going for broke",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/66e74f23-e61e-43de-aaf6-c2b61648da50?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 11:47:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.868,
+            "signed_score": 0.005
+        },
+        {
+            "headline": "VW pivots again as ‘In China, For China’ runs out of road",
+            "summary": "The German group is changing its strategy in the world’s largest car market as it struggles with a sharp downturn",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.653,
+            "signed_score": -0.451
+        },
+        {
+            "headline": "Defiant Hegseth defends Iran war as he faces impeachment vote",
+            "summary": "US defence secretary battles to save his job following Republicans’ defeat in midterm elections",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 17:28:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.764,
+            "signed_score": -0.693
+        },
+        {
+            "headline": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+            "summary": "Falling crude prices have supported recovery in global stocks from last week’s sell-off",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 17:05:30 GMT",
             "sentiment": "Positive",
-            "confidence": 0.876,
-            "signed_score": 0.858
+            "confidence": 0.839,
+            "signed_score": 0.704
         },
         {
-            "headline": "China’s trade surplus exceeds $1tn for first 10 months of year",
-            "summary": "Balance is on course for annual record that would intensify tensions with trade partners",
+            "headline": "Anthropic targets valuation of up to $1.4tn in IPO",
+            "summary": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:03:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.954,
-            "signed_score": -0.935
+            "link": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 13:07:48 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.634,
+            "signed_score": 0.626
         },
         {
-            "headline": "Talks aimed at ending Russia’s war in Ukraine to resume",
-            "summary": "But expectations of a breakthrough are low because Putin is showing no sign of wanting to halt the conflict",
+            "headline": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
+            "summary": "Wall Street bank projects AI start-up will increase sales by 130 times — and be cash flow positive — by end of the decade",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:00:29 GMT",
+            "link": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 14:52:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.938,
+            "signed_score": 0.928
+        },
+        {
+            "headline": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+            "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 19:24:52 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.797,
+            "signed_score": -0.107
+        },
+        {
+            "headline": "Weil partners approve plan to shut down law firm",
+            "summary": "Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 19:11:51 GMT",
             "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.91
+            "confidence": 0.907,
+            "signed_score": -0.898
+        },
+        {
+            "headline": "UK fraudster who invented ‘too good to be true’ takeover bid given suspended sentence",
+            "summary": "Christopher Woolcott created a cast of characters in a bid to profit from a rise in Touchstone Exploration’s shares",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ebef64b5-103c-46ba-b3b0-546634f74323?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 18:13:21 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.771,
+            "signed_score": 0.033
+        },
+        {
+            "headline": "Africa’s richest man Aliko Dangote pulls London listing",
+            "summary": "Nigerian billionaire had planned to list $18.4bn group Dangote Cement in UK this year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4ca0550f-e524-440f-a31a-de7c38488db2?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 12:58:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.923,
+            "signed_score": 0.049
+        },
+        {
+            "headline": "Countries speed up on renewables as China’s blistering pace slows",
+            "summary": "Ten takeaways from the IEA’s latest report on the fossil fuel transition",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 12:00:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.775,
+            "signed_score": 0.13
+        },
+        {
+            "headline": "The index impact of SpaceX’s record-shattering IPO",
+            "summary": "Revisiting the Operation Overlord of IPO stuffing",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762",
+            "published": "Tue, 10 Nov 2026 10:11:22 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.936,
+            "signed_score": 0.016
         },
         {
             "headline": "Too big to fire",
@@ -127,6 +167,16 @@
             "sentiment": "Neutral",
             "confidence": 0.801,
             "signed_score": -0.133
+        },
+        {
+            "headline": "Investors pile into defensive stocks amid fears AI bull market may be over",
+            "summary": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.689,
+            "signed_score": -0.413
         },
         {
             "headline": "The fallout of Nvidia’s spying scandal",
@@ -289,84 +339,74 @@
             "signed_score": 0.876
         },
         {
-            "headline": "The great British sell-off",
-            "summary": "Companies worth half a trillion pounds have been snapped up by foreign buyers over the past decade",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.677,
-            "signed_score": -0.649
-        },
-        {
-            "headline": "How BP and Shell fell out of love with the forecourt",
-            "summary": "Activist investors and upstream needs force oil majors to rethink portfolios",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a4340e1e-a849-4e42-938e-dec328fa13d0?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 05:00:07 GMT",
-            "sentiment": "Negative",
+            "headline": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
+            "summary": "The FT is tracking changes to the cost of living that will affect American voters",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 19:15:11 GMT",
+            "sentiment": "Neutral",
             "confidence": 0.909,
-            "signed_score": -0.895
+            "signed_score": -0.04
         },
         {
-            "headline": "Private equity firm seeks to take control of LIV Golf from Saudi wealth fund",
-            "summary": "BC Partners looks to purchase Public Investment Fund’s bankruptcy loan in order to revive failed golf league assets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cbab2db2-3180-40c5-8fa6-af51adc74768?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 14:32:40 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.877,
-            "signed_score": 0.091
+            "headline": "BoE policymaker refuses to rule out back-to-back rate rises",
+            "summary": "Clare Lombardelli says high energy prices and resilience of UK growth mean there is a case for a further increase ‘in the near term’",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/212d4b87-9fce-4141-b21f-7e4a81c8074f?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 15:15:50 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.915,
+            "signed_score": 0.865
         },
         {
-            "headline": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
-            "summary": "Tower hosting Saudi Arabia’s state-owned oil major hit by shrapnel in King Abdullah Financial District on Sunday",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 12:16:02 GMT",
+            "headline": "Hot US inflation seals December rise and brings larger increase into play",
+            "summary": "Energy inflation largely dropped out of the headline rate in October and added to worries of inflation persistence",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/4f3334ce-3307-4b9a-bcf8-ba69ca6b8f80",
+            "published": "Tue, 10 Nov 2026 15:04:05 GMT",
             "sentiment": "Negative",
-            "confidence": 0.918,
-            "signed_score": -0.9
+            "confidence": 0.961,
+            "signed_score": -0.948
         },
         {
-            "headline": "Crypto industry braces for reckoning over Trump ties",
-            "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-            "published": "Sun, 08 Nov 2026 05:00:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.597,
-            "signed_score": -0.148
-        },
-        {
-            "headline": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-            "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 16:43:06 GMT",
+            "headline": "The UK’s inflation problem",
+            "summary": "The Bank of England should recognise its record of inflation control is slipping internationally",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fea10439-29c0-4a06-a99b-700118018f89?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 12:30:04 GMT",
             "sentiment": "Negative",
-            "confidence": 0.976,
-            "signed_score": -0.967
+            "confidence": 0.932,
+            "signed_score": -0.898
         },
         {
-            "headline": "Data centres rebuked",
-            "summary": "Capex, meet the electorate",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 10:30:03 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.862,
-            "signed_score": -0.049
-        },
-        {
-            "headline": "FirstFT: FBI is ‘looking into’ Nvidia’s Huang, Trump says",
-            "summary": "Also in today’s newsletter: UK-Russia ties and Iran war talks",
+            "headline": "FirstFT: Oil price falls below $90 a barrel",
+            "summary": "Also in today’s newsletter: FBI investigates Jensen Huang and China’s trade surplus surpasses $1tn",
             "section": "Global economy",
             "link": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:31:40 GMT",
+            "published": "Tue, 10 Nov 2026 10:45:27 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.763,
+            "signed_score": -0.719
+        },
+        {
+            "headline": "Bank of Japan rate debate switches to pace and timing of future hikes",
+            "summary": "Summary of opinions from the BoJ’s October meeting shows greater caution than the decision to hold rates suggests",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b98d07ff-5d89-4782-84c0-6e1e3cb56806",
+            "published": "Tue, 10 Nov 2026 10:13:22 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.928,
-            "signed_score": 0.026
+            "confidence": 0.825,
+            "signed_score": -0.061
+        },
+        {
+            "headline": "China’s trade surplus exceeds $1tn for first 10 months of year",
+            "summary": "Balance is on course for annual record that would intensify tensions with trade partners",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:03:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.954,
+            "signed_score": -0.935
         },
         {
             "headline": "The Democrats’ partial return to tariff sanity",
@@ -507,86 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.936,
             "signed_score": -0.884
-        },
-        {
-            "headline": "Strong wage growth supports Bank of Japan’s December move higher",
-            "summary": "Nominal wage growth in September moved to a three-decade high",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/fdfbe384-62c8-43b6-b3c6-4785fab99de7",
-            "published": "Fri, 06 Nov 2026 11:51:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.936,
-            "signed_score": 0.899
-        },
-        {
-            "headline": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
-            "summary": "Also in today’s newsletter: US tech barons face reckoning and Singapore Airlines’ new double-bed cabins",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 11:05:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.639,
-            "signed_score": -0.596
-        },
-        {
-            "headline": "Trump has taught the world that tariffs are useless",
-            "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 11:00:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.658,
-            "signed_score": -0.62
-        },
-        {
-            "headline": "BoE leaves door open to further rate rises amid fears of entrenched inflation",
-            "summary": "First interest rate increase for three years accompanied by hawkish message that marks a sharp change in tone for the institution",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/88476c6f-2e7c-4ec6-b92c-cd933b9aeb01?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 17:37:46 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.674,
-            "signed_score": 0.399
-        },
-        {
-            "headline": "BoE raises interest rates to 4% in bid to tame inflation",
-            "summary": "Governor Andrew Bailey signals further rate rise to come as projections show increasing price pressures",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/2153a8c5-976c-471f-9ca9-bf0a5da40b61?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 17:12:56 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.764,
-            "signed_score": 0.566
-        },
-        {
-            "headline": "Politicians, voters really don’t care about your broad statistics",
-            "summary": "Positive facts mean nothing if people are not personally experiencing solid real income growth",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/004c0408-c81f-4104-a514-ed307df8890d?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 13:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.833,
-            "signed_score": -0.042
-        },
-        {
-            "headline": "Inflation and interest rates tracker: see how your country compares",
-            "summary": "Explore the latest data through interactive charts",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 12:45:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.928,
-            "signed_score": 0.04
-        },
-        {
-            "headline": "Bank of England raises rates to 4 per cent alongside hawkish inflation forecasts",
-            "summary": "Growing fears of second-round inflation effects mean that Thursday’s rate increase is unlikely to be the last",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/47a5b871-8b0b-4b89-9d17-5b9735b0dbe1",
-            "published": "Thu, 05 Nov 2026 12:44:44 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.739,
-            "signed_score": -0.506
         }
     ]
 }
