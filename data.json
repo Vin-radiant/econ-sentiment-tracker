@@ -5,38 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-09T22:25:07.729198+00:00",
-    "headline_count": 57,
+    "fetched_at": "2026-11-10T07:23:10.187062+00:00",
+    "headline_count": 58,
     "headlines": [
         {
-            "headline": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
-            "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+            "headline": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+            "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 15:35:45 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.826,
-            "signed_score": -0.039
-        },
-        {
-            "headline": "How the world became too reliant on Jensen Huang",
-            "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 17:52:01 GMT",
+            "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 00:35:56 GMT",
             "sentiment": "Negative",
-            "confidence": 0.88,
-            "signed_score": -0.863
-        },
-        {
-            "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
-            "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 21:24:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.916,
-            "signed_score": -0.899
+            "confidence": 0.955,
+            "signed_score": -0.943
         },
         {
             "headline": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
@@ -49,74 +29,134 @@
             "signed_score": -0.052
         },
         {
-            "headline": "Trump, Putin and the short war illusion",
-            "summary": "The American and Russian leaders have both launched failed wars. Will Xi Jinping learn the right lesson?",
+            "headline": "How the world became too reliant on Jensen Huang",
+            "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 12:24:59 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.826,
-            "signed_score": 0.125
-        },
-        {
-            "headline": "Democrats need to use the power of the purse",
-            "summary": "Through using their strengths on spending, they can stymie and reverse much of Trump’s agenda",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/84b7d689-523f-45f8-9f91-897b1e952083",
-            "published": "Mon, 09 Nov 2026 16:17:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.783,
-            "signed_score": 0.019
-        },
-        {
-            "headline": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
-            "summary": "Moscow’s strikes on the bridges across the Dnipro river could sever power and transport links with the east of the country",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 19:43:53 GMT",
+            "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 17:52:01 GMT",
             "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.948
+            "confidence": 0.88,
+            "signed_score": -0.863
         },
         {
-            "headline": "Russia rations petrol after new Ukrainian strikes on refineries",
-            "summary": "State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways",
+            "headline": "The last of the Botíns",
+            "summary": "The Santander chief says she will be the last in her family to run the bank",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 16:37:52 GMT",
+            "link": "https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:11 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.917,
+            "signed_score": -0.044
+        },
+        {
+            "headline": "Japan can tell the world what really matters when prepping",
+            "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 00:47:30 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.898,
+            "signed_score": 0.066
+        },
+        {
+            "headline": "No, Brits have not fallen out of love with work",
+            "summary": "There is a more straightforward reason for employees’ decreased willingness to go above and beyond — not enough money and control",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9be099de-58b1-471c-aa05-92622585ffac?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:29 GMT",
             "sentiment": "Negative",
-            "confidence": 0.658,
-            "signed_score": -0.641
+            "confidence": 0.862,
+            "signed_score": -0.839
         },
         {
-            "headline": "France accuses Iran of cyber attacks on supermarket refrigerators",
-            "summary": "Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires",
+            "headline": "Investors pile into defensive stocks amid fears AI bull market may be over",
+            "summary": "Consumer staples and healthcare among sectors to perform strongly as investors fret over future tech earnings",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 18:31:21 GMT",
+            "link": "https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:11 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.689,
+            "signed_score": -0.413
+        },
+        {
+            "headline": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
+            "summary": "Trump critic Thomas Massie cites abuse of power and flouting of the US constitution",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 22:15:51 GMT",
             "sentiment": "Negative",
             "confidence": 0.916,
             "signed_score": -0.904
         },
         {
-            "headline": "Republican lawmaker moves to impeach US defence secretary Pete Hegseth",
-            "summary": "Trump critic Thomas Massie cites abuse of power and flouting of US constitution",
+            "headline": "Trump hails ‘positive momentum’ towards ending Iran war",
+            "summary": "Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 20:39:13 GMT",
+            "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 22:42:58 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.876,
+            "signed_score": 0.858
+        },
+        {
+            "headline": "China’s trade surplus exceeds $1tn for first 10 months of year",
+            "summary": "Balance is on course for annual record that would intensify tensions with trade partners",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:03:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.922,
+            "confidence": 0.954,
+            "signed_score": -0.935
+        },
+        {
+            "headline": "Talks aimed at ending Russia’s war in Ukraine to resume",
+            "summary": "But expectations of a breakthrough are low because Putin is showing no sign of wanting to halt the conflict",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:29 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.932,
             "signed_score": -0.91
         },
         {
-            "headline": "Arab and Muslim leaders in push to stop Trump from reigniting Iran war",
-            "summary": "Efforts to defuse tensions come amid fears that US president will resume hostilities",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 20:56:08 GMT",
+            "headline": "Too big to fire",
+            "summary": "Should Jensen Huang stay or go?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 07:10:16 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.801,
+            "signed_score": -0.133
+        },
+        {
+            "headline": "The fallout of Nvidia’s spying scandal",
+            "summary": "Chief executive’s affair sends shares falling",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7cb3bfb9-674d-4fde-a294-d5d31ce3ba71?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:00:00 GMT",
             "sentiment": "Negative",
-            "confidence": 0.447,
-            "signed_score": -0.237
+            "confidence": 0.945,
+            "signed_score": -0.933
+        },
+        {
+            "headline": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
+            "summary": "US oil major says it has signed a memorandum of understanding with Caracas",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 00:34:45 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.941,
+            "signed_score": 0.922
+        },
+        {
+            "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+            "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 21:24:32 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.916,
+            "signed_score": -0.899
         },
         {
             "headline": "US stocks rebound after AI rout",
@@ -147,6 +187,16 @@
             "sentiment": "Negative",
             "confidence": 0.895,
             "signed_score": -0.874
+        },
+        {
+            "headline": "Russia rations petrol after new Ukrainian strikes on refineries",
+            "summary": "State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
+            "published": "Mon, 09 Nov 2026 16:37:52 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.658,
+            "signed_score": -0.641
         },
         {
             "headline": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
@@ -309,44 +359,14 @@
             "signed_score": -0.049
         },
         {
-            "headline": "How Wall Street’s all-in bet on AI blew up",
-            "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 05:00:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.913,
-            "signed_score": -0.893
-        },
-        {
-            "headline": "Russia ships metal via the Arctic to evade Ukrainian strikes",
-            "summary": "Pig iron will be exported through the northern port of Murmansk for the first time in 30 years as Black Sea battles rage",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
-            "published": "Sat, 07 Nov 2026 05:00:22 GMT",
+            "headline": "FirstFT: FBI is ‘looking into’ Nvidia’s Huang, Trump says",
+            "summary": "Also in today’s newsletter: UK-Russia ties and Iran war talks",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6e4100c2-a69e-4f42-a99d-64c056d8592d?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 05:31:40 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.501,
-            "signed_score": 0.418
-        },
-        {
-            "headline": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
-            "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:53:51 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.768,
-            "signed_score": -0.634
-        },
-        {
-            "headline": "US stocks recover after tech rout",
-            "summary": "Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
-            "published": "Fri, 06 Nov 2026 22:22:05 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.862,
-            "signed_score": 0.769
+            "confidence": 0.928,
+            "signed_score": 0.026
         },
         {
             "headline": "The Democrats’ partial return to tariff sanity",
@@ -369,14 +389,14 @@
             "signed_score": -0.95
         },
         {
-            "headline": "Democrat triumph offers China ‘window to catch up’ on AI",
+            "headline": "Democrats’ triumph offers China ‘window to catch up’ on AI",
             "summary": "Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction",
             "section": "Global economy",
             "link": "https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1",
             "published": "Mon, 09 Nov 2026 05:00:48 GMT",
             "sentiment": "Negative",
             "confidence": 0.89,
-            "signed_score": -0.848
+            "signed_score": -0.843
         },
         {
             "headline": "Transcript of an interview with Klaas Knot",
@@ -469,6 +489,16 @@
             "signed_score": 0.741
         },
         {
+            "headline": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+            "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+            "published": "Fri, 06 Nov 2026 22:53:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.768,
+            "signed_score": -0.634
+        },
+        {
             "headline": "US economy outstrips forecasts to add 165,000 jobs in October",
             "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
             "section": "Global economy",
@@ -557,26 +587,6 @@
             "sentiment": "Negative",
             "confidence": 0.739,
             "signed_score": -0.506
-        },
-        {
-            "headline": "FirstFT: Democrats look to reshape America",
-            "summary": "Also in today’s newsletter: Oil plunges, and China blocks SoftBank’s acquisition of a robotics business",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e7e1345b-7d9a-4d14-a726-33cee30f189a?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 11:09:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.838,
-            "signed_score": -0.815
-        },
-        {
-            "headline": "How to think about wealth taxation",
-            "summary": "Regardless of California’s Proposition 40, calls for better taxation of capital will not go away. Answer these questions first",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/3d00ef8c-eec3-4afa-a35f-5ea333bf8bfe?syn-25a6b1a6=1",
-            "published": "Thu, 05 Nov 2026 11:00:08 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.902,
-            "signed_score": 0.026
         }
     ]
 }
