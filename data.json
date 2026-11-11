@@ -5,28 +5,38 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-11T06:28:46.934934+00:00",
-    "headline_count": 54,
+    "fetched_at": "2026-11-11T19:38:54.492782+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
-            "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+            "headline": "US tech stocks surge as AI trade revives",
+            "summary": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 00:27:38 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.95,
-            "signed_score": 0.932
+            "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 18:42:32 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.568,
+            "signed_score": -0.183
         },
         {
-            "headline": "Anthropic IPO valuation calculator: How much is it really worth?",
-            "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
+            "headline": "Single-stock perps look like pointiest horn of a bull market",
+            "summary": "Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
+            "link": "https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 15:57:13 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.878,
-            "signed_score": 0.104
+            "confidence": 0.884,
+            "signed_score": 0.069
+        },
+        {
+            "headline": "Anthropic’s IPO is too important to fail",
+            "summary": "Huge demand promises a blockbuster debut, but shadow insider sales and circular supply-chain backing may cause after-market indigestion",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
+            "published": "Wed, 11 Nov 2026 10:23:49 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.958,
+            "signed_score": -0.945
         },
         {
             "headline": "Inside Ken Griffin’s $5bn Miami takeover",
@@ -39,54 +49,34 @@
             "signed_score": 0.485
         },
         {
-            "headline": "How Singapore became a linchpin of China’s AI chip trade",
-            "summary": "A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington’s grip on AI technology",
+            "headline": "The Italians living atop one of the world’s ‘most dangerous volcanoes’",
+            "summary": "Earthquakes serve as reminder of risks of living near the ancient caldera called Campi Flegrei, north of Naples",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/52b5f9a8-346f-4dae-8a16-14d5d9eb1244?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:00:22 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.536,
-            "signed_score": -0.49
+            "link": "https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 09:52:19 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.639,
+            "signed_score": -0.253
         },
         {
-            "headline": "Ukraine’s freedom must be defended",
+            "headline": "Democracy’s future is at stake in Ukraine",
             "summary": "Elections show the importance of victory in the conflict between despotism and democracy",
             "section": "Top stories",
             "link": "https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1",
             "published": "Wed, 11 Nov 2026 05:00:31 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.749,
-            "signed_score": 0.208
+            "confidence": 0.759,
+            "signed_score": 0.197
         },
         {
-            "headline": "France pressures Germany over nuclear risks of long-range missiles",
-            "summary": "Paris asks Berlin to clarify when it would use ‘deep precision strikes’ against Russia to avoid nuclear retaliation",
+            "headline": "RAF Fairford incident partly directed from New York jail, US claims",
+            "summary": "US indictment links alleged plot to attack British air base to wider campaign across Europe targeting Jewish sites",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7f61b561-bcbd-4900-afd7-553ff76d6217?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.592,
-            "signed_score": -0.554
-        },
-        {
-            "headline": "France and Belgium fall foul of Eurozone bond market’s new divide",
-            "summary": "Global sell-off during Iran war has prompted investors to zero in on new group of Eurozone countries facing debt challenges",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/5263808c-e8ac-44b8-baa3-af7e8c788684?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.954,
-            "signed_score": -0.939
-        },
-        {
-            "headline": "House blocks impeachment of US defence secretary Pete Hegseth",
-            "summary": "Congressional effort to unseat incumbent over conduct of Iran war fails at first hurdle",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 00:01:42 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.871,
-            "signed_score": -0.848
+            "link": "https://www.ft.com/content/687acbbb-6296-4030-a1a0-c07936a6c9db?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 14:14:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.564,
+            "signed_score": -0.136
         },
         {
             "headline": "Senior US soldier arrested in UK on suspicion of spying for Russia",
@@ -99,24 +89,94 @@
             "signed_score": -0.286
         },
         {
-            "headline": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
-            "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+            "headline": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
+            "summary": "Incidents appear to be latest co-ordinated attack aimed at disrupting life in Europe",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 20:05:21 GMT",
+            "link": "https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 15:39:44 GMT",
             "sentiment": "Negative",
-            "confidence": 0.889,
-            "signed_score": -0.879
+            "confidence": 0.812,
+            "signed_score": -0.797
         },
         {
-            "headline": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
-            "summary": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+            "headline": "Ukraine peace talks end with prisoner swap but no breakthrough",
+            "summary": "US-Russia-Ukraine talks took place in Abu Dhabi after a roughly 9-month hiatus owing to war in Iran",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 19:24:52 GMT",
+            "link": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 14:30:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.631,
+            "signed_score": -0.392
+        },
+        {
+            "headline": "Nato should take the ‘offensive’ against Russia, says Sedwill",
+            "summary": "Former UK national security adviser makes reference to all domains, including land, sea, air, cyber and space",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 17:28:09 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.797,
-            "signed_score": -0.107
+            "confidence": 0.921,
+            "signed_score": 0.022
+        },
+        {
+            "headline": "Spain roiled by first general strike in 14 years",
+            "summary": "Unions stage action over soaring housing costs and low wages ahead of November 29 snap election",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 10:40:36 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.957,
+            "signed_score": -0.945
+        },
+        {
+            "headline": "CoreWeave wants to sit with the credit-market grown-ups",
+            "summary": "The cloud computing group has benefited from a hitherto forgiving junk bond market",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 18:57:00 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.669,
+            "signed_score": 0.658
+        },
+        {
+            "headline": "Saudi oil production rebounds close to prewar levels",
+            "summary": "Output higher than average before Iran conflict as kingdom keeps exports flowing despite attacks on shipping and energy infrastructure",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 13:29:33 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.918,
+            "signed_score": 0.855
+        },
+        {
+            "headline": "Turkey’s chief banking regulator offers to resign over $20bn fraud scandal",
+            "summary": "Şahap Kavcıoğlu, who previously ran the central bank, tendered his resignation ‘to prevent any further damage’ to the regulator",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f22ce1c1-8de8-420a-b9f6-4dff0fc1f732?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 13:09:51 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.824,
+            "signed_score": -0.795
+        },
+        {
+            "headline": "The problem with the COP31 electrification goal",
+            "summary": "Initiative is quiet on the need to shift from fossil-fired generation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 12:00:05 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.839,
+            "signed_score": -0.034
+        },
+        {
+            "headline": "Oil traders give peace a chance (but should they?)",
+            "summary": "Plus Chris Waller, inflation hawk",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/aa40cb43-4d0f-4f3c-a7aa-fbc2606f5719?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 06:30:01 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.882,
+            "signed_score": 0.075
         },
         {
             "headline": "The barriers to creating a European SpaceX",
@@ -129,6 +189,16 @@
             "signed_score": 0.728
         },
         {
+            "headline": "How much is Anthropic really worth? Use our calculator",
+            "summary": "As the Claude maker prepares to make its Wall Street debut, the FT’s interactive valuation calculator can help readers decide whether the AI giant is worth $500bn or $4tn",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.887,
+            "signed_score": 0.095
+        },
+        {
             "headline": "The end of cheap money is coming for corporate America",
             "summary": "Borrowing costs are rising. That’s hurting some companies more than others",
             "section": "Markets",
@@ -139,6 +209,16 @@
             "signed_score": -0.949
         },
         {
+            "headline": "France and Belgium fall foul of Eurozone bond market’s new divide",
+            "summary": "Global sell-off during Iran war has prompted investors to zero in on new group of Eurozone countries facing debt challenges",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/5263808c-e8ac-44b8-baa3-af7e8c788684?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.954,
+            "signed_score": -0.939
+        },
+        {
             "headline": "Japanese savers go on record government bond spree",
             "summary": "Issuance of ‘retail’ JGBs doubles month-on-month as returns reach 2.39%",
             "section": "Markets",
@@ -147,6 +227,16 @@
             "sentiment": "Positive",
             "confidence": 0.822,
             "signed_score": 0.684
+        },
+        {
+            "headline": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+            "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+            "published": "Wed, 11 Nov 2026 00:27:38 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.95,
+            "signed_score": 0.932
         },
         {
             "headline": "Nvidia shares down as Huang affair scandal deepens",
@@ -259,94 +349,14 @@
             "signed_score": -0.413
         },
         {
-            "headline": "The fallout of Nvidia’s spying scandal",
-            "summary": "Chief executive’s affair sends shares falling",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7cb3bfb9-674d-4fde-a294-d5d31ce3ba71?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 05:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.945,
-            "signed_score": -0.933
-        },
-        {
-            "headline": "ExxonMobil explores return to Venezuela after calling nation ‘uninvestable’",
-            "summary": "US oil major says it has signed a memorandum of understanding with Caracas",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/cd3b2969-9c58-404a-a80a-c823754899ef?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 00:34:45 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.941,
-            "signed_score": 0.922
-        },
-        {
-            "headline": "Nvidia shares fall as it probes alleged Chinese spy scandal",
-            "summary": "Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 21:24:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.916,
-            "signed_score": -0.899
-        },
-        {
-            "headline": "US stocks rebound after AI rout",
-            "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 21:20:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.481,
-            "signed_score": -0.012
-        },
-        {
-            "headline": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
-            "summary": "Brent crude extended last week’s losses that followed Republicans’ historic midterms defeat",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 19:56:37 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.894,
-            "signed_score": -0.81
-        },
-        {
-            "headline": "Saudi Arabia’s vital East-West pipeline struck in attack",
-            "summary": "Houthis and Iraqi militias have repeatedly threatened the critical outlet for kingdom’s crude exports",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 18:19:20 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.895,
-            "signed_score": -0.874
-        },
-        {
-            "headline": "Russia rations petrol after new Ukrainian strikes on refineries",
-            "summary": "State-owned Rosneft limits sales to 30 litres per car in cities and 50 litres on highways",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 16:37:52 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.658,
-            "signed_score": -0.641
-        },
-        {
-            "headline": "Fund manager Nick Train has best month since 2000 on back of AI sell-off",
-            "summary": "Stockpicker hopes his investment strategy is past its ‘nadir’ after bruising few years",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e3a7d3b9-5391-4f2d-a12a-2b252a18b73a?syn-25a6b1a6=1",
-            "published": "Mon, 09 Nov 2026 16:21:23 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.885,
-            "signed_score": 0.842
-        },
-        {
             "headline": "FirstFT: Anthropic bankers prepare to increase IPO valuation to $1.5tn",
-            "summary": "Also in today’s newsletter: Nvidia spy scandal and Franco-German nuclear defence",
+            "summary": "Also in today’s newsletter: Hegseth survives impeachment vote and more on Alice Huang’s background",
             "section": "Global economy",
             "link": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:31:36 GMT",
+            "published": "Wed, 11 Nov 2026 11:08:38 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.748,
-            "signed_score": 0.218
+            "confidence": 0.867,
+            "signed_score": 0.108
         },
         {
             "headline": "Europe’s struggle to compete with China ramps up",
@@ -397,6 +407,16 @@
             "sentiment": "Negative",
             "confidence": 0.547,
             "signed_score": -0.519
+        },
+        {
+            "headline": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+            "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+            "published": "Tue, 10 Nov 2026 20:05:21 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.889,
+            "signed_score": -0.879
         },
         {
             "headline": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
