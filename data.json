@@ -5,18 +5,18 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-12T19:57:35.935990+00:00",
-    "headline_count": 59,
+    "fetched_at": "2026-11-13T06:50:24.061997+00:00",
+    "headline_count": 57,
     "headlines": [
         {
-            "headline": "Jensen Huang resigns as Nvidia chief executive",
-            "summary": "Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head",
+            "headline": "US lawmakers pile pressure on Lutnick as Nvidia scandal widens",
+            "summary": "Legislators demand Trump’s commerce secretary explain why he allowed chip sales to company linked to alleged Chinese spy",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 13:51:15 GMT",
+            "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 23:35:11 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.946
+            "confidence": 0.93,
+            "signed_score": -0.915
         },
         {
             "headline": "Meet the contenders to succeed Jensen Huang",
@@ -29,104 +29,134 @@
             "signed_score": 0.058
         },
         {
-            "headline": "Nvidia sends a painful message on how to value a CEO",
-            "summary": "More clarity about why founders matter — and how much — should help everyone",
+            "headline": "The downfall of Jensen Huang",
+            "summary": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 18:40:46 GMT",
+            "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 03:47:19 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.849,
-            "signed_score": -0.038
+            "confidence": 0.755,
+            "signed_score": -0.121
         },
         {
-            "headline": "Nvidia shares tumble on Huang exit",
-            "summary": "",
+            "headline": "The Silicon Valley veterans now steering Nvidia",
+            "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 05:57:00 GMT",
+            "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 01:42:30 GMT",
             "sentiment": "Negative",
-            "confidence": 0.949,
-            "signed_score": -0.939
+            "confidence": 0.844,
+            "signed_score": -0.813
         },
         {
-            "headline": "Jensen Huang is gone. Will the AI industry pay the price?",
-            "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
+            "headline": "Huang’s fall is an indictment of founder mode at Big Tech",
+            "summary": "The risks of giving leaders free rein when AI is at the heart of the economy, national security and just about everything else are now clear",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 14:22:30 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.881,
-            "signed_score": -0.869
+            "link": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 22:50:43 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.75,
+            "signed_score": -0.142
         },
         {
-            "headline": "Jensen jeopardy will disrupt the AI industry",
-            "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
+            "headline": "Microsoft races to restore services after global outage",
+            "summary": "Issue affecting Outlook, Teams and other services not caused by ‘malicious or cyber activity’, company says",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 15:56:31 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.953,
-            "signed_score": -0.944
+            "link": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 06:03:26 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.491,
+            "signed_score": -0.457
         },
         {
-            "headline": "European leaders reject Russian push to overhaul continent’s security",
-            "summary": "‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks",
+            "headline": "Nscale warns it needs more cash ahead of $35bn IPO",
+            "summary": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 04:10:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.747,
+            "signed_score": -0.658
+        },
+        {
+            "headline": "Trump signals end to vice-president’s Iran peace deal push",
+            "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 20:32:43 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.47,
+            "signed_score": -0.272
+        },
+        {
+            "headline": "Russia loses almost half a million lives in Ukraine war",
+            "summary": "Data from statistical agency points to vast toll of progress by Moscow’s forces on a few small fronts",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 05:00:27 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.842,
+            "signed_score": -0.768
+        },
+        {
+            "headline": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+            "summary": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security",
             "section": "Top stories",
             "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 17:38:50 GMT",
+            "published": "Fri, 13 Nov 2026 02:08:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.585,
+            "signed_score": -0.383
+        },
+        {
+            "headline": "Don’t scoff at the dangers of tokenisation",
+            "summary": "The obvious response is to create better cyber defences and central bank safety nets for hyper-liquid, high-speed shocks",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/91e8c6d1-54ab-48b6-a6ad-ea3b8dc3843f?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 05:00:17 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.508,
-            "signed_score": 0.097
+            "confidence": 0.588,
+            "signed_score": 0.385
         },
         {
-            "headline": "Ukraine says Starlink restrictions are back as US envoys land in Moscow",
-            "summary": "Army struggles to intercept Russian jet-powered drones, just as Steve Witkoff and Jared Kushner meet Vladimir Putin",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 14:29:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.918
+            "headline": "The Alpine crypto ‘wonderland’ forging close ties with Tether",
+            "summary": "Lugano bets digital assets and a joint venture with the stablecoin giant can boost its economy, but some warn of dangers",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 05:00:09 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.819,
+            "signed_score": 0.698
         },
         {
-            "headline": "Maga architects blame Big Tech and AI data centres for midterms rout",
-            "summary": "Head of Heritage Foundation admits Republicans’ embrace of Silicon Valley and the effect of Donald Trump’s Iran war cost them votes",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 11:00:04 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.913,
-            "signed_score": -0.885
+            "headline": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+            "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 23:26:26 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.921,
+            "signed_score": 0.872
         },
         {
-            "headline": "Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump",
-            "summary": "Congress member Jamie Raskin says he will launch sweeping probe of president and allies but warns party to avoid impeachment ‘distraction’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 21:01:55 GMT",
+            "headline": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
+            "summary": "Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 22:45:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.655,
-            "signed_score": -0.589
+            "confidence": 0.955,
+            "signed_score": -0.943
         },
         {
-            "headline": "US home sales fall to lowest level since 2010 as mortgage rates soar",
-            "summary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 18:03:44 GMT",
+            "headline": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
+            "summary": "Are markets kidding themselves about inflation?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4abc107b-a0ba-45eb-9506-69657290bab2?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 21:00:00 GMT",
             "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.957
-        },
-        {
-            "headline": "Quantum Systems drones grounded by German military after cyber attack",
-            "summary": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 17:32:13 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.851,
-            "signed_score": -0.836
+            "confidence": 0.712,
+            "signed_score": -0.688
         },
         {
             "headline": "Electrification is only part of the climate battle",
@@ -329,54 +359,24 @@
             "signed_score": -0.795
         },
         {
-            "headline": "The problem with the COP31 electrification goal",
-            "summary": "Initiative is quiet on the need to shift from fossil-fired generation",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f82ba659-9539-4b7a-9716-a915d0445488?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 12:00:05 GMT",
+            "headline": "FirstFT: How Nvidia’s Jensen Huang fell from grace",
+            "summary": "Also in today’s newsletter: Swiss crypto hub and Europe’s AI boom",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/fcbd27c8-aa10-455f-8917-afcb897e6eaf?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 05:30:07 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.839,
-            "signed_score": -0.034
+            "confidence": 0.874,
+            "signed_score": -0.058
         },
         {
-            "headline": "Anthropic’s IPO is too important to fail",
-            "summary": "Huge demand promises a blockbuster debut, but shadow insider sales and circular supply-chain backing may cause after-market indigestion",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6",
-            "published": "Wed, 11 Nov 2026 10:23:49 GMT",
+            "headline": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+            "summary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+            "published": "Thu, 12 Nov 2026 18:03:44 GMT",
             "sentiment": "Negative",
-            "confidence": 0.958,
-            "signed_score": -0.945
-        },
-        {
-            "headline": "Oil traders give peace a chance (but should they?)",
-            "summary": "Plus Chris Waller, inflation hawk",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/aa40cb43-4d0f-4f3c-a7aa-fbc2606f5719?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 06:30:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.882,
-            "signed_score": 0.075
-        },
-        {
-            "headline": "The barriers to creating a European SpaceX",
-            "summary": "The continent’s ambition has yet to be matched by its capital markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/58d7ab59-688f-4d15-9c7f-96e621775777",
-            "published": "Wed, 11 Nov 2026 05:11:49 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.736,
-            "signed_score": 0.728
-        },
-        {
-            "headline": "How much is Anthropic really worth? Use our calculator",
-            "summary": "The FT’s interactive valuation calculator helps readers decide whether the AI giant is worth $500bn or $4tn",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1",
-            "published": "Wed, 11 Nov 2026 05:00:12 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.932,
-            "signed_score": 0.045
+            "confidence": 0.966,
+            "signed_score": -0.957
         },
         {
             "headline": "China warns US not to use Nvidia scandal as pretext for tech curbs",
@@ -577,26 +577,6 @@
             "sentiment": "Positive",
             "confidence": 0.839,
             "signed_score": 0.704
-        },
-        {
-            "headline": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
-            "summary": "Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 20:05:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.889,
-            "signed_score": -0.879
-        },
-        {
-            "headline": "US affordability tracker: the data that will define the rest of Trump’s presidency — and the 2028 election",
-            "summary": "The FT is tracking changes to the cost of living that will affect American voters",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-            "published": "Tue, 10 Nov 2026 19:15:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.909,
-            "signed_score": -0.04
         }
     ]
 }
