@@ -5,28 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-14T06:28:32.598607+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-14T18:07:38.388746+00:00",
+    "headline_count": 55,
     "headlines": [
         {
-            "headline": "US aviation regulator lifts order that grounded thousands of flights",
-            "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+            "headline": "Passengers face widespread disruption after US air traffic control outage",
+            "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 03:21:57 GMT",
+            "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 17:36:00 GMT",
             "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.956
+            "confidence": 0.959,
+            "signed_score": -0.951
         },
         {
-            "headline": "Scott Colom: the Democrat who conquered the reddest of red states",
-            "summary": "High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881",
+            "headline": "Record polar vortex breakdown raises cold weather risk",
+            "summary": "The early collapse of wind system that traps Arctic air is latest extreme atmospheric event",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 17:08:50 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.662,
-            "signed_score": 0.631
+            "link": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 05:00:38 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.851,
+            "signed_score": -0.837
         },
         {
             "headline": "The Nvidia board’s artificial independence",
@@ -39,44 +39,44 @@
             "signed_score": -0.168
         },
         {
-            "headline": "Nvidia’s cult of personality was bound to end badly",
-            "summary": "It is worth paying attention to the warning signs of corporate hubris — they often mean something bad is about to happen",
+            "headline": "The citizens of nowhere won in the end",
+            "summary": "People might not vote for liberal individualism, but they live it",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/546ec5eb-fbc2-4600-9794-12b1749c1a04",
-            "published": "Sat, 14 Nov 2026 05:00:37 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.912,
-            "signed_score": -0.899
-        },
-        {
-            "headline": "Arm boss Rene Haas approached in Nvidia CEO search",
-            "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 17:45:54 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.53,
-            "signed_score": -0.501
-        },
-        {
-            "headline": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-            "summary": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 17:06:01 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.927,
-            "signed_score": -0.907
-        },
-        {
-            "headline": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-            "summary": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 01:28:36 GMT",
+            "link": "https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 05:00:27 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.872,
-            "signed_score": -0.049
+            "confidence": 0.867,
+            "signed_score": 0.079
+        },
+        {
+            "headline": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+            "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 11:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.87,
+            "signed_score": -0.857
+        },
+        {
+            "headline": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+            "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 11:41:15 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.532,
+            "signed_score": 0.423
+        },
+        {
+            "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+            "summary": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 13:00:09 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.967,
+            "signed_score": -0.958
         },
         {
             "headline": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
@@ -89,24 +89,14 @@
             "signed_score": 0.001
         },
         {
-            "headline": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
-            "summary": "AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 19:41:26 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.601,
-            "signed_score": -0.56
-        },
-        {
-            "headline": "SpaceX aborts attempt to catch Starship booster rocket",
-            "summary": "Elon Musk suffers setback in efforts to develop a completely reusable megarocket system",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 23:43:09 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.96,
-            "signed_score": -0.943
+            "headline": "Chart of the Week: The great market rotation",
+            "summary": "Defensive sectors are the new winners",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 10:30:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.933,
+            "signed_score": 0.023
         },
         {
             "headline": "Hedge fund woes expose the dangers of hot money once again",
@@ -187,6 +177,16 @@
             "sentiment": "Negative",
             "confidence": 0.963,
             "signed_score": -0.938
+        },
+        {
+            "headline": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
+            "summary": "AI lab’s chief executive brushes off tech stock turbulence less than a week before planned $1.5tn listing",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 19:41:26 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.601,
+            "signed_score": -0.56
         },
         {
             "headline": "AI believers hold the line after Nvidia ructions",
@@ -319,24 +319,24 @@
             "signed_score": -0.688
         },
         {
-            "headline": "Electrification is only part of the climate battle",
-            "summary": "A COP31 pledge to expand electric power ought to have a green target attached",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/3202f243-287b-466d-953a-664d0143e91a?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 18:49:01 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.812,
-            "signed_score": 0.167
+            "headline": "Hawkward timing",
+            "summary": "Federal Reserve policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/8c2639dc-e5d5-430d-a641-11776ac26f9c",
+            "published": "Sat, 14 Nov 2026 10:05:05 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.736,
+            "signed_score": 0.655
         },
         {
-            "headline": "Nvidia shares slide as Huang resigns",
-            "summary": "Stock falls as much as 14% before recovering to trade 5% down on Thursday",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 17:26:15 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.967,
-            "signed_score": -0.959
+            "headline": "Transcript of an interview with Huw Pill",
+            "summary": "Bank of England chief economist talks to the FT",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/014fae08-ab39-4fa2-b9d3-f0c961a6710f",
+            "published": "Sat, 14 Nov 2026 05:00:46 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.929,
+            "signed_score": 0.01
         },
         {
             "headline": "BoE chief economist says further rate rises needed to combat inflation",
@@ -357,6 +357,16 @@
             "sentiment": "Positive",
             "confidence": 0.891,
             "signed_score": 0.815
+        },
+        {
+            "headline": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+            "summary": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
+            "published": "Fri, 13 Nov 2026 17:06:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.927,
+            "signed_score": -0.907
         },
         {
             "headline": "German coalition disagreements hold up ECB jobs deal",
@@ -547,26 +557,6 @@
             "sentiment": "Negative",
             "confidence": 0.932,
             "signed_score": -0.898
-        },
-        {
-            "headline": "Japanese investment in US to power ahead",
-            "summary": "Tokyo has been the top investor in the US for seven years in a row — a trend that is unlikely to halt or slow, say bankers",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/ec5adc72-8388-483f-95b2-362d9f0e6d66?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 01:00:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.395,
-            "signed_score": -0.16
-        },
-        {
-            "headline": "Trump’s Asia trade deals reap small slice of cash",
-            "summary": "Japan, South Korea and Taiwan have made available just 2.7% of financing and FDI under trade and investment pacts to ease tariffs",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/70b733ec-6cab-41f5-9242-85f7f8916352?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 01:00:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.846,
-            "signed_score": 0.754
         }
     ]
 }
