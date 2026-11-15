@@ -5,88 +5,128 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-14T22:28:13.738840+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-15T06:38:30.650668+00:00",
+    "headline_count": 53,
     "headlines": [
         {
-            "headline": "Passengers face widespread disruption after US air traffic control outage",
-            "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
+            "headline": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+            "summary": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 21:02:31 GMT",
+            "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:04 GMT",
             "sentiment": "Negative",
-            "confidence": 0.959,
+            "confidence": 0.962,
             "signed_score": -0.951
         },
         {
-            "headline": "Record polar vortex breakdown raises cold weather risk",
-            "summary": "The early collapse of wind system that traps Arctic air is latest extreme atmospheric event",
+            "headline": "What will Nvidia’s post-Huang era look like?",
+            "summary": "The chip company has only itself to blame for a long list of adversaries",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 05:00:38 GMT",
+            "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+            "published": "Sun, 15 Nov 2026 05:00:14 GMT",
             "sentiment": "Negative",
-            "confidence": 0.851,
-            "signed_score": -0.837
+            "confidence": 0.698,
+            "signed_score": -0.68
         },
         {
-            "headline": "The Nvidia board’s artificial independence",
-            "summary": "Bored of governance",
+            "headline": "Huang’s downfall shows human judgment is not all it’s cracked up to be",
+            "summary": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
-            "published": "Sat, 14 Nov 2026 05:00:37 GMT",
+            "link": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:04 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.75,
-            "signed_score": -0.168
+            "confidence": 0.571,
+            "signed_score": -0.33
         },
         {
-            "headline": "The citizens of nowhere won in the end",
-            "summary": "People might not vote for liberal individualism, but they live it",
+            "headline": "The world according to China",
+            "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 05:00:27 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.867,
-            "signed_score": 0.079
+            "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 03:00:02 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.679,
+            "signed_score": 0.668
         },
         {
-            "headline": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
-            "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+            "headline": "Inside Infantino’s $6bn Fifa charm offensive",
+            "summary": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 11:00:09 GMT",
+            "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:13 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.803,
+            "signed_score": 0.768
+        },
+        {
+            "headline": "US air travel chaos exposes system held together by ‘string and duct tape’",
+            "summary": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
+            "published": "Sat, 14 Nov 2026 22:57:26 GMT",
             "sentiment": "Negative",
-            "confidence": 0.87,
-            "signed_score": -0.857
+            "confidence": 0.94,
+            "signed_score": -0.93
         },
         {
-            "headline": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
-            "summary": "President says he will take proposal to Ukrainian people as Washington explores terms for ending war",
+            "headline": "‘Low fire, low hire’ job market hurts US and UK productivity",
+            "summary": "Sluggish rates of hiring, resignations and job-switching may lead to long-term damage, say economists",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 11:41:15 GMT",
+            "link": "https://www.ft.com/content/44c1fdc6-bc51-46e5-8a7c-c10096a25496?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.973,
+            "signed_score": -0.965
+        },
+        {
+            "headline": "EU banking watchdog veers away from single deposit insurance scheme",
+            "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:13 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.532,
-            "signed_score": 0.423
+            "confidence": 0.802,
+            "signed_score": 0.085
+        },
+        {
+            "headline": "The long and winding road to Dubai’s supermarket shelves",
+            "summary": "The United Arab Emirates’ shipping woes stemming from Iran war stoke dreams of farming in the desert",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8e13baf8-fce7-4ebd-ac05-5692181f6d7e?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.612,
+            "signed_score": -0.145
+        },
+        {
+            "headline": "Brookfield and KKR vie over $700mn deal for Gulf retailer Eyewa",
+            "summary": "Private capital firms in advanced talks to acquire majority stake in eyewear chain after Middle East deal drought",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a240f6b7-724c-4ad5-a4b1-2e04897e2fe8?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 05:00:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.531,
+            "signed_score": 0.502
+        },
+        {
+            "headline": "‘Red caviar’ slips off Japan’s sushi menus as roe prices soar",
+            "summary": "Collapse in wild salmon harvests put prized delicacy at risk as warming seas disrupt supply",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/921b3589-6f88-44a6-b162-a13f5cc7e5e9?syn-25a6b1a6=1",
+            "published": "Sun, 15 Nov 2026 02:00:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.968,
+            "signed_score": -0.957
         },
         {
             "headline": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
             "summary": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
             "published": "Sat, 14 Nov 2026 13:00:09 GMT",
             "sentiment": "Negative",
             "confidence": 0.967,
             "signed_score": -0.958
-        },
-        {
-            "headline": "SpaceX catches returning Starship rocket in monumental breakthrough",
-            "summary": "Elon Musk’s company takes big step forward in plan to send reusable manned rockets to Mars",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-            "published": "Sat, 14 Nov 2026 22:09:58 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.779,
-            "signed_score": 0.767
         },
         {
             "headline": "Chart of the Week: The great market rotation",
@@ -287,46 +327,6 @@
             "sentiment": "Neutral",
             "confidence": 0.588,
             "signed_score": 0.385
-        },
-        {
-            "headline": "The Alpine crypto ‘wonderland’ forging close ties with Tether",
-            "summary": "Lugano bets digital assets and a joint venture with the stablecoin giant can boost its economy, but some warn of dangers",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a1bcce14-c326-488f-b736-6e831b0fb6cf?syn-25a6b1a6=1",
-            "published": "Fri, 13 Nov 2026 05:00:09 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.819,
-            "signed_score": 0.698
-        },
-        {
-            "headline": "AI boom will lift Nvidia even after Huang’s exit, investors say",
-            "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 23:26:26 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.921,
-            "signed_score": 0.872
-        },
-        {
-            "headline": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
-            "summary": "Prediction market platform ends advisory deal amid mounting political scrutiny and rival investments in Polymarket",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 22:45:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.943
-        },
-        {
-            "headline": "Bonds, inflation and the Fed. Plus, Nvidia in turmoil",
-            "summary": "Are markets kidding themselves about inflation?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4abc107b-a0ba-45eb-9506-69657290bab2?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 21:00:00 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.712,
-            "signed_score": -0.688
         },
         {
             "headline": "Hawkward timing",
@@ -537,36 +537,6 @@
             "sentiment": "Neutral",
             "confidence": 0.895,
             "signed_score": 0.007
-        },
-        {
-            "headline": "Investing in America",
-            "summary": "The fifth annual FT-Nikkei Investing in America report: How the US has received only a fraction of investment from Asian partners in deals to lower tariffs; AI jitters in the wake of the midterms and how overseas companies are pouring money into US manufacturing",
-            "section": "Global economy",
-            "link": "https://www.ft.com/reports/investing-america?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 01:26:48 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.697,
-            "signed_score": 0.083
-        },
-        {
-            "headline": "Money pours into US manufacturing from overseas companies",
-            "summary": "Inflation, skills shortages and unpredictable policies on tariffs and war have made life difficult for businesses even in sectors enjoying surging demand",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/0b32f2c4-3e47-46ec-90ee-94194d2c3e3f?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 01:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.962,
-            "signed_score": -0.95
-        },
-        {
-            "headline": "Surging US economy defies worries over turbulent Trump",
-            "summary": "World’s largest economy fires on all cylinders — but technology sell-off underlines precarious nature of AI-driven boom",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1",
-            "published": "Thu, 12 Nov 2026 01:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.932,
-            "signed_score": -0.898
         }
     ]
 }
