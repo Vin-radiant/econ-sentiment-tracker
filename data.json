@@ -5,18 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-17T20:58:35.639186+00:00",
-    "headline_count": 60,
+    "fetched_at": "2026-11-18T07:33:16.017963+00:00",
+    "headline_count": 56,
     "headlines": [
         {
-            "headline": "Jensen Huang says he is prepared to return as Nvidia CEO",
-            "summary": "First public remarks since revelations over extramarital affairs forced co-founder to resign",
+            "headline": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+            "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 16:49:56 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.706,
-            "signed_score": -0.687
+            "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 00:45:45 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.749,
+            "signed_score": 0.546
+        },
+        {
+            "headline": "Nvidia has a chance to trade drama for durability",
+            "summary": "Chip group reports first results without flamboyant co-founder Jensen Huang at the helm",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 02:56:15 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.643,
+            "signed_score": 0.621
         },
         {
             "headline": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
@@ -29,104 +39,154 @@
             "signed_score": -0.805
         },
         {
-            "headline": "US tech stocks slide ahead of Nvidia results",
-            "summary": "Nasdaq 100 down 1.4% after volatile run of trading",
+            "headline": "Deutsche Bank hired a Qatari royal. Why?",
+            "summary": "Leaked documents reveal how dealings with royal dynasty blurred traditional boundaries between investor, client and counterparty",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 20:00:38 GMT",
+            "link": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 06:00:08 GMT",
             "sentiment": "Negative",
-            "confidence": 0.966,
-            "signed_score": -0.957
+            "confidence": 0.686,
+            "signed_score": -0.645
         },
         {
-            "headline": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
-            "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
+            "headline": "The good and the bad of climate policy",
+            "summary": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 17:06:32 GMT",
+            "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:16 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.48,
+            "signed_score": -0.379
+        },
+        {
+            "headline": "Anthropic IPO set to deliver windfall to handful of smaller VC firms",
+            "summary": "Group of lesser-known investors on track for bumper returns after early bets on AI group",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:26 GMT",
             "sentiment": "Positive",
-            "confidence": 0.685,
-            "signed_score": 0.594
+            "confidence": 0.546,
+            "signed_score": 0.245
         },
         {
-            "headline": "‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump",
-            "summary": "President’s allies trade blame over losing grip on new media landscape after crushing midterm defeat",
+            "headline": "Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump",
+            "summary": "Russian president lashes out at western powers in rare address to global CEOs in China",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 05:00:25 GMT",
+            "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:10:43 GMT",
             "sentiment": "Negative",
-            "confidence": 0.948,
-            "signed_score": -0.935
+            "confidence": 0.635,
+            "signed_score": -0.561
         },
         {
-            "headline": "AI grapples with the return of the ‘Antichrist’",
-            "summary": "Tech titans doubled down on Trump and now find themselves in the crosshairs of voters who reject progress at any cost",
+            "headline": "Democrats win Alaska Senate seat to complete midterms victory",
+            "summary": "Mary Peltola’s success in northernmost US state raises party’s tally to 56 in 100-member chamber",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 12:20:22 GMT",
+            "link": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 04:59:01 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.926,
+            "signed_score": 0.904
+        },
+        {
+            "headline": "Wall Street expects corporate earnings growth to halve next year",
+            "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:16 GMT",
             "sentiment": "Negative",
-            "confidence": 0.833,
-            "signed_score": -0.809
+            "confidence": 0.974,
+            "signed_score": -0.963
         },
         {
-            "headline": "Leak of 15mn Deutsche Bank files exposes systemic failures",
-            "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
+            "headline": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+            "summary": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 08:09:20 GMT",
+            "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:07 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.68,
-            "signed_score": -0.211
+            "confidence": 0.897,
+            "signed_score": 0.04
         },
         {
-            "headline": "‘Katastrophe’: inside the chaos at Germany’s biggest bank",
-            "summary": "Millions of leaked documents cast light on Christian Sewing’s leadership of the scandal-hit lender",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 06:00:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.684,
-            "signed_score": -0.65
+            "headline": "The name’s bond",
+            "summary": "Fixed income is so box office right now",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 06:30:06 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.897,
+            "signed_score": -0.017
         },
         {
-            "headline": "Fed’s Lisa Cook refuses to attend hearing convened by Trump",
-            "summary": "Central bank governor says attending ‘unfair’ proceedings would endanger the ‘institution’s unique status and independence’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ac8fe697-a48d-4b0a-b556-46ae5463a6e4?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 15:15:35 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.93,
-            "signed_score": -0.917
+            "headline": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
+            "summary": "Also in this newsletter: Experts demand Brussels pay up to meet AI ambitions",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 06:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.749,
+            "signed_score": 0.224
         },
         {
-            "headline": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
-            "summary": "Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 18:44:10 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.954,
-            "signed_score": -0.943
+            "headline": "When’s the crash? Ask a journalist",
+            "summary": "Because in 170 years of perma-anxiety, stopped clocks are right fairly regularly",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1",
+            "published": "Wed, 18 Nov 2026 06:00:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.86,
+            "signed_score": -0.062
         },
         {
-            "headline": "Ukraine destroys section of Crimea bridge in fierce exchange",
-            "summary": "Part of key Russian road crossing collapses and parallel rail bridge damaged while Moscow hits infrastructure in Ukrainian capital",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 16:24:55 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.944,
-            "signed_score": -0.933
+            "headline": "Nvidia’s big business in Singapore",
+            "summary": "The chipmaker booked $104bn of revenue through its subsidiary in the city-state last year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:26 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.682,
+            "signed_score": 0.673
         },
         {
-            "headline": "Finland urges European leaders to talk to Putin directly",
-            "summary": "President Alexander Stubb says Europe outsourcing negotiations to US was ‘irresponsible’",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 05:00:25 GMT",
+            "headline": "Nvidia board insists Huang won’t return as CEO",
+            "summary": "Chip giant raises next year’s financial forecasts during earnings report as it doubled revenue last quarter",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/8946ec08-98b3-49c1-96b1-58539281519a?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:00:00 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.505,
+            "signed_score": 0.063
+        },
+        {
+            "headline": "AI might be a reason why the yen is back on intervention watch",
+            "summary": "Surge in buying of Japanese stocks creates a demand for currency hedging",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 00:01:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.562,
+            "signed_score": 0.211
+        },
+        {
+            "headline": "US tech stocks slide ahead of Nvidia results",
+            "summary": "Nasdaq 100 down 0.7% after volatile run of trading",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+            "published": "Tue, 17 Nov 2026 21:04:02 GMT",
             "sentiment": "Negative",
-            "confidence": 0.91,
-            "signed_score": -0.896
+            "confidence": 0.965,
+            "signed_score": -0.955
+        },
+        {
+            "headline": "The Nvidious tech CEO",
+            "summary": "How much should markets value the likes of Huang, Musk and Amodei?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/250e02c2-3195-4c92-ba20-fb19a3f118d6?syn-25a6b1a6=1",
+            "published": "Tue, 17 Nov 2026 21:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.931,
+            "signed_score": 0.033
         },
         {
             "headline": "Trump Media investors learn the Truth about betting on bitcoin",
@@ -279,94 +339,24 @@
             "signed_score": -0.948
         },
         {
-            "headline": "UK short-term borrowing costs hit three-year high",
-            "summary": "Two-year gilt yield breaches 5% on strong economic data and hawkish messaging from Bank of England",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 17:27:58 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.652,
-            "signed_score": -0.33
-        },
-        {
-            "headline": "Eurasian Resources Group to split its Kazakh and African assets",
-            "summary": "Deal will free up more highly prized African copper and cobalt operations from Kazakh state control",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9187b8bf-5dab-4bde-9815-a9042851c558?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 16:53:42 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.569,
-            "signed_score": 0.559
-        },
-        {
-            "headline": "Greece becomes unlikely haven for European investors",
-            "summary": "The question is whether the country has gains still to come",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/e2bfe9ca-b0a2-439c-8ee3-4108c9955ecd?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 16:08:28 GMT",
+            "headline": "FirstFT: Nvidia insists Jensen Huang will not return as CEO",
+            "summary": "Also in today’s newsletter: KPMG’s AI-based audit and French retirement age",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
+            "published": "Wed, 18 Nov 2026 05:31:23 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.666,
-            "signed_score": -0.006
+            "confidence": 0.663,
+            "signed_score": -0.301
         },
         {
-            "headline": "New bond revealed",
-            "summary": "Who could it be?",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/4a6a3465-69b2-4c7b-ac77-fc9d7d6b862f",
-            "published": "Mon, 16 Nov 2026 15:58:59 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.876,
-            "signed_score": -0.06
-        },
-        {
-            "headline": "Diamondback strikes $5bn deal to expand drilling in oil-rich Permian Basin",
-            "summary": "Acquisition is latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 13:12:30 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.899,
-            "signed_score": 0.877
-        },
-        {
-            "headline": "Biggest IPOs this year lose investors money as AI frenzy fades",
-            "summary": "Ten biggest flotations have fallen more than 20% on average in 2026 after four years of gains",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 11:47:31 GMT",
+            "headline": "Getting sucked back into the Brexit debate will not help growth",
+            "summary": "Constitutional issues become all-consuming, relegating important priorities like defence, social care or local government reform",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
+            "published": "Wed, 18 Nov 2026 05:00:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.974,
-            "signed_score": -0.967
-        },
-        {
-            "headline": "Hong Kong developer New World’s shares tumble 40% on $3.2bn rights issue plan",
-            "summary": "Ailing property group to offer new stock at 80% discount as it moves to slash debts",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 08:59:48 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.965,
-            "signed_score": -0.954
-        },
-        {
-            "headline": "The perfect sell-off",
-            "summary": "Plus, fast-tracking Anthropic’s IPO",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a61f1fe9-55d9-498e-9ecc-c3a66980d63a?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 06:30:01 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.706,
-            "signed_score": 0.687
-        },
-        {
-            "headline": "Tiny quant fund joins UK tax giants",
-            "summary": "Plus, Ken Griffin’s Miami makeover, a surprise crude surplus and the Guggenheim collection in London",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/8919e96e-df3d-41b8-99fa-b8ebcab5e99a?syn-25a6b1a6=1",
-            "published": "Mon, 16 Nov 2026 06:00:02 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.497,
-            "signed_score": 0.454
+            "confidence": 0.926,
+            "signed_score": -0.911
         },
         {
             "headline": "Chinese defence minister makes surprise visit to Italy",
@@ -469,6 +459,16 @@
             "signed_score": -0.845
         },
         {
+            "headline": "UK short-term borrowing costs hit three-year high",
+            "summary": "Two-year gilt yield breaches 5% on strong economic data and hawkish messaging from Bank of England",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1",
+            "published": "Mon, 16 Nov 2026 17:27:58 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.652,
+            "signed_score": -0.33
+        },
+        {
             "headline": "Warsh says AI boom could help sustain ‘substantially higher’ US growth",
             "summary": "Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation",
             "section": "Global economy",
@@ -567,46 +567,6 @@
             "sentiment": "Neutral",
             "confidence": 0.908,
             "signed_score": 0.033
-        },
-        {
-            "headline": "US and allies sign accord to protect AI supply chains from China",
-            "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
-            "published": "Sun, 15 Nov 2026 17:47:43 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.508,
-            "signed_score": 0.481
-        },
-        {
-            "headline": "Britain’s self-inflicted housebuilding crunch",
-            "summary": "The state encumbers construction, then commits public funds to offset the damage",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/4ca4436e-1795-4327-9462-3a26b0aa8fd6?syn-25a6b1a6=1",
-            "published": "Sun, 15 Nov 2026 12:00:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.777,
-            "signed_score": -0.091
-        },
-        {
-            "headline": "Will Nvidia earnings steady the AI sell-off?",
-            "summary": "Market Questions is the FT’s guide to the week ahead",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6=1",
-            "published": "Sun, 15 Nov 2026 12:00:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.875,
-            "signed_score": -0.072
-        },
-        {
-            "headline": "The rich find ways to escape climate change. Their emissions have not.",
-            "summary": "Growing body of research shows the contribution to greenhouse gases between wealthy and poor varies greatly even within nations",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/d42f1b8e-42ea-4018-8d1c-5d9c85a7fbc4?syn-25a6b1a6=1",
-            "published": "Sun, 15 Nov 2026 10:43:31 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.927,
-            "signed_score": 0.031
         }
     ]
 }
