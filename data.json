@@ -5,128 +5,218 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-19T20:41:09.796838+00:00",
-    "headline_count": 56,
+    "fetched_at": "2026-11-20T07:20:41.229738+00:00",
+    "headline_count": 51,
     "headlines": [
         {
-            "headline": "Anthropic soars in Wall Street debut",
-            "summary": "AI giant begins trading after raising $81bn in record IPO",
+            "headline": "Anthropic shares jump 17% after record Wall Street listing",
+            "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 16:19:06 GMT",
+            "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+            "published": "Thu, 19 Nov 2026 21:02:09 GMT",
             "sentiment": "Positive",
-            "confidence": 0.631,
-            "signed_score": 0.61
+            "confidence": 0.623,
+            "signed_score": 0.6
         },
         {
-            "headline": "Anthropic is a ‘must own’",
-            "summary": "Is that good?",
+            "headline": "So, Anthropic is finally a public company. What now?",
+            "summary": "A blockbuster IPO postmortem",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
-            "published": "Thu, 19 Nov 2026 11:06:08 GMT",
+            "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+            "published": "Fri, 20 Nov 2026 05:19:35 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.9,
-            "signed_score": 0.06
+            "confidence": 0.907,
+            "signed_score": 0.055
         },
         {
-            "headline": "The key to Anthropic’s value",
-            "summary": "The AI company needs to become a full enterprise technology platform after IPO",
+            "headline": "How pensions ate the state",
+            "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 13:47:00 GMT",
+            "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:08 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.663,
-            "signed_score": 0.32
+            "confidence": 0.832,
+            "signed_score": -0.039
         },
         {
-            "headline": "Anthropic stock begins trading after record $81bn IPO",
-            "summary": "",
+            "headline": "China revels in Xi’s ‘Yalta 2.0’ moment",
+            "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 10:10:00 GMT",
+            "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:45:11 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.598,
+            "signed_score": 0.584
+        },
+        {
+            "headline": "Can Nvidia learn from AIG’s mistakes?",
+            "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.879,
+            "signed_score": 0.02
+        },
+        {
+            "headline": "Tech stocks fall after Anthropic IPO",
+            "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:22:50 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.966,
+            "signed_score": -0.957
+        },
+        {
+            "headline": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+            "summary": "Tight correlation between crude prices and borrowing costs has broken down",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:26 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.766,
+            "signed_score": -0.571
+        },
+        {
+            "headline": "China prepares to restart US private equity investments after pullback",
+            "summary": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:07 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.821,
+            "signed_score": 0.805
+        },
+        {
+            "headline": "US approved sale of Nvidia and AMD chips to Chinese companies",
+            "summary": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 00:42:44 GMT",
             "sentiment": "Neutral",
             "confidence": 0.887,
-            "signed_score": 0.083
+            "signed_score": 0.002
         },
         {
-            "headline": "US companies turn to robots to ease labour shortage crisis",
-            "summary": "Some say speed of automation is still not fast enough to make country internationally competitive as manufacturing sector struggles",
+            "headline": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+            "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:18 GMT",
+            "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
             "sentiment": "Positive",
-            "confidence": 0.521,
-            "signed_score": 0.324
+            "confidence": 0.95,
+            "signed_score": 0.924
         },
         {
-            "headline": "Angry America and its housing market",
-            "summary": "The country is failing to provide enough houses to enable people to move to where the good jobs are",
+            "headline": "UK and EU poised to finalise deal to ‘reset’ relations",
+            "summary": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
+            "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+            "published": "Thu, 19 Nov 2026 22:44:56 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.842,
+            "signed_score": 0.819
+        },
+        {
+            "headline": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+            "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 00:15:12 GMT",
             "sentiment": "Negative",
-            "confidence": 0.957,
-            "signed_score": -0.948
+            "confidence": 0.6,
+            "signed_score": -0.387
         },
         {
-            "headline": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
-            "summary": "The world’s three largest nuclear powers agree to talks on preventing proliferation",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 13:00:44 GMT",
+            "headline": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+            "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 07:17:10 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.969,
+            "signed_score": -0.959
+        },
+        {
+            "headline": "A bubble in . . . defensive stocks?",
+            "summary": "Plus, crypto and desperation",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 06:30:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.82,
-            "signed_score": 0.145
+            "confidence": 0.886,
+            "signed_score": 0.003
         },
         {
-            "headline": "Putin invites European leaders to Moscow for talks on Ukraine",
-            "summary": "Russian leader signals he is unwilling to relax hardline demands for ending war",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 18:53:08 GMT",
+            "headline": "Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’",
+            "summary": "Token’s price has plunged from high of $75 shortly after launch in January last year to $0.95 as investor interest has waned",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0cb87e56-2b97-4c91-bfa7-a7ab616fd58e?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:27 GMT",
             "sentiment": "Negative",
-            "confidence": 0.586,
-            "signed_score": -0.498
+            "confidence": 0.972,
+            "signed_score": -0.963
         },
         {
-            "headline": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
-            "summary": "Germany hosts 40 delegations in show of solidarity for Kyiv while leaders of Russia, China and US meet in Shenzhen",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 11:48:38 GMT",
+            "headline": "Anthropic’s Wall Street stimulus fades",
+            "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:26 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.972,
+            "signed_score": -0.964
+        },
+        {
+            "headline": "The rift between the US and EU on banks is widening",
+            "summary": "The ECB should not be content with marginal adjustments — it needs to be bolder in reforms",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.834,
-            "signed_score": 0.111
+            "confidence": 0.584,
+            "signed_score": -0.053
         },
         {
-            "headline": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
-            "summary": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 16:38:08 GMT",
+            "headline": "Worldline bolstered cash flow through delayed payments and early receipts",
+            "summary": "French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
             "sentiment": "Negative",
-            "confidence": 0.878,
-            "signed_score": -0.861
+            "confidence": 0.794,
+            "signed_score": -0.658
         },
         {
-            "headline": "Gulf flare-up stokes fears of return to Iran war",
-            "summary": "A week of tit-for-tat escalation by Iran and the US has brought the countries closer to another full-scale confrontation, analysts say",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 14:53:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.807,
-            "signed_score": -0.664
+            "headline": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs",
+            "summary": "The fintech faces increased scrutiny as it grows from an upstart payments company into a sprawling global bank",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/221a6fc4-01ac-48fd-95e8-1efb094c3e8d?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.639,
+            "signed_score": 0.299
         },
         {
-            "headline": "AMD shares fall after short seller report on China links",
-            "summary": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 18:40:23 GMT",
+            "headline": "Is Britain’s state wealth fund putting its billions in the right places?",
+            "summary": "Critics warn lender risks crowding out commercial rivals and is putting money into projects that can be funded privately",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4c501172-405a-4719-8010-b846383e3e3f?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:07 GMT",
             "sentiment": "Negative",
-            "confidence": 0.968,
-            "signed_score": -0.96
+            "confidence": 0.893,
+            "signed_score": -0.878
+        },
+        {
+            "headline": "Anthropic’s rocketing IPO",
+            "summary": "The AI lab’s shares pop on day one even as the Nasdaq continues to slide",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a7e598c1-90b2-41c8-917c-f6fca2dfe5ea?syn-25a6b1a6=1",
+            "published": "Thu, 19 Nov 2026 21:44:32 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.461,
+            "signed_score": 0.151
         },
         {
             "headline": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
@@ -169,6 +259,16 @@
             "signed_score": 0.03
         },
         {
+            "headline": "US stocks end more than 2% lower in wake of Anthropic debut",
+            "summary": "AI group led by Dario Amodei begins trading on Nasdaq after raising $81bn in upsized public offering",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+            "published": "Thu, 19 Nov 2026 16:19:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.825,
+            "signed_score": -0.782
+        },
+        {
             "headline": "Nscale warns of its exposure to suppliers facing US blacklist",
             "summary": "Nvidia-backed start-up’s $35bn IPO plans hit by ties to groups at risk of being placed on Washington’s ‘entity list’",
             "section": "Markets",
@@ -199,6 +299,16 @@
             "signed_score": 0.146
         },
         {
+            "headline": "Anthropic is a ‘must own’",
+            "summary": "Is that good?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
+            "published": "Thu, 19 Nov 2026 11:06:08 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.9,
+            "signed_score": 0.06
+        },
+        {
             "headline": "FirstFT: Anthropic’s blockbuster IPO raises record $81bn",
             "summary": "Also in today’s newsletter: Trump-Xi-Putin trilateral",
             "section": "Markets",
@@ -219,154 +329,44 @@
             "signed_score": -0.714
         },
         {
-            "headline": "Anthropic raises $81bn in record IPO",
-            "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 07:04:26 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.905,
-            "signed_score": 0.063
-        },
-        {
-            "headline": "Anthropic revenue target: $600bn, soonish",
-            "summary": "Plus, chip export controls",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 06:30:07 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.651,
-            "signed_score": 0.331
-        },
-        {
-            "headline": "Brussels failing to deliver on competitiveness, says Booking.com chief",
-            "summary": "Also in this newsletter: Europe’s aluminium industry fears over scrap exports ban",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/31447aee-2e10-4170-8792-bd7d60d5bc40?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 06:00:08 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.959,
-            "signed_score": -0.949
-        },
-        {
-            "headline": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
-            "summary": "Watchdog says it is possible to balance oil markets without restoring flows through the strait, but will take time and investment",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:28 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.537,
-            "signed_score": 0.519
-        },
-        {
-            "headline": "Anthropic’s magnificent IPO",
-            "summary": "The frontier AI lab will become the newest trillion-dollar company on US public markets",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:28 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.639,
-            "signed_score": 0.345
-        },
-        {
-            "headline": "Retail investors face squeeze in blockbuster IPO",
-            "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.538,
-            "signed_score": -0.438
-        },
-        {
-            "headline": "Gold loses its lustre for investors",
-            "summary": "Precious metal long touted as a diversifier for portfolios has not offered protection during recent tech stock fall",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.929,
-            "signed_score": -0.903
-        },
-        {
-            "headline": "AI advances trigger new safety fears on eve of market debut",
-            "summary": "Group disclosed it had activated part of ‘responsible scaling policy’ it set up to ensure AI did not develop so quickly that it caused ‘catastrophic risks’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.795,
-            "signed_score": 0.135
-        },
-        {
-            "headline": "Palm oil’s rise will put packaged-food producers in the shade",
-            "summary": "Higher prices should boost earnings for producers in the coming year, and prove a drag for large consumer goods companies",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.768,
-            "signed_score": 0.568
-        },
-        {
-            "headline": "Private equity’s liquidity cure needs a better formula",
-            "summary": "The fast-growing secondary market for assets is largely populated by firms not designed to look closely at what they’re buying",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/2af3765e-d689-4418-bdd2-5b34042df396",
-            "published": "Thu, 19 Nov 2026 05:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.797,
-            "signed_score": -0.141
-        },
-        {
-            "headline": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
-            "summary": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 00:01:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.931,
-            "signed_score": -0.912
-        },
-        {
-            "headline": "US tech stocks oscillate after Nvidia results",
-            "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
-            "published": "Wed, 18 Nov 2026 19:44:27 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.88,
-            "signed_score": -0.821
-        },
-        {
-            "headline": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
-            "summary": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
-            "published": "Wed, 18 Nov 2026 16:30:02 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.42,
-            "signed_score": 0.049
-        },
-        {
-            "headline": "Russia imports record volumes of petrol as Ukraine strikes refineries",
-            "summary": "Shipments a ‘remarkable reversal’ from country’s traditional role as fuel exporter",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50?syn-25a6b1a6=1",
-            "published": "Wed, 18 Nov 2026 09:46:03 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.931,
-            "signed_score": 0.896
-        },
-        {
-            "headline": "Burnham’s EU reset hit by last-minute tensions with France",
-            "summary": "UK prime minister is hoping to seal a deal with the bloc to improve Britain’s post-Brexit arrangements",
+            "headline": "FirstFT: UK and EU poised to finalise deal to ‘reset’ ties",
+            "summary": "Also in today’s newsletter: Anthropic IPO and oil-bonds correlation unwinds",
             "section": "Global economy",
-            "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 18:33:07 GMT",
+            "link": "https://www.ft.com/content/5fbbe806-37d7-42e4-8235-ce9cbb3f2cdb?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:31:18 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.786,
+            "signed_score": 0.128
+        },
+        {
+            "headline": "Labour measures fail to shield UK households from sharp energy bill rises",
+            "summary": "Government initiatives offset only a third of the rise in energy bills for poorer families, according to new analysis",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/91cee968-66d0-4c48-b453-47b17f7443d2?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:26 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.835,
+            "signed_score": -0.76
+        },
+        {
+            "headline": "Why Britons can feel smugger than the French",
+            "summary": "It’s not a competition, but if it were, the UK economy would be winning",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.849,
+            "signed_score": 0.106
+        },
+        {
+            "headline": "Australia PM and China’s Xi hail ‘turnaround’ despite iron ore tensions",
+            "summary": "Beijing’s increasing influence over commodity’s price has stoked concerns ahead of Apec summit",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 04:20:16 GMT",
             "sentiment": "Positive",
-            "confidence": 0.871,
-            "signed_score": 0.774
+            "confidence": 0.572,
+            "signed_score": 0.229
         },
         {
             "headline": "France and UK at loggerheads ahead of key EU summit",
@@ -417,6 +417,16 @@
             "sentiment": "Negative",
             "confidence": 0.951,
             "signed_score": -0.938
+        },
+        {
+            "headline": "US companies turn to robots to ease labour shortage crisis",
+            "summary": "Some say speed of automation is not fast enough to make country internationally competitive as manufacturing sector struggles",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
+            "published": "Thu, 19 Nov 2026 05:00:18 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.652,
+            "signed_score": 0.588
         },
         {
             "headline": "China uses climate talks to complain about tariffs on EVs and green energy products",
@@ -507,66 +517,6 @@
             "sentiment": "Negative",
             "confidence": 0.48,
             "signed_score": -0.379
-        },
-        {
-            "headline": "Getting sucked back into the Brexit debate will not help growth",
-            "summary": "Constitutional issues become all-consuming, relegating important priorities like defence, social care or local government reform",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
-            "published": "Wed, 18 Nov 2026 05:00:07 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.926,
-            "signed_score": -0.911
-        },
-        {
-            "headline": "Chinese defence minister makes surprise visit to Italy",
-            "summary": "Dong Jun’s trip is first of its kind to Rome in 18 years and comes as geopolitical strains grow between Beijing and EU",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/1e114e7d-59b4-4642-b720-c3e706d9a5c1?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 16:18:18 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.492,
-            "signed_score": 0.402
-        },
-        {
-            "headline": "A misty outlook for rates",
-            "summary": "Contrasting speeches from the Fed’s Christopher Waller and BoE’s Clare Lombardelli show that central bank communications still matter",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 12:30:05 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.808,
-            "signed_score": -0.761
-        },
-        {
-            "headline": "UK jobs market stalled ahead of October Budget",
-            "summary": "Separate data confirms productivity boost in third quarter of the year",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 11:19:15 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.77,
-            "signed_score": -0.572
-        },
-        {
-            "headline": "Berlin picks ECB board nominee, paving way for Spanish presidency",
-            "summary": "Choice of Markus Brunnermeier will consolidate deal with France in which Spain’s Pablo Hernández de Cos would lead central bank",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 10:48:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.701,
-            "signed_score": 0.258
-        },
-        {
-            "headline": "FirstFT: Leak of 15mn Deutsche Bank files exposes systemic failures",
-            "summary": "Also in today’s newsletter: Xi and Canada’s Carney slash tariffs",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/e3364118-7282-4faa-9686-e56e854dab7d?syn-25a6b1a6=1",
-            "published": "Tue, 17 Nov 2026 10:17:43 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.758,
-            "signed_score": -0.722
         }
     ]
 }
