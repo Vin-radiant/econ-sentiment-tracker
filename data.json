@@ -5,8 +5,8 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-21T19:19:47.781119+00:00",
-    "headline_count": 58,
+    "fetched_at": "2026-11-22T06:53:40.262683+00:00",
+    "headline_count": 56,
     "headlines": [
         {
             "headline": "Alice Huang’s links to the chip underworld",
@@ -19,84 +19,54 @@
             "signed_score": 0.026
         },
         {
-            "headline": "Nvidia affair puts Chinese spies in spotlight",
-            "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+            "headline": "Napoleon’s warning to Nvidia’s Jensen Huang",
+            "summary": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 03:58:46 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.699,
-            "signed_score": 0.003
-        },
-        {
-            "headline": "Nvidia faces US regulator’s probe into its accounting",
-            "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 21:58:08 GMT",
+            "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.951,
-            "signed_score": -0.931
+            "confidence": 0.904,
+            "signed_score": -0.889
         },
         {
-            "headline": "The AI cyber threat is already here",
-            "summary": "The freezer war is just a start",
+            "headline": "A rocky road to Irish unity",
+            "summary": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 05:00:16 GMT",
+            "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:14 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.83,
-            "signed_score": -0.112
+            "confidence": 0.523,
+            "signed_score": 0.443
         },
         {
-            "headline": "The dead hand of history weighs on Deutsche Bank",
-            "summary": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
+            "headline": "The ‘austere’ conservative poised to lead Spain with the far right",
+            "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-            "published": "Sat, 21 Nov 2026 06:32:26 GMT",
+            "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.884,
-            "signed_score": 0.019
+            "confidence": 0.845,
+            "signed_score": 0.106
         },
         {
-            "headline": "The manufacturing of novelty",
-            "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+            "headline": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+            "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 05:00:36 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.902,
-            "signed_score": -0.002
+            "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:06 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.947,
+            "signed_score": 0.923
         },
         {
-            "headline": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-            "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+            "headline": "Amazon’s AI resistance: workers ready for battle over data centres",
+            "summary": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 21:52:25 GMT",
+            "link": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:06 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.947
-        },
-        {
-            "headline": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-            "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 20:17:29 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.765,
-            "signed_score": -0.069
-        },
-        {
-            "headline": "Navy budget pick has family investments in Trump Jr-linked contractor",
-            "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 16:19:19 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.712,
-            "signed_score": -0.119
+            "confidence": 0.912,
+            "signed_score": -0.894
         },
         {
             "headline": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
@@ -109,24 +79,24 @@
             "signed_score": 0.918
         },
         {
-            "headline": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
-            "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+            "headline": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+            "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 17:52:20 GMT",
+            "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:14 GMT",
             "sentiment": "Negative",
-            "confidence": 0.834,
-            "signed_score": -0.808
+            "confidence": 0.97,
+            "signed_score": -0.958
         },
         {
-            "headline": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
-            "summary": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry",
+            "headline": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+            "summary": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
-            "published": "Sat, 21 Nov 2026 05:00:45 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.867,
-            "signed_score": -0.017
+            "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 05:00:06 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.956,
+            "signed_score": -0.947
         },
         {
             "headline": "Traders start to move US copper to China as Trump tariff fears ease",
@@ -187,6 +157,16 @@
             "sentiment": "Neutral",
             "confidence": 0.877,
             "signed_score": 0.009
+        },
+        {
+            "headline": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+            "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+            "published": "Fri, 20 Nov 2026 21:52:25 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.955,
+            "signed_score": -0.947
         },
         {
             "headline": "Inside Anthropic’s historic IPO",
