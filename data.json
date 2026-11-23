@@ -5,73 +5,183 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-22T19:44:39.717219+00:00",
-    "headline_count": 50,
+    "fetched_at": "2026-11-23T07:43:33.537933+00:00",
+    "headline_count": 51,
     "headlines": [
         {
-            "headline": "Bessent refuses to rule out Huang’s return to Nvidia",
-            "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+            "headline": "Wall Street set to rebound after AI stock sell-off",
+            "summary": "Asian markets decline as South Korean chipmakers shed about 3%",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 19:08:31 GMT",
+            "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 04:58:47 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.961,
+            "signed_score": -0.945
+        },
+        {
+            "headline": "Asian regulators rush to support sagging markets as AI trade falters",
+            "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 06:07:01 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.958,
+            "signed_score": -0.942
+        },
+        {
+            "headline": "The problem with the circular AI economy",
+            "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.828,
+            "signed_score": -0.815
+        },
+        {
+            "headline": "China is winning the car war",
+            "summary": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.475,
+            "signed_score": -0.398
+        },
+        {
+            "headline": "Progressives are not radical enough on economics",
+            "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0",
+            "published": "Mon, 23 Nov 2026 05:00:13 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.797,
-            "signed_score": -0.112
+            "confidence": 0.893,
+            "signed_score": 0.032
         },
         {
-            "headline": "Did Anthropic and its bankers get a key call wrong after IPO?",
-            "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+            "headline": "The Gulf’s ‘new normal’",
+            "summary": "As life regains its prewar energy, many worry the US-Iran war has done lasting damage to the region’s image",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
-            "published": "Sun, 22 Nov 2026 11:00:05 GMT",
+            "link": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:03 GMT",
             "sentiment": "Negative",
-            "confidence": 0.952,
-            "signed_score": -0.933
+            "confidence": 0.953,
+            "signed_score": -0.94
         },
         {
-            "headline": "The American dream of home ownership recedes as mortgage rates surge",
-            "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+            "headline": "House Democrats to start new Congress with largest majority this century",
+            "summary": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 11:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.73,
-            "signed_score": -0.545
-        },
-        {
-            "headline": "COP31 climate talks fail after stand-off over fossil fuels",
-            "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 13:50:41 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.903,
-            "signed_score": -0.874
-        },
-        {
-            "headline": "FTSE 100 catering giant Compass plans to move main listing to New York",
-            "summary": "£43bn group set to announce intention to move as soon as Tuesday",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 18:28:00 GMT",
+            "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 22:10:45 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.901,
-            "signed_score": 0.061
+            "confidence": 0.752,
+            "signed_score": 0.195
         },
         {
-            "headline": "Sanctioned Russian vessel attacked by drones near Finland",
-            "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
+            "headline": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+            "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 14:15:40 GMT",
+            "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:22 GMT",
             "sentiment": "Negative",
-            "confidence": 0.862,
-            "signed_score": -0.83
+            "confidence": 0.807,
+            "signed_score": -0.738
+        },
+        {
+            "headline": "Immigrants’ income growth outstrips Spaniards’ under Pedro Sánchez",
+            "summary": "Far-right Vox party is stoking divisions over immigration ahead of November 29 election",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/ce066eb8-31fa-4c11-b49d-a353b04ec623?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:03 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.848,
+            "signed_score": -0.792
+        },
+        {
+            "headline": "South Korean minister says he is too old to tackle AI exam cheating",
+            "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 07:10:04 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.942,
+            "signed_score": -0.931
+        },
+        {
+            "headline": "From rotation to contagion",
+            "summary": "Plus, chips are not cheap",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 06:30:02 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.93,
+            "signed_score": 0.022
+        },
+        {
+            "headline": "The Federal Reserve’s balance sheet yo-yo",
+            "summary": "Recent money market stress is likely to prompt the Fed to expand its balance sheet before action next year to shrink it",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+            "published": "Mon, 23 Nov 2026 05:30:02 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.907,
+            "signed_score": -0.867
+        },
+        {
+            "headline": "What happens when bubbles burst",
+            "summary": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:22 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.814,
+            "signed_score": -0.758
+        },
+        {
+            "headline": "Pension fund managers complain they were fired for shunning tech stocks",
+            "summary": "Financial Conduct Authority to remind pension trustees not to focus solely on returns",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:13 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.949,
+            "signed_score": -0.939
+        },
+        {
+            "headline": "Boost for £1bn Acorn carbon capture scheme as new developer buys stake",
+            "summary": "Carbon storage company EnEarth acquires interest in flagship North Sea project seen as key to UK decarbonisation plans",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:13 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.837,
+            "signed_score": 0.826
+        },
+        {
+            "headline": "Why private capital is betting big on mix-and-match deals",
+            "summary": "With the traditional buyout business stuck in the doldrums, firms are using hybrid capital to seal transactions and raise funds",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/78b01bf4-3550-41cb-ac52-2f3426b58232?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.857,
+            "signed_score": -0.065
+        },
+        {
+            "headline": "Investors flip the switch on the AI trade",
+            "summary": "After tech stocks tumbled, are markets entering a new era?",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/77bfc0d6-e494-4e8c-86ec-b15c5cb79688?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:00:00 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.755,
+            "signed_score": -0.119
         },
         {
             "headline": "US ports face cyber attack onslaught as hackers target vital trade routes",
             "summary": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
-            "section": "Top stories",
+            "section": "Markets",
             "link": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
             "published": "Sun, 22 Nov 2026 12:00:06 GMT",
             "sentiment": "Negative",
@@ -79,14 +189,14 @@
             "signed_score": -0.932
         },
         {
-            "headline": "Will Anthropic’s IPO buck the tech sell-off?",
+            "headline": "Will Anthropic buck the tech sell-off?",
             "summary": "Market Questions is the FT’s guide to the week ahead",
             "section": "Markets",
             "link": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
             "published": "Sun, 22 Nov 2026 12:00:06 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.924,
-            "signed_score": -0.021
+            "confidence": 0.93,
+            "signed_score": -0.01
         },
         {
             "headline": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
@@ -97,6 +207,16 @@
             "sentiment": "Negative",
             "confidence": 0.963,
             "signed_score": -0.955
+        },
+        {
+            "headline": "Did Anthropic and its bankers get a key call wrong after IPO?",
+            "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+            "published": "Sun, 22 Nov 2026 11:00:05 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.952,
+            "signed_score": -0.933
         },
         {
             "headline": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
@@ -219,94 +339,14 @@
             "signed_score": -0.465
         },
         {
-            "headline": "Anthropic shares slide as tech stocks tumble",
-            "summary": "Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 18:03:21 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.942
-        },
-        {
-            "headline": "The AI fever in markets is breaking",
-            "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 15:23:38 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.904,
-            "signed_score": -0.859
-        },
-        {
-            "headline": "Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut",
-            "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 14:01:58 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.964,
-            "signed_score": -0.953
-        },
-        {
-            "headline": "Carbon removal rises up climate agenda as 1.5C ‘overshoot’ looms",
-            "summary": "Taking CO₂ from the air will be needed to reverse warming, scientists say",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9cb11330-d7b0-43e8-a43e-8b7eb983b9bb?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 12:00:09 GMT",
+            "headline": "FirstFT: Wall Street set to rebound after AI stock sell-off",
+            "summary": "Also in today’s newsletter: US Congressional majority and AI cancer cure",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/67014244-a737-4be5-ac81-97b77a6912ff?syn-25a6b1a6=1",
+            "published": "Mon, 23 Nov 2026 05:31:46 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.807,
-            "signed_score": 0.148
-        },
-        {
-            "headline": "Anthropic market cap in line with Alphaville’s guess",
-            "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
-            "published": "Fri, 20 Nov 2026 11:57:35 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.765,
-            "signed_score": 0.201
-        },
-        {
-            "headline": "Worldline bolstered cash flow through delayed payments and early receipts",
-            "summary": "French fintech repeatedly withheld money from suppliers and sought advances from customers ahead of its results in the years leading up to 2023 profit warning",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 11:34:28 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.794,
-            "signed_score": -0.658
-        },
-        {
-            "headline": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
-            "summary": "Final COP31 sessions focusing on energy security rather than climate change, critics say",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 08:52:29 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.831,
-            "signed_score": -0.101
-        },
-        {
-            "headline": "A bubble in . . . defensive stocks?",
-            "summary": "Plus, crypto and desperation",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 06:30:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.886,
-            "signed_score": 0.003
-        },
-        {
-            "headline": "So, Anthropic is finally a public company. What now?",
-            "summary": "A blockbuster IPO postmortem",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
-            "published": "Fri, 20 Nov 2026 05:19:35 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.907,
-            "signed_score": 0.055
+            "confidence": 0.837,
+            "signed_score": 0.112
         },
         {
             "headline": "Spain’s likely rightward shift",
@@ -317,6 +357,16 @@
             "sentiment": "Neutral",
             "confidence": 0.519,
             "signed_score": 0.41
+        },
+        {
+            "headline": "COP31 climate talks fail after stand-off over fossil fuels",
+            "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+            "published": "Sun, 22 Nov 2026 13:50:41 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.903,
+            "signed_score": -0.874
         },
         {
             "headline": "Xi needs Trump more than ever",
@@ -467,46 +517,6 @@
             "sentiment": "Negative",
             "confidence": 0.766,
             "signed_score": -0.571
-        },
-        {
-            "headline": "Why Britons can feel smugger than the French",
-            "summary": "It’s not a competition, but if it were, the UK economy would be winning",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.849,
-            "signed_score": 0.106
-        },
-        {
-            "headline": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
-            "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 05:00:17 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.95,
-            "signed_score": 0.924
-        },
-        {
-            "headline": "Australia PM and China’s Xi hail ‘turnaround’ despite iron ore tensions",
-            "summary": "Beijing’s increasing influence over commodity’s price has stoked concerns ahead of Apec summit",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
-            "published": "Fri, 20 Nov 2026 04:20:16 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.572,
-            "signed_score": 0.229
-        },
-        {
-            "headline": "UK and EU poised to finalise deal to ‘reset’ relations",
-            "summary": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
-            "published": "Thu, 19 Nov 2026 22:44:56 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.842,
-            "signed_score": 0.819
         }
     ]
 }
