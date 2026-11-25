@@ -5,58 +5,28 @@
         "Global economy": "https://www.ft.com/global-economy?format=rss"
     },
     "model": "ProsusAI/finbert",
-    "fetched_at": "2026-11-25T08:39:51.256764+00:00",
-    "headline_count": 55,
+    "fetched_at": "2026-11-25T21:44:47.540167+00:00",
+    "headline_count": 54,
     "headlines": [
         {
-            "headline": "Trump shelves plans for business deals with Russia",
-            "summary": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:00:12 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.811,
-            "signed_score": 0.024
-        },
-        {
-            "headline": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
-            "summary": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:00:32 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.436,
-            "signed_score": -0.229
-        },
-        {
-            "headline": "A French crisis would be a threat — and opportunity — for Europe",
-            "summary": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:00:32 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.789,
-            "signed_score": 0.633
-        },
-        {
-            "headline": "How an ex-McKinsey partner is using new money to chase old wealth",
-            "summary": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:00:04 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.75,
-            "signed_score": 0.234
-        },
-        {
-            "headline": "Wall Street set to follow Asian markets lower as AI fears return",
-            "summary": "Tech stocks in Tokyo and Seoul suffer after Jensen Huang bounce fades",
+            "headline": "US stocks close lower in volatile session as AI trade remains under pressure",
+            "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
             "section": "Top stories",
             "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 07:54:11 GMT",
+            "published": "Wed, 25 Nov 2026 21:26:33 GMT",
             "sentiment": "Negative",
-            "confidence": 0.955,
-            "signed_score": -0.944
+            "confidence": 0.95,
+            "signed_score": -0.933
+        },
+        {
+            "headline": "US Treasury financial crime watchdog hit by suspected cyber attack",
+            "summary": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 17:45:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.962,
+            "signed_score": -0.952
         },
         {
             "headline": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects",
@@ -69,44 +39,134 @@
             "signed_score": -0.947
         },
         {
-            "headline": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
-            "summary": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+            "headline": "How an ex-McKinsey partner reverse engineered a $500bn wealth manager",
+            "summary": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:00:12 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.952,
-            "signed_score": -0.94
-        },
-        {
-            "headline": "Trump readies raft of new tariffs on major economies",
-            "summary": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 16:30:35 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.945,
-            "signed_score": -0.923
-        },
-        {
-            "headline": "Huang says he still does not believe in CEO succession planning at Nvidia",
-            "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
-            "section": "Top stories",
-            "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 20:18:29 GMT",
+            "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 05:00:04 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.92,
-            "signed_score": 0.001
+            "confidence": 0.694,
+            "signed_score": 0.29
         },
         {
-            "headline": "Will the Nvidia fallout kill off Asia’s data centre boom?",
-            "summary": "Projects that touted chip access to Chinese customers face tighter US scrutiny",
+            "headline": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+            "summary": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
             "section": "Top stories",
-            "link": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 02:04:15 GMT",
+            "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 05:00:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.925,
-            "signed_score": -0.899
+            "confidence": 0.436,
+            "signed_score": -0.229
+        },
+        {
+            "headline": "No, Burnham is not taking a risk over Europe",
+            "summary": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 14:44:49 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.852,
+            "signed_score": -0.013
+        },
+        {
+            "headline": "Billionaire financier Todd Boehly strikes deal for Lukoil assets",
+            "summary": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 18:03:33 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.876,
+            "signed_score": 0.104
+        },
+        {
+            "headline": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+            "summary": "Bureau of Economic Analysis said economy grew at annualised rate of 4.3% in third quarter, up from initial estimate of 3.4%",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 16:07:13 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.955,
+            "signed_score": 0.931
+        },
+        {
+            "headline": "Trump shelves plans for business deals with Russia",
+            "summary": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 05:00:12 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.811,
+            "signed_score": 0.024
+        },
+        {
+            "headline": "Russia is escalating conflict in Europe and space, warns Merz",
+            "summary": "German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine",
+            "section": "Top stories",
+            "link": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 11:56:23 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.643,
+            "signed_score": 0.349
+        },
+        {
+            "headline": "The fund manager’s dilemma over AI",
+            "summary": "Assessing concentration risks may be more complicated than it seems",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 18:05:53 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.828,
+            "signed_score": -0.113
+        },
+        {
+            "headline": "Opec+’s largest members head for clash over oil production estimates",
+            "summary": "Analysts expect Sunday’s meeting of the cartel and its allies to be ‘one of the most complicated in years’ as global markets swing back into oversupply",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/b24d5c8c-4c9b-48f0-b4a8-5f83eee2d3e9?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 14:27:46 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.92,
+            "signed_score": -0.906
+        },
+        {
+            "headline": "About that supposed $312mn Nvidia options insider trade…",
+            "summary": "We’ve time-travelled from the past to warn you that a tweet may be misleading",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/1d5c7f01-c1e8-471c-8017-d0f064499456",
+            "published": "Wed, 25 Nov 2026 13:32:30 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.655,
+            "signed_score": -0.627
+        },
+        {
+            "headline": "NBA rallies private equity for €10bn European arena fund",
+            "summary": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 13:00:04 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.5,
+            "signed_score": 0.491
+        },
+        {
+            "headline": "Shein to pay $100mn to resolve US allegations it deceived customers",
+            "summary": "Regulators claim retailer made misleading claims on origin of its cotton fabrics and suppressed negative reviews",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 11:18:59 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.918,
+            "signed_score": -0.904
+        },
+        {
+            "headline": "Under the hood of Global Auto Holdings",
+            "summary": "A low-profile founder, a multi-continent collection of car dealerships, a slew of unexplained related-party transactions, and an IPO in the pipeline",
+            "section": "Markets",
+            "link": "https://www.ft.com/content/bdbeeeff-d7d9-4062-bf9f-b37f180485d5?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 10:00:04 GMT",
+            "sentiment": "Neutral",
+            "confidence": 0.874,
+            "signed_score": -0.045
         },
         {
             "headline": "British household energy bills to soar 26% from January",
@@ -117,16 +177,6 @@
             "sentiment": "Negative",
             "confidence": 0.568,
             "signed_score": -0.176
-        },
-        {
-            "headline": "Tech stocks slide as confidence in AI trade fades",
-            "summary": "Nasdaq 100 set to open lower as weeks-long sell-off continues",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 07:54:11 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.961,
-            "signed_score": -0.951
         },
         {
             "headline": "India as AI play",
@@ -140,13 +190,13 @@
         },
         {
             "headline": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
-            "summary": "Chief executive Andrea Rossi vows to vote against catering giant Compass’s planned US move as UK battles exodus of listed groups",
+            "summary": "Andrea Rossi vows to vote against catering giant Compass’s planned US move as UK battles exodus of listed groups",
             "section": "Markets",
             "link": "https://www.ft.com/content/d6f458a2-41d2-4363-8561-c554c09a5745?syn-25a6b1a6=1",
             "published": "Wed, 25 Nov 2026 05:00:32 GMT",
             "sentiment": "Negative",
-            "confidence": 0.896,
-            "signed_score": -0.867
+            "confidence": 0.868,
+            "signed_score": -0.835
         },
         {
             "headline": "London hedge fund Qube squares up to US rivals in expansion drive",
@@ -167,16 +217,6 @@
             "sentiment": "Negative",
             "confidence": 0.949,
             "signed_score": -0.94
-        },
-        {
-            "headline": "Shein to pay $100mn to resolve US allegations that it deceived customers",
-            "summary": "Regulators claim cotton that the retailer’s suppliers said was US-grown was harvested in China",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 02:00:02 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.797,
-            "signed_score": -0.771
         },
         {
             "headline": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
@@ -279,74 +319,54 @@
             "signed_score": -0.898
         },
         {
-            "headline": "China extends pause in controls on critical mineral exports to US",
-            "summary": "Beijing’s dominance of supply chains has given it leverage against Washington",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 10:21:16 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.928,
-            "signed_score": 0.896
-        },
-        {
-            "headline": "Ousted BP chair Albert Manifold to join Aggreko board after IPO",
-            "summary": "Manifold responds to bullying allegations levelled against him and calls them ‘lies’",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/99b832dc-dd09-4eac-8121-dacc246a306e?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 10:12:31 GMT",
+            "headline": "UK inflation may peak at lower rate than BoE forecast, says governor",
+            "summary": "But Andrew Bailey refuses to rule out another interest rate increase next month",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/402e640b-8933-4b3c-bb4c-ce12a7994ac6?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 17:55:48 GMT",
             "sentiment": "Negative",
-            "confidence": 0.858,
-            "signed_score": -0.843
+            "confidence": 0.884,
+            "signed_score": -0.859
         },
         {
-            "headline": "Compass reignites City exodus fears",
-            "summary": "Catering company is latest heavyweight to plan New York shift as groups seek to boost liquidity and valuations",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/eb2618d4-46db-4d1b-bdc8-62c69c07cb16?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 07:29:37 GMT",
+            "headline": "US PCE inflation keeps Fed on course for more tightening",
+            "summary": "Headline and core PCE slightly firmer than expected, setting Fed up for further tightening",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d",
+            "published": "Wed, 25 Nov 2026 15:12:01 GMT",
             "sentiment": "Positive",
-            "confidence": 0.62,
-            "signed_score": 0.597
+            "confidence": 0.83,
+            "signed_score": 0.698
         },
         {
-            "headline": "The Jensen put",
-            "summary": "Plus, Capex or die trying",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 06:30:04 GMT",
+            "headline": "Northern Ireland minister urges UK to drop exemptions to EU food rules",
+            "summary": "Andrew Muir calls for ‘full dynamic alignment’ with European regulations so Irish Sea trade border can be scrapped",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 15:10:15 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.934,
-            "signed_score": 0.007
+            "confidence": 0.673,
+            "signed_score": -0.102
         },
         {
-            "headline": "German industrial giants launch trading house for rare earths",
-            "summary": "Also in this newsletter: Europe’s underused playing card on AI",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/bfcb8ee8-97cc-4ef0-8234-3a8da0d3a814?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 06:00:05 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.759,
-            "signed_score": -0.17
+            "headline": "Trump announces raft of new tariffs on major economies",
+            "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 14:00:55 GMT",
+            "sentiment": "Negative",
+            "confidence": 0.941,
+            "signed_score": -0.916
         },
         {
-            "headline": "Compass exit should spur London to beef up its bench",
-            "summary": "Financial hubs are like football teams, and it’s time for London market to focus on the next generation",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 05:00:24 GMT",
+            "headline": "FirstFT: Trump shelves plans for deals with Russia",
+            "summary": "Also in today’s newsletter: Jensen Huang’s return, and the Iranian group behind Europe’s freezer hacks",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 10:50:07 GMT",
             "sentiment": "Neutral",
-            "confidence": 0.51,
-            "signed_score": 0.464
-        },
-        {
-            "headline": "The political tide is turning on US audits",
-            "summary": "More signs are emerging of the industry regulator’s new approach under chair Jim Logothetis",
-            "section": "Markets",
-            "link": "https://www.ft.com/content/b7726a77-5f25-4c9c-8900-1609479b34b8?syn-25a6b1a6=1",
-            "published": "Tue, 24 Nov 2026 05:00:15 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.611,
-            "signed_score": 0.222
+            "confidence": 0.885,
+            "signed_score": 0.08
         },
         {
             "headline": "China issues list of demands to Brussels over EU trade talks",
@@ -357,16 +377,6 @@
             "sentiment": "Neutral",
             "confidence": 0.525,
             "signed_score": -0.43
-        },
-        {
-            "headline": "FirstFT: Trump shelves plans for deals with Russia",
-            "summary": "Also in today’s newsletter: Jensen Huang’s management style and European industry woes",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
-            "published": "Wed, 25 Nov 2026 05:32:11 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.873,
-            "signed_score": -0.066
         },
         {
             "headline": "Further tightening to come from the ECB to prevent inflation persistence",
@@ -387,6 +397,16 @@
             "sentiment": "Neutral",
             "confidence": 0.671,
             "signed_score": 0.14
+        },
+        {
+            "headline": "A French crisis would be a threat — and opportunity — for Europe",
+            "summary": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b?syn-25a6b1a6=1",
+            "published": "Wed, 25 Nov 2026 05:00:32 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.789,
+            "signed_score": 0.633
         },
         {
             "headline": "Half of European industrial companies under serious financial stress",
@@ -437,6 +457,16 @@
             "sentiment": "Positive",
             "confidence": 0.512,
             "signed_score": 0.501
+        },
+        {
+            "headline": "China extends pause in controls on critical mineral exports to US",
+            "summary": "Beijing’s dominance of supply chains has given it leverage against Washington",
+            "section": "Global economy",
+            "link": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
+            "published": "Tue, 24 Nov 2026 10:21:16 GMT",
+            "sentiment": "Positive",
+            "confidence": 0.928,
+            "signed_score": 0.896
         },
         {
             "headline": "What Nvidia tells us about America and China",
@@ -517,46 +547,6 @@
             "sentiment": "Negative",
             "confidence": 0.903,
             "signed_score": -0.874
-        },
-        {
-            "headline": "Xi needs Trump more than ever",
-            "summary": "The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
-            "published": "Sun, 22 Nov 2026 13:00:06 GMT",
-            "sentiment": "Positive",
-            "confidence": 0.665,
-            "signed_score": 0.613
-        },
-        {
-            "headline": "Adoption, not innovation, holds Britain back",
-            "summary": "Once the world’s most innovative country, the UK now struggles to embrace new technologies",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/b89dbb74-af6c-492e-8d18-c0e83c64efd8?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 12:02:25 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.874,
-            "signed_score": -0.858
-        },
-        {
-            "headline": "US ports face cyber attack onslaught as hackers target vital trade routes",
-            "summary": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 12:00:06 GMT",
-            "sentiment": "Negative",
-            "confidence": 0.943,
-            "signed_score": -0.932
-        },
-        {
-            "headline": "Will Anthropic buck the tech sell-off?",
-            "summary": "Market Questions is the FT’s guide to the week ahead",
-            "section": "Global economy",
-            "link": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
-            "published": "Sun, 22 Nov 2026 12:00:06 GMT",
-            "sentiment": "Neutral",
-            "confidence": 0.93,
-            "signed_score": -0.01
         }
     ]
 }
